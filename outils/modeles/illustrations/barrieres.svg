@@ -1,14 +1,8 @@
-<svg class="hero-art" viewBox="0 0 520 270" role="img" aria-label="Quatre plaques percées : contrôle, alertes, surveillance, entretien. Un trou de chacune est aligné avec les autres, et un trait rouge passe par les quatre.">
-<defs>
-<mask id="faisceau-cache" maskUnits="userSpaceOnUse" x="0" y="0" width="520" height="270">
-<rect width="520" height="270" fill="#fff"/>
-<g fill="#000"><polygon points="120,26 126,29 126,208 120,206"/><polygon points="230,16 236,19 236,198 230,196"/><polygon points="340,32 346,35 346,214 340,212"/><polygon points="450,22 456,25 456,204 450,202"/><polygon points="56,40 120,26 120,206 56,228"/><polygon points="166,30 230,16 230,196 166,218"/><polygon points="276,46 340,32 340,212 276,234"/><polygon points="386,36 450,22 450,202 386,224"/></g>
-<g fill="#fff"><ellipse cx="88" cy="128" rx="7" ry="10"/><ellipse cx="198" cy="128" rx="7" ry="10"/><ellipse cx="308" cy="128" rx="7" ry="10"/><ellipse cx="418" cy="128" rx="7" ry="10"/></g>
-</mask>
-</defs>
+<svg class="hero-art" viewBox="0 0 520 270" role="img" aria-label="Quatre plaques percées : contrôle, alertes, surveillance, entretien. Un trou de chacune est aligné avec les autres, et un trait rouge passe à travers les quatre.">
 <g fill="#1A2633"><polygon points="120,26 126,29 126,208 120,206"/><polygon points="230,16 236,19 236,198 230,196"/><polygon points="340,32 346,35 346,214 340,212"/><polygon points="450,22 456,25 456,204 450,202"/></g>
 <g fill="#2E3E51" stroke="#6A7F97" stroke-width="1" stroke-linejoin="round"><polygon points="56,40 120,26 120,206 56,228"/><polygon points="166,30 230,16 230,196 166,218"/><polygon points="276,46 340,32 340,212 276,234"/><polygon points="386,36 450,22 450,202 386,224"/></g>
 <g fill="#0B1219"><ellipse cx="74" cy="76" rx="4" ry="5"/><ellipse cx="102" cy="180" rx="6" ry="8"/><ellipse cx="78" cy="200" rx="3.5" ry="4.5"/><ellipse cx="206" cy="60" rx="4" ry="5.5"/><ellipse cx="186" cy="162" rx="5" ry="7"/><ellipse cx="214" cy="184" rx="3.5" ry="4.5"/><ellipse cx="298" cy="90" rx="5" ry="6.5"/><ellipse cx="320" cy="166" rx="4" ry="5.5"/><ellipse cx="306" cy="198" rx="6" ry="8"/><ellipse cx="430" cy="62" rx="3.5" ry="4.5"/><ellipse cx="404" cy="152" rx="5" ry="7"/><ellipse cx="432" cy="180" rx="4" ry="5"/><ellipse cx="88" cy="128" rx="7" ry="10"/><ellipse cx="198" cy="128" rx="7" ry="10"/><ellipse cx="308" cy="128" rx="7" ry="10"/><ellipse cx="418" cy="128" rx="7" ry="10"/></g>
-<line x1="0" y1="128" x2="520" y2="128" stroke="#E8483B" stroke-width="3" mask="url(#faisceau-cache)"/>
+<g fill="#1A2633"><path d="M88 118 a7 10 0 0 1 0 20 a4 10 0 0 0 0 -20z"/><path d="M198 118 a7 10 0 0 1 0 20 a4 10 0 0 0 0 -20z"/><path d="M308 118 a7 10 0 0 1 0 20 a4 10 0 0 0 0 -20z"/><path d="M418 118 a7 10 0 0 1 0 20 a4 10 0 0 0 0 -20z"/></g>
+<g stroke="#E8483B" stroke-width="3"><line x1="0" y1="128" x2="88" y2="128"/><line x1="126" y1="128" x2="198" y2="128"/><line x1="236" y1="128" x2="308" y2="128"/><line x1="346" y1="128" x2="418" y2="128"/><line x1="456" y1="128" x2="520" y2="128"/></g>
 <g font-family="Inter, system-ui, sans-serif" font-size="15" fill="#8E9AA8" text-anchor="middle"><text x="88" y="262">Contrôle</text><text x="198" y="262">Alertes</text><text x="308" y="262">Surveillance</text><text x="418" y="262">Entretien</text></g>
 </svg>
