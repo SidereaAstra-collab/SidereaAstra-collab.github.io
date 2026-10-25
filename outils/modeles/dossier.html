@@ -1,93 +1,84 @@
 {% extends "base.html" %}
-{% from "morceaux.html" import ext, entete_mdp, pied_mdp %}
+{% from "morceaux.html" import entete_mdp, pied_mdp, correction %}
 {% block corps %}
 {{ entete_mdp(chaine) }}
 <main>
 <section class="wrap hero">
 <div class="hero-text">
-<p class="eyebrow">Dossier N° {{ d.numero }}</p>
 <h1{% if d.titre|length > 12 %} class="long"{% endif %}>{{ d.titre }}</h1>
 <p class="sub">{{ d.sous_titre }}</p>
-<p class="meta">{{ d.parties|length }} vidéo{{ 's' if d.parties|length > 1 }} · {{ d.nb_sources }} sources · vérifiées le {{ d.verifie|nbsp }}</p>
+<p class="meta">Dossier n°&nbsp;{{ d.numero }}{% if d.parties|length > 1 %}, en {{ d.parties|length|en_lettres }} vidéos{% endif %}. {{ d.nb_sources }} sources, vérifiées le {{ d.verifie|nbsp }}.</p>
 {% if d.avertissement %}<p class="note">{{ d.avertissement }}</p>{% endif %}
+{% if d.nb_corrections %}<p class="signal-corr"><a href="#corrections">{{ 'Une correction' if d.nb_corrections == 1 else d.nb_corrections ~ ' corrections' }} depuis la mise en ligne</a></p>{% endif %}
 </div>
 {% if d.illustration %}{% include "illustrations/" ~ d.illustration ~ ".svg" %}{% elif d.image_entete %}<img class="hero-img" src="/assets/img/{{ d.image_entete }}" alt="{{ d.image_alt }}" width="960" height="540">{% endif %}
 </section>
 
 <section id="sources" class="wrap sources" aria-labelledby="sources-titre">
 <h2 id="sources-titre" class="sec-title">Les sources, passage par passage</h2>
-<p class="lead">{% if d.parties|length > 1 %}Choisissez la vidéo, puis ouvrez un passage.{% else %}Ouvrez un passage pour voir ses sources.{% endif %}</p>
 {% if d.parties|length > 1 %}
 <nav class="picker" aria-label="Choisir la vidéo">
 {% for p in d.parties %}<a class="pick" href="#{{ p.id }}">
-<img src="/assets/img/{{ p.miniature }}" alt="" width="128" height="72" loading="lazy">
-<span class="pick-txt"><span class="pick-k">Partie {{ p.numero }}<span class="pick-d"> · {{ p.mise_en_ligne|nbsp }}</span></span><span class="pick-t">{{ p.nom }}</span></span>
+<img src="/assets/img/{{ p.miniature }}" alt="" width="160" height="90" loading="lazy">
+<span class="pick-txt"><span class="pick-k">Partie {{ p.numero }}</span><span class="pick-t">{{ p.nom }}</span></span>
 </a>
 {% endfor %}</nav>
 {% endif %}
 {% for p in d.parties %}
 <section class="part" id="{{ p.id }}" aria-label="{% if d.parties|length > 1 %}Partie {{ p.numero }} : {% endif %}{{ p.nom }}">
 <div class="bar">
-<h3>{% if d.parties|length > 1 %}<strong>Partie {{ p.numero }}</strong> · {% endif %}{{ p.passages|length }} passages sourcés{% if p.note %} · {{ p.note }}{% endif %}</h3>
+<p>{% if p.note %}{{ p.note[:1]|upper }}{{ p.note[1:] }}.{% endif %}</p>
 <div class="bar-act">
-<a class="ext" href="https://www.youtube.com/watch?v={{ p.youtube }}" rel="noopener">Regarder la vidéo{{ ext() }}</a>
-<button type="button" class="btn btn-all" hidden>Tout ouvrir</button>
+<a href="https://www.youtube.com/watch?v={{ p.youtube }}" rel="noopener">Regarder la vidéo</a>
+<button type="button" class="btn-all" hidden>Tout ouvrir</button>
 </div>
 </div>
 {% for s in p.passages %}
-<details class="pas" id="{{ s.ancre }}">
+<details class="pas{{ ' a-corr' if s.corrections }}" id="{{ s.ancre }}">
 <summary>
 <span class="s-t">{{ s.t }}</span>
-<span class="s-main"><span class="s-title">{{ s.titre }}</span><span class="s-meta">{% if s.prudences %}<span class="chip">Prudence</span>{% endif %}<span class="s-n">{{ s.nb }} source{{ 's' if s.nb > 1 }}</span></span></span>
+<span class="s-title">{{ s.titre }}</span>
+<span class="s-n">{% if s.corrections %}<span class="s-corr">Corrigé</span>{% endif %}{{ s.nb }} source{{ 's' if s.nb > 1 }}</span>
 <svg class="chev" width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><path d="M3 5l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
 </summary>
 <div class="panel">
-{% for it in s['items'] %}<div class="item">
-<p>{{ it.texte }}</p>
+{% for c in s.corrections %}{{ correction(c) }}
+{% endfor %}{% for it in s['items'] %}<div class="item">
+<p class="dit">{{ it.texte }}</p>
 <ul class="srcs">
-{% for src in it.sources %}<li>{% if src.url %}<a class="src" href="{{ src.url }}" rel="noopener"><span class="dot{{ ' off' if src.officielle }}" aria-hidden="true"></span><span class="src-txt"><span class="src-n">{{ src.nom }}</span><span class="src-m">{{ src.meta }}</span></span></a>{% else %}<span class="src"><span class="dot{{ ' off' if src.officielle }}" aria-hidden="true"></span><span class="src-txt"><span class="src-n">{{ src.nom }}</span><span class="src-m">{{ src.meta }}</span></span></span>{% endif %}</li>
+{% for src in it.sources %}<li>{% if src.url %}<a class="src" href="{{ src.url }}" rel="noopener"><span class="src-n">{{ src.nom }}</span><span class="src-m">{{ src.meta }}</span></a>{% else %}<span class="src"><span class="src-n">{{ src.nom }}</span><span class="src-m">{{ src.meta }}</span></span>{% endif %}</li>
 {% endfor %}</ul>
 </div>
-{% endfor %}{% if s.prudences %}<div class="prud">
-<span class="prud-k">Prudence</span>
-<div class="prud-txt">{% for x in s.prudences %}<p>{{ x }}</p>{% endfor %}</div>
-</div>
+{% endfor %}{% if s.nuances %}<div class="nuance">{% for x in s.nuances %}<p>{% if loop.first %}<strong>Nuance.</strong> {% endif %}{{ x }}</p>{% endfor %}</div>
 {% endif %}<a class="again" href="https://youtu.be/{{ p.youtube }}?t={{ s.secondes }}" rel="noopener"><svg class="ico" width="8" height="10" viewBox="0 0 8 10" aria-hidden="true"><path d="M0.5 0.8L7.5 5L0.5 9.2Z" fill="currentColor"/></svg>Revoir ce passage à {{ s.t }}</a>
 </div>
 </details>
 {% endfor %}
 </section>
 {% endfor %}
-<p class="legend"><span><span class="dot off" aria-hidden="true"></span>Document d’origine : rapport, communiqué, décision</span><span><span class="dot" aria-hidden="true"></span>Presse, témoignage</span><span class="m">EN : en anglais · PDF : document</span></p>
 </section>
 
 {% if d.rapports %}<section class="wrap rapports" aria-labelledby="rapports-titre">
-<h2 id="rapports-titre" class="sec-title small">{{ d.titre_rapports if d.titre_rapports else ('Les trois rapports officiels' if d.rapports|length == 3 else 'Les rapports officiels') }}</h2>
-<div class="cards n{{ d.rapports|length }}">
+<h2 id="rapports-titre" class="sec-title">{{ d.titre_rapports if d.titre_rapports else ('Les trois rapports officiels' if d.rapports|length == 3 else 'Les rapports officiels') }}</h2>
+<div class="raps">
 {% for r in d.rapports %}<article class="rap">
-<p class="rap-k"><span>{{ r.pays }}</span> · {{ r.date }}</p>
 <h3>{{ r.nom }}</h3>
+<p class="rap-k">{{ r.pays }}, {{ r.date|nbsp }}</p>
 <p class="r">{{ r.resume }}</p>
-<div class="rap-links">{% for l in r.liens %}<a href="{{ l.url }}" rel="noopener">{{ l.label }}</a>{% endfor %}</div>
+<p class="rap-links">{% for l in r.liens %}<a href="{{ l.url }}" rel="noopener">{{ l.label }}</a>{% endfor %}</p>
 </article>
 {% endfor %}</div>
-{% if d.plus_loin %}<p class="more"><span class="k">Pour aller plus loin</span>{% for l in d.plus_loin %}<a href="{{ l.url }}" rel="noopener">{{ l.nom }}, {{ l.label }}</a>{% endfor %}</p>{% endif %}
+{% if d.plus_loin %}<p class="more">Pour aller plus loin : {% for l in d.plus_loin %}<a href="{{ l.url }}" rel="noopener">{{ l.label }}</a> ({{ l.nom }}){{ ', ' if not loop.last else '.' }}{% endfor %}</p>{% endif %}
 </section>
 {% endif %}
-</main>
 
-<section class="band" aria-label="Corrections et visuels">
-<div class="wrap">
-<div class="col" id="corrections">
-<span class="k">Corrections</span>
-{% if d.corrections %}{% for c in d.corrections %}<p><span class="meta">{{ c.date }}</span> {{ c.texte }}</p>{% endfor %}{% else %}<p>Aucune pour l’instant.</p>{% endif %}
-<p><a href="{{ d.lien_signaler }}" rel="noopener">Signaler une erreur</a> (compte GitHub), ou en commentaire sous la vidéo.</p>
-</div>
-<div class="col">
-<span class="k">Visuels</span>
-<p>{{ d.visuels }}</p>
-</div>
-</div>
+<section id="corrections" class="wrap corrections" aria-labelledby="corrections-titre">
+<h2 id="corrections-titre" class="sec-title">Corrections</h2>
+{% if d.corrections %}{% for c in d.corrections %}{{ correction(c) }}
+{% endfor %}{% else %}<p class="vide">Aucune correction pour l’instant.</p>{% endif %}
+<p class="signaler">Une erreur dans la vidéo ou sur cette page&nbsp;? Dites-le en commentaire sous la vidéo, ou <a href="{{ d.lien_signaler }}" rel="noopener">par un signalement sur GitHub</a>. Les corrections de toutes les vidéos sont aussi réunies sur <a href="/corrections/">une seule page</a>.</p>
+<p class="credits">Images de la vidéo. {{ d.visuels }}</p>
 </section>
+</main>
 {{ pied_mdp(chaine) }}
 {% endblock %}

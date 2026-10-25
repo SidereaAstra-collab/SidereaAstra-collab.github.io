@@ -73,10 +73,6 @@
                 ]
               ]
             }
-          ],
-          "prudences": [
-            "Le chiffre d’un mètre cinquante sous les grandes marées vient de Wikipédia. Les rapports officiels donnent des altitudes (un fond de cuvette sous 2,50 m NGF, un terrain parfois à 1,60 m NGF) et disent que la zone était sous le niveau de la mer.",
-            "La Cour des comptes date la forte urbanisation des années 1970, et surtout du milieu des années 1980."
           ]
         },
         {
@@ -112,9 +108,9 @@
               ]
             }
           ],
-          "prudences": [
-            "Les années des submersions passées varient selon les sources : le tribunal administratif cite 1928, 1940, 1941 et 1960 ; le CGEDD fait de 1940 le dernier événement comparable.",
-            "La vidéo dit que personne n’avait informé les habitants. Le tribunal le reproche au maire, mais une plaquette sur le plan de prévention avait été diffusée en juillet 2007 (Cour des comptes), et certaines de ses règles s’appliquaient par anticipation depuis 2007 (Sénat)."
+          "nuances": [
+            "Les dates varient selon les sources : le tribunal administratif cite 1928, 1940, 1941 et 1960.",
+            "Le tribunal reproche au maire de ne pas avoir informé les habitants. Une plaquette sur le plan de prévention avait pourtant été distribuée en juillet 2007 (Cour des comptes)."
           ]
         },
         {
@@ -205,10 +201,6 @@
                 ]
               ]
             }
-          ],
-          "prudences": [
-            "« Au large de Madère », l’arrivée « vers 2 h » et la pleine mer « vers 4 h » viennent de Wikipédia. Le Sénat dit la tempête formée « au large des côtes du Maroc » ; les rapports officiels disent que la surcote a coïncidé avec la pleine mer de la nuit, et le CGEDD situe le début du débordement à La Faute vers 2 h 20.",
-            "Vent : 158 km/h mesurés à Saint-Clément-des-Baleines, sur l’île de Ré (Météo-France) ; 160 km/h selon la Cour des comptes."
           ]
         },
         {
@@ -240,9 +232,6 @@
                 ]
               ]
             }
-          ],
-          "prudences": [
-            "Aucune source ne dit en ces mots qu’aucune évacuation n’a été organisée : le tribunal reproche au maire de n’avoir ni informé la population ni fait surveiller la digue, et des messages conseillaient de rester chez soi. Les messages des préfectures mentionnaient aussi une « surcote possible »."
           ]
         },
         {
@@ -276,7 +265,7 @@
               ]
             },
             {
-              "texte": "Le bilan en France : la vidéo dit 53 morts ; le bilan révisé de juin 2010 est de 47.",
+              "texte": "Le bilan en France : 47 morts, selon le bilan révisé de juin 2010.",
               "sources": [
                 [
                   "senat647"
@@ -286,10 +275,6 @@
                 ]
               ]
             }
-          ],
-          "prudences": [
-            "La hauteur de 2,50 m dans une maison n’a pas été retrouvée dans les sources : le maximum relevé dans les maisons les plus exposées est de 2,80 m. Dans la maison du couple, l’eau arrivait à hauteur de taille.",
-            "La vidéo dit 53 morts en France « selon le bilan officiel » : c’était le premier bilan, ramené à 47 à la mi-juin 2010. Voir « Corrections »."
           ]
         },
         {
@@ -373,10 +358,6 @@
                 ]
               ]
             }
-          ],
-          "prudences": [
-            "Certaines maisons ont été expropriées plutôt que rachetées à l’amiable ; le périmètre initial en comptait 608.",
-            "La vidéo parle du plan de l’estuaire du Lay « finalement approuvé » : il s’agit d’un plan propre à la commune, approuvé en 2012, annulé en 2015 et remplacé en 2017."
           ]
         },
         {
@@ -466,7 +447,19 @@
   "corrections": [
     {
       "date": "25 oct. 2026",
-      "texte": "À 5:54, la vidéo dit que la tempête a fait 53 morts en France « selon le bilan officiel ». C’était le premier bilan : il a été ramené à 47 morts à la mi-juin 2010 (Sénat, Météo-France)."
+      "partie": 1,
+      "passage": "05:24",
+      "t": "05:54",
+      "dit": "La tempête a fait 53 morts en France « selon le bilan officiel ».",
+      "juste": "47 morts. 53, c’était le premier bilan ; il a été ramené à 47 à la mi-juin 2010.",
+      "sources": [
+        [
+          "senat647"
+        ],
+        [
+          "mf"
+        ]
+      ]
     }
   ],
   "sources": {

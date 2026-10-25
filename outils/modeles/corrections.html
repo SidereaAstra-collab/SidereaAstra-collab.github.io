@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% from "morceaux.html" import entete_neutre, pied_neutre, correction %}
+{% block corps %}
+{{ entete_neutre() }}
+<main class="wrap page-corr">
+<h1>Corrections</h1>
+<p class="chapo">Les erreurs relevées dans les vidéos après leur mise en ligne, et ce qui est juste. Chaque correction figure aussi sur la page de sources du dossier, au passage concerné.</p>
+{% for ch in site.chaines %}
+<section class="corr-chaine" aria-labelledby="corr-{{ ch.slug }}">
+<h2 id="corr-{{ ch.slug }}">{{ ch.nom }}</h2>
+{% if ch.corrections %}{% for c in ch.corrections %}<article class="corr-entree">
+<h3><a href="{{ c.lien_passage }}">{{ c.dossier.titre }}</a></h3>
+<p class="corr-ou">Dossier n°&nbsp;{{ c.dossier.numero }}{% if c.dossier.parties|length > 1 %}, partie {{ c.partie }}{% endif %}</p>
+{{ correction(c) }}
+</article>
+{% endfor %}{% else %}<p class="vide">Aucune correction pour l’instant.</p>{% endif %}
+</section>
+{% endfor %}
+<section class="corr-chaine" aria-labelledby="corr-signaler">
+<h2 id="corr-signaler">Signaler une erreur</h2>
+<p class="vide">En commentaire sous la vidéo, ou par <a href="{{ site.depot }}/issues/new" rel="noopener">un signalement sur GitHub</a> (il faut un compte). Les corrections vérifiées sont ajoutées ici et sur la page du dossier.</p>
+</section>
+</main>
+{{ pied_neutre() }}
+{% endblock %}

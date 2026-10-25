@@ -3,12 +3,11 @@
 {% block corps %}
 {{ entete_mdp(chaine) }}
 <main class="wrap liste">
-<p class="eyebrow">La mécanique du pire</p>
 <h1>Les dossiers</h1>
 <div>
 {% for d in chaine.liste %}<a class="dos" href="/{{ chaine.slug }}/{{ d.slug }}/">
-<span class="dos-img"><img src="/assets/img/{{ d.image_entete or d.parties[0].miniature }}" alt="" width="128" height="72" loading="lazy"></span>
-<span class="dos-txt"><span class="dos-k">Dossier N° {{ d.numero }}</span><span class="dos-t">{{ d.titre }}</span><span class="dos-m">{{ d.parties|length }} vidéo{{ 's' if d.parties|length > 1 }} · {{ d.nb_sources }} sources · vérifiées le {{ d.verifie|nbsp }}</span></span>
+<img src="/assets/img/{{ d.image_entete or d.parties[0].miniature }}" alt="" width="160" height="90" loading="lazy">
+<span class="dos-txt"><span class="dos-t">{{ d.titre }}</span><span class="dos-s">{{ d.sous_titre }}</span><span class="dos-m">Dossier n°&nbsp;{{ d.numero }}, {{ d.nb_sources }} sources{% if d.nb_corrections %}, {{ 'une correction' if d.nb_corrections == 1 else d.nb_corrections ~ ' corrections' }}{% endif %}</span></span>
 </a>
 {% endfor %}</div>
 </main>

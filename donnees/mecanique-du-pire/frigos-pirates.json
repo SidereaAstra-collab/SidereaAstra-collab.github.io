@@ -64,9 +64,6 @@
                 ]
               ]
             }
-          ],
-          "prudences": [
-            "Au moment de l’enregistrement, le 15 octobre, on ne savait ni qui avait fait ça, ni par quelle porte exacte les pirates étaient entrés."
           ]
         },
         {
@@ -145,9 +142,6 @@
                 ]
               ]
             }
-          ],
-          "prudences": [
-            "Les comptages d’appareils exposés n’utilisent pas la même méthode (2 752 systèmes d’un côté, 4 500 interfaces de l’autre) : la vidéo ne les compare pas."
           ]
         },
         {
@@ -172,8 +166,8 @@
               ]
             }
           ],
-          "prudences": [
-            "Aucun lien n’est établi entre ces failles et l’attaque : ni les enquêteurs ni Danfoss ne l’ont dit."
+          "nuances": [
+            "Aucun lien n’est établi entre ces failles et l’attaque : ni les enquêteurs ni Danfoss ne l’ont fait."
           ]
         },
         {
@@ -225,9 +219,6 @@
                 ]
               ]
             }
-          ],
-          "prudences": [
-            "Le mode opératoire (dégivrage forcé, consigne à 50 °C) vient des enseignes et de la presse, pas encore des enquêteurs : la vidéo le présente « d’après les enseignes et les premières constatations »."
           ]
         },
         {
@@ -256,9 +247,6 @@
                 ]
               ]
             }
-          ],
-          "prudences": [
-            "À Haguenau, les enseignes des deux magasins diffèrent selon les sources."
           ]
         },
         {
@@ -303,11 +291,6 @@
                 ]
               ]
             }
-          ],
-          "prudences": [
-            "Les chiffres de magasins varient selon les sources et les jours : la vidéo donne les premiers décomptes, puis le chiffre du gouvernement.",
-            "Aucun des autres pays cités n’avait confirmé.",
-            "Une consigne de 150 °C lors de la deuxième vague n’est rapportée que par un site, sans source primaire claire : la vidéo ne la reprend pas."
           ]
         },
         {

@@ -107,7 +107,7 @@
         ]},
         { "t": "04:12", "titre": "L’alerte, plus de huit heures après", "items": [
           { "texte": "L’appel aux secours canadiens, coupé ; l’alerte reçue à Boston vers 19 h 10.", "sources": [["uscgRap", "§ 4.1.64-4.1.65"], ["ntsbRap", "p. 10-11"]] }
-        ], "prudences": ["Premier appel : 18 h 27 selon la Garde côtière, 18 h 55 selon le NTSB. D’où « en début de soirée ». Les deux rapports donnent 19 h 10 pour l’alerte reçue à Boston."]},
+        ]},
         { "t": "04:28", "titre": "La première nuit", "items": [
           { "texte": "22 h : un premier avion des garde-côtes décolle de Terre-Neuve.", "sources": [["ntsbRap", "p. 10-11"], ["uscgRap", "§ 4.1.67"]] },
           { "texte": "De l’oxygène de secours pour 96 heures, et un dôme impossible à ouvrir de l’intérieur.", "sources": [["ntsbRap", "p. 9"], ["wsls"]] }
@@ -123,28 +123,28 @@
         { "t": "05:24", "titre": "Mardi 20 juin", "items": [
           { "texte": "Le Deep Energy et ses robots prévus pour 3 000 mètres ; le second, poussé plus bas, est perdu.", "sources": [["ntsbRap", "p. 12"]] },
           { "texte": "Dans la nuit, des bruits de cognement, à peu près toutes les 30 minutes.", "sources": [["yahoo"], ["cbsBang"]] }
-        ], "prudences": ["Arrivée du Deep Energy : 5 h 17 selon la Garde côtière, vers 15 h selon le NTSB. D’où « mardi 20 juin », sans heure."]},
+        ]},
         { "t": "05:49", "titre": "Mercredi 21 juin", "items": [
           { "texte": "Les garde-côtes confirment les bruits, sans savoir d’où ils viennent.", "sources": [["cbsBang"]] },
           { "texte": "Une vingtaine d’heures d’oxygène restantes, selon leurs calculs.", "sources": [["gpb"]] },
           { "texte": "Plus de 31 000 km² fouillés au total, plus que la Belgique.", "sources": [["uscgRap", "§ 4.1.67-4.1.72"], ["statbel", "30 689 km²"]] }
-        ], "prudences": ["« Une vingtaine d’heures » : l’estimation donnée le mercredi, valable pour un sous-marin resté intact.", "31 455 km² (12 145 milles carrés) : la surface fouillée pendant toutes les recherches, pas en un seul jour."]},
+        ]},
         { "t": "06:05", "titre": "Sur le Polar Prince", "items": [
           { "texte": "Christine et Alina Dawood, l’attente sur le navire.", "sources": [["gulf", "entretien BBC repris par l’AP"]] },
           { "texte": "Son livre, « Ninety-Six Hours », paru en mai 2026.", "sources": [["newsweek"]] }
-        ], "prudences": ["Les propos de Christine Dawood sont reformulés, sans citation longue."]},
+        ]},
         { "t": "06:21", "titre": "Jeudi 22 juin", "items": [
           { "texte": "Vers 9 h 40, l’Odysseus trouve la pointe arrière du Titan, puis les deux dômes en titane.", "sources": [["ntsbRap", "p. 12"], ["uscgRap", "§ 4.1.72"]] },
           { "texte": "À environ 500 mètres de la proue du Titanic.", "sources": [["space"]] }
-        ], "prudences": ["500 m (NTSB, p. 12), 330 m (NTSB, p. 31), environ 490 m (garde-côtes, 22 juin 2023). D’où « environ cinq cents mètres »."]},
+        ]},
         { "t": "06:52", "titre": "L’annonce", "items": [
-          { "texte": "« Consistent with the catastrophic loss of the pressure chamber » : John Mauger, à Boston.", "sources": [["mauger", "22 juin 2023"]] }
-        ], "prudences": ["John Mauger est contre-amiral ; « l’amiral » à l’oral."]},
+          { "texte": "« Consistent with the catastrophic loss of the pressure chamber » : le contre-amiral John Mauger, à Boston.", "sources": [["mauger", "22 juin 2023"]] }
+        ]},
         { "t": "07:05", "titre": "Ce que l’on apprend ensuite", "items": [
           { "texte": "Dès le dimanche, la marine avait capté un son compatible avec une implosion.", "sources": [["nprNavy"]] },
           { "texte": "Les bruits de cognement : très probablement l’océan, ou les navires de recherche.", "sources": [["cbsBang"]] },
           { "texte": "Les débris remontés en deux fois, fin juin puis en octobre 2023.", "sources": [["usni23"]] }
-        ], "prudences": ["« Le soir même » : l’information de la marine est publiée le 22 juin au soir par le Wall Street Journal, puis confirmée par un responsable de la marine."]},
+        ]},
         { "t": "07:54", "titre": "Barrière 3 · La surveillance", "items": [
           { "texte": "« Let’s dive again and see what happens » : les mesures de la plongée 80.", "sources": [["ntsbPage"], ["gcapNTSB"]] },
           { "texte": "Cinq couches de carbone collées, des vides dans la colle, des couches qui se séparent.", "sources": [["ntsbPage"], ["mex"]] }
