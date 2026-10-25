@@ -8,7 +8,7 @@
   "mise_a_jour": "25 oct. 2026",
   "image_partage": "xynthia.jpg",
   "image_entete": "xynthia.jpg",
-  "image_alt": "Image de la vidéo : la mer plus haute que prévu d’un côté de la digue, les maisons en contrebas de l’autre.",
+  "image_alt": "Miniature de la vidéo : « Xynthia, un quartier piégé », des maisons dans l’eau derrière la digue.",
   "titre_rapports": "Les documents de référence",
   "parties": [
     {
@@ -20,95 +20,634 @@
       "miniature": "xynthia.jpg",
       "note": "",
       "passages": [
-        { "t": "00:00", "titre": "La nuit du 27 au 28 février 2010", "items": [
-          { "texte": "Dans la nuit, l’eau de l’estuaire du Lay passe par-dessus la digue et se déverse dans un quartier construit plus bas que la mer.", "sources": [["cgedd"], ["taNantes", "point 28"]] }
-        ]},
-        { "t": "01:04", "titre": "Le lieu : une cuvette derrière la digue", "items": [
-          { "texte": "Une étroite presqu’île entre l’océan et l’estuaire du Lay ; côté estuaire, une digue de près de 6 km.", "sources": [["taNantes", "point 29"], ["senat647"]] },
-          { "texte": "Derrière la digue, d’anciens prés devenus une cuvette, environ un mètre cinquante sous le niveau des grandes marées.", "sources": [["cgedd"], ["wiki"]] },
-          { "texte": "La cuvette se couvre de maisons à partir des années 1960, avec l’essor du tourisme balnéaire.", "sources": [["afp2014"]] }
-        ], "prudences": ["Le chiffre d’un mètre cinquante sous les grandes marées vient de Wikipédia. Les rapports officiels donnent des altitudes (un fond de cuvette sous 2,50 m NGF, un terrain parfois à 1,60 m NGF) et disent que la zone était sous le niveau de la mer.", "La Cour des comptes date la forte urbanisation des années 1970, et surtout du milieu des années 1980."]},
-        { "t": "01:47", "titre": "Barrière 1 · La mémoire du risque", "items": [
-          { "texte": "Des submersions en 1940, 1941 et 1957 ; plus aucune tempête marquante ensuite pendant quarante ans ; « de mémoire de Fautais », jamais d’inondation, dira le maire.", "sources": [["afp2014"]] },
-          { "texte": "Le plan de prévention des risques d’inondation, prescrit le 29 novembre 2001, n’est toujours pas approuvé en 2010 ; le tribunal y voit une faute de l’État et relève le refus de la commune.", "sources": [["taNantes", "points 17 et 18"], ["senat554"]] },
-          { "texte": "Les habitants n’avaient pas été informés du risque par le maire.", "sources": [["taNantes"]] }
-        ], "prudences": ["Les années des submersions passées varient selon les sources : le tribunal administratif cite 1928, 1940, 1941 et 1960 ; le CGEDD fait de 1940 le dernier événement comparable.", "La vidéo dit que personne n’avait informé les habitants. Le tribunal le reproche au maire, mais une plaquette sur le plan de prévention avait été diffusée en juillet 2007 (Cour des comptes), et certaines de ses règles s’appliquaient par anticipation depuis 2007 (Sénat)."]},
-        { "t": "02:50", "titre": "Barrière 2 · L’urbanisme", "items": [
-          { "texte": "Près de mille constructions de 1980 à 2010 (250, puis 450, puis 250 par décennie).", "sources": [["afp2014"]] },
-          { "texte": "Des lotissements de maisons de plain-pied, le plus souvent sans étage.", "sources": [["cour"], ["cgedd"]] }
-        ]},
-        { "t": "03:30", "titre": "Barrière 3 · La digue", "items": [
-          { "texte": "Septembre 2008 : un rapport demande de relever la digue « à bref délai » sur deux secteurs ; travaux autorisés le 4 août 2009 ; à peine commencés lors de la tempête, et pas sur l’un des secteurs les plus bas.", "sources": [["taNantes", "points 29 à 31"], ["localtis2018"]] }
-        ]},
-        { "t": "03:59", "titre": "La tempête", "items": [
-          { "texte": "Elle se forme au large de Madère, remonte le long de la péninsule Ibérique et touche les côtes françaises dans la nuit du 27 au 28 février.", "sources": [["senat647"], ["futura"], ["wiki"]] },
-          { "texte": "Des vents d’environ 160 km/h sur l’île de Ré ; la Vendée en vigilance rouge depuis le samedi 27, 16 h.", "sources": [["cour"], ["mfBulletin", "févr. 2010"], ["an", "audition de Météo-France"]] },
-          { "texte": "Une marée de coefficient 102 ; une surcote de 1,53 m à La Rochelle, du jamais vu depuis le début des mesures en 1997.", "sources": [["mf"], ["cgedd"]] }
-        ], "prudences": ["« Au large de Madère », l’arrivée « vers 2 h » et la pleine mer « vers 4 h » viennent de Wikipédia. Le Sénat dit la tempête formée « au large des côtes du Maroc » ; les rapports officiels disent que la surcote a coïncidé avec la pleine mer de la nuit, et le CGEDD situe le début du débordement à La Faute vers 2 h 20.", "Vent : 158 km/h mesurés à Saint-Clément-des-Baleines, sur l’île de Ré (Météo-France) ; 160 km/h selon la Cour des comptes."]},
-        { "t": "04:55", "titre": "Barrière 4 · L’alerte", "items": [
-          { "texte": "La vigilance rouge portait sur le vent ; la vigilance « vagues-submersion » n’existe que depuis octobre 2011.", "sources": [["cour"], ["an"], ["refmar"]] },
-          { "texte": "Ni plan communal de sauvegarde, malgré quatre rappels du préfet, ni diagnostic de vulnérabilité, accepté en 2008 mais jamais réalisé.", "sources": [["cour"], ["senat536"]] }
-        ], "prudences": ["Aucune source ne dit en ces mots qu’aucune évacuation n’a été organisée : le tribunal reproche au maire de n’avoir ni informé la population ni fait surveiller la digue, et des messages conseillaient de rester chez soi. Les messages des préfectures mentionnaient aussi une « surcote possible »."]},
-        { "t": "05:24", "titre": "La nuit", "items": [
-          { "texte": "Les téléphones ne passent plus ; un couple passe la nuit sur son buffet.", "sources": [["europe1", "27 févr. 2020"], ["euronews"]] },
-          { "texte": "Vingt-neuf morts à La Faute-sur-Mer.", "sources": [["cour"], ["cgedd"], ["senat647"]] },
-          { "texte": "Le bilan en France : la vidéo dit 53 morts ; le bilan révisé de juin 2010 est de 47.", "sources": [["senat647"], ["mf"]] }
-        ], "prudences": ["La hauteur de 2,50 m dans une maison n’a pas été retrouvée dans les sources : le maximum relevé dans les maisons les plus exposées est de 2,80 m. Dans la maison du couple, l’eau arrivait à hauteur de taille.", "La vidéo dit 53 morts en France « selon le bilan officiel » : c’était le premier bilan, ramené à 47 à la mi-juin 2010. Voir « Corrections »."]},
-        { "t": "06:48", "titre": "Après la catastrophe", "items": [
-          { "texte": "Décembre 2014, aux Sables-d’Olonne : quatre ans de prison ferme pour l’ancien maire.", "sources": [["localtis2014"]] },
-          { "texte": "Avril 2016, en appel à Poitiers : deux ans avec sursis et interdiction définitive d’exercer une fonction publique ; relaxe des autres prévenus ; ni faute ni manquement retenus sur les permis de construire.", "sources": [["tendance2016"], ["localtis2016"]] },
-          { "texte": "2018 : la commune (50 %), l’État (35 %) et l’association chargée de la digue (15 %) condamnés à indemniser des victimes ; partage confirmé en appel en 2019.", "sources": [["taNantes"], ["localtis2018"], ["landot"]] }
-        ]},
-        { "t": "07:35", "titre": "Ce qui a changé", "items": [
-          { "texte": "Environ 600 maisons de la zone la plus exposée détruites.", "sources": [["senat536"], ["afp2025"]] },
-          { "texte": "Un plan de renforcement des digues en février 2011 ; la vigilance « vagues-submersion » en octobre 2011.", "sources": [["ministere"]] },
-          { "texte": "Un plan de prévention approuvé en 2012, annulé en 2015, puis un plan des risques littoraux approuvé en 2017.", "sources": [["prefecture"], ["recueil2017"]] },
-          { "texte": "Un étage ou une zone refuge exigés par endroits.", "sources": [["afp2025"]] }
-        ], "prudences": ["Certaines maisons ont été expropriées plutôt que rachetées à l’amiable ; le périmètre initial en comptait 608.", "La vidéo parle du plan de l’estuaire du Lay « finalement approuvé » : il s’agit d’un plan propre à la commune, approuvé en 2012, annulé en 2015 et remplacé en 2017."]},
-        { "t": "08:05", "titre": "Connaître les risques près de chez soi", "items": [
-          { "texte": "Géorisques, ouvert en juillet 2014 : taper une adresse pour voir ses risques.", "sources": [["ministere"], ["georisques"]] },
-          { "texte": "Un repère à 2,80 m, la hauteur atteinte par l’eau dans les maisons les plus exposées.", "sources": [["repere"]] }
-        ]}
+        {
+          "t": "00:00",
+          "titre": "La nuit du 27 au 28 février 2010",
+          "items": [
+            {
+              "texte": "Dans la nuit, l’eau de l’estuaire du Lay passe par-dessus la digue et se déverse dans un quartier construit plus bas que la mer.",
+              "sources": [
+                [
+                  "cgedd"
+                ],
+                [
+                  "taNantes",
+                  "point 28"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:04",
+          "titre": "Le lieu : une cuvette derrière la digue",
+          "items": [
+            {
+              "texte": "Une étroite presqu’île entre l’océan et l’estuaire du Lay ; côté estuaire, une digue de près de 6 km.",
+              "sources": [
+                [
+                  "taNantes",
+                  "point 29"
+                ],
+                [
+                  "senat647"
+                ]
+              ]
+            },
+            {
+              "texte": "Derrière la digue, d’anciens prés devenus une cuvette, environ un mètre cinquante sous le niveau des grandes marées.",
+              "sources": [
+                [
+                  "cgedd"
+                ],
+                [
+                  "wiki"
+                ]
+              ]
+            },
+            {
+              "texte": "La cuvette se couvre de maisons à partir des années 1960, avec l’essor du tourisme balnéaire.",
+              "sources": [
+                [
+                  "afp2014"
+                ]
+              ]
+            }
+          ],
+          "prudences": [
+            "Le chiffre d’un mètre cinquante sous les grandes marées vient de Wikipédia. Les rapports officiels donnent des altitudes (un fond de cuvette sous 2,50 m NGF, un terrain parfois à 1,60 m NGF) et disent que la zone était sous le niveau de la mer.",
+            "La Cour des comptes date la forte urbanisation des années 1970, et surtout du milieu des années 1980."
+          ]
+        },
+        {
+          "t": "01:47",
+          "titre": "Barrière 1 · La mémoire du risque",
+          "items": [
+            {
+              "texte": "Des submersions en 1940, 1941 et 1957 ; plus aucune tempête marquante ensuite pendant quarante ans ; « de mémoire de Fautais », jamais d’inondation, dira le maire.",
+              "sources": [
+                [
+                  "afp2014"
+                ]
+              ]
+            },
+            {
+              "texte": "Le plan de prévention des risques d’inondation, prescrit le 29 novembre 2001, n’est toujours pas approuvé en 2010 ; le tribunal y voit une faute de l’État et relève le refus de la commune.",
+              "sources": [
+                [
+                  "taNantes",
+                  "points 17 et 18"
+                ],
+                [
+                  "senat554"
+                ]
+              ]
+            },
+            {
+              "texte": "Les habitants n’avaient pas été informés du risque par le maire.",
+              "sources": [
+                [
+                  "taNantes"
+                ]
+              ]
+            }
+          ],
+          "prudences": [
+            "Les années des submersions passées varient selon les sources : le tribunal administratif cite 1928, 1940, 1941 et 1960 ; le CGEDD fait de 1940 le dernier événement comparable.",
+            "La vidéo dit que personne n’avait informé les habitants. Le tribunal le reproche au maire, mais une plaquette sur le plan de prévention avait été diffusée en juillet 2007 (Cour des comptes), et certaines de ses règles s’appliquaient par anticipation depuis 2007 (Sénat)."
+          ]
+        },
+        {
+          "t": "02:50",
+          "titre": "Barrière 2 · L’urbanisme",
+          "items": [
+            {
+              "texte": "Près de mille constructions de 1980 à 2010 (250, puis 450, puis 250 par décennie).",
+              "sources": [
+                [
+                  "afp2014"
+                ]
+              ]
+            },
+            {
+              "texte": "Des lotissements de maisons de plain-pied, le plus souvent sans étage.",
+              "sources": [
+                [
+                  "cour"
+                ],
+                [
+                  "cgedd"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:30",
+          "titre": "Barrière 3 · La digue",
+          "items": [
+            {
+              "texte": "Septembre 2008 : un rapport demande de relever la digue « à bref délai » sur deux secteurs ; travaux autorisés le 4 août 2009 ; à peine commencés lors de la tempête, et pas sur l’un des secteurs les plus bas.",
+              "sources": [
+                [
+                  "taNantes",
+                  "points 29 à 31"
+                ],
+                [
+                  "localtis2018"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:59",
+          "titre": "La tempête",
+          "items": [
+            {
+              "texte": "Elle se forme au large de Madère, remonte le long de la péninsule Ibérique et touche les côtes françaises dans la nuit du 27 au 28 février.",
+              "sources": [
+                [
+                  "senat647"
+                ],
+                [
+                  "futura"
+                ],
+                [
+                  "wiki"
+                ]
+              ]
+            },
+            {
+              "texte": "Des vents d’environ 160 km/h sur l’île de Ré ; la Vendée en vigilance rouge depuis le samedi 27, 16 h.",
+              "sources": [
+                [
+                  "cour"
+                ],
+                [
+                  "mfBulletin",
+                  "févr. 2010"
+                ],
+                [
+                  "an",
+                  "audition de Météo-France"
+                ]
+              ]
+            },
+            {
+              "texte": "Une marée de coefficient 102 ; une surcote de 1,53 m à La Rochelle, du jamais vu depuis le début des mesures en 1997.",
+              "sources": [
+                [
+                  "mf"
+                ],
+                [
+                  "cgedd"
+                ]
+              ]
+            }
+          ],
+          "prudences": [
+            "« Au large de Madère », l’arrivée « vers 2 h » et la pleine mer « vers 4 h » viennent de Wikipédia. Le Sénat dit la tempête formée « au large des côtes du Maroc » ; les rapports officiels disent que la surcote a coïncidé avec la pleine mer de la nuit, et le CGEDD situe le début du débordement à La Faute vers 2 h 20.",
+            "Vent : 158 km/h mesurés à Saint-Clément-des-Baleines, sur l’île de Ré (Météo-France) ; 160 km/h selon la Cour des comptes."
+          ]
+        },
+        {
+          "t": "04:55",
+          "titre": "Barrière 4 · L’alerte",
+          "items": [
+            {
+              "texte": "La vigilance rouge portait sur le vent ; la vigilance « vagues-submersion » n’existe que depuis octobre 2011.",
+              "sources": [
+                [
+                  "cour"
+                ],
+                [
+                  "an"
+                ],
+                [
+                  "refmar"
+                ]
+              ]
+            },
+            {
+              "texte": "Ni plan communal de sauvegarde, malgré quatre rappels du préfet, ni diagnostic de vulnérabilité, accepté en 2008 mais jamais réalisé.",
+              "sources": [
+                [
+                  "cour"
+                ],
+                [
+                  "senat536"
+                ]
+              ]
+            }
+          ],
+          "prudences": [
+            "Aucune source ne dit en ces mots qu’aucune évacuation n’a été organisée : le tribunal reproche au maire de n’avoir ni informé la population ni fait surveiller la digue, et des messages conseillaient de rester chez soi. Les messages des préfectures mentionnaient aussi une « surcote possible »."
+          ]
+        },
+        {
+          "t": "05:24",
+          "titre": "La nuit",
+          "items": [
+            {
+              "texte": "Les téléphones ne passent plus ; un couple passe la nuit sur son buffet.",
+              "sources": [
+                [
+                  "europe1",
+                  "27 févr. 2020"
+                ],
+                [
+                  "euronews"
+                ]
+              ]
+            },
+            {
+              "texte": "Vingt-neuf morts à La Faute-sur-Mer.",
+              "sources": [
+                [
+                  "cour"
+                ],
+                [
+                  "cgedd"
+                ],
+                [
+                  "senat647"
+                ]
+              ]
+            },
+            {
+              "texte": "Le bilan en France : la vidéo dit 53 morts ; le bilan révisé de juin 2010 est de 47.",
+              "sources": [
+                [
+                  "senat647"
+                ],
+                [
+                  "mf"
+                ]
+              ]
+            }
+          ],
+          "prudences": [
+            "La hauteur de 2,50 m dans une maison n’a pas été retrouvée dans les sources : le maximum relevé dans les maisons les plus exposées est de 2,80 m. Dans la maison du couple, l’eau arrivait à hauteur de taille.",
+            "La vidéo dit 53 morts en France « selon le bilan officiel » : c’était le premier bilan, ramené à 47 à la mi-juin 2010. Voir « Corrections »."
+          ]
+        },
+        {
+          "t": "06:48",
+          "titre": "Après la catastrophe",
+          "items": [
+            {
+              "texte": "Décembre 2014, aux Sables-d’Olonne : quatre ans de prison ferme pour l’ancien maire.",
+              "sources": [
+                [
+                  "localtis2014"
+                ]
+              ]
+            },
+            {
+              "texte": "Avril 2016, en appel à Poitiers : deux ans avec sursis et interdiction définitive d’exercer une fonction publique ; relaxe des autres prévenus ; ni faute ni manquement retenus sur les permis de construire.",
+              "sources": [
+                [
+                  "tendance2016"
+                ],
+                [
+                  "localtis2016"
+                ]
+              ]
+            },
+            {
+              "texte": "2018 : la commune (50 %), l’État (35 %) et l’association chargée de la digue (15 %) condamnés à indemniser des victimes ; partage confirmé en appel en 2019.",
+              "sources": [
+                [
+                  "taNantes"
+                ],
+                [
+                  "localtis2018"
+                ],
+                [
+                  "landot"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:35",
+          "titre": "Ce qui a changé",
+          "items": [
+            {
+              "texte": "Environ 600 maisons de la zone la plus exposée détruites.",
+              "sources": [
+                [
+                  "senat536"
+                ],
+                [
+                  "afp2025"
+                ]
+              ]
+            },
+            {
+              "texte": "Un plan de renforcement des digues en février 2011 ; la vigilance « vagues-submersion » en octobre 2011.",
+              "sources": [
+                [
+                  "ministere"
+                ]
+              ]
+            },
+            {
+              "texte": "Un plan de prévention approuvé en 2012, annulé en 2015, puis un plan des risques littoraux approuvé en 2017.",
+              "sources": [
+                [
+                  "prefecture"
+                ],
+                [
+                  "recueil2017"
+                ]
+              ]
+            },
+            {
+              "texte": "Un étage ou une zone refuge exigés par endroits.",
+              "sources": [
+                [
+                  "afp2025"
+                ]
+              ]
+            }
+          ],
+          "prudences": [
+            "Certaines maisons ont été expropriées plutôt que rachetées à l’amiable ; le périmètre initial en comptait 608.",
+            "La vidéo parle du plan de l’estuaire du Lay « finalement approuvé » : il s’agit d’un plan propre à la commune, approuvé en 2012, annulé en 2015 et remplacé en 2017."
+          ]
+        },
+        {
+          "t": "08:05",
+          "titre": "Connaître les risques près de chez soi",
+          "items": [
+            {
+              "texte": "Géorisques, ouvert en juillet 2014 : taper une adresse pour voir ses risques.",
+              "sources": [
+                [
+                  "ministere"
+                ],
+                [
+                  "georisques"
+                ]
+              ]
+            },
+            {
+              "texte": "Un repère à 2,80 m, la hauteur atteinte par l’eau dans les maisons les plus exposées.",
+              "sources": [
+                [
+                  "repere"
+                ]
+              ]
+            }
+          ]
+        }
       ]
     }
   ],
   "rapports": [
-    { "pays": "Sénat", "date": "juill. 2010", "nom": "Mission commune d’information sur Xynthia", "resume": "Le bilan, l’alerte, la surcote à la pleine mer.", "liens": [["Rapport, PDF", "senat647"], ["Rapport d’étape, PDF", "senat554"]] },
-    { "pays": "Cour des comptes", "date": "juill. 2012", "nom": "Les enseignements des inondations de 2010", "resume": "L’urbanisation, la vigilance, les plans de secours.", "liens": [["Rapport, PDF", "cour"]] },
-    { "pays": "CGEDD", "date": "sept. 2010", "nom": "Expertise des zones de solidarité", "resume": "Le débordement de la digue, les altitudes, les maisons.", "liens": [["Rapport, PDF", "cgedd"]] },
-    { "pays": "Justice", "date": "12 févr. 2018", "nom": "Tribunal administratif de Nantes", "resume": "Les fautes de la commune, de l’État et de l’association de la digue.", "liens": [["Jugement", "taNantes"]] }
+    {
+      "pays": "Sénat",
+      "date": "juill. 2010",
+      "nom": "Mission commune d’information sur Xynthia",
+      "resume": "Le bilan, l’alerte, la surcote à la pleine mer.",
+      "liens": [
+        [
+          "Rapport, PDF",
+          "senat647"
+        ],
+        [
+          "Rapport d’étape, PDF",
+          "senat554"
+        ]
+      ]
+    },
+    {
+      "pays": "Cour des comptes",
+      "date": "juill. 2012",
+      "nom": "Les enseignements des inondations de 2010",
+      "resume": "L’urbanisation, la vigilance, les plans de secours.",
+      "liens": [
+        [
+          "Rapport, PDF",
+          "cour"
+        ]
+      ]
+    },
+    {
+      "pays": "CGEDD",
+      "date": "sept. 2010",
+      "nom": "Expertise des zones de solidarité",
+      "resume": "Le débordement de la digue, les altitudes, les maisons.",
+      "liens": [
+        [
+          "Rapport, PDF",
+          "cgedd"
+        ]
+      ]
+    },
+    {
+      "pays": "Justice",
+      "date": "12 févr. 2018",
+      "nom": "Tribunal administratif de Nantes",
+      "resume": "Les fautes de la commune, de l’État et de l’association de la digue.",
+      "liens": [
+        [
+          "Jugement",
+          "taNantes"
+        ]
+      ]
+    }
   ],
   "plus_loin": [],
   "visuels": "Reconstitutions schématiques : géographie simplifiée, hauteurs et chronologies illustratives. Fonds de carte : Natural Earth.",
   "corrections": [
-    { "date": "25 oct. 2026", "texte": "À 5:54, la vidéo dit que la tempête a fait 53 morts en France « selon le bilan officiel ». C’était le premier bilan : il a été ramené à 47 morts à la mi-juin 2010 (Sénat, Météo-France)." }
+    {
+      "date": "25 oct. 2026",
+      "texte": "À 5:54, la vidéo dit que la tempête a fait 53 morts en France « selon le bilan officiel ». C’était le premier bilan : il a été ramené à 47 morts à la mi-juin 2010 (Sénat, Météo-France)."
+    }
   ],
   "sources": {
-    "senat554": { "nom": "Sénat, rapport d’étape n° 554", "domaine": "senat.fr", "url": "https://www.senat.fr/rap/r09-554/r09-5541.pdf", "officielle": true, "pdf": true, "langue": "FR" },
-    "senat647": { "nom": "Sénat, rapport n° 647", "domaine": "senat.fr", "url": "https://www.senat.fr/rap/r09-647-1/r09-647-11.pdf", "officielle": true, "pdf": true, "langue": "FR" },
-    "senat536": { "nom": "Sénat, « Xynthia, 5 ans après »", "domaine": "senat.fr", "url": "https://www.senat.fr/rap/r14-536/r14-5361.pdf", "officielle": true, "pdf": true, "langue": "FR" },
-    "cour": { "nom": "Cour des comptes, rapport de 2012", "domaine": "vie-publique.fr", "url": "https://www.vie-publique.fr/files/rapport/pdf/124000320.pdf", "officielle": true, "pdf": true, "langue": "FR" },
-    "cgedd": { "nom": "CGEDD, expertise de septembre 2010", "domaine": "vie-publique.fr", "url": "https://www.vie-publique.fr/files/rapport/pdf/104000642.pdf", "officielle": true, "pdf": true, "langue": "FR" },
-    "taNantes": { "nom": "Tribunal administratif de Nantes, jugement", "domaine": "nantes.tribunal-administratif.fr", "url": "https://nantes.tribunal-administratif.fr/Media/mediatheque-ta-nantes/import/15049-1700281-respon", "officielle": true, "langue": "FR" },
-    "mf": { "nom": "Météo-France", "domaine": "meteofrance.com", "url": "https://meteofrance.com/actualites-et-dossiers/magazine/nuit-du-27-au-28-fevrier-2010-xynthia", "officielle": true, "langue": "FR" },
-    "mfBulletin": { "nom": "Météo-France, bulletin climatologique", "domaine": "meteofrance.fr", "url": "https://donneespubliques.meteofrance.fr/donnees_libres/bulletins/BCMD/BCMD_17_201002.pdf", "officielle": true, "pdf": true, "langue": "FR" },
-    "refmar": { "nom": "Météo-France et SHOM, la vigilance vagues-submersion", "domaine": "refmar.shom.fr", "url": "https://refmar.shom.fr/sites/default/files/2024-07/Hoffman%26Jourdan_Journees-REFMAR-2013.pdf", "officielle": true, "pdf": true, "langue": "FR" },
-    "an": { "nom": "Assemblée nationale, mission Xynthia", "domaine": "assemblee-nationale.fr", "url": "https://www.assemblee-nationale.fr/13/pdf/cr-mixynthia/09-10/c0910002.pdf", "officielle": true, "pdf": true, "langue": "FR" },
-    "ministere": { "nom": "Ministère de l’Environnement, bilan de 2016", "domaine": "ecologie.gouv.fr", "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/160210_Presse_Bilan_Xynthia-6-ans.pdf", "officielle": true, "pdf": true, "langue": "FR" },
-    "repere": { "nom": "Base nationale des repères de crues", "domaine": "reperesdecrues.developpement-durable.gouv.fr", "url": "https://www.reperesdecrues.developpement-durable.gouv.fr/export/590898/site", "officielle": true, "langue": "FR" },
-    "prefecture": { "nom": "Préfecture de la Vendée, plan de prévention", "domaine": "pays-de-la-loire.developpement-durable.gouv.fr", "url": "https://www.pays-de-la-loire.developpement-durable.gouv.fr/IMG/pdf/FORM_PPRi-LF_AnalyseEnviron-_GrilleQuestionnaire.pdf", "officielle": true, "pdf": true, "langue": "FR" },
-    "recueil2017": { "nom": "Recueil des actes de la préfecture, mai 2017", "domaine": "pappers.fr (copie)", "url": "https://politique.pappers.fr/commune/document/02e7ef6340451b7941fe6be99cef6d27", "langue": "FR" },
-    "georisques": { "nom": "Gouvernement, le portail Géorisques", "domaine": "info.gouv.fr", "url": "https://www.info.gouv.fr/risques/le-portail-georisques", "officielle": true, "langue": "FR" },
-    "afp2014": { "nom": "AFP (Figaro Nautisme)", "domaine": "figaronautisme.meteoconsult.fr", "url": "https://figaronautisme.meteoconsult.fr/actus-nautisme-bateaux/2014-09-18/36235-proces-xynthia-le-drame-dune-memoire-perdue", "langue": "FR" },
-    "localtis2014": { "nom": "Localtis (AFP)", "domaine": "banquedesterritoires.fr", "url": "https://www.banquedesterritoires.fr/proces-de-la-tempete-xynthia-lancien-maire-de-la-faute-sur-mer-condamne-quatre-ans-de-prison-ferme", "langue": "FR" },
-    "localtis2016": { "nom": "Localtis", "domaine": "banquedesterritoires.fr", "url": "https://www.banquedesterritoires.fr/tempete-xynthia-peine-allegee-en-appel-pour-lancien-maire-de-la-faute-sur-mer", "langue": "FR" },
-    "tendance2016": { "nom": "Tendance Ouest (AFP)", "domaine": "tendanceouest.com", "url": "https://www.tendanceouest.com/actualite-134820-poitiers-afp-tempete-xynthia-sursis-pour-l-ancien-maire-relaxe-pour-tous-les-autres", "langue": "FR" },
-    "localtis2018": { "nom": "Localtis (AFP)", "domaine": "banquedesterritoires.fr", "url": "https://www.banquedesterritoires.fr/letat-et-la-commune-de-la-faute-sur-mer-condamnes-indemniser-des-victimes", "langue": "FR" },
-    "landot": { "nom": "Landot & associés, avocats", "domaine": "blog.landot-avocats.net", "url": "https://blog.landot-avocats.net/2019/12/10/tempete-xynthia-et-indemnisation-la-caa-de-nantes-rend-ses-decisions/", "langue": "FR" },
-    "afp2025": { "nom": "ID l’Info durable (AFP)", "domaine": "linfodurable.fr", "url": "https://www.linfodurable.fr/il-y-15-ans-lelectrochoc-xynthia-bousculait-la-prevention-des-risques-de-submersion-49643", "langue": "FR" },
-    "europe1": { "nom": "Europe 1", "domaine": "europe1.fr", "url": "https://www.europe1.fr/societe/on-sest-installes-sur-notre-buffet-et-on-a-attendu-toute-la-nuit-10-ans-apres-la-tempete-xynthia-retour-a-la-faute-sur-mer-3951995", "langue": "FR" },
-    "euronews": { "nom": "Euronews", "domaine": "euronews.com", "url": "https://www.euronews.com/2020/02/27/how-a-deadly-storm-turned-a-french-resort-into-a-climate-change-laboratory-chapter-1" },
-    "futura": { "nom": "Futura", "domaine": "futura-sciences.com", "url": "https://www.futura-sciences.com/planete/actualites/meteorologie-il-y-an-xynthia-abattait-europe-28378/", "langue": "FR" },
-    "wiki": { "nom": "Wikipédia, « Tempête Xynthia »", "domaine": "fr.wikipedia.org", "url": "https://fr.wikipedia.org/wiki/Temp%C3%AAte_Xynthia", "langue": "FR" }
+    "senat554": {
+      "nom": "Sénat, rapport d’étape n° 554",
+      "domaine": "senat.fr",
+      "url": "https://www.senat.fr/rap/r09-554/r09-5541.pdf",
+      "officielle": true,
+      "pdf": true,
+      "langue": "FR"
+    },
+    "senat647": {
+      "nom": "Sénat, rapport n° 647",
+      "domaine": "senat.fr",
+      "url": "https://www.senat.fr/rap/r09-647-1/r09-647-11.pdf",
+      "officielle": true,
+      "pdf": true,
+      "langue": "FR"
+    },
+    "senat536": {
+      "nom": "Sénat, « Xynthia, 5 ans après »",
+      "domaine": "senat.fr",
+      "url": "https://www.senat.fr/rap/r14-536/r14-5361.pdf",
+      "officielle": true,
+      "pdf": true,
+      "langue": "FR"
+    },
+    "cour": {
+      "nom": "Cour des comptes, rapport de 2012",
+      "domaine": "vie-publique.fr",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/124000320.pdf",
+      "officielle": true,
+      "pdf": true,
+      "langue": "FR"
+    },
+    "cgedd": {
+      "nom": "CGEDD, expertise de septembre 2010",
+      "domaine": "vie-publique.fr",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/104000642.pdf",
+      "officielle": true,
+      "pdf": true,
+      "langue": "FR"
+    },
+    "taNantes": {
+      "nom": "Tribunal administratif de Nantes, jugement",
+      "domaine": "nantes.tribunal-administratif.fr",
+      "url": "https://nantes.tribunal-administratif.fr/Media/mediatheque-ta-nantes/import/15049-1700281-respon",
+      "officielle": true,
+      "langue": "FR"
+    },
+    "mf": {
+      "nom": "Météo-France",
+      "domaine": "meteofrance.com",
+      "url": "https://meteofrance.com/actualites-et-dossiers/magazine/nuit-du-27-au-28-fevrier-2010-xynthia",
+      "officielle": true,
+      "langue": "FR"
+    },
+    "mfBulletin": {
+      "nom": "Météo-France, bulletin climatologique",
+      "domaine": "meteofrance.fr",
+      "url": "https://donneespubliques.meteofrance.fr/donnees_libres/bulletins/BCMD/BCMD_17_201002.pdf",
+      "officielle": true,
+      "pdf": true,
+      "langue": "FR"
+    },
+    "refmar": {
+      "nom": "Météo-France et SHOM, la vigilance vagues-submersion",
+      "domaine": "refmar.shom.fr",
+      "url": "https://refmar.shom.fr/sites/default/files/2024-07/Hoffman%26Jourdan_Journees-REFMAR-2013.pdf",
+      "officielle": true,
+      "pdf": true,
+      "langue": "FR"
+    },
+    "an": {
+      "nom": "Assemblée nationale, mission Xynthia",
+      "domaine": "assemblee-nationale.fr",
+      "url": "https://www.assemblee-nationale.fr/13/pdf/cr-mixynthia/09-10/c0910002.pdf",
+      "officielle": true,
+      "pdf": true,
+      "langue": "FR"
+    },
+    "ministere": {
+      "nom": "Ministère de l’Environnement, bilan de 2016",
+      "domaine": "ecologie.gouv.fr",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/160210_Presse_Bilan_Xynthia-6-ans.pdf",
+      "officielle": true,
+      "pdf": true,
+      "langue": "FR"
+    },
+    "repere": {
+      "nom": "Base nationale des repères de crues",
+      "domaine": "reperesdecrues.developpement-durable.gouv.fr",
+      "url": "https://www.reperesdecrues.developpement-durable.gouv.fr/export/590898/site",
+      "officielle": true,
+      "langue": "FR"
+    },
+    "prefecture": {
+      "nom": "Préfecture de la Vendée, plan de prévention",
+      "domaine": "pays-de-la-loire.developpement-durable.gouv.fr",
+      "url": "https://www.pays-de-la-loire.developpement-durable.gouv.fr/IMG/pdf/FORM_PPRi-LF_AnalyseEnviron-_GrilleQuestionnaire.pdf",
+      "officielle": true,
+      "pdf": true,
+      "langue": "FR"
+    },
+    "recueil2017": {
+      "nom": "Recueil des actes de la préfecture, mai 2017",
+      "domaine": "pappers.fr (copie)",
+      "url": "https://politique.pappers.fr/commune/document/02e7ef6340451b7941fe6be99cef6d27",
+      "langue": "FR"
+    },
+    "georisques": {
+      "nom": "Gouvernement, le portail Géorisques",
+      "domaine": "info.gouv.fr",
+      "url": "https://www.info.gouv.fr/risques/le-portail-georisques",
+      "officielle": true,
+      "langue": "FR"
+    },
+    "afp2014": {
+      "nom": "AFP (Figaro Nautisme)",
+      "domaine": "figaronautisme.meteoconsult.fr",
+      "url": "https://figaronautisme.meteoconsult.fr/actus-nautisme-bateaux/2014-09-18/36235-proces-xynthia-le-drame-dune-memoire-perdue",
+      "langue": "FR"
+    },
+    "localtis2014": {
+      "nom": "Localtis (AFP)",
+      "domaine": "banquedesterritoires.fr",
+      "url": "https://www.banquedesterritoires.fr/proces-de-la-tempete-xynthia-lancien-maire-de-la-faute-sur-mer-condamne-quatre-ans-de-prison-ferme",
+      "langue": "FR"
+    },
+    "localtis2016": {
+      "nom": "Localtis",
+      "domaine": "banquedesterritoires.fr",
+      "url": "https://www.banquedesterritoires.fr/tempete-xynthia-peine-allegee-en-appel-pour-lancien-maire-de-la-faute-sur-mer",
+      "langue": "FR"
+    },
+    "tendance2016": {
+      "nom": "Tendance Ouest (AFP)",
+      "domaine": "tendanceouest.com",
+      "url": "https://www.tendanceouest.com/actualite-134820-poitiers-afp-tempete-xynthia-sursis-pour-l-ancien-maire-relaxe-pour-tous-les-autres",
+      "langue": "FR"
+    },
+    "localtis2018": {
+      "nom": "Localtis (AFP)",
+      "domaine": "banquedesterritoires.fr",
+      "url": "https://www.banquedesterritoires.fr/letat-et-la-commune-de-la-faute-sur-mer-condamnes-indemniser-des-victimes",
+      "langue": "FR"
+    },
+    "landot": {
+      "nom": "Landot & associés, avocats",
+      "domaine": "blog.landot-avocats.net",
+      "url": "https://blog.landot-avocats.net/2019/12/10/tempete-xynthia-et-indemnisation-la-caa-de-nantes-rend-ses-decisions/",
+      "langue": "FR"
+    },
+    "afp2025": {
+      "nom": "ID l’Info durable (AFP)",
+      "domaine": "linfodurable.fr",
+      "url": "https://www.linfodurable.fr/il-y-15-ans-lelectrochoc-xynthia-bousculait-la-prevention-des-risques-de-submersion-49643",
+      "langue": "FR"
+    },
+    "europe1": {
+      "nom": "Europe 1",
+      "domaine": "europe1.fr",
+      "url": "https://www.europe1.fr/societe/on-sest-installes-sur-notre-buffet-et-on-a-attendu-toute-la-nuit-10-ans-apres-la-tempete-xynthia-retour-a-la-faute-sur-mer-3951995",
+      "langue": "FR"
+    },
+    "euronews": {
+      "nom": "Euronews",
+      "domaine": "euronews.com",
+      "url": "https://www.euronews.com/2020/02/27/how-a-deadly-storm-turned-a-french-resort-into-a-climate-change-laboratory-chapter-1"
+    },
+    "futura": {
+      "nom": "Futura",
+      "domaine": "futura-sciences.com",
+      "url": "https://www.futura-sciences.com/planete/actualites/meteorologie-il-y-an-xynthia-abattait-europe-28378/",
+      "langue": "FR"
+    },
+    "wiki": {
+      "nom": "Wikipédia, « Tempête Xynthia »",
+      "domaine": "fr.wikipedia.org",
+      "url": "https://fr.wikipedia.org/wiki/Temp%C3%AAte_Xynthia",
+      "langue": "FR"
+    }
   }
 }

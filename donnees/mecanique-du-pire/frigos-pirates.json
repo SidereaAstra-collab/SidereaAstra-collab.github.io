@@ -9,7 +9,7 @@
   "avertissement": "Vidéo enregistrée le 15 octobre 2026, l’enquête venait de commencer. Les sources datent de ces jours-là.",
   "image_partage": "frigos-pirates.jpg",
   "image_entete": "frigos-pirates.jpg",
-  "image_alt": "Image de la vidéo : le boîtier qui pilote le froid, bloqué en dégivrage.",
+  "image_alt": "Miniature de la vidéo : « Piraté, 50 °C », une vitrine réfrigérée qui chauffe.",
   "titre_rapports": "Les documents de référence",
   "parties": [
     {
@@ -21,79 +21,443 @@
       "miniature": "frigos-pirates.jpg",
       "note": "",
       "passages": [
-        { "t": "00:00", "titre": "Lundi matin, les frigos chauffent", "items": [
-          { "texte": "Le lundi 12 octobre au matin, des bacs qui ruissellent, de l’air chaud qui sort des congélateurs.", "sources": [["complex"], ["cbs"]] },
-          { "texte": "Des frigos réglés pour chauffer, jusqu’à 50 °C, dans des centaines de magasins.", "sources": [["macg"], ["time"]] }
-        ]},
-        { "t": "00:37", "titre": "Personne n’est entré", "items": [
-          { "texte": "Ni effraction, ni panne de courant, ni rançon : des ordres envoyés à distance à des machines branchées sur internet.", "sources": [["thn"], ["futura"]] }
-        ], "prudences": ["Au moment de l’enregistrement, le 15 octobre, on ne savait ni qui avait fait ça, ni par quelle porte exacte les pirates étaient entrés."]},
-        { "t": "01:31", "titre": "Le chef d’orchestre du froid", "items": [
-          { "texte": "Un boîtier central règle les températures, surveille les sondes et déclenche les alarmes ; dans beaucoup de magasins, il est fabriqué par Danfoss.", "sources": [["thn"]] }
-        ]},
-        { "t": "02:01", "titre": "Le dégivrage", "items": [
-          { "texte": "Plusieurs fois par jour, le système fait fondre la glace des échangeurs ; pendant ce temps, les alarmes patientent.", "sources": [["time"]] }
-        ]},
-        { "t": "02:33", "titre": "Problème 1 · L’âge", "items": [
-          { "texte": "Surtout d’anciens modèles sans mises à jour : l’AK-SC 355, retiré en 2016, et l’AK-SM 800, en fin de vie depuis mai 2021.", "sources": [["thn"], ["cbs"]] },
-          { "texte": "Une installation frigorifique reste en place quinze ans ou plus.", "sources": [["futura"]] }
-        ]},
-        { "t": "03:05", "titre": "Problème 2 · Internet", "items": [
-          { "texte": "Des boîtiers reliés à internet pour la maintenance à distance ; exposer leur page d’administration est « contraire aux bonnes pratiques », selon le CERT-FR.", "sources": [["time"]] },
-          { "texte": "Plus de 2 700 systèmes Danfoss visibles en ligne le 12 octobre, près de six sur dix en France.", "sources": [["toms"], ["complex"]] }
-        ], "prudences": ["Les comptages d’appareils exposés n’utilisent pas la même méthode (2 752 systèmes d’un côté, 4 500 interfaces de l’autre) : la vidéo ne les compare pas."]},
-        { "t": "03:46", "titre": "Problème 3 · Les failles", "items": [
-          { "texte": "Août 2026 : Claroty publie des failles de l’AK-SM 800A, dont un « code du jour » calculé à partir de la date ; Danfoss les avait corrigées en 2025.", "sources": [["claroty", "9 août 2026"]] },
-          { "texte": "Selon Danfoss, même les modèles récents touchés tournaient avec un logiciel dépassé.", "sources": [["thn"]] }
-        ], "prudences": ["Aucun lien n’est établi entre ces failles et l’attaque : ni les enquêteurs ni Danfoss ne l’ont dit."]},
-        { "t": "04:32", "titre": "Problème 4 · Les précédents", "items": [
-          { "texte": "En 2022, seize supermarchés russes et quarante magasins israéliens visés ; Danfoss le racontait à ses clients dans sa lettre d’octobre 2025.", "sources": [["danfoss", "oct. 2025"]] }
-        ]},
-        { "t": "05:04", "titre": "La nuit du 11 au 12 octobre", "items": [
-          { "texte": "Un dégivrage qui ne s’arrête pas, avec une consigne à 50 °C.", "sources": [["macg"], ["time"]] },
-          { "texte": "Selon Le Monde, un dégivrage allongé d’une heure à huit heures dans certains congélateurs, pour retarder les alarmes.", "sources": [["time"]] },
-          { "texte": "Chez Intermarché, environ 150 magasins restés à 50 °C pendant six heures avant que quiconque s’en aperçoive.", "sources": [["complex"], ["secweek"]] }
-        ], "prudences": ["Le mode opératoire (dégivrage forcé, consigne à 50 °C) vient des enseignes et de la presse, pas encore des enquêteurs : la vidéo le présente « d’après les enseignes et les premières constatations »."]},
-        { "t": "05:51", "titre": "Au matin, les dégâts", "items": [
-          { "texte": "À La Haye, en Normandie, 80 °C et du matériel fondu ; des départs de feu selon le parquet de Paris.", "sources": [["time"], ["cbs"]] },
-          { "texte": "À Haguenau, 270 000 € de pertes pour deux magasins ; « plusieurs dizaines de millions d’euros » selon le patron d’Intermarché ; des assurances qui ne couvriraient pas forcément.", "sources": [["macg"], ["aljazeera"]] }
-        ], "prudences": ["À Haguenau, les enseignes des deux magasins diffèrent selon les sources."]},
-        { "t": "06:28", "titre": "700 supermarchés", "items": [
-          { "texte": "Intermarché et Netto, les magasins U (80 touchés, la plupart ont arrêté l’attaque à temps), Carrefour, Monoprix, quelques Leclerc.", "sources": [["thn"], ["secweek"]] },
-          { "texte": "Premiers décomptes de 300 à 400 magasins, puis environ 700 sur 10 000 selon le ministre de l’Économie ; « au cœur de notre sécurité alimentaire ».", "sources": [["complex"], ["cedar"]] },
-          { "texte": "Des cas signalés dans cinq autres pays d’Europe, sans confirmation.", "sources": [["aljazeera"]] },
-          { "texte": "La nuit suivante, un Leclerc du Tarn équipé de boîtiers Dixell ; l’ANSSI prévient que les attaques sont « probablement toujours en cours ».", "sources": [["toms"]] }
-        ], "prudences": ["Les chiffres de magasins varient selon les sources et les jours : la vidéo donne les premiers décomptes, puis le chiffre du gouvernement.", "Aucun des autres pays cités n’avait confirmé.", "Une consigne de 150 °C lors de la deuxième vague n’est rapportée que par un site, sans source primaire claire : la vidéo ne la reprend pas."]},
-        { "t": "07:20", "titre": "Qui, et pourquoi ?", "items": [
-          { "texte": "Aucune revendication, aucune rançon, aucune donnée volée ; un État « ne peut être exclu », mais rien ne l’indique.", "sources": [["futura"], ["bluewin"]] },
-          { "texte": "L’enquête confiée à l’Office anticybercriminalité, sous l’autorité du parquet de Paris ; l’ANSSI demande de débrancher ces boîtiers d’internet.", "sources": [["thn"], ["toms"]] }
-        ]},
-        { "t": "08:02", "titre": "Tout s’est aligné", "items": [
-          { "texte": "Le lendemain de l’attaque, des milliers de pages de contrôle Danfoss encore visibles sur internet.", "sources": [["complex"], ["toms"]] }
-        ]}
+        {
+          "t": "00:00",
+          "titre": "Lundi matin, les frigos chauffent",
+          "items": [
+            {
+              "texte": "Le lundi 12 octobre au matin, des bacs qui ruissellent, de l’air chaud qui sort des congélateurs.",
+              "sources": [
+                [
+                  "complex"
+                ],
+                [
+                  "cbs"
+                ]
+              ]
+            },
+            {
+              "texte": "Des frigos réglés pour chauffer, jusqu’à 50 °C, dans des centaines de magasins.",
+              "sources": [
+                [
+                  "macg"
+                ],
+                [
+                  "time"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "00:37",
+          "titre": "Personne n’est entré",
+          "items": [
+            {
+              "texte": "Ni effraction, ni panne de courant, ni rançon : des ordres envoyés à distance à des machines branchées sur internet.",
+              "sources": [
+                [
+                  "thn"
+                ],
+                [
+                  "futura"
+                ]
+              ]
+            }
+          ],
+          "prudences": [
+            "Au moment de l’enregistrement, le 15 octobre, on ne savait ni qui avait fait ça, ni par quelle porte exacte les pirates étaient entrés."
+          ]
+        },
+        {
+          "t": "01:31",
+          "titre": "Le chef d’orchestre du froid",
+          "items": [
+            {
+              "texte": "Un boîtier central règle les températures, surveille les sondes et déclenche les alarmes ; dans beaucoup de magasins, il est fabriqué par Danfoss.",
+              "sources": [
+                [
+                  "thn"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:01",
+          "titre": "Le dégivrage",
+          "items": [
+            {
+              "texte": "Plusieurs fois par jour, le système fait fondre la glace des échangeurs ; pendant ce temps, les alarmes patientent.",
+              "sources": [
+                [
+                  "time"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:33",
+          "titre": "Problème 1 · L’âge",
+          "items": [
+            {
+              "texte": "Surtout d’anciens modèles sans mises à jour : l’AK-SC 355, retiré en 2016, et l’AK-SM 800, en fin de vie depuis mai 2021.",
+              "sources": [
+                [
+                  "thn"
+                ],
+                [
+                  "cbs"
+                ]
+              ]
+            },
+            {
+              "texte": "Une installation frigorifique reste en place quinze ans ou plus.",
+              "sources": [
+                [
+                  "futura"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:05",
+          "titre": "Problème 2 · Internet",
+          "items": [
+            {
+              "texte": "Des boîtiers reliés à internet pour la maintenance à distance ; exposer leur page d’administration est « contraire aux bonnes pratiques », selon le CERT-FR.",
+              "sources": [
+                [
+                  "time"
+                ]
+              ]
+            },
+            {
+              "texte": "Plus de 2 700 systèmes Danfoss visibles en ligne le 12 octobre, près de six sur dix en France.",
+              "sources": [
+                [
+                  "toms"
+                ],
+                [
+                  "complex"
+                ]
+              ]
+            }
+          ],
+          "prudences": [
+            "Les comptages d’appareils exposés n’utilisent pas la même méthode (2 752 systèmes d’un côté, 4 500 interfaces de l’autre) : la vidéo ne les compare pas."
+          ]
+        },
+        {
+          "t": "03:46",
+          "titre": "Problème 3 · Les failles",
+          "items": [
+            {
+              "texte": "Août 2026 : Claroty publie des failles de l’AK-SM 800A, dont un « code du jour » calculé à partir de la date ; Danfoss les avait corrigées en 2025.",
+              "sources": [
+                [
+                  "claroty",
+                  "9 août 2026"
+                ]
+              ]
+            },
+            {
+              "texte": "Selon Danfoss, même les modèles récents touchés tournaient avec un logiciel dépassé.",
+              "sources": [
+                [
+                  "thn"
+                ]
+              ]
+            }
+          ],
+          "prudences": [
+            "Aucun lien n’est établi entre ces failles et l’attaque : ni les enquêteurs ni Danfoss ne l’ont dit."
+          ]
+        },
+        {
+          "t": "04:32",
+          "titre": "Problème 4 · Les précédents",
+          "items": [
+            {
+              "texte": "En 2022, seize supermarchés russes et quarante magasins israéliens visés ; Danfoss le racontait à ses clients dans sa lettre d’octobre 2025.",
+              "sources": [
+                [
+                  "danfoss",
+                  "oct. 2025"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:04",
+          "titre": "La nuit du 11 au 12 octobre",
+          "items": [
+            {
+              "texte": "Un dégivrage qui ne s’arrête pas, avec une consigne à 50 °C.",
+              "sources": [
+                [
+                  "macg"
+                ],
+                [
+                  "time"
+                ]
+              ]
+            },
+            {
+              "texte": "Selon Le Monde, un dégivrage allongé d’une heure à huit heures dans certains congélateurs, pour retarder les alarmes.",
+              "sources": [
+                [
+                  "time"
+                ]
+              ]
+            },
+            {
+              "texte": "Chez Intermarché, environ 150 magasins restés à 50 °C pendant six heures avant que quiconque s’en aperçoive.",
+              "sources": [
+                [
+                  "complex"
+                ],
+                [
+                  "secweek"
+                ]
+              ]
+            }
+          ],
+          "prudences": [
+            "Le mode opératoire (dégivrage forcé, consigne à 50 °C) vient des enseignes et de la presse, pas encore des enquêteurs : la vidéo le présente « d’après les enseignes et les premières constatations »."
+          ]
+        },
+        {
+          "t": "05:51",
+          "titre": "Au matin, les dégâts",
+          "items": [
+            {
+              "texte": "À La Haye, en Normandie, 80 °C et du matériel fondu ; des départs de feu selon le parquet de Paris.",
+              "sources": [
+                [
+                  "time"
+                ],
+                [
+                  "cbs"
+                ]
+              ]
+            },
+            {
+              "texte": "À Haguenau, 270 000 € de pertes pour deux magasins ; « plusieurs dizaines de millions d’euros » selon le patron d’Intermarché ; des assurances qui ne couvriraient pas forcément.",
+              "sources": [
+                [
+                  "macg"
+                ],
+                [
+                  "aljazeera"
+                ]
+              ]
+            }
+          ],
+          "prudences": [
+            "À Haguenau, les enseignes des deux magasins diffèrent selon les sources."
+          ]
+        },
+        {
+          "t": "06:28",
+          "titre": "700 supermarchés",
+          "items": [
+            {
+              "texte": "Intermarché et Netto, les magasins U (80 touchés, la plupart ont arrêté l’attaque à temps), Carrefour, Monoprix, quelques Leclerc.",
+              "sources": [
+                [
+                  "thn"
+                ],
+                [
+                  "secweek"
+                ]
+              ]
+            },
+            {
+              "texte": "Premiers décomptes de 300 à 400 magasins, puis environ 700 sur 10 000 selon le ministre de l’Économie ; « au cœur de notre sécurité alimentaire ».",
+              "sources": [
+                [
+                  "complex"
+                ],
+                [
+                  "cedar"
+                ]
+              ]
+            },
+            {
+              "texte": "Des cas signalés dans cinq autres pays d’Europe, sans confirmation.",
+              "sources": [
+                [
+                  "aljazeera"
+                ]
+              ]
+            },
+            {
+              "texte": "La nuit suivante, un Leclerc du Tarn équipé de boîtiers Dixell ; l’ANSSI prévient que les attaques sont « probablement toujours en cours ».",
+              "sources": [
+                [
+                  "toms"
+                ]
+              ]
+            }
+          ],
+          "prudences": [
+            "Les chiffres de magasins varient selon les sources et les jours : la vidéo donne les premiers décomptes, puis le chiffre du gouvernement.",
+            "Aucun des autres pays cités n’avait confirmé.",
+            "Une consigne de 150 °C lors de la deuxième vague n’est rapportée que par un site, sans source primaire claire : la vidéo ne la reprend pas."
+          ]
+        },
+        {
+          "t": "07:20",
+          "titre": "Qui, et pourquoi ?",
+          "items": [
+            {
+              "texte": "Aucune revendication, aucune rançon, aucune donnée volée ; un État « ne peut être exclu », mais rien ne l’indique.",
+              "sources": [
+                [
+                  "futura"
+                ],
+                [
+                  "bluewin"
+                ]
+              ]
+            },
+            {
+              "texte": "L’enquête confiée à l’Office anticybercriminalité, sous l’autorité du parquet de Paris ; l’ANSSI demande de débrancher ces boîtiers d’internet.",
+              "sources": [
+                [
+                  "thn"
+                ],
+                [
+                  "toms"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:02",
+          "titre": "Tout s’est aligné",
+          "items": [
+            {
+              "texte": "Le lendemain de l’attaque, des milliers de pages de contrôle Danfoss encore visibles sur internet.",
+              "sources": [
+                [
+                  "complex"
+                ],
+                [
+                  "toms"
+                ]
+              ]
+            }
+          ]
+        }
       ]
     }
   ],
   "rapports": [
-    { "pays": "Claroty", "date": "9 août 2026", "nom": "Les failles des contrôleurs Danfoss", "resume": "Dont le « code du jour » qui ouvre l’accès administrateur.", "liens": [["Publication", "claroty"]] },
-    { "pays": "Danfoss", "date": "oct. 2025", "nom": "La lettre « Tech Insider » du fabricant", "resume": "Les attaques de 2022 en Russie et en Israël, racontées un an avant.", "liens": [["Lettre", "danfoss"]] }
+    {
+      "pays": "Claroty",
+      "date": "9 août 2026",
+      "nom": "Les failles des contrôleurs Danfoss",
+      "resume": "Dont le « code du jour » qui ouvre l’accès administrateur.",
+      "liens": [
+        [
+          "Publication",
+          "claroty"
+        ]
+      ]
+    },
+    {
+      "pays": "Danfoss",
+      "date": "oct. 2025",
+      "nom": "La lettre « Tech Insider » du fabricant",
+      "resume": "Les attaques de 2022 en Russie et en Israël, racontées un an avant.",
+      "liens": [
+        [
+          "Lettre",
+          "danfoss"
+        ]
+      ]
+    }
   ],
   "plus_loin": [],
   "visuels": "Reconstitutions schématiques : positions des magasins et courbes illustratives, documents reconstitués. Aucune marque n’est représentée par son logo. Fonds de carte : Natural Earth.",
   "corrections": [],
   "sources": {
-    "time": { "nom": "TIME", "domaine": "time.com", "url": "https://time.com/article/2026/10/13/france-cyber-attack-cybersecurity-refrigeration-supermarket-food-security/" },
-    "complex": { "nom": "ComplexDiscovery", "domaine": "complexdiscovery.com", "url": "https://complexdiscovery.com/refrigeration-hack-affected-about-700-french-supermarkets-government-says-as-danfoss-interfaces-stay-online/" },
-    "secweek": { "nom": "SecurityWeek", "domaine": "securityweek.com", "url": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/" },
-    "thn": { "nom": "The Hacker News", "domaine": "thehackernews.com", "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html" },
-    "cbs": { "nom": "CBS News (AFP)", "domaine": "cbsnews.com", "url": "https://www.cbsnews.com/news/cyberattack-supermarkets-refrigerators-france-fires-food-losses/" },
-    "macg": { "nom": "MacGeneration", "domaine": "macg.co", "url": "https://www.macg.co/ailleurs/2026/10/des-frigos-regles-50-degc-une-cyberattaque-frappe-des-centaines-de-supermarches-francais-311593", "langue": "FR" },
-    "aljazeera": { "nom": "Al Jazeera (Reuters)", "domaine": "aljazeera.com", "url": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses" },
-    "cedar": { "nom": "Cedar News", "domaine": "cedarnews.net", "url": "https://cedarnews.net/francais/1057906/quand-on-decouvert-lattaque-elle-nous-inquietes/", "langue": "FR" },
-    "toms": { "nom": "Tom’s Guide", "domaine": "tomsguide.fr", "url": "https://www.tomsguide.fr/cyberattaque-des-frigos-de-supermarches-des-appareils-danfoss-exposes-sont-toujours-en-ligne/", "langue": "FR" },
-    "claroty": { "nom": "Claroty Team82", "domaine": "claroty.com", "url": "https://claroty.com/team82/research/freeze-the-controller-defrost-the-food-uncovering-vulnerabilities-in-danfoss-refrigeration-controllers", "officielle": true },
-    "futura": { "nom": "Futura", "domaine": "futura-sciences.com", "url": "https://www.futura-sciences.com/tech/actualites/cyberattaque-plus-400-supermarches-pirates-aucune-rancon-dessous-cyberattaque-inquiete-jusqua-matignon-138509/", "langue": "FR" },
-    "danfoss": { "nom": "Danfoss, lettre « Tech Insider »", "domaine": "danfoss.com", "url": "https://www.danfoss.com/en/service-and-support/articles/dcs/tech-insider-october-2025/", "officielle": true },
-    "bluewin": { "nom": "bluewin", "domaine": "bluewin.ch", "url": "https://www.bluewin.ch/en/news/international/cyberattack-shuts-down-thousands-of-refrigerators-in-western-europe-li.3633954" }
+    "time": {
+      "nom": "TIME",
+      "domaine": "time.com",
+      "url": "https://time.com/article/2026/10/13/france-cyber-attack-cybersecurity-refrigeration-supermarket-food-security/"
+    },
+    "complex": {
+      "nom": "ComplexDiscovery",
+      "domaine": "complexdiscovery.com",
+      "url": "https://complexdiscovery.com/refrigeration-hack-affected-about-700-french-supermarkets-government-says-as-danfoss-interfaces-stay-online/"
+    },
+    "secweek": {
+      "nom": "SecurityWeek",
+      "domaine": "securityweek.com",
+      "url": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/"
+    },
+    "thn": {
+      "nom": "The Hacker News",
+      "domaine": "thehackernews.com",
+      "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html"
+    },
+    "cbs": {
+      "nom": "CBS News (AFP)",
+      "domaine": "cbsnews.com",
+      "url": "https://www.cbsnews.com/news/cyberattack-supermarkets-refrigerators-france-fires-food-losses/"
+    },
+    "macg": {
+      "nom": "MacGeneration",
+      "domaine": "macg.co",
+      "url": "https://www.macg.co/ailleurs/2026/10/des-frigos-regles-50-degc-une-cyberattaque-frappe-des-centaines-de-supermarches-francais-311593",
+      "langue": "FR"
+    },
+    "aljazeera": {
+      "nom": "Al Jazeera (Reuters)",
+      "domaine": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses"
+    },
+    "cedar": {
+      "nom": "Cedar News",
+      "domaine": "cedarnews.net",
+      "url": "https://cedarnews.net/francais/1057906/quand-on-decouvert-lattaque-elle-nous-inquietes/",
+      "langue": "FR"
+    },
+    "toms": {
+      "nom": "Tom’s Guide",
+      "domaine": "tomsguide.fr",
+      "url": "https://www.tomsguide.fr/cyberattaque-des-frigos-de-supermarches-des-appareils-danfoss-exposes-sont-toujours-en-ligne/",
+      "langue": "FR"
+    },
+    "claroty": {
+      "nom": "Claroty Team82",
+      "domaine": "claroty.com",
+      "url": "https://claroty.com/team82/research/freeze-the-controller-defrost-the-food-uncovering-vulnerabilities-in-danfoss-refrigeration-controllers",
+      "officielle": true
+    },
+    "futura": {
+      "nom": "Futura",
+      "domaine": "futura-sciences.com",
+      "url": "https://www.futura-sciences.com/tech/actualites/cyberattaque-plus-400-supermarches-pirates-aucune-rancon-dessous-cyberattaque-inquiete-jusqua-matignon-138509/",
+      "langue": "FR"
+    },
+    "danfoss": {
+      "nom": "Danfoss, lettre « Tech Insider »",
+      "domaine": "danfoss.com",
+      "url": "https://www.danfoss.com/en/service-and-support/articles/dcs/tech-insider-october-2025/",
+      "officielle": true
+    },
+    "bluewin": {
+      "nom": "bluewin",
+      "domaine": "bluewin.ch",
+      "url": "https://www.bluewin.ch/en/news/international/cyberattack-shuts-down-thousands-of-refrigerators-in-western-europe-li.3633954"
+    }
   }
 }
