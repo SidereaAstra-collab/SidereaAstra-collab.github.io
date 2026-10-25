@@ -6,11 +6,12 @@
 <section class="wrap hero">
 <div class="hero-text">
 <p class="eyebrow">Dossier N° {{ d.numero }}</p>
-<h1>{{ d.titre }}</h1>
+<h1{% if d.titre|length > 12 %} class="long"{% endif %}>{{ d.titre }}</h1>
 <p class="sub">{{ d.sous_titre }}</p>
 <p class="meta">{{ d.parties|length }} vidéo{{ 's' if d.parties|length > 1 }} · {{ d.nb_sources }} sources · vérifiées le {{ d.verifie|nbsp }}</p>
+{% if d.avertissement %}<p class="note">{{ d.avertissement }}</p>{% endif %}
 </div>
-{% if d.illustration %}{% include "illustrations/" ~ d.illustration ~ ".svg" %}{% endif %}
+{% if d.illustration %}{% include "illustrations/" ~ d.illustration ~ ".svg" %}{% elif d.image_entete %}<img class="hero-img" src="/assets/img/{{ d.image_entete }}" alt="{{ d.image_alt }}" width="960" height="540">{% endif %}
 </section>
 
 <section id="sources" class="wrap sources" aria-labelledby="sources-titre">
@@ -25,9 +26,9 @@
 {% endfor %}</nav>
 {% endif %}
 {% for p in d.parties %}
-<section class="part" id="{{ p.id }}" aria-label="Partie {{ p.numero }} : {{ p.nom }}">
+<section class="part" id="{{ p.id }}" aria-label="{% if d.parties|length > 1 %}Partie {{ p.numero }} : {% endif %}{{ p.nom }}">
 <div class="bar">
-<h3><strong>Partie {{ p.numero }}</strong> · {{ p.passages|length }} passages sourcés{% if p.note %} · {{ p.note }}{% endif %}</h3>
+<h3>{% if d.parties|length > 1 %}<strong>Partie {{ p.numero }}</strong> · {% endif %}{{ p.passages|length }} passages sourcés{% if p.note %} · {{ p.note }}{% endif %}</h3>
 <div class="bar-act">
 <a class="ext" href="https://www.youtube.com/watch?v={{ p.youtube }}" rel="noopener">Regarder la vidéo{{ ext() }}</a>
 <button type="button" class="btn btn-all" hidden>Tout ouvrir</button>
@@ -57,11 +58,11 @@
 {% endfor %}
 </section>
 {% endfor %}
-<p class="legend"><span><span class="dot off" aria-hidden="true"></span>Source officielle</span><span><span class="dot" aria-hidden="true"></span>Presse, témoignage</span><span class="m">EN : en anglais · PDF : document</span></p>
+<p class="legend"><span><span class="dot off" aria-hidden="true"></span>Document d’origine : rapport, communiqué, décision</span><span><span class="dot" aria-hidden="true"></span>Presse, témoignage</span><span class="m">EN : en anglais · PDF : document</span></p>
 </section>
 
 {% if d.rapports %}<section class="wrap rapports" aria-labelledby="rapports-titre">
-<h2 id="rapports-titre" class="sec-title small">{{ 'Les trois rapports officiels' if d.rapports|length == 3 else 'Les rapports officiels' }}</h2>
+<h2 id="rapports-titre" class="sec-title small">{{ d.titre_rapports if d.titre_rapports else ('Les trois rapports officiels' if d.rapports|length == 3 else 'Les rapports officiels') }}</h2>
 <div class="cards">
 {% for r in d.rapports %}<article class="rap">
 <p class="rap-k"><span>{{ r.pays }}</span> · {{ r.date }}</p>

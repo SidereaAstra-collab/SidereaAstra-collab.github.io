@@ -46,6 +46,8 @@ def secondes(t):
 def preparer_dossier(d, chaine, site):
     """Résout les sources citées, compte, et ajoute ce dont les pages ont besoin."""
     erreurs = []
+    for cle in ("illustration", "image_entete", "image_alt", "avertissement", "titre_rapports"):
+        d.setdefault(cle, "")
     S = d["sources"]
     urls = set()
 

@@ -10,7 +10,11 @@
       "youtube": "https://www.youtube.com/@LaMecaniqueDuPire",
       "tiktok": "https://www.tiktok.com/@la_mecanique_du_pire",
       "instagram": "https://www.instagram.com/la_mecanique_du_pire/",
-      "dossiers": ["titan"]
+      "dossiers": [
+        "frigos-pirates",
+        "titan",
+        "deepwater-horizon"
+      ]
     },
     {
       "slug": "carte-et-cachet",

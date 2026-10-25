@@ -1,0 +1,144 @@
+{
+  "slug": "deepwater-horizon",
+  "numero": "02",
+  "titre": "Deepwater Horizon",
+  "sous_titre": "La plateforme de BP et le puits Macondo, 20 avril 2010",
+  "description": "Les sources de la vidéo de La mécanique du pire sur Deepwater Horizon, passage par passage : rapports d'enquête, décisions de justice, presse et études scientifiques.",
+  "verifie": "12 oct. 2026",
+  "mise_a_jour": "25 oct. 2026",
+  "image_partage": "deepwater-horizon.jpg",
+  "image_entete": "deepwater-horizon.jpg",
+  "image_alt": "Image de la vidéo : la plateforme Deepwater Horizon, de nuit, envahie par le gaz.",
+  "titre_rapports": "Les rapports d’enquête",
+  "parties": [
+    {
+      "id": "video",
+      "numero": 1,
+      "nom": "Deepwater Horizon",
+      "mise_en_ligne": "13 oct. 2026",
+      "youtube": "xXpn8cuAk34",
+      "miniature": "deepwater-horizon.jpg",
+      "note": "",
+      "passages": [
+        { "t": "00:00", "titre": "La nuit du 20 avril 2010", "items": [
+          { "texte": "126 personnes à bord ; peu avant 22 h, la boue jaillit, le gaz se répand, deux explosions ; la plateforme coule et le puits reste ouvert 87 jours.", "sources": [["joint", "chronologie"], ["comm"]] },
+          { "texte": "Dans son propre rapport d’enquête, BP dessine le « fromage suisse » de l’accident, avec huit barrières franchies.", "sources": [["bpRap"]] }
+        ]},
+        { "t": "01:32", "titre": "Macondo, un puits difficile", "items": [
+          { "texte": "Un puits d’exploration en retard de plus de cinq semaines, au-dessus de son budget ; plus d’un demi-million de dollars par jour de location de la plateforme.", "sources": [["joint", "coûts et retard du puits"]] },
+          { "texte": "BP exploite le puits, Transocean possède la plateforme, Halliburton cimente.", "sources": [["comm"]] }
+        ]},
+        { "t": "02:18", "titre": "Barrière 1 · Le ciment", "items": [
+          { "texte": "Vingt et un centreurs recommandés, six posés ; la mesure de la qualité du ciment n’est pas faite, l’équipe chargée de la faire est renvoyée à terre.", "sources": [["congres", "14 juin 2010"]] },
+          { "texte": "Un ciment allégé à l’azote, dont des essais laissaient craindre qu’il ne soit pas stable.", "sources": [["comm"]] }
+        ]},
+        { "t": "02:58", "titre": "Barrière 2 · Le test", "items": [
+          { "texte": "La pression remonte dans les tiges de forage, l’« effet vessie » sert d’explication, le test est déclaré réussi sans procédure écrite pour l’interpréter.", "sources": [["bpRap"], ["comm"]] }
+        ]},
+        { "t": "03:36", "titre": "Barrière 3 · La surveillance", "items": [
+          { "texte": "Près de quarante minutes de pressions anormales ; une partie du flux rejetée à la mer en contournant les appareils de mesure.", "sources": [["bpRap"], ["comm"]] },
+          { "texte": "Le séparateur débordé, le gaz jusqu’aux moteurs, qui l’enflamment très probablement.", "sources": [["bpRap"]] }
+        ]},
+        { "t": "04:22", "titre": "Barrière 4 · Le bloc obturateur", "items": [
+          { "texte": "Le tube de forage tordu et décentré, hors de portée des lames, percé au lieu d’être tranché ; erreurs de câblage et batteries défaillantes.", "sources": [["csb1", "volume 1"], ["workboat"]] }
+        ]},
+        { "t": "04:58", "titre": "L’évacuation", "items": [
+          { "texte": "115 personnes évacuées, dont 17 blessés ; onze morts, jamais retrouvés.", "sources": [["joint"], ["comm"]] }
+        ]},
+        { "t": "05:18", "titre": "Les 87 jours", "items": [
+          { "texte": "Mille, puis cinq mille barils par jour annoncés ; estimation finale de 53 000 à 62 000.", "sources": [["wikiVol"]] },
+          { "texte": "La vidéo de la fuite diffusée en direct à partir du 20 mai, à la demande d’élus du Congrès.", "sources": [["markey", "19 mai 2010"]] },
+          { "texte": "BP plaidera coupable d’entrave au Congrès sur le débit.", "sources": [["plaidoyer"]] }
+        ]},
+        { "t": "06:02", "titre": "Des plans d’urgence recopiés", "items": [
+          { "texte": "Des morses dans le golfe du Mexique, un expert mort en 2005, le même consultant pour quatre compagnies : l’audition du 15 juin 2010.", "sources": [["nprPlans"], ["mojo"]] },
+          { "texte": "La dispense d’étude d’impact accordée à Macondo.", "sources": [["crs"]] }
+        ]},
+        { "t": "06:50", "titre": "Des outils de 1979", "items": [
+          { "texte": "Ixtoc I, en 1979 : les mêmes méthodes, et un puits de secours pour finir.", "sources": [["nprIxtoc"], ["noaaIxtoc"]] },
+          { "texte": "Une industrie sans rien de prêt à cette profondeur ; un couvercle conçu pendant la crise.", "sources": [["nbc"]] }
+        ]},
+        { "t": "07:35", "titre": "Ce que devient le pétrole", "items": [
+          { "texte": "Des dispersants injectés au fond, une première, puis la demande de l’agence de l’environnement d’en réduire l’usage.", "sources": [["tos"], ["epa"]] },
+          { "texte": "Des panaches profonds, du méthane consommé par les bactéries, du pétrole qui tombe vers le fond.", "sources": [["whoi"], ["ecoNeige"]] },
+          { "texte": "Environ 5 % brûlés, à peine 3 % récupérés ; la crainte du Loop Current.", "sources": [["pbs"], ["natgeo"]] },
+          { "texte": "Plus de trois millions de barils selon la justice.", "sources": [["oedigital", "15 janv. 2015"], ["jurist"]] },
+          { "texte": "Plus de 2 000 km de côtes souillées ; marais, huîtres, tortues, dauphins, coraux profonds.", "sources": [["noaa"]] }
+        ], "prudences": ["Le juge a retenu 3,19 millions de barils déversés, moins que l’estimation du gouvernement (4,09 millions) : la vidéo donne le chiffre de la justice."]},
+        { "t": "08:51", "titre": "À terre", "items": [
+          { "texte": "Les nouveaux forages en eaux profondes suspendus pour six mois, à partir de fin mai.", "sources": [["wikiMor"]] },
+          { "texte": "La pêche interdite sur environ 37 % des eaux fédérales du golfe, début juin.", "sources": [["noaaPeche", "2 juin 2010"]] },
+          { "texte": "Vingt milliards de dollars bloqués pour indemniser les victimes, mi-juin.", "sources": [["ogj", "16 juin 2010"]] },
+          { "texte": "Plus de symptômes d’asthme chez les personnes qui ont nettoyé.", "sources": [["niehs"]] }
+        ]},
+        { "t": "09:54", "titre": "La commission", "items": [
+          { "texte": "BP rejette une partie des fautes sur Transocean et Halliburton.", "sources": [["bpRap"]] },
+          { "texte": "Une cause commune, une gestion du risque défaillante ; des décisions qui faisaient gagner du temps et de l’argent ; un incident très proche chez Transocean en mer du Nord.", "sources": [["comm"]] }
+        ]},
+        { "t": "10:18", "titre": "La justice", "items": [
+          { "texte": "2012 : BP plaide coupable d’onze homicides involontaires et d’entrave au Congrès, 4 milliards de dollars.", "sources": [["plaidoyer"]] },
+          { "texte": "2014 : négligence grave ; responsabilités partagées à 67, 30 et 3 %.", "sources": [["mex2014", "4 sept. 2014"]] },
+          { "texte": "Un règlement de 20,8 milliards de dollars, validé en 2016.", "sources": [["ecomag"]] },
+          { "texte": "Poursuites contre des personnes abandonnées ou terminées par des acquittements.", "sources": [["pgj"]] }
+        ]},
+        { "t": "10:55", "titre": "Ce qui a changé", "items": [
+          { "texte": "Juillet 2010 : quatre compagnies créent une société commune chargée de tenir des couvercles prêts.", "sources": [["mwcc"]] },
+          { "texte": "L’agence qui contrôlait la sécurité et encaissait les revenus du pétrole, démantelée en trois.", "sources": [["doi"]] },
+          { "texte": "La règle sur les blocs obturateurs : 2016, 2019, 2023, puis des révisions proposées en 2026.", "sources": [["eelp"]] },
+          { "texte": "Juillet 2026 : concessions et sécurité de nouveau dans une même administration.", "sources": [["mondaq"]] }
+        ]},
+        { "t": "11:48", "titre": "Un dernier détail", "items": [
+          { "texte": "Sept ans sans accident avec arrêt, célébrés à bord le jour même ; Texas City en 2005 ; une sécurité mesurée au nombre de blessés.", "sources": [["csbAudience", "24 juill. 2012"], ["csb3", "volume 3"]] }
+        ]}
+      ]
+    }
+  ],
+  "rapports": [
+    { "pays": "BP", "date": "8 sept. 2010", "nom": "Le rapport d’enquête de BP", "resume": "Huit barrières franchies, dessinées par l’entreprise elle-même.", "liens": [["Rapport, PDF", "bpRap"]] },
+    { "pays": "États-Unis", "date": "janv. 2011", "nom": "Commission nationale sur la marée noire", "resume": "Une gestion du risque défaillante, des choix qui faisaient gagner du temps et de l’argent.", "liens": [["Rapport, PDF", "comm"]] },
+    { "pays": "États-Unis", "date": "2011", "nom": "Garde côtière et BOEMRE, enquête conjointe", "resume": "La chronologie, les coûts, le retard du puits.", "liens": [["Rapport, PDF", "joint"]] },
+    { "pays": "États-Unis", "date": "2014 et 2016", "nom": "CSB, bureau d’enquête sur les accidents chimiques", "resume": "Le bloc obturateur, puis les indicateurs de sécurité.", "liens": [["Volume 1, PDF", "csb1"], ["Volume 3, PDF", "csb3"]] }
+  ],
+  "plus_loin": [],
+  "visuels": "Reconstitutions schématiques : proportions, chronologies et courbes illustratives, documents reconstitués. Les cartes de la nappe, de la zone de pêche fermée et du Loop Current sont approximatives. Fonds de carte : Natural Earth.",
+  "corrections": [],
+  "sources": {
+    "bpRap": { "nom": "BP, rapport d’enquête", "domaine": "dco.uscg.mil", "url": "https://www.dco.uscg.mil/Portals/9/OCSNCOE/Casualty-Information/DWH-Macondo/BP/BP-DWH-Accident-Investigation-Report-2010.09.08.pdf", "officielle": true, "pdf": true },
+    "comm": { "nom": "Commission nationale, rapport « Deep Water »", "domaine": "govinfo.gov", "url": "https://www.govinfo.gov/content/pkg/GPO-OILCOMMISSION/pdf/GPO-OILCOMMISSION.pdf", "officielle": true, "pdf": true },
+    "joint": { "nom": "Garde côtière et BOEMRE, enquête conjointe", "domaine": "bsee.gov", "url": "https://www.bsee.gov/sites/bsee.gov/files/reports/safety/dwhfinal.pdf", "officielle": true, "pdf": true },
+    "csb1": { "nom": "CSB, rapport sur le bloc obturateur", "domaine": "csb.gov", "url": "https://www.csb.gov/assets/1/7/vol_1_final.pdf", "officielle": true, "pdf": true },
+    "csb3": { "nom": "CSB, indicateurs de sécurité", "domaine": "csb.gov", "url": "https://www.csb.gov/assets/1/20/Macondo_Vol3_Final_20160527.pdf", "officielle": true, "pdf": true },
+    "csbAudience": { "nom": "CSB, audience publique", "domaine": "csb.gov", "url": "https://csb.gov/at-the-time-of-2010-gulf-blowout-transocean-bp-industry-associations-and-government-offshore-regulators-had-not-effectively-learned-critical-lessons-from-2005-bp-refinery-explosion-in-implementing-safety-performance-indicators", "officielle": true },
+    "workboat": { "nom": "WorkBoat", "domaine": "workboat.com", "url": "https://www.workboat.com/news/offshore/deepwater-horizon-blowout-preventer-failed-due-to-unrecognized-pipe-buckling-report-says/" },
+    "congres": { "nom": "Lettre du Congrès au PDG de BP", "domaine": "offshoreinjuries.com (copie)", "url": "https://www.offshoreinjuries.com/media/pdfs/06-14-10_Ltr_from_Congress_to_Hayward.pdf", "officielle": true, "pdf": true },
+    "oedigital": { "nom": "Offshore Engineer", "domaine": "oedigital.com", "url": "https://www.oedigital.com/component/k2/item/8013-court-rules-on-macondo-oil-spill-amount" },
+    "jurist": { "nom": "JURIST", "domaine": "jurist.org", "url": "https://www.jurist.org/news/2015/01/federal-judge-reduces-maximum-fine-for-bp-gulf-oil-spill/" },
+    "noaa": { "nom": "NOAA, dommages et restauration", "domaine": "fisheries.noaa.gov", "url": "https://www.fisheries.noaa.gov/habitat-conservation/deepwater-horizon-moment-time-decades-restoration", "officielle": true },
+    "plaidoyer": { "nom": "Offshore", "domaine": "offshore-mag.com", "url": "https://www.offshore-mag.com/deepwater/article/16784705/deepwater-horizon-bp-us-government-resolve-all-criminal-charges-sec-claims" },
+    "mex2014": { "nom": "The Maritime Executive", "domaine": "maritime-executive.com", "url": "https://maritime-executive.com/article/BP-Grossly-Negligent-in-Deepwater-Horizon-Spill-2014-09-04" },
+    "ecomag": { "nom": "ECO Magazine", "domaine": "ecomagazine.com", "url": "https://ecomagazine.com/news/policy/judge-finalizes-20-8-billion-penalty-for-deepwater-horizon-oil-disaster/" },
+    "pgj": { "nom": "Pipeline & Gas Journal", "domaine": "pgjonline.com", "url": "https://pgjonline.com/2015/12/02/manslaughter-charges-dropped-for-bp-supervisors-in-oil-spill/" },
+    "doi": { "nom": "Département de l’Intérieur des États-Unis, communiqué", "domaine": "doi.gov", "url": "https://www.doi.gov/news/pressreleases/Interior-Department-Completes-Reorganization-of-the-Former-MMS", "officielle": true },
+    "eelp": { "nom": "Harvard, Environmental & Energy Law Program", "domaine": "eelp.law.harvard.edu", "url": "https://eelp.law.harvard.edu/tracker/bsee-blowout-preventer-and-well-control-rule" },
+    "mondaq": { "nom": "Mondaq", "domaine": "mondaq.com", "url": "https://www.mondaq.com/unitedstates/oil-gas-electricity/1824376/establishment-of-the-marine-minerals-administration" },
+    "wikiVol": { "nom": "Wikipédia, « Volume and extent of the Deepwater Horizon oil spill »", "domaine": "en.wikipedia.org", "url": "https://en.wikipedia.org/wiki/Volume_and_extent_of_the_Deepwater_Horizon_oil_spill" },
+    "markey": { "nom": "Sénateur Ed Markey, communiqué", "domaine": "markey.senate.gov", "url": "https://www.markey.senate.gov/news/press-releases/may-19-2010-markey-asks-bp-to-post-live-feed-of-oil-leak-on-website", "officielle": true },
+    "nprPlans": { "nom": "NPR", "domaine": "npr.org", "url": "https://www.npr.org/sections/thetwo-way/2010/06/15/127863551/oil-execs-grilled-for-identical-emergency-plans-walruses-and-all" },
+    "mojo": { "nom": "Mother Jones", "domaine": "motherjones.com", "url": "https://fullsite.motherjones.com/politics/2010/06/oil-companies-bp-spill-response" },
+    "crs": { "nom": "Service de recherche du Congrès (CRS)", "domaine": "everycrsreport.com", "url": "https://www.everycrsreport.com/files/20100819_R41265_b004cc7baf547b89cff10167726cca45060334d2.html", "officielle": true },
+    "nprIxtoc": { "nom": "NPR", "domaine": "npr.org", "url": "https://www.npr.org/2010/06/04/127406559/repeating-ixtocs-oil-soaked-history" },
+    "noaaIxtoc": { "nom": "NOAA, fiche Ixtoc I", "domaine": "incidentnews.noaa.gov", "url": "https://incidentnews.noaa.gov/incident/6250", "officielle": true },
+    "nbc": { "nom": "NBC News", "domaine": "nbcnews.com", "url": "https://www.nbcnews.com/id/wbna40319525" },
+    "tos": { "nom": "Oceanography (revue scientifique)", "domaine": "tos.org", "url": "https://tos.org/oceanography/article/a-decade-of-gomri-dispersant-science-lessons-learned-and-recommendations-for-the-future" },
+    "epa": { "nom": "EPA, questions sur les dispersants", "domaine": "archive.epa.gov", "url": "https://archive.epa.gov/emergency/bpspill/web/html/dispersants-qanda.html", "officielle": true },
+    "whoi": { "nom": "Woods Hole Oceanographic Institution", "domaine": "whoi.edu", "url": "https://www2.whoi.edu/site/jameskinsey/pubs/peer-reviewed-journal-articles/tracking-hydrocarbon-plume-transport-and-biodegradation-at-deepwater-horizon" },
+    "ecoNeige": { "nom": "ECO Magazine", "domaine": "ecomagazine.com", "url": "https://ecomagazine.com/news/research/what-we-know-about-marine-oil-snow-and-deepwater-horizon/" },
+    "pbs": { "nom": "PBS NewsHour", "domaine": "pbs.org", "url": "https://www.pbs.org/newshour/science/three-quarters-of-gulf-spill-oil-is-accounted-for-government-says" },
+    "natgeo": { "nom": "National Geographic", "domaine": "nationalgeographic.com", "url": "https://www.nationalgeographic.com/science/article/100518-gulf-mexico-oil-spill-loop-current-science-environment" },
+    "noaaPeche": { "nom": "NOAA, fermetures de pêche", "domaine": "fisheries.noaa.gov", "url": "https://www.fisheries.noaa.gov/content/deepwater-horizon-oil-spill-2010-size-and-percent-coverage-fishing-area-closures-due", "officielle": true },
+    "wikiMor": { "nom": "Wikipédia, « 2010 United States deepwater drilling moratorium »", "domaine": "en.wikipedia.org", "url": "https://en.wikipedia.org/wiki/2010_United_States_deepwater_drilling_moratorium" },
+    "ogj": { "nom": "Oil & Gas Journal", "domaine": "ogj.com", "url": "https://ogj.com/general-interest/companies/article/17208539/bp-to-establish-20-billion-oil-spill-compensation-fund" },
+    "niehs": { "nom": "NIEHS, étude GuLF", "domaine": "niehs.nih.gov", "url": "https://www.niehs.nih.gov/newsreleases/oil-spill-cleanup-workers-more-likely-to-have-asthma-symptoms", "officielle": true },
+    "mwcc": { "nom": "The Maritime Executive", "domaine": "maritime-executive.com", "url": "https://maritime-executive.com/article/four-major-oil-companies-create-marine-well-containment-company" }
+  }
+}

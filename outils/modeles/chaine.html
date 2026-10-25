@@ -7,7 +7,7 @@
 <h1>Les dossiers</h1>
 <div>
 {% for d in chaine.liste %}<a class="dos" href="/{{ chaine.slug }}/{{ d.slug }}/">
-<span class="dos-img">{% for p in d.parties %}<img src="/assets/img/{{ p.miniature }}" alt="" width="128" height="72" loading="lazy">{% endfor %}</span>
+<span class="dos-img"><img src="/assets/img/{{ d.image_entete or d.parties[0].miniature }}" alt="" width="128" height="72" loading="lazy"></span>
 <span class="dos-txt"><span class="dos-k">Dossier N° {{ d.numero }}</span><span class="dos-t">{{ d.titre }}</span><span class="dos-m">{{ d.parties|length }} vidéo{{ 's' if d.parties|length > 1 }} · {{ d.nb_sources }} sources · vérifiées le {{ d.verifie|nbsp }}</span></span>
 </a>
 {% endfor %}</div>
