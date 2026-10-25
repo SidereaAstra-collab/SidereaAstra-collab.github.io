@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% from "morceaux.html" import entete_neutre, pied_neutre %}
+{% block corps %}
+{{ entete_neutre() }}
+<main class="wrap texte">
+<h1>Mentions légales</h1>
+
+<h2>Éditeur</h2>
+<p>Ce site est publié à titre personnel et non professionnel par l’auteur des chaînes YouTube La mécanique du pire et Carte &amp; Cachet. Pour le contacter : un commentaire sous l’une des vidéos, ou un signalement sur <a href="{{ site.depot }}/issues" rel="noopener">la page du dépôt</a>.</p>
+
+<h2>Hébergeur</h2>
+<p>GitHub, Inc. (GitHub Pages)<br>88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis<br>Téléphone : +1 877 448 4820</p>
+
+<h2>Données personnelles</h2>
+<p>Le site ne dépose aucun cookie, ne mesure pas l’audience et n’affiche aucune publicité. Les polices de caractères et les images sont hébergées sur le site lui-même. Comme tout hébergeur, GitHub peut enregistrer des données techniques de connexion, comme l’adresse IP : voir sa <a href="https://docs.github.com/fr/site-policy/privacy-policies/github-general-privacy-statement" rel="noopener">déclaration de confidentialité</a>.</p>
+
+<h2>Contenus</h2>
+<p>Les liens mènent vers des pages et des documents qui appartiennent à leurs auteurs. Les textes de ce site résument ce que disent les vidéos ; les citations sont courtes et renvoient à leur source.</p>
+<p>Polices : Newsreader, Inter, IBM Plex Mono et EB Garamond, sous licence SIL Open Font License.</p>
+</main>
+{{ pied_neutre() }}
+{% endblock %}

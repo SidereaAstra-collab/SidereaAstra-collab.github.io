@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% from "morceaux.html" import ext, marque_mdp, entete_neutre, pied_neutre %}
+{% block corps %}
+{{ entete_neutre() }}
+<main class="wrap">
+<section class="home-hero">
+<h1>Les sources</h1>
+<p>Les sources des vidéos de deux chaînes YouTube, rangées passage par passage, avec ce qui reste incertain.</p>
+</section>
+<div class="chaines">
+{% for c in site.chaines %}
+{% if c.theme == 'mdp' %}
+<section class="ch ch-mdp" id="{{ c.slug }}" aria-labelledby="t-{{ c.slug }}">
+<div class="ch-head">{{ marque_mdp(46, 30) }}<h2 id="t-{{ c.slug }}">La mécanique <em>du&nbsp;pire</em></h2></div>
+<p class="acc">{{ c.accroche }}</p>
+<ul class="ch-list">
+{% for d in c.liste %}<li><a href="/{{ c.slug }}/{{ d.slug }}/"><span class="n">N° {{ d.numero }}</span><span class="t">{{ d.titre }}</span><span class="c">{{ d.parties|length }} vidéo{{ 's' if d.parties|length > 1 }} · {{ d.nb_sources }} sources</span></a></li>
+{% endfor %}</ul>
+<div class="ch-links"><a href="/{{ c.slug }}/">Tous les dossiers</a><a href="{{ c.youtube }}" rel="noopener">La chaîne YouTube{{ ext() }}</a></div>
+</section>
+{% else %}
+<section class="ch ch-cc" id="{{ c.slug }}" aria-labelledby="t-{{ c.slug }}">
+<div class="ch-head"><img src="/assets/img/sceau-carte-et-cachet.webp" alt="" width="56" height="56"><h2 id="t-{{ c.slug }}">Carte &amp; Cachet</h2></div>
+<p class="acc">{{ c.accroche }}</p>
+{% if c.liste %}<ul class="ch-list">
+{% for d in c.liste %}<li><a href="/{{ c.slug }}/{{ d.slug }}/"><span class="n">{{ d.numero }}</span><span class="t">{{ d.titre }}</span><span class="c">{{ d.nb_sources }} sources</span></a></li>
+{% endfor %}</ul>{% else %}<p class="ch-empty">Les pages de sources arrivent.</p>{% endif %}
+<div class="ch-links"><a href="{{ c.youtube }}" rel="noopener">La chaîne YouTube{{ ext() }}</a></div>
+</section>
+{% endif %}
+{% endfor %}
+</div>
+</main>
+{{ pied_neutre() }}
+{% endblock %}

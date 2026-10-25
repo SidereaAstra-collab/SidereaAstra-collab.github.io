@@ -1,0 +1,24 @@
+{
+  "url": "https://sidereaastra-collab.github.io",
+  "depot": "https://github.com/SidereaAstra-collab/SidereaAstra-collab.github.io",
+  "chaines": [
+    {
+      "slug": "mecanique-du-pire",
+      "nom": "La mécanique du pire",
+      "theme": "mdp",
+      "accroche": "Des catastrophes, expliquées comme des enchaînements.",
+      "youtube": "https://www.youtube.com/@LaMecaniqueDuPire",
+      "tiktok": "https://www.tiktok.com/@la_mecanique_du_pire",
+      "instagram": "https://www.instagram.com/la_mecanique_du_pire/",
+      "dossiers": ["titan"]
+    },
+    {
+      "slug": "carte-et-cachet",
+      "nom": "Carte & Cachet",
+      "theme": "cc",
+      "accroche": "L’histoire racontée sur la carte, pions à l’appui.",
+      "youtube": "https://www.youtube.com/@CarteEtCachet",
+      "dossiers": []
+    }
+  ]
+}

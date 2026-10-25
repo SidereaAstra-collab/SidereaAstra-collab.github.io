@@ -1,0 +1,58 @@
+{% macro ext() -%}
+<svg class="ico" width="10" height="10" viewBox="0 0 10 10" aria-hidden="true"><path d="M3 1.5h5.5V7M8.5 1.5L1.5 8.5" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+{%- endmacro %}
+
+{% macro marque_mdp(w=46, h=30) -%}
+<svg class="ico" width="{{ w }}" height="{{ h }}" viewBox="0 0 46 30" aria-hidden="true"><line x1="1" y1="17" x2="45" y2="13.5" stroke="#E8483B" stroke-width="1.6"/><polygon points="9,6 16,4.5 16,25 9,27.5" fill="#2E3E51" stroke="#6A7F97" stroke-width="0.6"/><polygon points="20,4 27,2.5 27,23 20,25.5" fill="#2E3E51" stroke="#6A7F97" stroke-width="0.6"/><polygon points="31,6 38,4.5 38,24.5 31,27" fill="#2E3E51" stroke="#6A7F97" stroke-width="0.6"/><circle cx="11.2" cy="9.5" r="0.9" fill="#0B1219"/><circle cx="24.5" cy="20.5" r="1" fill="#0B1219"/><circle cx="35.5" cy="21" r="0.9" fill="#0B1219"/><circle cx="12.5" cy="16.1" r="1.9" fill="#E8483B"/><circle cx="23.5" cy="15.2" r="1.9" fill="#E8483B"/><circle cx="34.5" cy="14.3" r="1.9" fill="#E8483B"/></svg>
+{%- endmacro %}
+
+{% macro entete_mdp(chaine) -%}
+<header class="top">
+<div class="wrap">
+<a class="brand" href="/{{ chaine.slug }}/" aria-label="La mécanique du pire, tous les dossiers">{{ marque_mdp() }}<span class="brand-name">La mécanique <em>du&nbsp;pire</em></span></a>
+<nav class="nav" aria-label="Navigation du site">
+<a class="nav-opt" href="/{{ chaine.slug }}/">Dossiers</a>
+<a href="{{ chaine.youtube }}" rel="noopener">YouTube{{ ext() }}</a>
+</nav>
+</div>
+</header>
+{%- endmacro %}
+
+{% macro entete_neutre() -%}
+<header class="top">
+<div class="wrap">
+<a class="brand" href="/"><span class="brand-plain">Les sources</span></a>
+<nav class="nav" aria-label="Navigation du site">
+{% for c in site.chaines %}<a href="/#{{ c.slug }}">{{ c.nom }}</a>
+{% endfor %}</nav>
+</div>
+</header>
+{%- endmacro %}
+
+{% macro pied_mdp(chaine) -%}
+<footer class="foot">
+<div class="wrap">
+<span class="brand-name">La mécanique <em>du&nbsp;pire</em></span>
+<nav class="nav" aria-label="Liens du site">
+<a href="/">Toutes les sources</a>
+<a href="{{ chaine.youtube }}" rel="noopener">YouTube</a>
+{% if chaine.tiktok %}<a href="{{ chaine.tiktok }}" rel="noopener">TikTok</a>
+{% endif %}{% if chaine.instagram %}<a href="{{ chaine.instagram }}" rel="noopener">Instagram</a>
+{% endif %}<a href="/#carte-et-cachet">Carte &amp; Cachet</a>
+<a href="/mentions-legales/">Mentions légales</a>
+</nav>
+</div>
+</footer>
+{%- endmacro %}
+
+{% macro pied_neutre() -%}
+<footer class="foot">
+<div class="wrap">
+<span class="brand-plain">Les sources</span>
+<nav class="nav" aria-label="Liens du site">
+{% for c in site.chaines %}<a href="{{ c.youtube }}" rel="noopener">{{ c.nom }} sur YouTube</a>
+{% endfor %}<a href="/mentions-legales/">Mentions légales</a>
+</nav>
+</div>
+</footer>
+{%- endmacro %}

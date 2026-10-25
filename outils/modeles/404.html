@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% from "morceaux.html" import entete_neutre, pied_neutre %}
+{% block corps %}
+{{ entete_neutre() }}
+<main class="wrap texte">
+<h1>Page introuvable</h1>
+<p>Cette adresse ne mène à aucune page. <a href="/">Retour à l’accueil</a>.</p>
+</main>
+{{ pied_neutre() }}
+{% endblock %}

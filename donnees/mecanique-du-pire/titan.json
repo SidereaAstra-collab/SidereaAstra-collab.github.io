@@ -1,0 +1,227 @@
+{
+  "slug": "titan",
+  "numero": "03",
+  "titre": "Titan",
+  "sous_titre": "Le sous-marin d’OceanGate, 18 juin 2023",
+  "description": "Les sources des deux vidéos de La mécanique du pire sur le Titan, passage par passage : enquêtes officielles, presse, témoignages et points incertains.",
+  "verifie": "23 oct. 2026",
+  "mise_a_jour": "25 oct. 2026",
+  "image_partage": "titan-partage.jpg",
+  "illustration": "barrieres",
+  "parties": [
+    {
+      "id": "partie-1",
+      "numero": 1,
+      "nom": "Construire le Titan",
+      "mise_en_ligne": "21 oct. 2026",
+      "youtube": "Z6IylfUPRuY",
+      "miniature": "titan-partie-1.jpg",
+      "note": "",
+      "passages": [
+        { "t": "00:00", "titre": "Le dernier message", "items": [
+          { "texte": "« Lâché deux poids » : le dernier message du Titan, à 10 h 47, depuis 3 341 mètres.", "sources": [["uscgRap", "chronologie de la plongée 88"]] }
+        ]},
+        { "t": "00:32", "titre": "Quatre protections", "items": [
+          { "texte": "Une mort jugée « évitable » : la conception, la certification, l’entretien et l’inspection sont en cause.", "sources": [["uscgCP", "5 août 2025"]] }
+        ]},
+        { "t": "01:02", "titre": "Stockton Rush et OceanGate", "items": [
+          { "texte": "OceanGate, son fondateur et le Titan : les repères généraux.", "sources": [["wikiT"]] }
+        ]},
+        { "t": "01:44", "titre": "Un tube en carbone", "items": [
+          { "texte": "Une coque en tube de fibre de carbone de 127 mm, fermée par deux dômes en titane.", "sources": [["wikiT"]] },
+          { "texte": "L’université de Washington travaille sur le projet de 2013 à 2017, puis s’oppose à un choix de conception jugé non éprouvé.", "sources": [["krem"]] },
+          { "texte": "Des maquettes au tiers cèdent pendant les essais ; OceanGate ajoute des anneaux en titane.", "sources": [["dn"]] }
+        ]},
+        { "t": "02:45", "titre": "Écouter la coque", "items": [
+          { "texte": "Les capteurs qui écoutent la coque, un système breveté par Stockton Rush.", "sources": [["wikiT"]] }
+        ]},
+        { "t": "03:09", "titre": "Barrière 1 · Le contrôle", "items": [
+          { "texte": "Ni classé ni inspecté ; des plongées présentées comme de la recherche, hors des règles des navires à passagers.", "sources": [["uscgRap"]] },
+          { "texte": "2019 : sur son site, OceanGate présente ce genre de validation comme l’ennemi de l’innovation rapide.", "sources": [["kunc"]] }
+        ]},
+        { "t": "04:12", "titre": "La première coque", "items": [
+          { "texte": "2018 : les essais aux Bahamas, et la foudre qui frappe le sous-marin.", "sources": [["knkx"]] },
+          { "texte": "Printemps 2019 : Karl Stanley entend des craquements et écrit à Stockton Rush le lendemain.", "sources": [["abc7nyKS"]] },
+          { "texte": "Un défaut est découvert ; la première coque est retirée du service.", "sources": [["wikiT"]] }
+        ]},
+        { "t": "04:57", "titre": "La deuxième coque", "items": [
+          { "texte": "Les anneaux et les dômes réutilisés ; un essai à 1,09 fois la pression de l’épave, quand les normes demandent 1,25.", "sources": [["dn"]] }
+        ]},
+        { "t": "05:20", "titre": "Barrière 2 · Les alertes", "items": [
+          { "texte": "David Lochridge : le rapport de janvier 2018, le licenciement, la procédure réglée en novembre 2018.", "sources": [["abc7L"]] },
+          { "texte": "« Je savais que cette coque céderait », puis « l’arrogance » : son audition devant les enquêteurs.", "sources": [["abc13", "audience du 17 sept. 2024"]] }
+        ]},
+        { "t": "06:20", "titre": "La lettre, Tony Nissen", "items": [
+          { "texte": "La lettre préparée par des spécialistes de la Marine Technology Society, en mars 2018.", "sources": [["kunc"]] },
+          { "texte": "Tony Nissen : « je ne monte pas dedans », une pression « à 100 % », un licenciement en 2019.", "sources": [["knkx", "audience du 16 sept. 2024"]] },
+          { "texte": "« La sécurité devient du pur gaspillage » : Stockton Rush, en interview.", "sources": [["ishn"]] },
+          { "texte": "Une entreprise où la menace du licenciement dissuadait de parler de sécurité.", "sources": [["uscgCP"]] }
+        ]},
+        { "t": "07:16", "titre": "Les expéditions de 2021 et 2022", "items": [
+          { "texte": "70 puis 48 problèmes d’équipement, dont des batteries qui lâchent.", "sources": [["bg24"]] },
+          { "texte": "Les audiences de septembre 2024 : pannes et désaccords pendant les expéditions.", "sources": [["nbcla"], ["herald"]] }
+        ]},
+        { "t": "07:59", "titre": "La plongée 80", "items": [
+          { "texte": "15 juillet 2022 : un grand bruit sec, un « événement acoustique majeur », et aucune vérification.", "sources": [["gcapUSCG"]] },
+          { "texte": "Les dommages que le NTSB relève après cette plongée.", "sources": [["gcapNTSB"], ["popsci"]] }
+        ]}
+      ]
+    },
+    {
+      "id": "partie-2",
+      "numero": 2,
+      "nom": "La dernière plongée",
+      "mise_en_ligne": "24 oct. 2026",
+      "youtube": "iSEkhsiPy_Y",
+      "miniature": "titan-partie-2.jpg",
+      "note": "heures du navire (Terre-Neuve)",
+      "passages": [
+        { "t": "00:00", "titre": "Le 18 juin 2023, au matin", "items": [
+          { "texte": "5 h 15, le Polar Prince arrive sur le site ; 7 h 35, un canot emmène l’équipage sur la plateforme.", "sources": [["uscgRap", "chronologie de la plongée 88"]] },
+          { "texte": "La chronologie de la plongée et des recherches, jour par jour.", "sources": [["boat"]] }
+        ]},
+        { "t": "00:29", "titre": "Les cinq personnes à bord", "items": [
+          { "texte": "Les cinq personnes à bord.", "sources": [["bg23"]] },
+          { "texte": "Suleman Dawood et son Rubik’s Cube, d’après sa mère.", "sources": [["cbsRub"]] }
+        ]},
+        { "t": "01:07", "titre": "L’embarquement", "items": [
+          { "texte": "Pas de sièges, une seule fenêtre : l’intérieur du Titan, raconté par un ancien passager.", "sources": [["abc7nyIn"]] },
+          { "texte": "Le dôme avant, boulonné depuis l’extérieur.", "sources": [["wsls", "21 juin 2023"]] }
+        ]},
+        { "t": "01:32", "titre": "La descente", "items": [
+          { "texte": "9 h 14 : le Titan se détache de sa plateforme et descend en chute libre.", "sources": [["uscgRap"]] },
+          { "texte": "Un ancien passager : le contact s’était perdu à chacune de ses plongées.", "sources": [["abc7nyIn"]] }
+        ]},
+        { "t": "01:50", "titre": "Le contact perdu, « tout va bien ici »", "items": [
+          { "texte": "Les messages échangés entre 9 h 53 et 10 h 40, montrés pendant les audiences.", "sources": [["abc7news"], ["uscgRap"]] }
+        ]},
+        { "t": "02:39", "titre": "10 h 47", "items": [
+          { "texte": "« Lâché deux poids », à 3 341 mètres, à moins de 500 mètres du fond.", "sources": [["uscgRap"]] }
+        ]},
+        { "t": "03:03", "titre": "À bord du Polar Prince", "items": [
+          { "texte": "Le bruit sourd entendu dans la salle de contrôle, et la question de Wendy Rush.", "sources": [["explo"]] }
+        ]},
+        { "t": "03:48", "titre": "15 h : rien à la surface", "items": [
+          { "texte": "Le Titan devait remonter seul une heure après la perte de contact : « should have surfaced about 1500 ».", "sources": [["ntsbRap", "p. 9-10"]] },
+          { "texte": "La procédure d’OceanGate : encore trois heures de recherches en surface avant d’appeler à l’aide.", "sources": [["uscgRap", "§ 4.1.59-4.1.63"]] }
+        ]},
+        { "t": "04:12", "titre": "L’alerte, plus de huit heures après", "items": [
+          { "texte": "L’appel aux secours canadiens, coupé ; l’alerte reçue à Boston vers 19 h 10.", "sources": [["uscgRap", "§ 4.1.64-4.1.65"], ["ntsbRap", "p. 10-11"]] }
+        ], "prudences": ["Premier appel : 18 h 27 selon la Garde côtière, 18 h 55 selon le NTSB. D’où « en début de soirée ». Les deux rapports donnent 19 h 10 pour l’alerte reçue à Boston."]},
+        { "t": "04:28", "titre": "La première nuit", "items": [
+          { "texte": "22 h : un premier avion des garde-côtes décolle de Terre-Neuve.", "sources": [["ntsbRap", "p. 10-11"], ["uscgRap", "§ 4.1.67"]] },
+          { "texte": "De l’oxygène de secours pour 96 heures, et un dôme impossible à ouvrir de l’intérieur.", "sources": [["ntsbRap", "p. 9"], ["wsls"]] }
+        ]},
+        { "t": "04:49", "titre": "Lundi 19 juin", "items": [
+          { "texte": "La nouvelle fait le tour du monde ; le brouillard gêne les recherches.", "sources": [["wikiI"], ["uscgUC"]] },
+          { "texte": "Un avion canadien largue des bouées qui écoutent sous l’eau.", "sources": [["ntsbRap", "p. 12"]] }
+        ]},
+        { "t": "05:00", "titre": "Des robots pour 3 800 mètres", "items": [
+          { "texte": "D’ordinaire, deux semaines pour amener un robot de grande profondeur ; l’Odysseus arrive par avion militaire.", "sources": [["ntsbRap", "p. 12"]] },
+          { "texte": "L’Atalante, à deux jours de route, déroutée avec le robot Victor 6000.", "sources": [["ifremer", "20 juin 2023"]] }
+        ]},
+        { "t": "05:24", "titre": "Mardi 20 juin", "items": [
+          { "texte": "Le Deep Energy et ses robots prévus pour 3 000 mètres ; le second, poussé plus bas, est perdu.", "sources": [["ntsbRap", "p. 12"]] },
+          { "texte": "Dans la nuit, des bruits de cognement, à peu près toutes les 30 minutes.", "sources": [["yahoo"], ["cbsBang"]] }
+        ], "prudences": ["Arrivée du Deep Energy : 5 h 17 selon la Garde côtière, vers 15 h selon le NTSB. D’où « mardi 20 juin », sans heure."]},
+        { "t": "05:49", "titre": "Mercredi 21 juin", "items": [
+          { "texte": "Les garde-côtes confirment les bruits, sans savoir d’où ils viennent.", "sources": [["cbsBang"]] },
+          { "texte": "Une vingtaine d’heures d’oxygène restantes, selon leurs calculs.", "sources": [["gpb"]] },
+          { "texte": "Plus de 31 000 km² fouillés au total, plus que la Belgique.", "sources": [["uscgRap", "§ 4.1.67-4.1.72"], ["statbel", "30 689 km²"]] }
+        ], "prudences": ["« Une vingtaine d’heures » : l’estimation donnée le mercredi, valable pour un sous-marin resté intact.", "31 455 km² (12 145 milles carrés) : la surface fouillée pendant toutes les recherches, pas en un seul jour."]},
+        { "t": "06:05", "titre": "Sur le Polar Prince", "items": [
+          { "texte": "Christine et Alina Dawood, l’attente sur le navire.", "sources": [["gulf", "entretien BBC repris par l’AP"]] },
+          { "texte": "Son livre, « Ninety-Six Hours », paru en mai 2026.", "sources": [["newsweek"]] }
+        ], "prudences": ["Les propos de Christine Dawood sont reformulés, sans citation longue."]},
+        { "t": "06:21", "titre": "Jeudi 22 juin", "items": [
+          { "texte": "Vers 9 h 40, l’Odysseus trouve la pointe arrière du Titan, puis les deux dômes en titane.", "sources": [["ntsbRap", "p. 12"], ["uscgRap", "§ 4.1.72"]] },
+          { "texte": "À environ 500 mètres de la proue du Titanic.", "sources": [["space"]] }
+        ], "prudences": ["500 m (NTSB, p. 12), 330 m (NTSB, p. 31), environ 490 m (garde-côtes, 22 juin 2023). D’où « environ cinq cents mètres »."]},
+        { "t": "06:52", "titre": "L’annonce", "items": [
+          { "texte": "« Consistent with the catastrophic loss of the pressure chamber » : John Mauger, à Boston.", "sources": [["mauger", "22 juin 2023"]] }
+        ], "prudences": ["John Mauger est contre-amiral ; « l’amiral » à l’oral."]},
+        { "t": "07:05", "titre": "Ce que l’on apprend ensuite", "items": [
+          { "texte": "Dès le dimanche, la marine avait capté un son compatible avec une implosion.", "sources": [["nprNavy"]] },
+          { "texte": "Les bruits de cognement : très probablement l’océan, ou les navires de recherche.", "sources": [["cbsBang"]] },
+          { "texte": "Les débris remontés en deux fois, fin juin puis en octobre 2023.", "sources": [["usni23"]] }
+        ], "prudences": ["« Le soir même » : l’information de la marine est publiée le 22 juin au soir par le Wall Street Journal, puis confirmée par un responsable de la marine."]},
+        { "t": "07:54", "titre": "Barrière 3 · La surveillance", "items": [
+          { "texte": "« Let’s dive again and see what happens » : les mesures de la plongée 80.", "sources": [["ntsbPage"], ["gcapNTSB"]] },
+          { "texte": "Cinq couches de carbone collées, des vides dans la colle, des couches qui se séparent.", "sources": [["ntsbPage"], ["mex"]] }
+        ]},
+        { "t": "08:29", "titre": "Barrière 4 · L’entretien", "items": [
+          { "texte": "Un hiver dehors à Saint-Jean, puis un sous-marin retrouvé à moitié coulé.", "sources": [["herald"], ["bg24"]] },
+          { "texte": "Le remorquage de 2023, en pleine mer, derrière le Polar Prince.", "sources": [["ntsbPage"]] }
+        ]},
+        { "t": "08:49", "titre": "La plongée 88", "items": [
+          { "texte": "La coque s’écrase localement, très probablement à l’avant, près de l’anneau en titane.", "sources": [["ntsbRap"], ["gcapNTSB"]] }
+        ]},
+        { "t": "09:05", "titre": "Les enquêtes", "items": [
+          { "texte": "Une mort « évitable », la négligence, et un renvoi vers la justice fédérale s’il avait survécu.", "sources": [["uscgCP"], ["gcapUSCG"]] },
+          { "texte": "Avec des secours prévenus et prêts, le Titan aurait été retrouvé plus vite ; l’équipage ne pouvait pas être sauvé.", "sources": [["ntsbRap", "résumé, p. vi-vii"]] }
+        ]},
+        { "t": "09:39", "titre": "Les recommandations", "items": [
+          { "texte": "Le rapport canadien de juin 2026 et ses six recommandations.", "sources": [["tsb"], ["leth"]] },
+          { "texte": "Les 17 recommandations de la Garde côtière.", "sources": [["uscgCP"]] }
+        ]}
+      ]
+    }
+  ],
+  "rapports": [
+    { "pays": "États-Unis", "date": "5 août 2025", "nom": "Garde côtière, commission d’enquête", "resume": "Une mort « évitable ». 17 recommandations.", "liens": [["Rapport, PDF", "uscgRap"], ["Communiqué", "uscgCP"]] },
+    { "pays": "États-Unis", "date": "oct. 2025", "nom": "NTSB, rapport MIR-25-36", "resume": "La résistance réelle de la coque n’a jamais été établie.", "liens": [["Rapport, PDF", "ntsbRap"], ["Page de l’enquête", "ntsbPage"]] },
+    { "pays": "Canada", "date": "17 juin 2026", "nom": "Bureau de la sécurité des transports", "resume": "Aucune surveillance de Transports Canada. 6 recommandations.", "liens": [["Communiqué", "tsb"]] }
+  ],
+  "plus_loin": [
+    ["usniRap", "le rapport de la Garde côtière"],
+    ["nprLaw", "la plainte de la famille Nargeolet"]
+  ],
+  "visuels": "Reconstitutions schématiques, personnes dessinées au trait. Fonds de carte : Natural Earth.",
+  "corrections": [],
+  "sources": {
+    "uscgCP": { "nom": "Garde côtière, communiqué", "domaine": "news.uscg.mil", "url": "https://www.news.uscg.mil/Press-Releases/Article/4265651/coast-guard-marine-board-of-investigation-releases-report-on-titan-submersible/", "officielle": true },
+    "uscgRap": { "nom": "Garde côtière, rapport de la commission", "domaine": "gwern.net (copie)", "url": "https://gwern.net/doc/sociology/technology/2025-uscoastguard-titanreport.pdf", "officielle": true, "pdf": true },
+    "uscgUC": { "nom": "Garde côtière, communiqué de juin 2023", "domaine": "news.uscg.mil", "url": "https://www.news.uscg.mil/Press-Releases/Article/3433572/unified-command-established-for-missing-submersible-from-polar-prince/", "officielle": true },
+    "ntsbRap": { "nom": "NTSB, rapport MIR-25-36", "domaine": "ntsb.gov", "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/MIR2536.pdf", "officielle": true, "pdf": true },
+    "ntsbPage": { "nom": "NTSB, page de l’enquête", "domaine": "ntsb.gov", "url": "https://www.ntsb.gov/investigations/Pages/DCA23FM036.aspx", "officielle": true },
+    "tsb": { "nom": "BST Canada, communiqué", "domaine": "tsb.gc.ca", "url": "https://www.tsb.gc.ca/eng/medias-media/communiques/marine/2026/m23a0169-20260617.html", "officielle": true },
+    "ifremer": { "nom": "Ifremer, communiqué", "domaine": "ifremer.fr", "url": "https://www.ifremer.fr/sites/default/files/2023-06/cp_atalante_titan_fr_0.pdf", "officielle": true, "pdf": true, "langue": "FR" },
+    "mauger": { "nom": "John Mauger, déclaration", "domaine": "americanrhetoric.com", "url": "https://www.americanrhetoric.com/speeches/johnmaugerfinalupdatetitansubmersibleincident.htm", "officielle": true },
+    "gcapUSCG": { "nom": "gCaptain", "domaine": "gcaptain.com", "url": "https://gcaptain.com/coast-guard-investigation-reveals-oceangate-titan-tragedy-was-entirely-preventable/" },
+    "gcapNTSB": { "nom": "gCaptain", "domaine": "gcaptain.com", "url": "https://gcaptain.com/ntsb-finds-oceangate-ignored-critical-damage-before-titans-final-dive/" },
+    "popsci": { "nom": "Popular Science", "domaine": "popsci.com", "url": "https://www.popsci.com/technology/oceangate-titan-implosion-investigation" },
+    "mex": { "nom": "The Maritime Executive", "domaine": "maritime-executive.com", "url": "https://maritime-executive.com/index.php/article/ntsb-poor-engineering-loose-regulations-led-to-sub-titan-s-loss" },
+    "leth": { "nom": "Lethbridge Herald", "domaine": "lethbridgeherald.com", "url": "https://lethbridgeherald.com/?p=1262403" },
+    "boat": { "nom": "Boat International", "domaine": "boatinternational.com", "url": "https://www.boatinternational.com/yachts/news/oceangate-titan-disaster-implosion-latest-news-2023-submarine-submersible" },
+    "space": { "nom": "Space.com", "domaine": "space.com", "url": "https://www.space.com/titanic-submersible-debris-found-crew-presumed-dead" },
+    "yahoo": { "nom": "Yahoo News", "domaine": "yahoo.com", "url": "https://sg.news.yahoo.com/banging-noise-picked-search-titanic-053023915.html" },
+    "bg23": { "nom": "The Boston Globe", "domaine": "bostonglobe.com", "url": "https://www.bostonglobe.com/2023/06/24/metro/here-are-five-people-who-were-aboard-titan-submersible/" },
+    "bg24": { "nom": "The Boston Globe", "domaine": "bostonglobe.com", "url": "https://www.bostonglobe.com/2024/09/16/nation/titan-submersible-was-plagued-with-problems-investigators-say" },
+    "wikiT": { "nom": "Wikipédia, « Titan (submersible) »", "domaine": "en.wikipedia.org", "url": "https://en.wikipedia.org/wiki/Titan_(submersible)" },
+    "wikiI": { "nom": "Wikipédia, « Titan submersible implosion »", "domaine": "en.wikipedia.org", "url": "https://en.wikipedia.org/wiki/Titan_submersible_implosion" },
+    "abc7L": { "nom": "ABC7", "domaine": "abc7.com", "url": "https://abc7.com/missing-titanic-sub-oceangate-lawsuit-david-lochridge-submersible/13409850/" },
+    "kunc": { "nom": "KUNC (NPR)", "domaine": "kunc.org", "url": "https://www.kunc.org/npr-news/2023-06-21/experts-raised-safety-concerns-about-oceangate-years-before-its-titanic-sub-vanished" },
+    "herald": { "nom": "The Daily Herald", "domaine": "heraldnet.com", "url": "https://heraldnet.com/news/everett-submersible-was-plagued-with-problems-investigators-say" },
+    "nbcla": { "nom": "NBC Los Angeles", "domaine": "nbclosangeles.com", "url": "https://www.nbclosangeles.com/news/national-international/titan-submersible-testimony-fourth-day-panel-hears-malfunction-discord/3516078/" },
+    "krem": { "nom": "KREM", "domaine": "krem.com", "url": "https://krem.com/article/news/investigations/records-show-uw-had-role-early-development-design-oceangate-titan-submersible/281-f957068f-bf05-4eda-b8f1-eb4bb9540400" },
+    "dn": { "nom": "Design News", "domaine": "designnews.com", "url": "https://www.designnews.com/industry/coast-guard-oceangate-sub-investigation-reveals-haphazard-construction" },
+    "abc7nyKS": { "nom": "ABC7 New York", "domaine": "abc7ny.com", "url": "https://abc7ny.com/titan-submersible-2023-incident-titanic-oceangate-the/13421666/" },
+    "abc7nyIn": { "nom": "ABC7 New York", "domaine": "abc7ny.com", "url": "https://abc7ny.com/missing-submarine-submersible-sub-titanic/13409829/" },
+    "knkx": { "nom": "KNKX", "domaine": "knkx.org", "url": "https://www.knkx.org/business/2024-09-16/the-titans-former-lead-engineer-says-he-felt-pressured-to-get-the-submersible-ready" },
+    "abc13": { "nom": "ABC13", "domaine": "abc13.com", "url": "https://abc13.com/oceangate-whistleblower-says-he-had-no-confidence-in-titan-sub/15315888/" },
+    "explo": { "nom": "ExplorersWeb", "domaine": "explorersweb.com", "url": "https://explorersweb.com/support-ship-caught-sound-of-the-titan-submersible-imploding/" },
+    "usni23": { "nom": "USNI News", "domaine": "news.usni.org", "url": "https://news.usni.org/2023/10/10/debris-potential-human-remains-recovered-from-titan-wreck" },
+    "usniRap": { "nom": "USNI News", "domaine": "news.usni.org", "url": "https://news.usni.org/2025/08/06/u-s-coast-guard-report-on-the-titan-submersible-implosion" },
+    "ishn": { "nom": "ISHN", "domaine": "ishn.com", "url": "https://ishn.com/articles/113786-a-deep-sea-implosion-rocks-the-safety-world" },
+    "wsls": { "nom": "Associated Press", "domaine": "wsls.com", "url": "https://www.wsls.com/news/national/2023/06/21/outlook-bleak-for-passengers-on-the-titan-despite-massive-rescue-effort/" },
+    "cbsBang": { "nom": "CBS News", "domaine": "cbsnews.com", "url": "https://www.cbsnews.com/news/titanic-submarine-implosion-what-was-banging-noise-heard-during-search/" },
+    "cbsRub": { "nom": "CBS News", "domaine": "cbsnews.com", "url": "https://www.cbsnews.com/news/titanic-sub-mother-of-teen-suleman-dawood-oceangate-titan-rubiks-cube-record/" },
+    "gpb": { "nom": "GPB", "domaine": "gpb.org", "url": "https://gpb.org/node/945676" },
+    "gulf": { "nom": "Gulf News", "domaine": "gulfnews.com", "url": "https://gulfnews.com/amp/gulfnews/world/americas/titanic-sub-tragedy-mother-of-british-pakistani-teen-suleman-dawood-says-she-gave-her-place-to-son-1.1687845368831" },
+    "newsweek": { "nom": "Newsweek", "domaine": "newsweek.com", "url": "https://www.newsweek.com/christine-dawood-titan-submersible-search-grief-memoir-12151989" },
+    "nprNavy": { "nom": "NPR", "domaine": "npr.org", "url": "https://www.npr.org/2023/06/23/1183976726/titan-titanic-sub-implosion-navy" },
+    "nprLaw": { "nom": "NPR", "domaine": "npr.org", "url": "https://www.npr.org/2024/08/07/nx-s1-5067040/titan-submersible-oceangate-lawsuit" },
+    "abc7news": { "nom": "ABC7 News", "domaine": "abc7news.com", "url": "https://abc7news.com/15309572" },
+    "statbel": { "nom": "Statbel", "domaine": "office belge de statistique", "url": "", "langue": "FR" }
+  }
+}

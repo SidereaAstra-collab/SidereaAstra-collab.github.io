@@ -1,0 +1,46 @@
+<svg class="hero-art" viewBox="0 0 520 300" role="img" aria-label="Quatre plaques percées, alignées : contrôle, alertes, surveillance, entretien. Un faisceau rouge passe par un trou de chacune.">
+<defs>
+<linearGradient id="hpf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3A4D63"/><stop offset="1" stop-color="#223040"/></linearGradient>
+<radialGradient id="hglow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#E8483B" stop-opacity="0.24"/><stop offset="1" stop-color="#E8483B" stop-opacity="0"/></radialGradient>
+<radialGradient id="hsrc" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#F4F1EA" stop-opacity="0.75"/><stop offset="1" stop-color="#F4F1EA" stop-opacity="0"/></radialGradient>
+<radialGradient id="hhole" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FFE3DE"/><stop offset="0.45" stop-color="#E8483B"/><stop offset="1" stop-color="#6E1A14"/></radialGradient>
+<linearGradient id="hbeam" gradientUnits="userSpaceOnUse" x1="8" y1="0" x2="514" y2="0"><stop offset="0" stop-color="#E8483B" stop-opacity="0.95"/><stop offset="0.84" stop-color="#E8483B" stop-opacity="1"/><stop offset="1" stop-color="#E8483B" stop-opacity="0.1"/></linearGradient>
+<filter id="hblur" x="-10%" y="-300%" width="120%" height="700%"><feGaussianBlur stdDeviation="3.5"/></filter>
+</defs>
+<ellipse cx="270" cy="130" rx="250" ry="92" fill="url(#hglow)"/>
+<circle cx="8" cy="140" r="18" fill="url(#hsrc)"/>
+<circle cx="8" cy="140" r="2.4" fill="#F4F1EA"/>
+<line x1="8" y1="140" x2="514" y2="118" stroke="url(#hbeam)" stroke-width="8" stroke-opacity="0.5" filter="url(#hblur)"/>
+<line x1="8" y1="140" x2="514" y2="118" stroke="url(#hbeam)" stroke-width="2.4"/>
+<line x1="8" y1="140" x2="470" y2="120" stroke="#FFC9C2" stroke-width="0.8" stroke-opacity="0.85"/>
+<polygon points="124,34 130,37 130,216 124,214" fill="#141D27"/>
+<polygon points="58,48 124,34 124,214 58,236" fill="url(#hpf)" stroke="#5D7189" stroke-opacity="0.7" stroke-width="1"/>
+<ellipse cx="76" cy="80" rx="4" ry="5" fill="#0B1219"/>
+<ellipse cx="104" cy="186" rx="6" ry="8" fill="#0B1219"/>
+<ellipse cx="80" cy="206" rx="3.5" ry="4.5" fill="#0B1219"/>
+<ellipse cx="91" cy="136" rx="24" ry="32" fill="url(#hglow)"/>
+<ellipse cx="91" cy="136" rx="8" ry="11" fill="url(#hhole)" stroke="#E8483B" stroke-width="2"/>
+<polygon points="234,24 240,27 240,206 234,204" fill="#141D27"/>
+<polygon points="168,38 234,24 234,204 168,226" fill="url(#hpf)" stroke="#5D7189" stroke-opacity="0.7" stroke-width="1"/>
+<ellipse cx="208" cy="64" rx="4" ry="5.5" fill="#0B1219"/>
+<ellipse cx="188" cy="166" rx="5" ry="7" fill="#0B1219"/>
+<ellipse cx="216" cy="188" rx="3.5" ry="4.5" fill="#0B1219"/>
+<ellipse cx="201" cy="131.5" rx="24" ry="32" fill="url(#hglow)"/>
+<ellipse cx="201" cy="131.5" rx="8" ry="11" fill="url(#hhole)" stroke="#E8483B" stroke-width="2"/>
+<polygon points="344,40 350,43 350,222 344,220" fill="#141D27"/>
+<polygon points="278,54 344,40 344,220 278,242" fill="url(#hpf)" stroke="#5D7189" stroke-opacity="0.7" stroke-width="1"/>
+<ellipse cx="300" cy="98" rx="5" ry="6.5" fill="#0B1219"/>
+<ellipse cx="322" cy="174" rx="4" ry="5.5" fill="#0B1219"/>
+<ellipse cx="308" cy="206" rx="6" ry="8" fill="#0B1219"/>
+<ellipse cx="311" cy="127" rx="24" ry="32" fill="url(#hglow)"/>
+<ellipse cx="311" cy="127" rx="8" ry="11" fill="url(#hhole)" stroke="#E8483B" stroke-width="2"/>
+<polygon points="454,30 460,33 460,212 454,210" fill="#141D27"/>
+<polygon points="388,44 454,30 454,210 388,232" fill="url(#hpf)" stroke="#5D7189" stroke-opacity="0.7" stroke-width="1"/>
+<ellipse cx="432" cy="66" rx="3.5" ry="4.5" fill="#0B1219"/>
+<ellipse cx="406" cy="156" rx="5" ry="7" fill="#0B1219"/>
+<ellipse cx="434" cy="184" rx="4" ry="5" fill="#0B1219"/>
+<ellipse cx="421" cy="122" rx="24" ry="32" fill="url(#hglow)"/>
+<ellipse cx="421" cy="122" rx="8" ry="11" fill="url(#hhole)" stroke="#E8483B" stroke-width="2"/>
+<g font-family="IBM Plex Mono, monospace" font-size="11" fill="#E8483B" text-anchor="middle"><text x="91" y="268">01</text><text x="201" y="268">02</text><text x="311" y="268">03</text><text x="421" y="268">04</text></g>
+<g font-family="Inter, sans-serif" font-size="10.5" font-weight="600" letter-spacing="1.4" fill="#8E9AA8" text-anchor="middle"><text x="91" y="285">CONTRÔLE</text><text x="201" y="285">ALERTES</text><text x="311" y="285">SURVEILLANCE</text><text x="421" y="285">ENTRETIEN</text></g>
+</svg>
