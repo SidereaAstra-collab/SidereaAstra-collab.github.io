@@ -63,7 +63,7 @@
 
 {% if d.rapports %}<section class="wrap rapports" aria-labelledby="rapports-titre">
 <h2 id="rapports-titre" class="sec-title small">{{ d.titre_rapports if d.titre_rapports else ('Les trois rapports officiels' if d.rapports|length == 3 else 'Les rapports officiels') }}</h2>
-<div class="cards">
+<div class="cards n{{ d.rapports|length }}">
 {% for r in d.rapports %}<article class="rap">
 <p class="rap-k"><span>{{ r.pays }}</span> · {{ r.date }}</p>
 <h3>{{ r.nom }}</h3>
