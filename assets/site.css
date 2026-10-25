@@ -94,7 +94,8 @@ img { max-width: 100%; }
 .note { margin: 14px 0 0; max-width: 440px; font-size: 15px; line-height: 1.55; color: var(--gris); }
 .signal-corr { margin: 18px 0 0; padding-left: 12px; border-left: 3px solid var(--rouge); font-size: 15px; font-weight: 500; }
 .signal-corr a { color: var(--papier); }
-.hero-art { flex: 1 1 360px; min-width: 0; width: 100%; height: auto; display: block; }
+/* Illustration de la chaîne (plaques et faisceau), bords fondus dans la couleur du fond */
+.hero-art { flex: 1 1 360px; min-width: 0; width: 100%; max-width: 500px; height: auto; display: block; }
 .hero-img { flex: 1 1 360px; min-width: 0; width: 100%; max-width: 448px; height: auto; aspect-ratio: 16 / 9; object-fit: cover; display: block; border-radius: 3px; background: var(--nuit-2); }
 
 /* Choix de la vidéo : deux miniatures, comme des onglets */

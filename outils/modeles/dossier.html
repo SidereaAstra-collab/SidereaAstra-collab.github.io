@@ -11,7 +11,7 @@
 {% if d.avertissement %}<p class="note">{{ d.avertissement }}</p>{% endif %}
 {% if d.nb_corrections %}<p class="signal-corr"><a href="#corrections">{{ 'Une correction' if d.nb_corrections == 1 else d.nb_corrections ~ ' corrections' }} depuis la mise en ligne</a></p>{% endif %}
 </div>
-{% if d.illustration %}{% include "illustrations/" ~ d.illustration ~ ".svg" %}{% elif d.image_entete %}<img class="hero-img" src="/assets/img/{{ d.image_entete }}" alt="{{ d.image_alt }}" width="960" height="540">{% endif %}
+{% if d.illustration %}<img class="hero-art" src="/assets/img/{{ d.illustration }}" alt="{{ d.image_alt }}" width="1072" height="480">{% elif d.image_entete %}<img class="hero-img" src="/assets/img/{{ d.image_entete }}" alt="{{ d.image_alt }}" width="960" height="540">{% endif %}
 </section>
 
 <section id="sources" class="wrap sources" aria-labelledby="sources-titre">

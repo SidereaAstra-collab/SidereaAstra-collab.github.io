@@ -7,6 +7,8 @@
   "verifie": "23 oct. 2026",
   "mise_a_jour": "25 oct. 2026",
   "image_partage": "titan-partage.jpg",
+  "illustration": "plaques.jpg",
+  "image_alt": "Quatre plaques percées ; un faisceau rouge passe par un trou de chacune.",
   "parties": [
     {
       "id": "partie-1",
