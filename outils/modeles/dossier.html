@@ -3,7 +3,7 @@
 {% block corps %}
 {{ entete_mdp(chaine) }}
 <main>
-<section class="wrap hero">
+<section class="wrap hero{{ '' if (d.illustration or d.image_entete) else ' sans-image' }}">
 <div class="hero-text">
 <h1{% if d.titre|length > 12 %} class="long"{% endif %}>{{ d.titre }}</h1>
 <p class="sub">{{ d.sous_titre }}</p>
