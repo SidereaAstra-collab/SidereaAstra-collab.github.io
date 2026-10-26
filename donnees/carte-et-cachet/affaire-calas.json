@@ -1,0 +1,220 @@
+{
+  "slug": "affaire-calas",
+  "numero": "01",
+  "titre": "L’affaire Calas",
+  "sous_titre": "Toulouse, 1761-1765 : un père exécuté pour la mort de son fils, puis innocenté",
+  "description": "Les sources de la vidéo de Carte & Cachet sur l’affaire Calas (Toulouse, 1761-1765), passage par passage.",
+  "verifie": "26 oct. 2026",
+  "mise_a_jour": "26 oct. 2026",
+  "avertissement": "",
+  "image_partage": "affaire-calas.jpg",
+  "image_entete": "affaire-calas.jpg",
+  "image_alt": "Miniature de la vidéo : « Exécuté. Puis innocenté. », un pion rouge renversé devant trois pions noirs, sur une carte ancienne.",
+  "titre_rapports": "",
+  "parties": [
+    {
+      "id": "video",
+      "numero": 1,
+      "nom": "L’affaire Calas",
+      "mise_en_ligne": "17 oct. 2026",
+      "youtube": "CYFEy3QtdjA",
+      "miniature": "affaire-calas.jpg",
+      "note": "",
+      "passages": [
+        {
+          "t": "00:00",
+          "titre": "Une nuit rue des Filatiers",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:01",
+          "titre": "Une famille protestante",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:02",
+          "titre": "Le soir du 13 octobre",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:58",
+          "titre": "La rumeur",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:25",
+          "titre": "Le monitoire",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:59",
+          "titre": "Le pire moment",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:29",
+          "titre": "Le procès",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:00",
+          "titre": "Le supplice",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:28",
+          "titre": "Tout se contredit",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:04",
+          "titre": "Voltaire",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:08",
+          "titre": "La révision",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:46",
+          "titre": "Ce qui a changé",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:30",
+          "titre": "Trois couches",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rapports": [],
+  "plus_loin": [],
+  "visuels": "Cartes, pions et documents dessinés pour la vidéo ; les pièces d’époque sont reconstituées et gardent leur orthographe. Fonds de carte : Natural Earth.",
+  "corrections": [],
+  "sources": {
+    "essai": {
+      "nom": "Source d’essai",
+      "domaine": "exemple.org",
+      "url": "https://example.org/"
+    }
+  }
+}

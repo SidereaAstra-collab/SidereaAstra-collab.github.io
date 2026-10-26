@@ -1,0 +1,220 @@
+{
+  "slug": "varennes",
+  "numero": "03",
+  "titre": "La fuite à Varennes",
+  "sous_titre": "Juin 1791 : un billet de cinquante livres et une déclaration laissée aux Tuileries",
+  "description": "Les sources de la vidéo de Carte & Cachet sur la fuite à Varennes (juin 1791), passage par passage.",
+  "verifie": "26 oct. 2026",
+  "mise_a_jour": "26 oct. 2026",
+  "avertissement": "",
+  "image_partage": "varennes.jpg",
+  "image_entete": "varennes.jpg",
+  "image_alt": "Miniature de la vidéo : « Son portrait le trahit. », un assignat de 50 livres relié par un fil rouge à la berline arrêtée à Varennes.",
+  "titre_rapports": "",
+  "parties": [
+    {
+      "id": "video",
+      "numero": 1,
+      "nom": "La fuite à Varennes",
+      "mise_en_ligne": "25 oct. 2026",
+      "youtube": "OqjJH3Ffw9s",
+      "miniature": "varennes.jpg",
+      "note": "",
+      "passages": [
+        {
+          "t": "00:00",
+          "titre": "Sainte-Menehould, 21 juin 1791",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:12",
+          "titre": "Les Tuileries",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:50",
+          "titre": "Le plan",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:45",
+          "titre": "La nuit du 20 juin",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:15",
+          "titre": "La route de l’Est",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:40",
+          "titre": "Pont-de-Somme-Vesle",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:01",
+          "titre": "Sainte-Menehould",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:23",
+          "titre": "L’assignat",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:24",
+          "titre": "Varennes",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:53",
+          "titre": "Le matin du 22 juin",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:20",
+          "titre": "La déclaration du roi",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:58",
+          "titre": "L’enlèvement",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:37",
+          "titre": "Ce que vaut la parole du roi",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rapports": [],
+  "plus_loin": [],
+  "visuels": "Cartes, pions et documents dessinés pour la vidéo ; l’assignat, le passeport, la déclaration du roi et l’affiche sont reconstitués. Villes placées à l’emplacement de leur mairie. Fonds de carte : Natural Earth.",
+  "corrections": [],
+  "sources": {
+    "essai": {
+      "nom": "Source d’essai",
+      "domaine": "exemple.org",
+      "url": "https://example.org/"
+    }
+  }
+}

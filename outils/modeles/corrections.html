@@ -10,7 +10,7 @@
 <h2 id="corr-{{ ch.slug }}">{{ ch.nom }}</h2>
 {% if ch.corrections %}{% for c in ch.corrections %}<article class="corr-entree">
 <h3><a href="{{ c.lien_passage }}">{{ c.dossier.titre }}</a></h3>
-<p class="corr-ou">Dossier n°&nbsp;{{ c.dossier.numero }}{% if c.dossier.parties|length > 1 %}, partie {{ c.partie }}{% endif %}</p>
+<p class="corr-ou">{{ ch.unite }}&nbsp;{{ c.dossier.numero }}{% if c.dossier.parties|length > 1 %}, partie {{ c.partie }}{% endif %}</p>
 {{ correction(c) }}
 </article>
 {% endfor %}{% else %}<p class="vide">Aucune correction pour l’instant.</p>{% endif %}

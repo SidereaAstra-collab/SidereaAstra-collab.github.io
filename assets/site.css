@@ -4,7 +4,9 @@
    Principes :
    - le serif (Newsreader) pour les titres et pour ce que dit la vidéo ;
    - le sans (Inter) pour les sources, les liens et tout ce qui sert à naviguer ;
-   - le rouge seulement pour le faisceau des plaques et pour les corrections. */
+   - le rouge seulement pour le faisceau des plaques et pour les corrections.
+   Les pages de Carte & Cachet prennent l'identité de la chaîne (classe .t-cc) :
+   cuir vert, papier, laiton pour les liens, EB Garamond à la place de Newsreader. */
 
 @font-face { font-family: "Newsreader"; font-style: normal; font-weight: 400; font-display: swap; src: url("/assets/fonts/newsreader-latin-400-normal.woff2") format("woff2"); }
 @font-face { font-family: "Newsreader"; font-style: italic; font-weight: 400; font-display: swap; src: url("/assets/fonts/newsreader-latin-400-italic.woff2") format("woff2"); }
@@ -13,7 +15,10 @@
 @font-face { font-family: "Inter"; font-style: normal; font-weight: 400; font-display: swap; src: url("/assets/fonts/inter-latin-400-normal.woff2") format("woff2"); }
 @font-face { font-family: "Inter"; font-style: normal; font-weight: 500; font-display: swap; src: url("/assets/fonts/inter-latin-500-normal.woff2") format("woff2"); }
 @font-face { font-family: "Inter"; font-style: normal; font-weight: 600; font-display: swap; src: url("/assets/fonts/inter-latin-600-normal.woff2") format("woff2"); }
+@font-face { font-family: "EB Garamond"; font-style: normal; font-weight: 400; font-display: swap; src: url("/assets/fonts/eb-garamond-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "EB Garamond"; font-style: italic; font-weight: 400; font-display: swap; src: url("/assets/fonts/eb-garamond-latin-400-italic.woff2") format("woff2"); }
 @font-face { font-family: "EB Garamond"; font-style: normal; font-weight: 500; font-display: swap; src: url("/assets/fonts/eb-garamond-latin-500-normal.woff2") format("woff2"); }
+@font-face { font-family: "EB Garamond"; font-style: italic; font-weight: 500; font-display: swap; src: url("/assets/fonts/eb-garamond-latin-500-italic.woff2") format("woff2"); }
 
 :root {
   --nuit: #0B1219;
@@ -37,6 +42,20 @@
   --nuit-3: #0C0E10;
   --gris: #9AA1AA;
   --trait: rgba(154, 161, 170, 0.2);
+}
+
+/* Pages de Carte & Cachet : le cuir du bureau, le papier, le laiton */
+.t-cc {
+  --nuit: #152A20;
+  --nuit-2: #1B3428;
+  --nuit-3: #0F1F17;
+  --papier: #ECE0C6;
+  --papier-2: #D8CFB8;
+  --gris: #A8AB98;
+  --rouge: #F0796B;
+  --bleu: #D4B06A; /* les liens, en laiton */
+  --trait: rgba(201, 162, 90, 0.22);
+  --serif: "EB Garamond", Garamond, Georgia, "Times New Roman", serif;
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -211,8 +230,31 @@ span.src .src-n { color: var(--papier); }
 .ch-cc h2 { font-family: "EB Garamond", Garamond, Georgia, serif; font-size: clamp(30px, 3.6vw, 38px); }
 .ch-cc .acc { color: #DFE0CF; }
 .ch-cc .ch-empty { color: #DFE0CF; border-color: rgba(201, 162, 90, 0.3); }
-.ch-cc .ch-links a { color: #C9A25A; }
-.ch-cc img { flex: none; width: 56px; height: 56px; display: block; }
+.ch-cc h2 em { font-style: italic; color: #C9A25A; }
+.ch-cc .ch-list a { color: #ECE0C6; border-color: rgba(201, 162, 90, 0.3); }
+.ch-cc .ch-list a:hover .t { color: #D4B06A; }
+.ch-cc .ch-list .t { font-family: "EB Garamond", Garamond, Georgia, serif; font-size: 24px; }
+.ch-cc .ch-list .c { color: #A8AB98; }
+.ch-cc .ch-links a { color: #D4B06A; }
+.ch-cc img { flex: none; width: 58px; height: 56px; display: block; }
+
+/* Carte & Cachet : EB Garamond a un œil plus petit que Newsreader, les tailles montent un peu */
+.t-cc ::selection { background: rgba(201, 162, 90, 0.32); }
+.t-cc .brand-name { font-size: 23px; }
+.t-cc .brand-name em { color: #C9A25A; }
+.t-cc .sceau { width: auto; height: 40px; }
+.t-cc .hero h1 { letter-spacing: -0.01em; }
+.t-cc .hero .sub { font-size: clamp(22px, 2.4vw, 26px); }
+.t-cc .sec-title { font-size: clamp(29px, 3.6vw, 37px); }
+.t-cc .pick-t { font-size: 22px; }
+.t-cc .s-title { font-size: 22px; line-height: 1.25; }
+.t-cc .pas > summary:hover .s-title { color: #FFF7E6; }
+.t-cc .dit { font-size: 19.5px; line-height: 1.5; }
+.t-cc .corr dd, .t-cc .corr > p { font-size: 19.5px; }
+.t-cc .rap h3 { font-size: 24px; }
+.t-cc .dos-t { font-size: 29px; }
+.t-cc .dos-s { font-size: 19.5px; }
+.t-cc .liste h1 { font-size: clamp(44px, 5.4vw, 60px); }
 
 /* Liste des dossiers d'une chaîne */
 .liste { padding-top: 72px; padding-bottom: 96px; }
@@ -247,6 +289,12 @@ span.src .src-n { color: var(--papier); }
 @media (max-width: 640px) {
   .wrap { padding-left: 16px; padding-right: 16px; }
   .brand-name, .brand-plain { font-size: 18px; }
+  .t-cc .brand-name { font-size: 20px; }
+  .t-cc .sceau { height: 34px; }
+  .t-cc .s-title { font-size: 19.5px; }
+  .t-cc .dit { font-size: 18.5px; }
+  .t-cc .dos-t { font-size: 24px; }
+  .t-cc .dos-s { font-size: 17px; }
   .top .wrap { gap: 0 16px; }
   .top .nav { gap: 0 18px; }
   .nav-opt { display: none !important; }

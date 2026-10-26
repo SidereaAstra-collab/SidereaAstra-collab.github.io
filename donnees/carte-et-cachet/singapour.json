@@ -1,0 +1,206 @@
+{
+  "slug": "singapour",
+  "numero": "02",
+  "titre": "L’indépendance de Singapour",
+  "sous_titre": "9 août 1965 : la séparation d’avec la Malaisie, et le dossier Albatros",
+  "description": "Les sources de la vidéo de Carte & Cachet sur l’indépendance de Singapour (9 août 1965) et le dossier Albatros, passage par passage.",
+  "verifie": "26 oct. 2026",
+  "mise_a_jour": "26 oct. 2026",
+  "avertissement": "Les citations de la vidéo sont traduites de l’anglais.",
+  "image_partage": "singapour.jpg",
+  "image_entete": "singapour.jpg",
+  "image_alt": "Miniature de la vidéo : « Dossier secret. », l’île de Singapour cerclée de rouge et le dossier « Albatross ».",
+  "titre_rapports": "",
+  "parties": [
+    {
+      "id": "video",
+      "numero": 1,
+      "nom": "L’indépendance de Singapour",
+      "mise_en_ligne": "22 oct. 2026",
+      "youtube": "tJ-vVT1kaq4",
+      "miniature": "singapour.jpg",
+      "note": "",
+      "passages": [
+        {
+          "t": "00:00",
+          "titre": "Le 9 août 1965",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:14",
+          "titre": "Un port sans arrière-pays",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:16",
+          "titre": "La deuxième raison",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:51",
+          "titre": "Le calcul du Tunku",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:58",
+          "titre": "Le référendum",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:22",
+          "titre": "Opération Coldstore",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:02",
+          "titre": "Vingt-trois mois",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:37",
+          "titre": "La version officielle",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:16",
+          "titre": "Le dossier Albatros",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:43",
+          "titre": "22 août 1994, 17 h 40",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "09:08",
+          "titre": "Qui a voulu la séparation ?",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "09:31",
+          "titre": "Un port pour le monde entier",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rapports": [],
+  "plus_loin": [],
+  "visuels": "Cartes, pions et documents dessinés pour la vidéo, sans images d’archives. Fonds de carte : Natural Earth.",
+  "corrections": [],
+  "sources": {
+    "essai": {
+      "nom": "Source d’essai",
+      "domaine": "exemple.org",
+      "url": "https://example.org/"
+    }
+  }
+}

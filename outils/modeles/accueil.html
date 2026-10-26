@@ -20,12 +20,12 @@
 </section>
 {% else %}
 <section class="ch ch-cc" id="{{ c.slug }}" aria-labelledby="t-{{ c.slug }}">
-<div class="ch-head"><img src="/assets/img/sceau-carte-et-cachet.webp" alt="" width="56" height="56"><h2 id="t-{{ c.slug }}">Carte &amp; Cachet</h2></div>
+<div class="ch-head"><img src="/assets/img/sceau-carte-et-cachet.webp" alt="" width="58" height="56"><h2 id="t-{{ c.slug }}">Carte <em>&amp;</em> Cachet</h2></div>
 <p class="acc">{{ c.accroche }}</p>
 {% if c.liste %}<ul class="ch-list">
 {% for d in c.liste %}<li><a href="/{{ c.slug }}/{{ d.slug }}/"><span class="t">{{ d.titre }}</span><span class="c">{{ d.nb_sources }} sources</span></a></li>
 {% endfor %}</ul>{% else %}<p class="ch-empty">Les pages de sources arrivent.</p>{% endif %}
-<p class="ch-links"><a href="{{ c.youtube }}" rel="noopener">La chaîne YouTube</a></p>
+<p class="ch-links">{% if c.liste %}<a href="/{{ c.slug }}/">Tous les épisodes</a>{% endif %}<a href="{{ c.youtube }}" rel="noopener">La chaîne YouTube</a></p>
 </section>
 {% endif %}
 {% endfor %}
