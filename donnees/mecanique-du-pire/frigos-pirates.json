@@ -5,8 +5,47 @@
   "sous_titre": "La cyberattaque des supermarchés, nuit du 11 au 12 octobre 2026",
   "description": "Les sources de la vidéo de La mécanique du pire sur les frigos de supermarchés piratés en octobre 2026, passage par passage, avec ce qui reste incertain.",
   "verifie": "15 oct. 2026",
-  "mise_a_jour": "25 oct. 2026",
+  "mise_a_jour": "26 oct. 2026",
   "avertissement": "Vidéo enregistrée le 15 octobre 2026, l’enquête venait de commencer. Les sources datent de ces jours-là.",
+  "suivi": {
+    "titre": "Mise à jour du 25 octobre 2026",
+    "intro": "La vidéo a été enregistrée le 15 octobre, trois jours après l’attaque. Voici ce qui a changé depuis.",
+    "points": [
+      {
+        "titre": "Comment les pirates sont entrés",
+        "texte": "Le 21 octobre, devant le Sénat, le directeur général de l’ANSSI, Vincent Strubel, parle de « défauts de sécurisation élémentaires » : des boîtiers exposés directement sur internet, administrés sans protection particulière, des mots de passe faibles. Il écarte les failles publiées par des chercheurs ces deux dernières années.",
+        "sources": [
+          [
+            "publicsenat"
+          ],
+          [
+            "afp21"
+          ]
+        ]
+      },
+      {
+        "titre": "Qui est derrière",
+        "texte": "Au 25 octobre, les auteurs ne sont pas identifiés et aucun suspect n’a été rendu public ; l’enquête, confiée à l’Office anti-cybercriminalité, continue.",
+        "sources": [
+          [
+            "cnews"
+          ]
+        ]
+      },
+      {
+        "titre": "La Réunion",
+        "texte": "Deux enseignes de l’île touchées : le Leader Price de Saint-André, dans la nuit du 11 au 12 octobre selon Imaz Press, puis un second distributeur à partir du 20 octobre. Aucun lien avec l’attaque en métropole n’est établi publiquement.",
+        "sources": [
+          [
+            "imaz"
+          ],
+          [
+            "la1ere"
+          ]
+        ]
+      }
+    ]
+  },
   "image_partage": "frigos-pirates.jpg",
   "image_entete": "frigos-pirates.jpg",
   "image_alt": "Miniature de la vidéo : « Piraté, 50 °C », une vitrine réfrigérée qui chauffe.",
@@ -167,7 +206,7 @@
             }
           ],
           "nuances": [
-            "Aucun lien n’est établi entre ces failles et l’attaque : ni les enquêteurs ni Danfoss ne l’ont fait."
+            "Le 21 octobre, le directeur général de l’ANSSI a écarté ces failles : l’attaque a surtout profité de boîtiers exposés sur internet et de mots de passe faibles."
           ]
         },
         {
@@ -441,6 +480,36 @@
       "nom": "bluewin",
       "domaine": "bluewin.ch",
       "url": "https://www.bluewin.ch/en/news/international/cyberattack-shuts-down-thousands-of-refrigerators-in-western-europe-li.3633954"
+    },
+    "publicsenat": {
+      "nom": "Public Sénat",
+      "domaine": "publicsenat.fr",
+      "url": "https://www.publicsenat.fr/actualites/politique/des-defauts-de-securisation-elementaire-et-des-mots-de-passe-faibles-ont-permis-la-cyberattaque-contre-les-frigos-de-supermarches",
+      "langue": "FR"
+    },
+    "afp21": {
+      "nom": "Techniques de l’ingénieur (AFP)",
+      "domaine": "techniques-ingenieur.fr",
+      "url": "https://www.techniques-ingenieur.fr/actualite/breves-afp/la-cyberattaque-des-frigos-de-supermarches-en-france-liee-a-des-defauts-de-securisation-elementaire-selon-lanssi-165159/",
+      "langue": "FR"
+    },
+    "cnews": {
+      "nom": "CNews",
+      "domaine": "cnews.fr",
+      "url": "https://www.cnews.fr/monde/2026-10-25/le-pentagone-enquete-sur-la-cyberattaque-des-frigos-de-supermarches-apres-des",
+      "langue": "FR"
+    },
+    "imaz": {
+      "nom": "Imaz Press",
+      "domaine": "imazpress.com",
+      "url": "https://imazpress.com/toute-l-actu/cyberattaque-supermarche-la-reunion",
+      "langue": "FR"
+    },
+    "la1ere": {
+      "nom": "Réunion La 1ère",
+      "domaine": "la1ere.franceinfo.fr",
+      "url": "https://la1ere.franceinfo.fr/reunion/cyberattaque-une-deuxieme-enseigne-victime-1750338.html",
+      "langue": "FR"
     }
   }
 }

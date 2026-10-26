@@ -9,12 +9,26 @@
 <p class="sub">{{ d.sous_titre }}</p>
 <p class="meta">{{ chaine.unite }}&nbsp;{{ d.numero }}{% if d.parties|length > 1 %}, en {{ d.parties|length|en_lettres }} vidéos{% endif %}. {{ d.nb_sources }} sources, vérifiées le {{ d.verifie|nbsp }}.</p>
 {% if d.avertissement %}<p class="note">{{ d.avertissement }}</p>{% endif %}
+{% if d.suivi %}<p class="signal-maj"><a href="#mise-a-jour">{{ d.suivi.titre }}</a></p>{% endif %}
 {% if d.nb_corrections %}<p class="signal-corr"><a href="#corrections">{{ 'Une correction' if d.nb_corrections == 1 else d.nb_corrections ~ ' corrections' }} depuis la mise en ligne</a></p>{% endif %}
 </div>
 {% if d.illustration %}<img class="hero-art" src="/assets/img/{{ d.illustration }}" alt="{{ d.image_alt }}" width="1072" height="480">{% elif d.image_entete %}<img class="hero-img" src="/assets/img/{{ d.image_entete }}" alt="{{ d.image_alt }}" width="960" height="540">{% endif %}
 </section>
 
-<section id="sources" class="wrap sources" aria-labelledby="sources-titre">
+{% if d.suivi %}<section id="mise-a-jour" class="wrap suivi" aria-labelledby="suivi-titre">
+<h2 id="suivi-titre" class="sec-title">{{ d.suivi.titre }}</h2>
+<p class="suivi-intro">{{ d.suivi.intro }}</p>
+<div class="suivi-points">
+{% for pt in d.suivi.points %}<div class="item">
+<p class="dit"><strong>{{ pt.titre }}.</strong> {{ pt.texte }}</p>
+<ul class="srcs">
+{% for src in pt.sources %}<li>{% if src.url %}<a class="src" href="{{ src.url }}" rel="noopener"><span class="src-n">{{ src.nom }}</span><span class="src-m">{{ src.meta }}</span></a>{% else %}<span class="src"><span class="src-n">{{ src.nom }}</span><span class="src-m">{{ src.meta }}</span></span>{% endif %}</li>
+{% endfor %}</ul>
+</div>
+{% endfor %}</div>
+</section>
+
+{% endif %}<section id="sources" class="wrap sources" aria-labelledby="sources-titre">
 <h2 id="sources-titre" class="sec-title">Les sources, passage par passage</h2>
 {% if d.parties|length > 1 %}
 <nav class="picker" aria-label="Choisir la vidéo">

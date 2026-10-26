@@ -56,6 +56,7 @@ def preparer_dossier(d, chaine, site):
     erreurs = []
     for cle in ("illustration", "image_entete", "image_alt", "avertissement", "titre_rapports"):
         d.setdefault(cle, "")
+    d.setdefault("suivi", None)
     d["chaine"] = chaine
     S = d["sources"]
     urls = set()
@@ -113,6 +114,11 @@ def preparer_dossier(d, chaine, site):
             c["t_affiche"] = minutage(t)
             c["lien_video"] = "https://youtu.be/%s?t=%d" % (p["youtube"], secondes(t))
     d["nb_corrections"] = len(d.get("corrections", []))
+
+    # Mise à jour publiée après la vidéo (ce qui a changé depuis), avec ses sources.
+    if d["suivi"]:
+        for pt in d["suivi"]["points"]:
+            pt["sources"] = [source(*x) for x in pt["sources"]]
 
     for r in d.get("rapports", []):
         r["liens"] = [{"label": label, "url": source(cle)["url"]} for label, cle in r["liens"]]

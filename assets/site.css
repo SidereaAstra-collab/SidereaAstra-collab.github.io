@@ -113,6 +113,14 @@ img { max-width: 100%; }
 .note { margin: 14px 0 0; max-width: 440px; font-size: 15px; line-height: 1.55; color: var(--gris); }
 .signal-corr { margin: 18px 0 0; padding-left: 12px; border-left: 3px solid var(--rouge); font-size: 15px; font-weight: 500; }
 .signal-corr a { color: var(--papier); }
+.signal-maj { margin: 18px 0 0; padding-left: 12px; border-left: 3px solid var(--papier-2); font-size: 15px; font-weight: 500; }
+.signal-maj a { color: var(--papier); }
+
+/* Mise à jour publiée après la vidéo : ce qui a changé depuis l'enregistrement */
+.suivi { padding-top: 8px; padding-bottom: 88px; }
+.suivi-intro { margin: -12px 0 28px; max-width: 640px; font-size: 16px; line-height: 1.6; color: var(--papier-2); }
+.suivi-points { display: flex; flex-direction: column; gap: 26px; padding-top: 26px; border-top: 1px solid var(--trait); }
+.suivi .dit strong { font-weight: 500; color: var(--papier); }
 /* Illustration de la chaîne (plaques et faisceau), bords fondus dans la couleur du fond */
 .hero-art { flex: 1 1 360px; min-width: 0; width: 100%; max-width: 500px; height: auto; display: block; }
 .hero-img { flex: 1 1 360px; min-width: 0; width: 100%; max-width: 448px; height: auto; aspect-ratio: 16 / 9; object-fit: cover; display: block; border-radius: 3px; background: var(--nuit-2); }
@@ -316,7 +324,7 @@ span.src .src-n { color: var(--papier); }
   .srcs { gap: 0; }
   .src { justify-content: center; min-height: 48px; padding: 6px 0; }
   .again { min-height: 44px; }
-  .rapports, .corrections { padding-bottom: 64px; }
+  .rapports, .corrections, .suivi { padding-bottom: 64px; }
   .raps { grid-template-columns: minmax(0, 1fr); gap: 32px; }
   .home-hero { padding-top: 48px; padding-bottom: 32px; }
   .ch { padding: 24px 20px; }
