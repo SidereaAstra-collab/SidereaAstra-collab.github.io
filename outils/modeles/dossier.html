@@ -1,13 +1,13 @@
 {% extends "base.html" %}
-{% from "morceaux.html" import entete_mdp, pied_mdp, correction %}
+{% from "morceaux.html" import entete, pied, correction %}
 {% block corps %}
-{{ entete_mdp(chaine) }}
+{{ entete(chaine) }}
 <main>
 <section class="wrap hero{{ '' if (d.illustration or d.image_entete) else ' sans-image' }}">
 <div class="hero-text">
 <h1{% if d.titre|length > 12 %} class="long"{% endif %}>{{ d.titre }}</h1>
 <p class="sub">{{ d.sous_titre }}</p>
-<p class="meta">Dossier n°&nbsp;{{ d.numero }}{% if d.parties|length > 1 %}, en {{ d.parties|length|en_lettres }} vidéos{% endif %}. {{ d.nb_sources }} sources, vérifiées le {{ d.verifie|nbsp }}.</p>
+<p class="meta">{{ chaine.unite }}&nbsp;{{ d.numero }}{% if d.parties|length > 1 %}, en {{ d.parties|length|en_lettres }} vidéos{% endif %}. {{ d.nb_sources }} sources, vérifiées le {{ d.verifie|nbsp }}.</p>
 {% if d.avertissement %}<p class="note">{{ d.avertissement }}</p>{% endif %}
 {% if d.nb_corrections %}<p class="signal-corr"><a href="#corrections">{{ 'Une correction' if d.nb_corrections == 1 else d.nb_corrections ~ ' corrections' }} depuis la mise en ligne</a></p>{% endif %}
 </div>
@@ -80,5 +80,5 @@
 <p class="credits">Images de la vidéo. {{ d.visuels }}</p>
 </section>
 </main>
-{{ pied_mdp(chaine) }}
+{{ pied(chaine) }}
 {% endblock %}

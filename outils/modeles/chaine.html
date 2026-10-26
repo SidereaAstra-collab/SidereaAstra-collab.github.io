@@ -1,15 +1,15 @@
 {% extends "base.html" %}
-{% from "morceaux.html" import entete_mdp, pied_mdp %}
+{% from "morceaux.html" import entete, pied %}
 {% block corps %}
-{{ entete_mdp(chaine) }}
+{{ entete(chaine) }}
 <main class="wrap liste">
-<h1>Les dossiers</h1>
+<h1>{{ chaine.titre_liste }}</h1>
 <div>
 {% for d in chaine.liste %}<a class="dos" href="/{{ chaine.slug }}/{{ d.slug }}/">
 <img src="/assets/img/{{ d.image_entete or d.parties[0].miniature }}" alt="" width="160" height="90" loading="lazy">
-<span class="dos-txt"><span class="dos-t">{{ d.titre }}</span><span class="dos-s">{{ d.sous_titre }}</span><span class="dos-m">Dossier n°&nbsp;{{ d.numero }}, {{ d.nb_sources }} sources{% if d.nb_corrections %}, {{ 'une correction' if d.nb_corrections == 1 else d.nb_corrections ~ ' corrections' }}{% endif %}</span></span>
+<span class="dos-txt"><span class="dos-t">{{ d.titre }}</span><span class="dos-s">{{ d.sous_titre }}</span><span class="dos-m">{{ chaine.unite }}&nbsp;{{ d.numero }}, {{ d.nb_sources }} sources{% if d.nb_corrections %}, {{ 'une correction' if d.nb_corrections == 1 else d.nb_corrections ~ ' corrections' }}{% endif %}</span></span>
 </a>
 {% endfor %}</div>
 </main>
-{{ pied_mdp(chaine) }}
+{{ pied(chaine) }}
 {% endblock %}

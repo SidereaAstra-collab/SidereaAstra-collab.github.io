@@ -6,6 +6,8 @@
       "slug": "mecanique-du-pire",
       "nom": "La mécanique du pire",
       "theme": "mdp",
+      "unite": "Dossier n°",
+      "titre_liste": "Les dossiers",
       "accroche": "Des catastrophes, expliquées comme des enchaînements.",
       "youtube": "https://www.youtube.com/@LaMecaniqueDuPire",
       "tiktok": "https://www.tiktok.com/@la_mecanique_du_pire",
@@ -21,9 +23,15 @@
       "slug": "carte-et-cachet",
       "nom": "Carte & Cachet",
       "theme": "cc",
+      "unite": "Épisode",
+      "titre_liste": "Les épisodes",
       "accroche": "L’histoire racontée sur la carte, pions à l’appui.",
       "youtube": "https://www.youtube.com/@CarteEtCachet",
-      "dossiers": []
+      "dossiers": [
+        "varennes",
+        "singapour",
+        "affaire-calas"
+      ]
     }
   ]
 }

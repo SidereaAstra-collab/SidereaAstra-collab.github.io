@@ -118,7 +118,7 @@ def preparer_dossier(d, chaine, site):
         r["liens"] = [{"label": label, "url": source(cle)["url"]} for label, cle in r["liens"]]
     d["plus_loin"] = [dict(source(cle), label=label) for cle, label in d.get("plus_loin", [])]
     d["nb_sources"] = len(urls)
-    titre = "%s, dossier n° %s de %s : les sources" % (d["titre"], d["numero"], chaine["nom"])
+    titre = "%s, %s %s de %s : les sources" % (d["titre"], chaine["unite"].lower(), d["numero"], chaine["nom"])
     d["lien_signaler"] = "%s/issues/new?title=%s" % (site["depot"], (d["titre"] + " : ").replace(" ", "%20").replace(":", "%3A"))
     d["titre_page"] = titre
     # Les sources déclarées mais jamais citées sont signalées (pas bloquantes).
@@ -158,19 +158,21 @@ def main():
         sys.exit(1)
 
     for c in site["chaines"]:
-        if c["theme"] == "mdp":
-            for d in c["liste"]:
-                chemin = "/%s/%s/" % (c["slug"], d["slug"])
-                html = env.get_template("dossier.html").render(
-                    commun, d=d, chaine=c, theme="mdp", chemin=chemin, titre_page=d["titre_page"],
-                    description=d["description"], image=d.get("image_partage"), script=True)
-                ecrire(chemin.strip("/") + "/index.html", html)
-            chemin = "/%s/" % c["slug"]
-            html = env.get_template("chaine.html").render(
-                commun, chaine=c, theme="mdp", chemin=chemin,
-                titre_page="La mécanique du pire · les dossiers et leurs sources",
-                description="Les sources des dossiers de La mécanique du pire, passage par passage.")
+        if not c["liste"]:
+            continue
+        for d in c["liste"]:
+            chemin = "/%s/%s/" % (c["slug"], d["slug"])
+            html = env.get_template("dossier.html").render(
+                commun, d=d, chaine=c, theme=c["theme"], chemin=chemin, titre_page=d["titre_page"],
+                description=d["description"], image=d.get("image_partage"), script=True)
             ecrire(chemin.strip("/") + "/index.html", html)
+        chemin = "/%s/" % c["slug"]
+        mot = c["titre_liste"][4:].lower()  # « Les dossiers » → « dossiers »
+        html = env.get_template("chaine.html").render(
+            commun, chaine=c, theme=c["theme"], chemin=chemin,
+            titre_page="%s · les %s et leurs sources" % (c["nom"], mot),
+            description="Les sources des %s de %s, passage par passage." % (mot, c["nom"]))
+        ecrire(chemin.strip("/") + "/index.html", html)
 
     ecrire("index.html", env.get_template("accueil.html").render(
         commun, theme="neutre", chemin="/", titre_page="Les sources · La mécanique du pire et Carte & Cachet",

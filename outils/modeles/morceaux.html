@@ -15,6 +15,48 @@
 </header>
 {%- endmacro %}
 
+{% macro marque_cc(h=40) -%}
+<img class="ico sceau" src="/assets/img/sceau-carte-et-cachet.webp" alt="" width="{{ (h * 240 / 232)|round|int }}" height="{{ h }}">
+{%- endmacro %}
+
+{% macro entete_cc(chaine) -%}
+<header class="top">
+<div class="wrap">
+<a class="brand" href="/{{ chaine.slug }}/" aria-label="Carte &amp; Cachet, tous les épisodes">{{ marque_cc() }}<span class="brand-name">Carte <em>&amp;</em> Cachet</span></a>
+<nav class="nav" aria-label="Navigation du site">
+<a class="nav-opt" href="/{{ chaine.slug }}/">Épisodes</a>
+<a href="/corrections/">Corrections</a>
+<a href="{{ chaine.youtube }}" rel="noopener">YouTube</a>
+</nav>
+</div>
+</header>
+{%- endmacro %}
+
+{% macro pied_cc(chaine) -%}
+<footer class="foot">
+<div class="wrap">
+<span class="brand-name">Carte <em>&amp;</em> Cachet</span>
+<nav class="nav" aria-label="Liens du site">
+<a href="/">Toutes les sources</a>
+<a href="/corrections/">Corrections</a>
+<a href="{{ chaine.youtube }}" rel="noopener">YouTube</a>
+{% if chaine.get('tiktok') %}<a href="{{ chaine.tiktok }}" rel="noopener">TikTok</a>
+{% endif %}{% if chaine.get('instagram') %}<a href="{{ chaine.instagram }}" rel="noopener">Instagram</a>
+{% endif %}<a href="/mentions-legales/">Mentions légales</a>
+</nav>
+</div>
+</footer>
+{%- endmacro %}
+
+{# En-tête et pied d'une page de chaîne, selon son identité. #}
+{% macro entete(chaine) -%}
+{% if chaine.theme == 'cc' %}{{ entete_cc(chaine) }}{% else %}{{ entete_mdp(chaine) }}{% endif %}
+{%- endmacro %}
+
+{% macro pied(chaine) -%}
+{% if chaine.theme == 'cc' %}{{ pied_cc(chaine) }}{% else %}{{ pied_mdp(chaine) }}{% endif %}
+{%- endmacro %}
+
 {% macro entete_neutre() -%}
 <header class="top">
 <div class="wrap">

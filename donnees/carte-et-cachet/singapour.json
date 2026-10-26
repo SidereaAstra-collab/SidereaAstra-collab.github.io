@@ -1,0 +1,862 @@
+{
+  "slug": "singapour",
+  "numero": "02",
+  "titre": "L’indépendance de Singapour",
+  "sous_titre": "9 août 1965 : la séparation d’avec la Malaisie, et le dossier Albatros",
+  "description": "Les sources de la vidéo de Carte & Cachet sur l’indépendance de Singapour (9 août 1965) et le dossier Albatros, passage par passage.",
+  "verifie": "26 oct. 2026",
+  "mise_a_jour": "26 oct. 2026",
+  "avertissement": "Les citations de la vidéo sont traduites de l’anglais.",
+  "image_partage": "singapour.jpg",
+  "image_entete": "singapour.jpg",
+  "image_alt": "Miniature de la vidéo : « Dossier secret. », l’île de Singapour cerclée de rouge et le dossier « Albatross ».",
+  "titre_rapports": "Les documents de référence",
+  "parties": [
+    {
+      "id": "video",
+      "numero": 1,
+      "nom": "L’indépendance de Singapour",
+      "mise_en_ligne": "22 oct. 2026",
+      "youtube": "tJ-vVT1kaq4",
+      "miniature": "singapour.jpg",
+      "note": "",
+      "passages": [
+        {
+          "t": "00:00",
+          "titre": "Le 9 août 1965",
+          "items": [
+            {
+              "texte": "9 août 1965, 10 h : la séparation est annoncée par la radio et une édition spéciale de la Gazette ; Singapour devient un État souverain.",
+              "sources": [
+                [
+                  "joursLee"
+                ]
+              ]
+            },
+            {
+              "texte": "À midi, à Broadcasting House, Lee Kuan Yew parle d’un « moment d’angoisse », lui qui a cru toute sa vie à la fusion.",
+              "sources": [
+                [
+                  "nas"
+                ],
+                [
+                  "remembering"
+                ]
+              ]
+            },
+            {
+              "texte": "La voix brisée, il demande aux journalistes s’ils veulent bien qu’on s’arrête un moment.",
+              "sources": [
+                [
+                  "remembering"
+                ],
+                [
+                  "pmo"
+                ]
+              ]
+            },
+            {
+              "texte": "Longtemps racontée comme une expulsion, la séparation a aussi été proposée par un ministre de Singapour, montre le dossier Albatros, publié en entier en décembre 2025.",
+              "sources": [
+                [
+                  "malayMail"
+                ],
+                [
+                  "pmo"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:14",
+          "titre": "Un port sans arrière-pays",
+          "items": [
+            {
+              "texte": "1959 : autonomie interne ; les Britanniques gardent la défense, les affaires étrangères et une part du contrôle de la sécurité intérieure.",
+              "sources": [
+                [
+                  "wikiAutonomie"
+                ]
+              ]
+            },
+            {
+              "texte": "Environ 580 km², à peu près la métropole de Lyon ; quelque 1,6 million d’habitants ; pas de ressources naturelles.",
+              "sources": [
+                [
+                  "wikiDemographie"
+                ],
+                [
+                  "sg101Avant"
+                ]
+              ]
+            },
+            {
+              "texte": "Une partie de l’eau vient de Johor, par une canalisation qui longe la chaussée, selon les accords de 1961 et 1962.",
+              "sources": [
+                [
+                  "wikiEau"
+                ],
+                [
+                  "infopediaEau"
+                ]
+              ]
+            },
+            {
+              "texte": "Un port fondé en 1819, débouché de l’étain et du caoutchouc de Malaya ; la fusion doit lui ouvrir un marché commun d’environ 12 millions d’habitants.",
+              "sources": [
+                [
+                  "ehmPort"
+                ],
+                [
+                  "sg101Avant"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:16",
+          "titre": "La deuxième raison",
+          "items": [
+            {
+              "texte": "Dans le parti de Lee, une gauche ancrée dans les syndicats et les écoles ; en 1961, 20 des 25 secrétaires de section la suivent.",
+              "sources": [
+                [
+                  "infopediaBarisan"
+                ],
+                [
+                  "wikiBarisan"
+                ]
+              ]
+            },
+            {
+              "texte": "Juillet 1961 : vote de confiance gagné par 26 voix sur 51 ; les treize députés de gauche exclus fondent le Barisan Sosialis, le Front socialiste.",
+              "sources": [
+                [
+                  "infopediaBarisan"
+                ]
+              ]
+            },
+            {
+              "texte": "Dans une fédération, la sécurité intérieure reviendrait au gouvernement anticommuniste de Kuala Lumpur.",
+              "sources": [
+                [
+                  "wikiAutonomie"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:51",
+          "titre": "Le calcul du Tunku",
+          "items": [
+            {
+              "texte": "Tunku Abdul Rahman, fils du sultan de Kedah, conduit la Malaya à l’indépendance en 1957.",
+              "sources": [
+                [
+                  "wikiTunku"
+                ]
+              ]
+            },
+            {
+              "texte": "La Constitution de 1957 : une « position spéciale » pour les Malais (article 153), en contrepartie de la citoyenneté pour les Chinois et les Indiens.",
+              "sources": [
+                [
+                  "wikiArt153"
+                ]
+              ]
+            },
+            {
+              "texte": "Malaya, 1957 : 49,8 % de Malais, 37,2 % de Chinois, 11,1 % d’Indiens ; Singapour, chinoise à 75 % ; ensemble, les Chinois passeraient devant.",
+              "sources": [
+                [
+                  "ehmRecensement"
+                ],
+                [
+                  "wikiDemographie"
+                ],
+                [
+                  "wikiMalaisie"
+                ]
+              ]
+            },
+            {
+              "texte": "Mai 1961 : craignant une Singapour communiste, le Tunku propose la Malaisie, avec Bornéo, dont les autochtones sont comptés avec les Malais.",
+              "sources": [
+                [
+                  "rememberingFusion"
+                ],
+                [
+                  "wikiMalaisie"
+                ],
+                [
+                  "wikiArt153"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:58",
+          "titre": "Le référendum",
+          "items": [
+            {
+              "texte": "Référendum du 1er septembre 1962 : trois formes de fusion au choix, aucune option pour la refuser.",
+              "sources": [
+                [
+                  "wikiReferendum"
+                ],
+                [
+                  "infopediaReferendum"
+                ]
+              ]
+            },
+            {
+              "texte": "Le Barisan appelle à voter blanc ; les bulletins blancs doivent suivre la décision de la majorité de l’Assemblée.",
+              "sources": [
+                [
+                  "wikiBarisan"
+                ],
+                [
+                  "infopediaReferendum"
+                ]
+              ]
+            },
+            {
+              "texte": "Résultat : 70,8 % des votants pour l’option A, 25,7 % de bulletins blancs.",
+              "sources": [
+                [
+                  "infopediaReferendum"
+                ],
+                [
+                  "wikiReferendum"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:22",
+          "titre": "Opération Coldstore",
+          "items": [
+            {
+              "texte": "Nuit du 2 février 1963 : 113 arrestations, dont des dirigeants du Barisan, des syndicalistes, des étudiants et des journalistes.",
+              "sources": [
+                [
+                  "wikiColdstore"
+                ],
+                [
+                  "infopediaBarisan"
+                ]
+              ]
+            },
+            {
+              "texte": "Une décision du Conseil de sécurité intérieure (Britanniques, Malaya, Singapour) ; détention sans procès, plus de dix-neuf ans pour Lim Hock Siew.",
+              "sources": [
+                [
+                  "wikiColdstore"
+                ],
+                [
+                  "wikiLimHockSiew"
+                ]
+              ]
+            },
+            {
+              "texte": "Un complot communiste selon la version officielle ; un calcul politique selon Thum Ping Tjin, une menace réelle selon Kumar Ramakrishna.",
+              "sources": [
+                [
+                  "wikiColdstore"
+                ]
+              ]
+            },
+            {
+              "texte": "Le Tunku avait fait de ces arrestations une condition de la fusion.",
+              "sources": [
+                [
+                  "wikiColdstore"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:02",
+          "titre": "Vingt-trois mois",
+          "items": [
+            {
+              "texte": "Malaisie proclamée le 16 septembre 1963 ; marché commun au point mort ; Kuala Lumpur réclame 60 % des recettes singapouriennes au lieu de 40 %.",
+              "sources": [
+                [
+                  "wikiMalaisie"
+                ],
+                [
+                  "wikiTunku"
+                ]
+              ]
+            },
+            {
+              "texte": "1963 : l’Alliance de Singapour, alliée du Tunku, n’a aucun élu sur 42 candidats ; 1964 : le parti de Lee, un élu sur neuf.",
+              "sources": [
+                [
+                  "wikiElection63"
+                ],
+                [
+                  "wikiElection64"
+                ]
+              ]
+            },
+            {
+              "texte": "21 juillet 1964 : la procession de l’anniversaire du Prophète tourne à l’émeute ; 23 morts, 454 blessés, couvre-feu ; en septembre, 13 morts.",
+              "sources": [
+                [
+                  "wikiEmeutes"
+                ]
+              ]
+            },
+            {
+              "texte": "1965 : Lee rassemble des partis d’opposition pour une « Malaysian Malaysia » ; le 27 mai, il parle en grande partie en malais au Parlement fédéral.",
+              "sources": [
+                [
+                  "wikiMSC"
+                ],
+                [
+                  "guide"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:37",
+          "titre": "La version officielle",
+          "items": [
+            {
+              "texte": "Juin-juillet 1965 : à Londres, le Tunku, hospitalisé pour un zona, décide d’écarter Singapour.",
+              "sources": [
+                [
+                  "rsis"
+                ],
+                [
+                  "guide"
+                ],
+                [
+                  "architecte"
+                ]
+              ]
+            },
+            {
+              "texte": "Le 1er juillet, il écrit à Razak qu’il faudra sans doute « couper » Singapour pour sauver le reste du corps de la gangrène.",
+              "sources": [
+                [
+                  "architecte"
+                ]
+              ]
+            },
+            {
+              "texte": "7 août : Lee propose encore une fédération plus souple ou une confédération ; « il n’y a plus d’autre issue », répond le Tunku.",
+              "sources": [
+                [
+                  "joursLee"
+                ],
+                [
+                  "rsis"
+                ]
+              ]
+            },
+            {
+              "texte": "9 août : 126 voix contre 0 au Parlement fédéral, sans les députés de Singapour.",
+              "sources": [
+                [
+                  "wikiAmendement"
+                ],
+                [
+                  "wikiMalaisie"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:16",
+          "titre": "Le dossier Albatros",
+          "items": [
+            {
+              "texte": "Dès 1964, Goh Keng Swee garde papiers du Cabinet et notes manuscrites ; « l’albatros, c’était la Malaisie », allusion au poème de Coleridge.",
+              "sources": [
+                [
+                  "wikiAlbatross"
+                ],
+                [
+                  "nlbFaq"
+                ],
+                [
+                  "pmo"
+                ]
+              ]
+            },
+            {
+              "texte": "Retrouvé en 1982 au ministère de la Défense, exposé en partie en 2015, publié en décembre 2025 avec une exposition permanente et un livre de près de 500 pages.",
+              "sources": [
+                [
+                  "wikiAlbatross"
+                ],
+                [
+                  "nst"
+                ],
+                [
+                  "asiaone"
+                ]
+              ]
+            },
+            {
+              "texte": "15 juillet 1965 : « on ne peut pas continuer ainsi », dit Razak ; Goh, pris de court, propose que chacun suive sa route.",
+              "sources": [
+                [
+                  "architecte"
+                ],
+                [
+                  "guide"
+                ]
+              ]
+            },
+            {
+              "texte": "Lee veut d’abord un arrangement plus souple ; Goh ne négocie que la séparation, sans le lui dire.",
+              "sources": [
+                [
+                  "pmo"
+                ],
+                [
+                  "architecte"
+                ]
+              ]
+            },
+            {
+              "texte": "Ses notes du 20 juillet prévoient un vote au plus tard le 9 août ; il dira plus tard en avoir eu « assez de la Malaisie ».",
+              "sources": [
+                [
+                  "architecte"
+                ],
+                [
+                  "pmo"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:43",
+          "titre": "22 août 1994, 17 h 40",
+          "items": [
+            {
+              "texte": "Lee savait que Goh négociait ; Goh lui avait rapporté que Razak voulait une séparation totale.",
+              "sources": [
+                [
+                  "pmo"
+                ]
+              ]
+            },
+            {
+              "texte": "En 1994, en préparant ses mémoires, Lee lit l’histoire orale de Goh : l’idée de la séparation venait de Goh, pas de Razak.",
+              "sources": [
+                [
+                  "asiaone"
+                ],
+                [
+                  "pmo"
+                ],
+                [
+                  "guide"
+                ]
+              ]
+            },
+            {
+              "texte": "Sa note en marge : lu « pour la première fois » le 22 août 1994, à 17 h 40, au bureau.",
+              "sources": [
+                [
+                  "guide"
+                ],
+                [
+                  "pmo"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "09:08",
+          "titre": "Qui a voulu la séparation ?",
+          "items": [
+            {
+              "texte": "Un accord signé à Kuala Lumpur le 7 août 1965 par les deux gouvernements, Lee compris, puis voté le 9 sans les députés de Singapour.",
+              "sources": [
+                [
+                  "accordONU"
+                ],
+                [
+                  "wikiAccord"
+                ],
+                [
+                  "wikiAmendement"
+                ]
+              ]
+            },
+            {
+              "texte": "Le Tunku l’avait décidée ; Goh l’a préparée ; Lee en a fait rédiger les textes par Barker, tout en espérant une autre formule.",
+              "sources": [
+                [
+                  "pmo"
+                ],
+                [
+                  "scmp"
+                ],
+                [
+                  "joursLee"
+                ]
+              ]
+            },
+            {
+              "texte": "Des larmes qui n’étaient pas prévues : selon son épouse, Lee était alors au bord de l’effondrement nerveux.",
+              "sources": [
+                [
+                  "pmo"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "09:31",
+          "titre": "Un port pour le monde entier",
+          "items": [
+            {
+              "texte": "En 1965, deux bataillons, une cinquantaine d’officiers et un millier d’hommes ; les bases britanniques font plus de 20 % du PNB.",
+              "sources": [
+                [
+                  "mindef"
+                ],
+                [
+                  "infopediaRetrait"
+                ]
+              ]
+            },
+            {
+              "texte": "L’accord de séparation garantit les accords de 1961 et 1962 sur l’eau de Johor.",
+              "sources": [
+                [
+                  "accordONU",
+                  "annexe B, § 14"
+                ],
+                [
+                  "infopediaEau"
+                ]
+              ]
+            },
+            {
+              "texte": "16 janvier 1968 : Londres annonce le départ de ses troupes pour 1971, et non plus pour le milieu des années 1970.",
+              "sources": [
+                [
+                  "infopediaRetrait"
+                ],
+                [
+                  "mindef"
+                ]
+              ]
+            },
+            {
+              "texte": "L’EDB démarche les industriels étrangers (Texas Instruments, Seiko…) ; terrains de Jurong, avantages fiscaux ; « notre marché, c’était le marché mondial », dit Goh.",
+              "sources": [
+                [
+                  "sg101Apres"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rapports": [
+    {
+      "pays": "Archives nationales de Singapour",
+      "date": "9 août 1965",
+      "nom": "Conférence de presse de Lee Kuan Yew",
+      "resume": "Midi, Broadcasting House : « un moment d’angoisse », puis la pause demandée aux journalistes.",
+      "liens": [
+        [
+          "Notice de la transcription",
+          "nas"
+        ],
+        [
+          "Extraits",
+          "remembering"
+        ]
+      ]
+    },
+    {
+      "pays": "Malaisie et Singapour",
+      "date": "7 août 1965",
+      "nom": "Accord de séparation",
+      "resume": "Le texte signé à Kuala Lumpur, ses signataires et ses annexes (bases, eau).",
+      "liens": [
+        [
+          "Texte, PDF",
+          "accordONU"
+        ]
+      ]
+    },
+    {
+      "pays": "National Library Board",
+      "date": "déc. 2025",
+      "nom": "Exposition « The Albatross File »",
+      "resume": "Le 15 juillet 1965, le discours en malais, la note en marge de 1994.",
+      "liens": [
+        [
+          "Guide, PDF",
+          "guide"
+        ],
+        [
+          "Questions fréquentes",
+          "nlbFaq"
+        ]
+      ]
+    },
+    {
+      "pays": "Gouvernement de Singapour",
+      "date": "7 déc. 2025",
+      "nom": "Discours de Lee Hsien Loong",
+      "resume": "Le dossier, sa redécouverte, la consigne de Lee à Goh et ce qu’il a appris en 1994.",
+      "liens": [
+        [
+          "Discours",
+          "pmo"
+        ]
+      ]
+    }
+  ],
+  "plus_loin": [],
+  "visuels": "Cartes, pions et documents dessinés pour la vidéo, sans images d’archives. Fonds de carte : Natural Earth.",
+  "corrections": [],
+  "sources": {
+    "pmo": {
+      "nom": "Cabinet du Premier ministre de Singapour, discours de Lee Hsien Loong (7 déc. 2025)",
+      "domaine": "pmo.gov.sg",
+      "url": "https://www.pmo.gov.sg/newsroom/sm-lee-hsien-loong-at-the-launch-of-the-albatross-file-book-and-exhibition/",
+      "officielle": true
+    },
+    "nlbFaq": {
+      "nom": "National Library Board, « The Albatross File », questions fréquentes",
+      "domaine": "exhibitions.nlb.gov.sg",
+      "url": "https://exhibitions.nlb.gov.sg/thealbatrossfile/faqs/",
+      "officielle": true
+    },
+    "guide": {
+      "nom": "National Library Board, guide de l’exposition « The Albatross File »",
+      "domaine": "file.go.gov.sg",
+      "url": "https://file.go.gov.sg/albatrossguide-english.pdf",
+      "officielle": true,
+      "pdf": true
+    },
+    "architecte": {
+      "nom": "BiblioAsia, « The Architect of Separation »",
+      "domaine": "biblioasia.nlb.gov.sg",
+      "url": "https://biblioasia.nlb.gov.sg/all-sections/vol-22-issue-1-apr-jun-2026-the-architect-of-separation/",
+      "officielle": true
+    },
+    "joursLee": {
+      "nom": "BiblioAsia, « The Days Leading to Separation in Lee Kuan Yew’s Own Words »",
+      "domaine": "biblioasia.nlb.gov.sg",
+      "url": "https://biblioasia.nlb.gov.sg/all-sections/vol-22-issue-2-jul-sep-2026-the-days-leading-to-separation-in-lee-kuan-yews-own-words-/",
+      "officielle": true
+    },
+    "asiaone": {
+      "nom": "AsiaOne (7 déc. 2025)",
+      "domaine": "asiaone.com",
+      "url": "https://www.asiaone.com/singapore/albatross-file-malaysia-separation-goh-keng-swee-lee-kuan-yew-lee-hsien-loong"
+    },
+    "wikiAlbatross": {
+      "nom": "Wikipédia, « Albatross file »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Albatross_file"
+    },
+    "remembering": {
+      "nom": "Remembering Lee Kuan Yew, « Historic press conference »",
+      "domaine": "remembering.gov.sg",
+      "url": "https://www.remembering.gov.sg/life-and-contributions/mr-lee-and-singapore/historic-press-conference",
+      "officielle": true
+    },
+    "nas": {
+      "nom": "Archives nationales de Singapour, transcription de la conférence de presse du 9 août 1965",
+      "domaine": "nas.gov.sg",
+      "url": "https://www.nas.gov.sg/archivesonline/speeches/record-details/740acc3c-115d-11e3-83d5-0050568939ad",
+      "officielle": true
+    },
+    "wikiReferendum": {
+      "nom": "Wikipédia, « 1962 Singaporean integration referendum »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/1962_Singaporean_integration_referendum"
+    },
+    "infopediaReferendum": {
+      "nom": "Infopedia, le référendum de 1962 sur la fusion",
+      "domaine": "eresources.nlb.gov.sg",
+      "url": "https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-10-25_190302.html",
+      "officielle": true
+    },
+    "wikiColdstore": {
+      "nom": "Wikipédia, « Operation Coldstore »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Operation_Coldstore"
+    },
+    "wikiLimHockSiew": {
+      "nom": "Wikipédia, « Lim Hock Siew »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Lim_Hock_Siew"
+    },
+    "wikiBarisan": {
+      "nom": "Wikipédia, « Barisan Sosialis »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Barisan_Sosialis"
+    },
+    "infopediaBarisan": {
+      "nom": "Infopedia, le Barisan Sosialis",
+      "domaine": "eresources.nlb.gov.sg",
+      "url": "https://eresources.nlb.gov.sg/infopedia/articles/SIP_1148_2008-11-30.html",
+      "officielle": true
+    },
+    "wikiEmeutes": {
+      "nom": "Wikipédia, « 1964 race riots in Singapore »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/1964_race_riots_in_Singapore"
+    },
+    "wikiElection63": {
+      "nom": "Wikipédia, « 1963 Singaporean general election »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/1963_Singaporean_general_election"
+    },
+    "wikiElection64": {
+      "nom": "Wikipédia, « 1964 Malaysian general election »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/1964_Malaysian_general_election"
+    },
+    "wikiMalaisie": {
+      "nom": "Wikipédia, « History of the State of Singapore (Malaysia) »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_State_of_Singapore_(Malaysia)"
+    },
+    "wikiMSC": {
+      "nom": "Wikipédia, « Malaysian Solidarity Convention »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Malaysian_Solidarity_Convention"
+    },
+    "infopediaRetrait": {
+      "nom": "Infopedia, « British withdrawal from Singapore »",
+      "domaine": "eresources.nlb.gov.sg",
+      "url": "https://eresources.nlb.gov.sg/infopedia/articles/SIP_1001_2009-02-10.html",
+      "officielle": true
+    },
+    "nst": {
+      "nom": "New Straits Times (déc. 2015)",
+      "domaine": "nst.com.my",
+      "url": "https://nst.com.my/amp/news/2015/12/118939/new-exhibit-uncovers-surprising-details-singapore-malaysia-separation"
+    },
+    "rsis": {
+      "nom": "RSIS, « Separation 1965: The Tunku’s Agonised Decision » (2015)",
+      "domaine": "rsis.edu.sg",
+      "url": "https://rsis.edu.sg/rsis-publication/rsis/c015178-separation-1965-the-tunkus-agonised-decision/"
+    },
+    "wikiAccord": {
+      "nom": "Wikipédia, « Independence of Singapore Agreement 1965 »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Independence_of_Singapore_Agreement_1965"
+    },
+    "accordONU": {
+      "nom": "Nations unies, Recueil des traités, vol. 563 : accord du 7 août 1965",
+      "domaine": "treaties.un.org",
+      "url": "https://treaties.un.org/doc/Publication/UNTS/Volume%20563/volume-563-I-8206-English.pdf",
+      "officielle": true,
+      "pdf": true
+    },
+    "wikiAmendement": {
+      "nom": "Wikipédia, « Constitution and Malaysia (Singapore Amendment) Act 1965 »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Constitution_and_Malaysia_(Singapore_Amendment)_Act_1965"
+    },
+    "malayMail": {
+      "nom": "Malay Mail (28 févr. 2023)",
+      "domaine": "malaymail.com",
+      "url": "https://www.malaymail.com/news/singapore/2023/02/28/albatross-file-with-details-of-top-level-talks-before-singapore-separated-from-malaysia-to-be-declassified-released-publicly/57298"
+    },
+    "scmp": {
+      "nom": "South China Morning Post (7 déc. 2025)",
+      "domaine": "scmp.com",
+      "url": "https://www.scmp.com/week-asia/politics/article/3335504/how-singapores-lee-kuan-yew-was-torn-over-malaysia-separation-while-his-deputy-pushed-it"
+    },
+    "wikiAutonomie": {
+      "nom": "Wikipédia, « Self-governance of Singapore »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Self-governance_of_Singapore"
+    },
+    "wikiDemographie": {
+      "nom": "Wikipédia, « Demographics of Singapore »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Singapore"
+    },
+    "sg101Avant": {
+      "nom": "SG101, l’économie de 1959 à 1965",
+      "domaine": "sg101.gov.sg",
+      "url": "https://www.sg101.gov.sg/economy/surviving-our-independence/1959-1965/",
+      "officielle": true
+    },
+    "sg101Apres": {
+      "nom": "SG101, l’économie de 1965 à 1970",
+      "domaine": "sg101.gov.sg",
+      "url": "https://www.sg101.gov.sg/economy/surviving-our-independence/1965-1970/",
+      "officielle": true
+    },
+    "infopediaEau": {
+      "nom": "Infopedia, les accords sur l’eau",
+      "domaine": "eresources.nlb.gov.sg",
+      "url": "https://eresources.nlb.gov.sg/infopedia/articles/SIP_1533_2009-06-23.html",
+      "officielle": true
+    },
+    "wikiEau": {
+      "nom": "Wikipédia, « Water supply and sanitation in Singapore »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Water_supply_and_sanitation_in_Singapore"
+    },
+    "ehmPort": {
+      "nom": "Economic History of Malaysia, « The pivotal role of Singapore in colonial Malaya’s economic development »",
+      "domaine": "ehm.my",
+      "url": "https://www.ehm.my/publications/articles/the-pivotal-role-of-singapore-in-colonial-malayas-economic-development"
+    },
+    "ehmRecensement": {
+      "nom": "Economic History of Malaysia, recensements de la péninsule (1911-2010)",
+      "domaine": "ehm.my",
+      "url": "https://www.ehm.my/clients/Ehm_B4CF2D68-993E-4533-A79F-522733770A7E/contentms/economic/Popu_Table_5_7.pdf",
+      "pdf": true
+    },
+    "wikiTunku": {
+      "nom": "Wikipédia, « Tunku Abdul Rahman »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Tunku_Abdul_Rahman"
+    },
+    "wikiArt153": {
+      "nom": "Wikipédia, « Article 153 of the Constitution of Malaysia »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Article_153_of_the_Constitution_of_Malaysia"
+    },
+    "rememberingFusion": {
+      "nom": "Remembering Lee Kuan Yew, « Tunku’s merger announcement »",
+      "domaine": "remembering.gov.sg",
+      "url": "https://remembering.gov.sg/life-and-contributions/mr-lee-and-singapore/tunkus-merger-announcement",
+      "officielle": true
+    },
+    "mindef": {
+      "nom": "Ministère de la Défense de Singapour, historique",
+      "domaine": "mindef.gov.sg",
+      "url": "https://www.mindef.gov.sg/about-us/history/",
+      "officielle": true
+    }
+  }
+}

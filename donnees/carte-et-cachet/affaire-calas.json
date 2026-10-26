@@ -1,0 +1,724 @@
+{
+  "slug": "affaire-calas",
+  "numero": "01",
+  "titre": "L’affaire Calas",
+  "sous_titre": "Toulouse, 1761-1765 : un père exécuté pour la mort de son fils, puis innocenté",
+  "description": "Les sources de la vidéo de Carte & Cachet sur l’affaire Calas (Toulouse, 1761-1765), passage par passage.",
+  "verifie": "26 oct. 2026",
+  "mise_a_jour": "26 oct. 2026",
+  "avertissement": "",
+  "image_partage": "affaire-calas.jpg",
+  "image_entete": "affaire-calas.jpg",
+  "image_alt": "Miniature de la vidéo : « Exécuté. Puis innocenté. », un pion rouge renversé devant trois pions noirs, sur une carte ancienne.",
+  "titre_rapports": "Les documents d’époque",
+  "parties": [
+    {
+      "id": "video",
+      "numero": 1,
+      "nom": "L’affaire Calas",
+      "mise_en_ligne": "17 oct. 2026",
+      "youtube": "CYFEy3QtdjA",
+      "miniature": "affaire-calas.jpg",
+      "note": "",
+      "passages": [
+        {
+          "t": "00:00",
+          "titre": "Une nuit rue des Filatiers",
+          "items": [
+            {
+              "texte": "13 octobre 1761, vers 22 h : Pierre Calas et Gaubert Lavaysse trouvent Marc-Antoine pendu entre les battants d’une porte, au rez-de-chaussée.",
+              "sources": [
+                [
+                  "justice"
+                ]
+              ]
+            },
+            {
+              "texte": "Jean Calas exécuté le 10 mars 1762 ; déclaré innocent le 9 mars 1765, trois ans jour pour jour après sa condamnation.",
+              "sources": [
+                [
+                  "jugement"
+                ],
+                [
+                  "justice"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:01",
+          "titre": "Une famille protestante",
+          "items": [
+            {
+              "texte": "Jean Calas, 63 ans (né le 19 mars 1698), marchand de toiles rue des Filatiers depuis près de quarante ans.",
+              "sources": [
+                [
+                  "justice"
+                ],
+                [
+                  "britannica"
+                ]
+              ]
+            },
+            {
+              "texte": "Sa femme Anne-Rose, quatre fils, deux filles ; Jeanne Viguière, servante catholique, chez eux depuis vingt-cinq ans.",
+              "sources": [
+                [
+                  "justice"
+                ],
+                [
+                  "wikiFr"
+                ]
+              ]
+            },
+            {
+              "texte": "Depuis la révocation de l’édit de Nantes (1685), le culte protestant est interdit ; pas d’état civil hors de l’Église catholique.",
+              "sources": [
+                [
+                  "justice"
+                ],
+                [
+                  "edit"
+                ]
+              ]
+            },
+            {
+              "texte": "Louis converti en 1756 ; Marc-Antoine, 28 ans, privé du barreau faute de certificat de catholicité ; sombre et joueur, selon la défense.",
+              "sources": [
+                [
+                  "wikiFr"
+                ],
+                [
+                  "justice"
+                ],
+                [
+                  "traite",
+                  "chap. 1"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:02",
+          "titre": "Le soir du 13 octobre",
+          "items": [
+            {
+              "texte": "Souper à l’étage avec Gaubert Lavaysse, 19 ans, fils d’un avocat toulousain ; Marc-Antoine descend vers 19 h 30.",
+              "sources": [
+                [
+                  "justice"
+                ],
+                [
+                  "traite",
+                  "chap. 1"
+                ]
+              ]
+            },
+            {
+              "texte": "Vers 22 h, Pierre raccompagne Lavaysse ; ils trouvent Marc-Antoine pendu, son habit plié sur le comptoir.",
+              "sources": [
+                [
+                  "justice"
+                ],
+                [
+                  "traite",
+                  "chap. 1"
+                ]
+              ]
+            },
+            {
+              "texte": "La famille dit d’abord l’avoir trouvé à terre, tué par un inconnu : le suicidé est alors jugé, traîné sur une claie puis pendu.",
+              "sources": [
+                [
+                  "justice"
+                ],
+                [
+                  "britannica"
+                ],
+                [
+                  "wikiFr"
+                ]
+              ]
+            },
+            {
+              "texte": "Le 15 octobre, Jean Calas reconnaît l’avoir trouvé pendu et avoir menti pour l’honneur de la famille.",
+              "sources": [
+                [
+                  "justice"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:58",
+          "titre": "La rumeur",
+          "items": [
+            {
+              "texte": "La foule accuse la famille de l’avoir tué parce qu’il voulait se faire catholique ; aucune preuve sérieuse de ce projet ne sera trouvée.",
+              "sources": [
+                [
+                  "justice"
+                ],
+                [
+                  "herodote"
+                ],
+                [
+                  "aveiro"
+                ]
+              ]
+            },
+            {
+              "texte": "Le capitoul David de Beaudrigue fait arrêter toute la maisonnée et emporter le corps, sans laisser de garde devant la maison.",
+              "sources": [
+                [
+                  "justice"
+                ]
+              ]
+            },
+            {
+              "texte": "Son procès-verbal, daté du 13 octobre, n’est rédigé que le lendemain à l’hôtel de ville.",
+              "sources": [
+                [
+                  "justice"
+                ],
+                [
+                  "jugement"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:25",
+          "titre": "Le monitoire",
+          "items": [
+            {
+              "texte": "Un monitoire, appel à témoins diffusé par les prêtres, suppose déjà le crime : Marc-Antoine à genoux devant son père, qui l’étrangle.",
+              "sources": [
+                [
+                  "justice"
+                ],
+                [
+                  "aveiro",
+                  "Mémoire de Donat Calas"
+                ]
+              ]
+            },
+            {
+              "texte": "87 dépositions, souvent par ouï-dire, sans élément décisif.",
+              "sources": [
+                [
+                  "justice"
+                ],
+                [
+                  "aveiro"
+                ]
+              ]
+            },
+            {
+              "texte": "Le 8 novembre, Marc-Antoine est inhumé en grande pompe, selon le rite catholique, à Saint-Étienne.",
+              "sources": [
+                [
+                  "justice"
+                ],
+                [
+                  "aveiro"
+                ]
+              ]
+            },
+            {
+              "texte": "Selon la famille, les Pénitents blancs lui font un service solennel, avec un squelette tenant la palme du martyre.",
+              "sources": [
+                [
+                  "aveiro",
+                  "Mémoire de Donat Calas"
+                ],
+                [
+                  "traite",
+                  "chap. 1"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:59",
+          "titre": "Le pire moment",
+          "items": [
+            {
+              "texte": "Février 1762 : le pasteur François Rochette pendu ; les trois frères de Grenier, gentilshommes qui avaient tenté de le libérer, décapités.",
+              "sources": [
+                [
+                  "rochette"
+                ],
+                [
+                  "wikiFr"
+                ]
+              ]
+            },
+            {
+              "texte": "Toulouse prépare le bicentenaire des combats de 1562, que la ville fête chaque année par une procession.",
+              "sources": [
+                [
+                  "justice"
+                ],
+                [
+                  "traite",
+                  "chap. 1"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:29",
+          "titre": "Le procès",
+          "items": [
+            {
+              "texte": "18 novembre 1761 : les capitouls ordonnent la question pour Jean, Anne-Rose et Pierre ; en appel, le parlement casse la sentence le 5 décembre.",
+              "sources": [
+                [
+                  "jugement"
+                ],
+                [
+                  "wikiFr"
+                ]
+              ]
+            },
+            {
+              "texte": "Treize juges, dix séances : la peine de mort exige deux voix d’écart.",
+              "sources": [
+                [
+                  "justice"
+                ]
+              ]
+            },
+            {
+              "texte": "9 mars 1762 : huit voix contre cinq ; Jean Calas seul condamné à mort.",
+              "sources": [
+                [
+                  "justice"
+                ],
+                [
+                  "traite",
+                  "chap. 1"
+                ],
+                [
+                  "herodote"
+                ]
+              ]
+            },
+            {
+              "texte": "Selon Voltaire, les juges comptaient sur l’aveu du vieillard sous la torture, et sur le nom de ses complices.",
+              "sources": [
+                [
+                  "traite",
+                  "chap. 1"
+                ],
+                [
+                  "aveiro"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:00",
+          "titre": "Le supplice",
+          "items": [
+            {
+              "texte": "10 mars 1762 : la question ordinaire et extraordinaire, sans aveu.",
+              "sources": [
+                [
+                  "justice"
+                ],
+                [
+                  "herodote"
+                ],
+                [
+                  "jugement"
+                ]
+              ]
+            },
+            {
+              "texte": "Roué vif place Saint-Georges, deux heures sur la roue, puis étranglé et brûlé.",
+              "sources": [
+                [
+                  "wikiFr"
+                ],
+                [
+                  "justice"
+                ],
+                [
+                  "britannica"
+                ]
+              ]
+            },
+            {
+              "texte": "Les dominicains qui l’assistent témoignent qu’il meurt en clamant son innocence et en pardonnant à ses juges.",
+              "sources": [
+                [
+                  "aveiro",
+                  "Mémoire de Donat Calas"
+                ],
+                [
+                  "justice"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:28",
+          "titre": "Tout se contredit",
+          "items": [
+            {
+              "texte": "Une semaine plus tard : Pierre banni à perpétuité ; sa mère, Lavaysse et la servante mis hors de cour.",
+              "sources": [
+                [
+                  "jugement"
+                ],
+                [
+                  "justice"
+                ]
+              ]
+            },
+            {
+              "texte": "Un père de 63 ans n’a pu agir seul : s’il y a crime, il y a des complices, et ce sont eux qu’on libère.",
+              "sources": [
+                [
+                  "traite",
+                  "chap. 1"
+                ]
+              ]
+            },
+            {
+              "texte": "Pierre ramené au couvent des jacobins pour qu’il abjure ; ses sœurs placées dans deux couvents.",
+              "sources": [
+                [
+                  "aveiro"
+                ],
+                [
+                  "traite",
+                  "chap. 1"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:04",
+          "titre": "Voltaire",
+          "items": [
+            {
+              "texte": "Mars 1762, près de Genève : Voltaire croit d’abord à un crime de fanatisme protestant (lettre du 22 mars).",
+              "sources": [
+                [
+                  "herodote"
+                ]
+              ]
+            },
+            {
+              "texte": "Il interroge Donat, réfugié à Genève, puis Pierre, échappé des dominicains quatre mois plus tard.",
+              "sources": [
+                [
+                  "orieux"
+                ],
+                [
+                  "milza"
+                ]
+              ]
+            },
+            {
+              "texte": "Des lettres au nom de la veuve et des fils, imprimées dès 1762 ; des mémoires d’avocats parisiens ; Anne-Rose monte à Paris.",
+              "sources": [
+                [
+                  "aveiro"
+                ],
+                [
+                  "orieux"
+                ],
+                [
+                  "milza"
+                ]
+              ]
+            },
+            {
+              "texte": "1763 : le Traité sur la tolérance s’ouvre sur « le meurtre de Calas, commis dans Toulouse avec le glaive de la justice ».",
+              "sources": [
+                [
+                  "traite",
+                  "chap. 1"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:08",
+          "titre": "La révision",
+          "items": [
+            {
+              "texte": "7 mars 1763, à Versailles : le Conseil du roi ordonne à l’unanimité que Toulouse envoie la procédure, ce qui prend plus d’un an.",
+              "sources": [
+                [
+                  "justice"
+                ],
+                [
+                  "milza"
+                ]
+              ]
+            },
+            {
+              "texte": "Juin 1764 : une assemblée de quatre-vingts juges casse l’arrêt ; l’affaire va aux maîtres des requêtes de l’Hôtel du roi.",
+              "sources": [
+                [
+                  "justice"
+                ],
+                [
+                  "orieux"
+                ],
+                [
+                  "jugement"
+                ]
+              ]
+            },
+            {
+              "texte": "9 mars 1765 : à l’unanimité, Jean Calas et tous les accusés sont déchargés.",
+              "sources": [
+                [
+                  "jugement"
+                ],
+                [
+                  "justice"
+                ],
+                [
+                  "milza"
+                ]
+              ]
+            },
+            {
+              "texte": "Le capitoul Beaudrigue destitué dès le 25 février 1765 ; le parlement de Toulouse refuse d’afficher le jugement.",
+              "sources": [
+                [
+                  "milza"
+                ],
+                [
+                  "justice"
+                ],
+                [
+                  "jugement"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:46",
+          "titre": "Ce qui a changé",
+          "items": [
+            {
+              "texte": "Sirven, défendu par Voltaire, réhabilité à Toulouse le 25 novembre 1771 ; ses biens lui sont rendus.",
+              "sources": [
+                [
+                  "sirven"
+                ]
+              ]
+            },
+            {
+              "texte": "Le chevalier de La Barre, exécuté le 1er juillet 1766 à Abbeville, à vingt ans, pour blasphème et sacrilège.",
+              "sources": [
+                [
+                  "wikiLaBarre"
+                ]
+              ]
+            },
+            {
+              "texte": "La question préparatoire abolie le 24 août 1780, la question préalable le 1er mai 1788.",
+              "sources": [
+                [
+                  "declaration1788",
+                  "art. 8"
+                ]
+              ]
+            },
+            {
+              "texte": "1787 : un édit donne un état civil aux protestants ; 1789 : « Nul ne doit être inquiété pour ses opinions, même religieuses ».",
+              "sources": [
+                [
+                  "edit"
+                ],
+                [
+                  "elysee",
+                  "art. 10"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:30",
+          "titre": "Trois couches",
+          "items": [
+            {
+              "texte": "La maison des Calas, au 50 rue des Filatiers, inscrite aux monuments historiques en 1980.",
+              "sources": [
+                [
+                  "merimee"
+                ],
+                [
+                  "wikiFr"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rapports": [
+    {
+      "pays": "Voltaire",
+      "date": "1763",
+      "nom": "Traité sur la tolérance",
+      "resume": "Le récit de l’affaire au chapitre premier, du souper au supplice, dans l’édition originale.",
+      "liens": [
+        [
+          "Texte",
+          "traite"
+        ]
+      ]
+    },
+    {
+      "pays": "Maîtres des requêtes de l’Hôtel du roi",
+      "date": "9 mars 1765",
+      "nom": "Jugement de réhabilitation",
+      "resume": "Les actes de la procédure de 1761 à 1765 et la décharge des accusés.",
+      "liens": [
+        [
+          "Transcription, PDF",
+          "jugement"
+        ]
+      ]
+    },
+    {
+      "pays": "Famille Calas",
+      "date": "1762",
+      "nom": "Lettres et mémoires des Calas",
+      "resume": "La lettre de la veuve, le mémoire de Donat et la déclaration de Pierre, rédigés avec Voltaire.",
+      "liens": [
+        [
+          "Texte",
+          "aveiro"
+        ]
+      ]
+    }
+  ],
+  "plus_loin": [],
+  "visuels": "Cartes, pions et documents dessinés pour la vidéo ; les pièces d’époque sont reconstituées et gardent leur orthographe. Fonds de carte : Natural Earth.",
+  "corrections": [],
+  "sources": {
+    "justice": {
+      "nom": "Ministère de la Justice, « L’affaire Calas »",
+      "domaine": "justice.gouv.fr",
+      "url": "https://www.justice.gouv.fr/actualites/actualite/laffaire-calas",
+      "langue": "FR",
+      "officielle": true
+    },
+    "jugement": {
+      "nom": "Musée protestant, jugement de réhabilitation du 9 mars 1765",
+      "domaine": "museeprotestant.org",
+      "url": "https://museeprotestant.org/wp-content/uploads/2014/01/Musée-virtuel-du-protestantisme-Jugement-de-laffaire-Calas.pdf",
+      "langue": "FR",
+      "officielle": true,
+      "pdf": true
+    },
+    "traite": {
+      "nom": "Voltaire, Traité sur la tolérance (1763)",
+      "domaine": "fr.wikisource.org",
+      "url": "https://fr.wikisource.org/wiki/Trait%C3%A9_sur_la_tol%C3%A9rance/%C3%89dition_1763/01",
+      "langue": "FR",
+      "officielle": true
+    },
+    "aveiro": {
+      "nom": "Université d’Aveiro, « Le dossier de l’affaire Calas »",
+      "domaine": "sweet.ua.pt",
+      "url": "https://sweet.ua.pt/fmart/calas.htm",
+      "langue": "FR",
+      "officielle": true
+    },
+    "rochette": {
+      "nom": "Musée protestant, « The Rochette case »",
+      "domaine": "museeprotestant.org",
+      "url": "https://museeprotestant.org/en/notice/the-rochette-case/"
+    },
+    "sirven": {
+      "nom": "Musée protestant, « The Sirven affair »",
+      "domaine": "museeprotestant.org",
+      "url": "https://museeprotestant.org/en/notice/the-sirven-affair/"
+    },
+    "edit": {
+      "nom": "Musée protestant, « The Edict of Toleration »",
+      "domaine": "museeprotestant.org",
+      "url": "https://museeprotestant.org/en/notice/the-edict-of-toleration-november-29th-1787/"
+    },
+    "herodote": {
+      "nom": "Hérodote, « 9 mars 1762 »",
+      "domaine": "herodote.net",
+      "url": "https://www.herodote.net/9_mars_1762-evenement-17620309.php",
+      "langue": "FR"
+    },
+    "britannica": {
+      "nom": "Britannica, « Jean Calas »",
+      "domaine": "britannica.com",
+      "url": "https://www.britannica.com/biography/Jean-Calas"
+    },
+    "merimee": {
+      "nom": "Base Mérimée, « Ancienne maison de Calas »",
+      "domaine": "pop.culture.gouv.fr",
+      "url": "https://www.pop.culture.gouv.fr/notice/merimee/PA00094612",
+      "langue": "FR",
+      "officielle": true
+    },
+    "wikiFr": {
+      "nom": "Wikipédia, « Affaire Calas »",
+      "domaine": "fr.wikipedia.org",
+      "url": "https://fr.wikipedia.org/wiki/Affaire_Calas",
+      "langue": "FR"
+    },
+    "milza": {
+      "nom": "Pierre Milza, Voltaire (2007), extrait",
+      "domaine": "monsieurdevoltaire.com",
+      "url": "https://www.monsieurdevoltaire.com/article-32492499.html",
+      "langue": "FR"
+    },
+    "orieux": {
+      "nom": "Jean Orieux, Voltaire, extrait",
+      "domaine": "monsieurdevoltaire.com",
+      "url": "https://www.monsieurdevoltaire.com/article-32262623.html",
+      "langue": "FR"
+    },
+    "wikiLaBarre": {
+      "nom": "Wikipédia, « François-Jean de la Barre »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois-Jean_de_la_Barre"
+    },
+    "declaration1788": {
+      "nom": "Louis XVI, déclaration du 1er mai 1788",
+      "domaine": "ledroitcriminel.fr",
+      "url": "https://ledroitcriminel.fr/la_science_criminelle/penalistes/introduction/declaration_louis16.htm",
+      "langue": "FR",
+      "officielle": true
+    },
+    "elysee": {
+      "nom": "Présidence de la République, « La Déclaration des droits de l’homme et du citoyen »",
+      "domaine": "elysee.fr",
+      "url": "https://www.elysee.fr/la-presidence/la-declaration-des-droits-de-l-homme-et-du-citoyen",
+      "langue": "FR",
+      "officielle": true
+    }
+  }
+}
