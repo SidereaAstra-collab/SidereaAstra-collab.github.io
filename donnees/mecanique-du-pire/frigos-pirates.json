@@ -25,10 +25,16 @@
       },
       {
         "titre": "Qui est derrière",
-        "texte": "Au 25 octobre, les auteurs ne sont pas identifiés et aucun suspect n’a été rendu public ; l’enquête, confiée à l’Office anti-cybercriminalité, continue.",
+        "texte": "Au 25 octobre, les auteurs ne sont pas identifiés et personne n’a revendiqué l’attaque ; l’enquête, confiée à l’Office anti-cybercriminalité, continue. Aux États-Unis, l’armée enquête sur des pannes de frigos survenues fin août dans les magasins d’au moins six bases militaires, sans savoir encore si elles sont malveillantes ; ses enquêteurs travaillent avec la police française.",
         "sources": [
           [
+            "telegraph"
+          ],
+          [
             "cnews"
+          ],
+          [
+            "stripes"
           ]
         ]
       },
@@ -510,6 +516,16 @@
       "domaine": "la1ere.franceinfo.fr",
       "url": "https://la1ere.franceinfo.fr/reunion/cyberattaque-une-deuxieme-enseigne-victime-1750338.html",
       "langue": "FR"
+    },
+    "telegraph": {
+      "nom": "The Telegraph (repris par Yahoo News)",
+      "domaine": "yahoo.com",
+      "url": "https://www.yahoo.com/news/us/articles/pentagon-investigating-french-fridge-hack-093000301.html"
+    },
+    "stripes": {
+      "nom": "Stars and Stripes",
+      "domaine": "stripes.com",
+      "url": "https://www.stripes.com/theaters/us/2026-09-01/army-cid-investigates-commissary-refrigerator-outages-22721718.html"
     }
   }
 }
