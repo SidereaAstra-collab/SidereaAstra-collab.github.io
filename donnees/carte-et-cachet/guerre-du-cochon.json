@@ -4,13 +4,13 @@
   "titre": "La guerre du cochon",
   "sous_titre": "Îles San Juan, 1859-1872 : un cochon, deux pays et une frontière écrite au singulier",
   "description": "Les sources de la vidéo de Carte & Cachet sur la guerre du cochon (îles San Juan, 1859-1872), passage par passage.",
-  "verifie": "26 oct. 2026",
-  "mise_a_jour": "26 oct. 2026",
+  "verifie": "28 oct. 2026",
+  "mise_a_jour": "28 oct. 2026",
   "avertissement": "",
   "image_partage": "guerre-du-cochon.jpg",
   "image_entete": "guerre-du-cochon.jpg",
   "image_alt": "Miniature de la vidéo : « Une guerre pour un cochon ? », le jeton du cochon et celui d’un navire sur la carte des îles San Juan.",
-  "titre_rapports": "",
+  "titre_rapports": "Les documents d’époque",
   "parties": [
     {
       "id": "video",
@@ -26,10 +26,35 @@
           "titre": "Un cochon, le 15 juin 1859",
           "items": [
             {
-              "texte": "Phrase d’essai.",
+              "texte": "15 juin 1859, île San Juan : Lyman Cutlar, colon de 25 ans, abat un cochon de la Compagnie de la baie d’Hudson qui fouillait ses pommes de terre.",
               "sources": [
                 [
-                  "essai"
+                  "npsCutlar"
+                ],
+                [
+                  "hl1"
+                ],
+                [
+                  "npsPig"
+                ]
+              ]
+            },
+            {
+              "texte": "Deux mois plus tard, plus de 400 soldats américains campent sur l’île, face aux navires de guerre britanniques.",
+              "sources": [
+                [
+                  "npsPig"
+                ],
+                [
+                  "canEnc"
+                ]
+              ]
+            },
+            {
+              "texte": "Le traité de l’Oregon avait été signé le 15 juin 1846, treize ans plus tôt jour pour jour.",
+              "sources": [
+                [
+                  "oregon"
                 ]
               ]
             }
@@ -40,10 +65,22 @@
           "titre": "Le traité de 1846",
           "items": [
             {
-              "texte": "Phrase d’essai.",
+              "texte": "Un territoire que les Américains appellent l’Oregon et les Britanniques le district du Columbia ; occupé en commun depuis le traité de 1818.",
               "sources": [
                 [
-                  "essai"
+                  "wikiOregon"
+                ]
+              ]
+            },
+            {
+              "texte": "Signé à Washington le 15 juin 1846, le traité prolonge jusqu’à la mer la frontière du 49e parallèle, déjà fixée plus à l’est.",
+              "sources": [
+                [
+                  "oregon",
+                  "art. 1"
+                ],
+                [
+                  "wikiOregon"
                 ]
               ]
             }
@@ -54,10 +91,25 @@
           "titre": "Le chenal, au singulier",
           "items": [
             {
-              "texte": "Phrase d’essai.",
+              "texte": "Article premier : la frontière va « jusqu’au milieu du chenal » qui sépare le continent de l’île de Vancouver, puis par le détroit de Fuca jusqu’au Pacifique.",
               "sources": [
                 [
-                  "essai"
+                  "oregon",
+                  "art. 1"
+                ]
+              ]
+            },
+            {
+              "texte": "Les cartes de ces eaux sont encore imprécises, et le traité ne dit pas de quel chenal il s’agit.",
+              "sources": [
+                [
+                  "wikiFr"
+                ],
+                [
+                  "canEnc"
+                ],
+                [
+                  "wikiOregon"
                 ]
               ]
             }
@@ -68,10 +120,46 @@
           "titre": "Haro ou Rosario",
           "items": [
             {
-              "texte": "Phrase d’essai.",
+              "texte": "Entre l’île de Vancouver et le continent, l’archipel des San Juan : le détroit de Haro à l’ouest, celui de Rosario à l’est.",
               "sources": [
                 [
-                  "essai"
+                  "canEnc"
+                ],
+                [
+                  "wikiFr"
+                ]
+              ]
+            },
+            {
+              "texte": "Les Britanniques veulent la ligne par Rosario, qui leur laisse les îles ; les Américains, la ligne par Haro.",
+              "sources": [
+                [
+                  "canEnc"
+                ],
+                [
+                  "hl1"
+                ]
+              ]
+            },
+            {
+              "texte": "Les passages entre les îles relient le détroit de Juan de Fuca à celui de Géorgie ; sur le Fraser, la ruée vers l’or commence au printemps 1858.",
+              "sources": [
+                [
+                  "wikiHaro"
+                ],
+                [
+                  "canEncGold"
+                ]
+              ]
+            },
+            {
+              "texte": "L’île San Juan, la plus proche de Victoria, capitale de la colonie de l’île de Vancouver, domine les approches de son port.",
+              "sources": [
+                [
+                  "hl1"
+                ],
+                [
+                  "canEncGold"
                 ]
               ]
             }
@@ -82,10 +170,18 @@
           "titre": "La commission de 1857",
           "items": [
             {
-              "texte": "Phrase d’essai.",
+              "texte": "1857 : une commission des deux pays ; le Britannique James Prevost défend Rosario, l’Américain Archibald Campbell défend Haro.",
               "sources": [
                 [
-                  "essai"
+                  "hl1"
+                ]
+              ]
+            },
+            {
+              "texte": "Prevost propose une ligne au milieu de l’archipel, qui laisserait aux Américains toutes les grandes îles sauf San Juan ; Campbell refuse.",
+              "sources": [
+                [
+                  "hl1"
                 ]
               ]
             }
@@ -96,10 +192,38 @@
           "titre": "L’île San Juan",
           "items": [
             {
-              "texte": "Phrase d’essai.",
+              "texte": "Fin 1853, la Compagnie de la baie d’Hudson fonde la ferme Belle Vue ; en six ans, son troupeau passe de 1 369 à plus de 4 500 moutons.",
               "sources": [
                 [
-                  "essai"
+                  "npsPig"
+                ],
+                [
+                  "npsFaq"
+                ]
+              ]
+            },
+            {
+              "texte": "En 1855, le shérif du comté de Whatcom, auquel le territoire de Washington rattache l’île, débarque avec des hommes armés et emporte 34 béliers, faute d’impôts payés.",
+              "sources": [
+                [
+                  "douglas1855"
+                ],
+                [
+                  "hl1"
+                ],
+                [
+                  "hl7505"
+                ]
+              ]
+            },
+            {
+              "texte": "Au printemps 1859, une vingtaine de colons américains sur les pâturages de la compagnie ; des intrus, pour les Britanniques.",
+              "sources": [
+                [
+                  "npsPig"
+                ],
+                [
+                  "hl1"
                 ]
               ]
             }
@@ -110,10 +234,24 @@
           "titre": "Cent dollars",
           "items": [
             {
-              "texte": "Phrase d’essai.",
+              "texte": "Cutlar propose de payer la bête ; le régisseur, Charles Griffin, lui répond que les Américains n’ont rien à faire sur l’île.",
               "sources": [
                 [
-                  "essai"
+                  "npsCutlar"
+                ],
+                [
+                  "hl1"
+                ]
+              ]
+            },
+            {
+              "texte": "Des représentants britanniques réclament 100 dollars, plus de six fois la valeur du cochon ; selon Cutlar, ils menacent de l’arrêter.",
+              "sources": [
+                [
+                  "npsCutlar"
+                ],
+                [
+                  "hl1"
                 ]
               ]
             }
@@ -124,10 +262,27 @@
           "titre": "Pickett débarque",
           "items": [
             {
-              "texte": "Phrase d’essai.",
+              "texte": "Les colons demandent des troupes ; le général William Harney, qui commande le département de l’Oregon, agit sans ordre de Washington.",
               "sources": [
                 [
-                  "essai"
+                  "hl1"
+                ],
+                [
+                  "dcbBaynes"
+                ]
+              ]
+            },
+            {
+              "texte": "Le capitaine George Pickett et 64 hommes de la compagnie D du 9e d’infanterie débarquent fin juillet, près du quai de la compagnie.",
+              "sources": [
+                [
+                  "npsPig"
+                ],
+                [
+                  "npsGriffin"
+                ],
+                [
+                  "hl1"
                 ]
               ]
             }
@@ -138,10 +293,39 @@
           "titre": "Les navires de Douglas",
           "items": [
             {
-              "texte": "Phrase d’essai.",
+              "texte": "Le gouverneur James Douglas envoie le HMS Tribune, frégate de 31 canons du capitaine Geoffrey Hornby, bientôt rejoint par d’autres navires.",
               "sources": [
                 [
-                  "essai"
+                  "npsPig"
+                ],
+                [
+                  "npsGriffin"
+                ]
+              ]
+            },
+            {
+              "texte": "Ses instructions du 29 juillet : empêcher tout nouveau débarquement de soldats américains et toute fortification.",
+              "sources": [
+                [
+                  "douglas1"
+                ],
+                [
+                  "hl1"
+                ]
+              ]
+            },
+            {
+              "texte": "Pickett refuse l’occupation commune et prévient qu’il combattra toute troupe britannique qui débarquerait.",
+              "sources": [
+                [
+                  "hl1"
+                ],
+                [
+                  "pickettCD"
+                ],
+                [
+                  "douglas2",
+                  "lettre de Pickett, 3 août"
                 ]
               ]
             }
@@ -152,10 +336,55 @@
           "titre": "« Une querelle à propos d’un cochon »",
           "items": [
             {
-              "texte": "Phrase d’essai.",
+              "texte": "Le 5 août, l’amiral Robert Lambert Baynes arrive près de Victoria ; Douglas veut débarquer des troupes, Hornby a déjà choisi d’attendre.",
               "sources": [
                 [
-                  "essai"
+                  "douglas2"
+                ],
+                [
+                  "hl2"
+                ],
+                [
+                  "dcbBaynes"
+                ]
+              ]
+            },
+            {
+              "texte": "L’amiral approuve Hornby ; il n’entraînera pas, aurait-il dit, « two great nations in a war over a squabble about a pig ».",
+              "sources": [
+                [
+                  "npsPig"
+                ],
+                [
+                  "hl2"
+                ],
+                [
+                  "dcbBaynes"
+                ]
+              ]
+            },
+            {
+              "texte": "Fin août, 461 soldats américains, 14 canons de campagne et 8 canons de marine de 32 livres ; une redoute est commencée sur la crête.",
+              "sources": [
+                [
+                  "npsPig"
+                ],
+                [
+                  "hl2"
+                ]
+              ]
+            },
+            {
+              "texte": "Au large, plusieurs navires de guerre britanniques, des dizaines de canons et des centaines de Royal Marines.",
+              "sources": [
+                [
+                  "npsBrochure"
+                ],
+                [
+                  "npsPig"
+                ],
+                [
+                  "canEnc"
                 ]
               ]
             }
@@ -166,10 +395,38 @@
           "titre": "Winfield Scott",
           "items": [
             {
-              "texte": "Phrase d’essai.",
+              "texte": "Le président Buchanan envoie le général Winfield Scott, 73 ans, qui a déjà apaisé deux conflits de frontière avec les Britanniques dans les années 1830.",
               "sources": [
                 [
-                  "essai"
+                  "hl2"
+                ],
+                [
+                  "npsPig"
+                ],
+                [
+                  "npsScott"
+                ]
+              ]
+            },
+            {
+              "texte": "Parti de New York le 20 septembre, par Panama : un peu plus d’un mois de voyage.",
+              "sources": [
+                [
+                  "hl2"
+                ],
+                [
+                  "npsScott"
+                ]
+              ]
+            },
+            {
+              "texte": "En octobre, accord avec Douglas : une compagnie américaine sur l’île, un navire britannique au large ; Harney est désavoué, puis rappelé.",
+              "sources": [
+                [
+                  "npsPig"
+                ],
+                [
+                  "hl2"
                 ]
               ]
             }
@@ -180,10 +437,49 @@
           "titre": "Douze ans sur la même île",
           "items": [
             {
-              "texte": "Phrase d’essai.",
+              "texte": "Mars 1860 : des Royal Marines s’installent dans la baie Garrison, au nord-ouest de l’île, à une vingtaine de kilomètres du camp américain.",
               "sources": [
                 [
-                  "essai"
+                  "npsPig"
+                ],
+                [
+                  "occupation"
+                ],
+                [
+                  "npsBrochure"
+                ]
+              ]
+            },
+            {
+              "texte": "Chaque commandant n’a autorité que sur ses nationaux ; l’occupation militaire commune dure douze ans.",
+              "sources": [
+                [
+                  "occupation"
+                ],
+                [
+                  "npsPig"
+                ]
+              ]
+            },
+            {
+              "texte": "Le 4 juillet au camp américain, l’anniversaire de la reine au camp anglais ; pique-niques, courses de chevaux et courses en sac.",
+              "sources": [
+                [
+                  "npsBrochure"
+                ]
+              ]
+            },
+            {
+              "texte": "Pendant la guerre de Sécession, Pickett quitte l’armée pour le Sud ; à Gettysburg, son nom reste attaché à la « charge de Pickett ».",
+              "sources": [
+                [
+                  "hl2"
+                ],
+                [
+                  "npsFaq"
+                ],
+                [
+                  "pickettCD"
                 ]
               ]
             }
@@ -194,10 +490,40 @@
           "titre": "L’arbitre",
           "items": [
             {
-              "texte": "Phrase d’essai.",
+              "texte": "Le traité de Washington du 8 mai 1871 confie la question des îles à l’arbitrage de l’empereur d’Allemagne, Guillaume Ier.",
               "sources": [
                 [
-                  "essai"
+                  "washington",
+                  "art. XXXIV"
+                ],
+                [
+                  "hl2"
+                ]
+              ]
+            },
+            {
+              "texte": "Il doit dire laquelle des deux revendications, Rosario ou Haro, est « la plus conforme à la véritable interprétation » du traité de 1846.",
+              "sources": [
+                [
+                  "washington",
+                  "art. XXXIV"
+                ],
+                [
+                  "hl2"
+                ]
+              ]
+            },
+            {
+              "texte": "À Berlin, le dossier américain est défendu par George Bancroft, ministre des États-Unis et auteur d’une History of the United States.",
+              "sources": [
+                [
+                  "wikiBancroft"
+                ],
+                [
+                  "hl2"
+                ],
+                [
+                  "sentence"
                 ]
               ]
             }
@@ -208,10 +534,43 @@
           "titre": "Le 21 octobre 1872",
           "items": [
             {
-              "texte": "Phrase d’essai.",
+              "texte": "Trois experts, le géographe Heinrich Kiepert et les juristes Ferdinand Grimm et Levin Goldschmidt, étudient le dossier pendant près d’un an.",
               "sources": [
                 [
-                  "essai"
+                  "hl2"
+                ],
+                [
+                  "npsPig"
+                ],
+                [
+                  "sentence"
+                ]
+              ]
+            },
+            {
+              "texte": "Deux des trois donnent raison aux Américains ; le troisième, Goldschmidt, ne retient aucune des deux lignes.",
+              "sources": [
+                [
+                  "npsKaiser"
+                ],
+                [
+                  "hl2"
+                ]
+              ]
+            },
+            {
+              "texte": "Sentence « donnée à Berlin » le 21 octobre 1872 : la frontière passe par le « Haro Channel » ; les îles sont américaines.",
+              "sources": [
+                [
+                  "sentence"
+                ]
+              ]
+            },
+            {
+              "texte": "Les Royal Marines quittent leur camp le 25 novembre 1872.",
+              "sources": [
+                [
+                  "npsPig"
                 ]
               ]
             }
@@ -222,10 +581,32 @@
           "titre": "Une seule victime",
           "items": [
             {
-              "texte": "Phrase d’essai.",
+              "texte": "Une seule victime dans toute l’affaire : le cochon.",
               "sources": [
                 [
-                  "essai"
+                  "npsFaq"
+                ]
+              ]
+            },
+            {
+              "texte": "Devant le centre d’accueil d’American Camp, une statue de bronze du cochon, une pomme de terre dans la gueule, dévoilée le 22 septembre 2022.",
+              "sources": [
+                [
+                  "npsStatue"
+                ],
+                [
+                  "npsKaiser"
+                ]
+              ]
+            },
+            {
+              "texte": "L’ancien camp anglais fait partie du parc historique ; les gardes du parc y hissent et y descendent chaque jour l’Union Jack.",
+              "sources": [
+                [
+                  "wikiParc"
+                ],
+                [
+                  "npsFaq"
                 ]
               ]
             }
@@ -234,15 +615,213 @@
       ]
     }
   ],
-  "rapports": [],
+  "rapports": [
+    {
+      "pays": "États-Unis et Grande-Bretagne",
+      "date": "15 juin 1846",
+      "nom": "Traité de l’Oregon",
+      "resume": "L’article premier : la frontière du 49e parallèle prolongée « jusqu’au milieu du chenal » qui sépare le continent de l’île de Vancouver.",
+      "liens": [
+        [
+          "Texte, PDF",
+          "oregon"
+        ]
+      ]
+    },
+    {
+      "pays": "Scott et Douglas",
+      "date": "1859-1860",
+      "nom": "Notes sur l’occupation commune",
+      "resume": "L’accord sur l’occupation militaire de l’île San Juan : cent hommes au plus de chaque côté, chacun ses nationaux.",
+      "liens": [
+        [
+          "Texte, PDF",
+          "occupation"
+        ]
+      ]
+    },
+    {
+      "pays": "États-Unis et Grande-Bretagne",
+      "date": "8 mai 1871",
+      "nom": "Traité de Washington, article XXXIV",
+      "resume": "L’arbitrage confié à l’empereur d’Allemagne, qui doit choisir entre la ligne de Rosario et celle de Haro.",
+      "liens": [
+        [
+          "Texte",
+          "washington"
+        ]
+      ]
+    },
+    {
+      "pays": "Guillaume Ier",
+      "date": "21 oct. 1872",
+      "nom": "Sentence arbitrale",
+      "resume": "La sentence « donnée à Berlin » : la frontière passe par le « Haro Channel » ; avec la dépêche de Bancroft qui la transmet.",
+      "liens": [
+        [
+          "Texte",
+          "sentence"
+        ]
+      ]
+    }
+  ],
   "plus_loin": [],
   "visuels": "Cartes, pions et documents dessinés pour la vidéo ; le traité et la sentence sont reconstitués. La ferme de Cutlar, Belle Vue et la redoute sont placées approximativement. Côtes des détroits : GSHHG ; autres fonds de carte : Natural Earth.",
   "corrections": [],
   "sources": {
-    "essai": {
-      "nom": "Source d’essai",
-      "domaine": "exemple.org",
-      "url": "https://example.org/"
+    "oregon": {
+      "nom": "Traité de l’Oregon (15 juin 1846), dans Bevans, Treaties of the United States, vol. 12",
+      "domaine": "dheller.org",
+      "url": "https://dheller.org/Timeline-files/US-Statutes/Bevans/vol-12/p95.pdf",
+      "officielle": true,
+      "pdf": true
+    },
+    "occupation": {
+      "nom": "Notes de Scott et de Douglas sur l’occupation commune de l’île San Juan (1859-1860), dans Bevans, vol. 12",
+      "domaine": "dheller.org",
+      "url": "https://dheller.org/Timeline-files/US-Statutes/Bevans/vol-12/p123.pdf",
+      "officielle": true,
+      "pdf": true
+    },
+    "washington": {
+      "nom": "Foreign Relations of the United States 1872, doc. 138 (traité de Washington, art. XXXIV)",
+      "domaine": "history.state.gov",
+      "url": "https://history.state.gov/historicaldocuments/frus1872p2v5/d138",
+      "officielle": true
+    },
+    "sentence": {
+      "nom": "Foreign Relations of the United States 1872, doc. 156 (dépêche de Bancroft et sentence de l’empereur d’Allemagne)",
+      "domaine": "history.state.gov",
+      "url": "https://history.state.gov/historicaldocuments/frus1872p2v5/d156",
+      "officielle": true
+    },
+    "douglas1": {
+      "nom": "Colonial Despatches, dépêche de Douglas à Lytton, 1er août 1859",
+      "domaine": "bcgenesis.uvic.ca",
+      "url": "https://bcgenesis.uvic.ca/V59030.html",
+      "officielle": true
+    },
+    "douglas2": {
+      "nom": "Colonial Despatches, dépêche de Douglas à Lytton, 8 août 1859",
+      "domaine": "bcgenesis.uvic.ca",
+      "url": "https://bcgenesis.uvic.ca/V59031.html",
+      "officielle": true
+    },
+    "pickettCD": {
+      "nom": "Colonial Despatches, notice « George Edward Pickett »",
+      "domaine": "bcgenesis.uvic.ca",
+      "url": "https://bcgenesis.uvic.ca/pickett.html?hi=harney"
+    },
+    "npsPig": {
+      "nom": "National Park Service, « The Pig War »",
+      "domaine": "nps.gov",
+      "url": "https://www.nps.gov/sajh/learn/historyculture/the-pig-war.htm",
+      "officielle": true
+    },
+    "npsCutlar": {
+      "nom": "National Park Service, « Lyman Cutlar Homestead »",
+      "domaine": "nps.gov",
+      "url": "https://www.nps.gov/places/lyman-cutlar-homestead.htm",
+      "officielle": true
+    },
+    "npsGriffin": {
+      "nom": "National Park Service, « Griffin Bay »",
+      "domaine": "nps.gov",
+      "url": "https://www.nps.gov/places/griffin-bay.htm",
+      "officielle": true
+    },
+    "npsScott": {
+      "nom": "National Park Service, « Winfield Scott »",
+      "domaine": "nps.gov",
+      "url": "https://www.nps.gov/places/winfield-scott.htm",
+      "officielle": true
+    },
+    "npsFaq": {
+      "nom": "National Park Service, questions fréquentes sur le parc historique de l’île San Juan",
+      "domaine": "nps.gov",
+      "url": "https://www.nps.gov/sajh/frequently-asked-questions.htm",
+      "officielle": true
+    },
+    "npsKaiser": {
+      "nom": "National Park Service, « Kaiser Wil-Ham Statue »",
+      "domaine": "nps.gov",
+      "url": "https://www.nps.gov/places/kaiser-wil-ham-statue.htm",
+      "officielle": true
+    },
+    "npsStatue": {
+      "nom": "National Park Service, communiqué sur le centre d’accueil d’American Camp (2022)",
+      "domaine": "nps.gov",
+      "url": "https://www.nps.gov/sajh/learn/news/san-juan-island-nhp-american-camp-visitor-center-installs-public-art-and-announces-winter-hours.htm",
+      "officielle": true
+    },
+    "npsBrochure": {
+      "nom": "National Park Service, brochure du parc historique de l’île San Juan (2010)",
+      "domaine": "npshistory.com",
+      "url": "https://npshistory.com/publications/sajh/brochures/2010.pdf",
+      "officielle": true,
+      "pdf": true
+    },
+    "hl1": {
+      "nom": "HistoryLink.org, « San Juan Island Pig War, Part 1 »",
+      "domaine": "historylink.org",
+      "url": "https://www.historylink.org/File/5724"
+    },
+    "hl2": {
+      "nom": "HistoryLink.org, « San Juan Island Pig War, Part 2 »",
+      "domaine": "historylink.org",
+      "url": "https://www.historylink.org/File/5725"
+    },
+    "hl7505": {
+      "nom": "HistoryLink.org, « San Juan County, Thumbnail History »",
+      "domaine": "historylink.org",
+      "url": "https://www.historylink.org/File/7505"
+    },
+    "canEnc": {
+      "nom": "L’Encyclopédie canadienne, « The Pig War »",
+      "domaine": "thecanadianencyclopedia.ca",
+      "url": "https://www.thecanadianencyclopedia.ca/en/article/pig-war"
+    },
+    "canEncGold": {
+      "nom": "L’Encyclopédie canadienne, « The Fraser River Gold Rush and the Founding of British Columbia »",
+      "domaine": "thecanadianencyclopedia.ca",
+      "url": "https://www.thecanadianencyclopedia.ca/en/article/gold-rush-sparked-american-interest-in-bc-feature"
+    },
+    "dcbBaynes": {
+      "nom": "Dictionnaire biographique du Canada, « Baynes, Sir Robert Lambert »",
+      "domaine": "biographi.ca",
+      "url": "https://www.biographi.ca/en/bio/baynes_robert_lambert_9E.html"
+    },
+    "wikiOregon": {
+      "nom": "Wikipédia, « Oregon Treaty »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Oregon_Treaty"
+    },
+    "wikiFr": {
+      "nom": "Wikipédia, « Guerre du cochon »",
+      "domaine": "fr.wikipedia.org",
+      "url": "https://fr.wikipedia.org/wiki/Guerre_du_cochon",
+      "langue": "FR"
+    },
+    "wikiHaro": {
+      "nom": "Wikipédia, « Haro Strait »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Haro_Strait"
+    },
+    "wikiParc": {
+      "nom": "Wikipédia, « San Juan Island National Historical Park »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/San_Juan_Island_National_Historical_Park"
+    },
+    "wikiBancroft": {
+      "nom": "Wikipédia, « George Bancroft »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/George_Bancroft"
+    },
+    "douglas1855": {
+      "nom": "Colonial Despatches, dépêche de Douglas à Grey, 18 mai 1855",
+      "domaine": "bcgenesis.uvic.ca",
+      "url": "https://bcgenesis.uvic.ca/V55105.html",
+      "officielle": true
     }
   }
 }
