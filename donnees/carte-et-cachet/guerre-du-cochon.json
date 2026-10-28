@@ -1,0 +1,248 @@
+{
+  "slug": "guerre-du-cochon",
+  "numero": "04",
+  "titre": "La guerre du cochon",
+  "sous_titre": "Îles San Juan, 1859-1872 : un cochon, deux pays et une frontière écrite au singulier",
+  "description": "Les sources de la vidéo de Carte & Cachet sur la guerre du cochon (îles San Juan, 1859-1872), passage par passage.",
+  "verifie": "26 oct. 2026",
+  "mise_a_jour": "26 oct. 2026",
+  "avertissement": "",
+  "image_partage": "guerre-du-cochon.jpg",
+  "image_entete": "guerre-du-cochon.jpg",
+  "image_alt": "Miniature de la vidéo : « Une guerre pour un cochon ? », le jeton du cochon et celui d’un navire sur la carte des îles San Juan.",
+  "titre_rapports": "",
+  "parties": [
+    {
+      "id": "video",
+      "numero": 1,
+      "nom": "La guerre du cochon",
+      "mise_en_ligne": "28 oct. 2026",
+      "youtube": "xoDItXhRwN4",
+      "miniature": "guerre-du-cochon.jpg",
+      "note": "",
+      "passages": [
+        {
+          "t": "00:00",
+          "titre": "Un cochon, le 15 juin 1859",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "00:53",
+          "titre": "Le traité de 1846",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:24",
+          "titre": "Le chenal, au singulier",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:55",
+          "titre": "Haro ou Rosario",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:42",
+          "titre": "La commission de 1857",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:07",
+          "titre": "L’île San Juan",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:42",
+          "titre": "Cent dollars",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:06",
+          "titre": "Pickett débarque",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:23",
+          "titre": "Les navires de Douglas",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:49",
+          "titre": "« Une querelle à propos d’un cochon »",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:42",
+          "titre": "Winfield Scott",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:13",
+          "titre": "Douze ans sur la même île",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:13",
+          "titre": "L’arbitre",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:45",
+          "titre": "Le 21 octobre 1872",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:19",
+          "titre": "Une seule victime",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rapports": [],
+  "plus_loin": [],
+  "visuels": "Cartes, pions et documents dessinés pour la vidéo ; le traité et la sentence sont reconstitués. La ferme de Cutlar, Belle Vue et la redoute sont placées approximativement. Côtes des détroits : GSHHG ; autres fonds de carte : Natural Earth.",
+  "corrections": [],
+  "sources": {
+    "essai": {
+      "nom": "Source d’essai",
+      "domaine": "exemple.org",
+      "url": "https://example.org/"
+    }
+  }
+}

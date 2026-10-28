@@ -1,0 +1,206 @@
+{
+  "slug": "tunnel-du-mont-blanc",
+  "numero": "05",
+  "titre": "Le tunnel du Mont-Blanc",
+  "sous_titre": "L’incendie du 24 mars 1999 : 53 heures, 39 morts",
+  "description": "Les sources de la vidéo de La mécanique du pire sur l’incendie du tunnel du Mont-Blanc (24 mars 1999), passage par passage.",
+  "verifie": "26 oct. 2026",
+  "mise_a_jour": "26 oct. 2026",
+  "avertissement": "",
+  "image_partage": "tunnel-du-mont-blanc.jpg",
+  "image_entete": "tunnel-du-mont-blanc.jpg",
+  "image_alt": "Miniature de la vidéo : « Mont-Blanc, 1 tunnel, 39 morts », un camion en feu dans le tunnel.",
+  "titre_rapports": "",
+  "parties": [
+    {
+      "id": "video",
+      "numero": 1,
+      "nom": "Le tunnel du Mont-Blanc",
+      "mise_en_ligne": "27 oct. 2026",
+      "youtube": "FPEQ1ZDI5FM",
+      "miniature": "tunnel-du-mont-blanc.jpg",
+      "note": "",
+      "passages": [
+        {
+          "t": "00:00",
+          "titre": "24 mars 1999, 10 h 46",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "00:45",
+          "titre": "Ce n’était pas le premier feu",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:30",
+          "titre": "Le tunnel du Mont-Blanc",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:56",
+          "titre": "Faille 1 · Un tunnel coupé en deux",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:56",
+          "titre": "Faille 2 · Les véhicules s’entassent",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:39",
+          "titre": "Faille 3 · La fumée",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:05",
+          "titre": "Faille 4 · Des abris sans issue",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:58",
+          "titre": "Le bilan",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:47",
+          "titre": "Le procès",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:29",
+          "titre": "Ce qui a changé",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:21",
+          "titre": "Le tunnel aujourd’hui",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:39",
+          "titre": "Un détail encore",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rapports": [],
+  "plus_loin": [],
+  "visuels": "Reconstitutions schématiques : carte, coupes du tunnel, positions et chronologies illustratives. Aucune image d’archive n’est utilisée et aucune victime n’est représentée.",
+  "corrections": [],
+  "sources": {
+    "essai": {
+      "nom": "Source d’essai",
+      "domaine": "exemple.org",
+      "url": "https://example.org/"
+    }
+  }
+}
