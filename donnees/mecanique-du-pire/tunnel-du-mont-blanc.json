@@ -1,0 +1,731 @@
+{
+  "slug": "tunnel-du-mont-blanc",
+  "numero": "05",
+  "titre": "Le tunnel du Mont-Blanc",
+  "sous_titre": "L’incendie du 24 mars 1999 : 53 heures, 39 morts",
+  "description": "Les sources de la vidéo de La mécanique du pire sur l’incendie du tunnel du Mont-Blanc (24 mars 1999), passage par passage.",
+  "verifie": "28 oct. 2026",
+  "mise_a_jour": "28 oct. 2026",
+  "avertissement": "",
+  "image_partage": "tunnel-du-mont-blanc.jpg",
+  "image_entete": "tunnel-du-mont-blanc.jpg",
+  "image_alt": "Miniature de la vidéo : « Mont-Blanc, 1 tunnel, 39 morts », un camion en feu dans le tunnel.",
+  "titre_rapports": "Les documents de référence",
+  "parties": [
+    {
+      "id": "video",
+      "numero": 1,
+      "nom": "Le tunnel du Mont-Blanc",
+      "mise_en_ligne": "27 oct. 2026",
+      "youtube": "FPEQ1ZDI5FM",
+      "miniature": "tunnel-du-mont-blanc.jpg",
+      "note": "",
+      "passages": [
+        {
+          "t": "00:00",
+          "titre": "24 mars 1999, 10 h 46",
+          "items": [
+            {
+              "texte": "10 h 46 : un semi-remorque frigorifique belge, chargé de margarine et de farine, passe le péage français et entre dans le tunnel.",
+              "sources": [
+                [
+                  "etape"
+                ]
+              ]
+            },
+            {
+              "texte": "En chemin, des appels de phares, puis de la fumée sous le tracteur ; arrêt vers 10 h 53, à un peu plus de 6 km de l’entrée.",
+              "sources": [
+                [
+                  "etape"
+                ],
+                [
+                  "piarc"
+                ]
+              ]
+            },
+            {
+              "texte": "Le chauffeur veut prendre son extincteur, la cabine s’embrase ; il s’enfuit à pied vers l’Italie.",
+              "sources": [
+                [
+                  "etape"
+                ]
+              ]
+            },
+            {
+              "texte": "Un incendie de 53 heures et 39 morts.",
+              "sources": [
+                [
+                  "commun"
+                ],
+                [
+                  "piarc"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "00:45",
+          "titre": "Ce n’était pas le premier feu",
+          "items": [
+            {
+              "texte": "Une quinzaine d’incendies depuis 1965, dont douze de poids lourds, souvent des moteurs surchauffés par la montée ; tous vite maîtrisés, sans mort.",
+              "sources": [
+                [
+                  "etape"
+                ]
+              ]
+            },
+            {
+              "texte": "1990 : un feu à environ 600 m de là ; fumée très dense, visibilité presque nulle pour les secours.",
+              "sources": [
+                [
+                  "etape"
+                ]
+              ]
+            },
+            {
+              "texte": "Le 24 mars, la remorque brûle quatre à cinq minutes après l’arrêt du camion.",
+              "sources": [
+                [
+                  "commun"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:30",
+          "titre": "Le tunnel du Mont-Blanc",
+          "items": [
+            {
+              "texte": "Ouvert en 1965, alors le plus long tunnel routier du monde : 11,6 km entre Chamonix et le val d’Aoste.",
+              "sources": [
+                [
+                  "wikiTunnel"
+                ],
+                [
+                  "senat186"
+                ]
+              ]
+            },
+            {
+              "texte": "Une seule galerie, avec une voie dans chaque sens.",
+              "sources": [
+                [
+                  "piarc"
+                ],
+                [
+                  "carta"
+                ]
+              ]
+            },
+            {
+              "texte": "1998 : près de 2 millions de véhicules, dont environ 2 100 poids lourds par jour, dix-sept fois plus qu’au début.",
+              "sources": [
+                [
+                  "wikiTunnel"
+                ],
+                [
+                  "piarc"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:56",
+          "titre": "Faille 1 · Un tunnel coupé en deux",
+          "items": [
+            {
+              "texte": "Deux sociétés, la française ATMB et l’italienne SITMB, chacune sur sa moitié de 5,8 km, avec son poste de commande et ses priorités de travaux.",
+              "sources": [
+                [
+                  "etape"
+                ],
+                [
+                  "commun"
+                ],
+                [
+                  "senat186"
+                ]
+              ]
+            },
+            {
+              "texte": "Côté français, une équipe de sécurité de l’exploitant depuis 1971-1972 ; côté italien, des secours venus de Courmayeur en 10 à 15 minutes ; deux exercices, en 1975 et 1989.",
+              "sources": [
+                [
+                  "etape"
+                ]
+              ]
+            },
+            {
+              "texte": "Le camion s’arrête au point 6,2 : sur le sol français (frontière au point 7,6), mais dans la moitié italienne, qui commence au point 5,8.",
+              "sources": [
+                [
+                  "etape"
+                ]
+              ]
+            },
+            {
+              "texte": "Rapport commun : le régulateur de chaque côté n’a pas une information complète sur l’ensemble du tunnel.",
+              "sources": [
+                [
+                  "commun"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:56",
+          "titre": "Faille 2 · Les véhicules s’entassent",
+          "items": [
+            {
+              "texte": "Fumée sur les écrans à 10 h 53, entrées fermées à 10 h 55 et 10 h 56.",
+              "sources": [
+                [
+                  "etape"
+                ]
+              ]
+            },
+            {
+              "texte": "Des feux intérieurs peu visibles, passés au rouge quelques minutes après l’alerte ; certains n’ont peut-être pas fonctionné.",
+              "sources": [
+                [
+                  "commun"
+                ]
+              ]
+            },
+            {
+              "texte": "100 m imposés entre véhicules en marche, rien à l’arrêt : ils s’arrêtent les uns derrière les autres, un camion à 22 m du semi-remorque.",
+              "sources": [
+                [
+                  "commun"
+                ],
+                [
+                  "etape"
+                ]
+              ]
+            },
+            {
+              "texte": "Une lecture erronée de la liste des entrées : l’exploitant français se trompe d’abord sur le nombre de véhicules engagés de son côté.",
+              "sources": [
+                [
+                  "etape"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:39",
+          "titre": "Faille 3 · La fumée",
+          "items": [
+            {
+              "texte": "Extraction tous les 300 m, sans puits sous plus de 1 500 m de roche ; 150 m³/s par moitié, environ trois fois moins que la règle française de 1981.",
+              "sources": [
+                [
+                  "piarc"
+                ],
+                [
+                  "etape"
+                ]
+              ]
+            },
+            {
+              "texte": "Un courant d’air naturel de l’Italie vers la France ; côté français, extraction au maximum dès 10 h 56, mais aussi air frais à plein régime.",
+              "sources": [
+                [
+                  "commun"
+                ],
+                [
+                  "etape"
+                ],
+                [
+                  "piarc"
+                ]
+              ]
+            },
+            {
+              "texte": "Côté italien, d’après la SITMB, la gaine réversible souffle de l’air frais au maximum ; à partir de 11 h 15, sa tentative d’extraction ne semble pas fonctionner.",
+              "sources": [
+                [
+                  "etape"
+                ],
+                [
+                  "piarc"
+                ]
+              ]
+            },
+            {
+              "texte": "Selon l’AIPCR, l’air frais soufflé accélère la fumée vers la France, où meurent toutes les victimes ; impossible de dire si une autre ventilation les aurait sauvées.",
+              "sources": [
+                [
+                  "piarc"
+                ],
+                [
+                  "wikiEn"
+                ],
+                [
+                  "commun"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:05",
+          "titre": "Faille 4 · Des abris sans issue",
+          "items": [
+            {
+              "texte": "Depuis 1992, un refuge tous les 600 m, présenté comme résistant deux heures au feu ; aucun relié à une galerie, sans doute à cause des travaux à l’explosif.",
+              "sources": [
+                [
+                  "etape"
+                ]
+              ]
+            },
+            {
+              "texte": "L’équipe de l’ATMB, bloquée à 1 200 m du camion, tient près de sept heures au refuge 17 ; le premier fourgon de Chamonix est bloqué à 2,7 km.",
+              "sources": [
+                [
+                  "etape"
+                ]
+              ]
+            },
+            {
+              "texte": "Au refuge 20 meurent un motard de la SITMB, entré par la France, et un conducteur ; reliés à une galerie, ils auraient sans doute pu se sauver.",
+              "sources": [
+                [
+                  "etape"
+                ],
+                [
+                  "piarc"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:58",
+          "titre": "Le bilan",
+          "items": [
+            {
+              "texte": "Pompiers et agents bloqués dans le tunnel : les six agents de l’ATMB du refuge 17 ne sont secourus qu’à 18 h 35.",
+              "sources": [
+                [
+                  "etape"
+                ]
+              ]
+            },
+            {
+              "texte": "Quatorze pompiers hospitalisés ; le chef du premier fourgon de Chamonix meurt dans l’après-midi.",
+              "sources": [
+                [
+                  "etape"
+                ],
+                [
+                  "commun"
+                ]
+              ]
+            },
+            {
+              "texte": "39 morts : 38 personnes présentes au début de l’incendie, la plupart restées dans leur véhicule, vraisemblablement asphyxiées en 10 à 15 minutes, et ce pompier.",
+              "sources": [
+                [
+                  "piarc"
+                ],
+                [
+                  "commun"
+                ]
+              ]
+            },
+            {
+              "texte": "53 heures de feu, plus de 1 000 °C pendant plusieurs heures.",
+              "sources": [
+                [
+                  "commun"
+                ],
+                [
+                  "kert"
+                ]
+              ]
+            },
+            {
+              "texte": "24 poids lourds, 9 voitures, 1 moto et 2 véhicules de secours détruits ; la voûte gravement endommagée sur plus de 900 m ; près de trois ans de fermeture.",
+              "sources": [
+                [
+                  "etape"
+                ],
+                [
+                  "piarc"
+                ],
+                [
+                  "senat186"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:47",
+          "titre": "Le procès",
+          "items": [
+            {
+              "texte": "2005, à Bonneville : seize prévenus, douze personnes et quatre sociétés, dont Volvo.",
+              "sources": [
+                [
+                  "cetuJugement"
+                ],
+                [
+                  "tunnelbuilder"
+                ],
+                [
+                  "maireinfoFev"
+                ]
+              ]
+            },
+            {
+              "texte": "27 juillet 2005 : treize condamnations, dix personnes et trois sociétés ; Volvo relaxé faute de preuve, l’origine du feu jamais établie avec certitude.",
+              "sources": [
+                [
+                  "cm2005"
+                ],
+                [
+                  "maireinfoJuin"
+                ],
+                [
+                  "wikiFr"
+                ]
+              ]
+            },
+            {
+              "texte": "Seule prison ferme : 30 mois dont 6 ferme pour le responsable de la sécurité côté français, peine confirmée à Chambéry le 14 juin 2007.",
+              "sources": [
+                [
+                  "maireinfoFev"
+                ],
+                [
+                  "maireinfoJuin"
+                ],
+                [
+                  "wikiFr"
+                ]
+              ]
+            },
+            {
+              "texte": "Amendes de 150 000 € pour la SITMB, 100 000 € pour l’ATMB, 50 000 € pour la SGTMB ; pour le tribunal, la catastrophe aurait pu être évitée.",
+              "sources": [
+                [
+                  "tunnelbuilder"
+                ],
+                [
+                  "cm2005"
+                ],
+                [
+                  "te2005"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:29",
+          "titre": "Ce qui a changé",
+          "items": [
+            {
+              "texte": "Réouverture le 9 mars 2002 ; un exploitant unique, le GEIE-TMB constitué le 18 mai 2000, avec un seul poste de commande actif.",
+              "sources": [
+                [
+                  "senat186"
+                ],
+                [
+                  "carta"
+                ]
+              ]
+            },
+            {
+              "texte": "37 abris pressurisés, un tous les 300 m, reliés à une galerie d’évacuation sous la chaussée.",
+              "sources": [
+                [
+                  "senat186"
+                ],
+                [
+                  "carta"
+                ],
+                [
+                  "wikiFr"
+                ]
+              ]
+            },
+            {
+              "texte": "Extraction tous les 100 m, capacité plus que doublée ; pompiers en permanence aux deux têtes et au centre ; 150 m entre véhicules, 100 m à l’arrêt.",
+              "sources": [
+                [
+                  "carta"
+                ],
+                [
+                  "senat186"
+                ]
+              ]
+            },
+            {
+              "texte": "2004, après le Mont-Blanc, les Tauern et le Saint-Gothard : une directive pour les tunnels de plus de 500 m du réseau transeuropéen, qui interdit les abris sans issue.",
+              "sources": [
+                [
+                  "cetuDirective"
+                ],
+                [
+                  "directive"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:21",
+          "titre": "Le tunnel aujourd’hui",
+          "items": [
+            {
+              "texte": "Toujours une seule galerie pour les deux sens.",
+              "sources": [
+                [
+                  "carta"
+                ]
+              ]
+            },
+            {
+              "texte": "Environ 5 km de voûte à refaire : 3,5 mois de fermeture chaque automne pendant une quinzaine d’années, ou environ 3,5 ans d’affilée.",
+              "sources": [
+                [
+                  "atmb2026"
+                ]
+              ]
+            },
+            {
+              "texte": "L’Italie réclame un second tube ; la France s’y oppose en 2025 et, selon Rome, accepte en juin 2026 d’examiner une étude d’impact.",
+              "sources": [
+                [
+                  "lyoncap2025"
+                ],
+                [
+                  "sole2026"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:39",
+          "titre": "Un détail encore",
+          "items": [
+            {
+              "texte": "Un chargement non classé dangereux : les matières dangereuses étaient déjà interdites dans le tunnel.",
+              "sources": [
+                [
+                  "piarc"
+                ],
+                [
+                  "commun"
+                ]
+              ]
+            },
+            {
+              "texte": "Selon le rapport commun, les 9 tonnes de margarine fondent puis brûlent comme de l’huile, plus d’une heure.",
+              "sources": [
+                [
+                  "commun"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rapports": [
+    {
+      "pays": "Mission d’enquête française",
+      "date": "13 avr. 1999",
+      "nom": "Rapport d’étape",
+      "resume": "La chronologie de la matinée, la ventilation, les refuges et les secours.",
+      "liens": [
+        [
+          "Rapport, PDF",
+          "etape"
+        ]
+      ]
+    },
+    {
+      "pays": "Enquêtes française et italienne",
+      "date": "6 juill. 1999",
+      "nom": "Rapport commun",
+      "resume": "Les causes du bilan, la ventilation, la signalisation, et 41 propositions.",
+      "liens": [
+        [
+          "Rapport, PDF",
+          "commun"
+        ]
+      ]
+    },
+    {
+      "pays": "Union européenne",
+      "date": "29 avr. 2004",
+      "nom": "Directive 2004/54/CE",
+      "resume": "Les exigences minimales de sécurité des tunnels de plus de 500 m du réseau transeuropéen.",
+      "liens": [
+        [
+          "Texte, en anglais",
+          "directive"
+        ]
+      ]
+    },
+    {
+      "pays": "Sénat",
+      "date": "2008",
+      "nom": "Rapport sur la convention du tunnel",
+      "resume": "L’incendie, la réouverture de 2002, l’exploitant unique et les nouveaux équipements.",
+      "liens": [
+        [
+          "Rapport, PDF",
+          "senat186"
+        ]
+      ]
+    }
+  ],
+  "plus_loin": [],
+  "visuels": "Reconstitutions schématiques : carte, coupes du tunnel, positions et chronologies illustratives. Aucune image d’archive n’est utilisée et aucune victime n’est représentée.",
+  "corrections": [],
+  "sources": {
+    "etape": {
+      "nom": "Mission d’enquête technique, rapport d’étape du 13 avril 1999",
+      "domaine": "vie-publique.fr",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/994000632.pdf",
+      "langue": "FR",
+      "officielle": true,
+      "pdf": true
+    },
+    "commun": {
+      "nom": "Rapport commun des enquêtes française et italienne, 6 juillet 1999",
+      "domaine": "vie-publique.fr",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/994001285.pdf",
+      "langue": "FR",
+      "officielle": true,
+      "pdf": true
+    },
+    "piarc": {
+      "nom": "AIPCR (Association mondiale de la route), rapport 05.16.B, chap. 3 (2006)",
+      "domaine": "tunnelsmanual.piarc.org",
+      "url": "https://tunnelsmanual.piarc.org/files/tunnelsmanual/wysiwyg/import/Chapters%20PIARC%20reports/2006%2005.16.B%20Chap%203.pdf",
+      "langue": "FR",
+      "pdf": true
+    },
+    "senat186": {
+      "nom": "Sénat, rapport n° 186 (2007-2008) sur la convention du tunnel",
+      "domaine": "senat.fr",
+      "url": "https://www.senat.fr/rap/l07-186/l07-1861.pdf",
+      "langue": "FR",
+      "officielle": true,
+      "pdf": true
+    },
+    "kert": {
+      "nom": "Assemblée nationale, rapport Kert n° 2388 (2000)",
+      "domaine": "assemblee-nationale.fr",
+      "url": "https://www.assemblee-nationale.fr/rap-oecst/tunnels/r2388.asp",
+      "langue": "FR",
+      "officielle": true
+    },
+    "directive": {
+      "nom": "Directive 2004/54/CE du 29 avril 2004",
+      "domaine": "legislation.gov.uk",
+      "url": "https://www.legislation.gov.uk/eudr/2004/54/data.html",
+      "officielle": true
+    },
+    "cetuDirective": {
+      "nom": "CETU, « La réglementation et la démarche de sécurité » (2008)",
+      "domaine": "cetu.developpement-durable.gouv.fr",
+      "url": "https://www.cetu.developpement-durable.gouv.fr/IMG/pdf/2-Reglementation_Demarche_securite_DL_2008_12_02_cle574ea4.pdf",
+      "langue": "FR",
+      "officielle": true,
+      "pdf": true
+    },
+    "cetuJugement": {
+      "nom": "CETU, « La responsabilité juridique des exploitants » (2008)",
+      "domaine": "cetu.developpement-durable.gouv.fr",
+      "url": "https://www.cetu.developpement-durable.gouv.fr/IMG/pdf/9-Responsabilite_penale_OO_2008_12_02_cle2696bf.pdf",
+      "langue": "FR",
+      "officielle": true,
+      "pdf": true
+    },
+    "maireinfoFev": {
+      "nom": "Maire-info, 19 février 2007",
+      "domaine": "maire-info.com",
+      "url": "https://www.maire-info.com/proces-du-tunnel-du-mont-blanc-le-maire-de-chamonix-a-fait-appel-pour-le-principe-article2-7985",
+      "langue": "FR"
+    },
+    "maireinfoJuin": {
+      "nom": "Maire-info, 15 juin 2007",
+      "domaine": "maire-info.com",
+      "url": "https://www.maire-info.com/incendie-du-tunnel-du-mont-blanc-le-maire-de-chamonix-relaxe-article2-8448",
+      "langue": "FR"
+    },
+    "cm2005": {
+      "nom": "Commercial Motor, 4 août 2005",
+      "domaine": "archive.commercialmotor.com",
+      "url": "https://archive.commercialmotor.com/article/4th-august-2005/20/judgement-day"
+    },
+    "tunnelbuilder": {
+      "nom": "Tunnelbuilder, 2005",
+      "domaine": "tunnelbuilder.com",
+      "url": "https://tunnelbuilder.com/News/Mont-Blanc-Security-Chief-Sentenced-to-Jail-for-Tunnel-Fire.aspx"
+    },
+    "te2005": {
+      "nom": "Transport & Environment, « France and Italy under fire after Mont Blanc verdict »",
+      "domaine": "transportenvironment.org",
+      "url": "https://www.transportenvironment.org/articles/france-and-italy-under-fire-after-mont-blanc-verdict"
+    },
+    "carta": {
+      "nom": "GEIE-TMB, charte des services 2026",
+      "domaine": "tunnelmb.net",
+      "url": "https://www.tunnelmb.net/public/files/301/01--carta-dei-servizi-ing-2026.pdf",
+      "pdf": true
+    },
+    "atmb2026": {
+      "nom": "ATMB, point presse du 2 avril 2026",
+      "domaine": "atmb.com",
+      "url": "https://www.atmb.com/app/uploads/2026/04/04_02_2026_Point-Presse-Investissement.pdf",
+      "langue": "FR",
+      "pdf": true
+    },
+    "lyoncap2025": {
+      "nom": "Lyon Capitale, 17 février 2025",
+      "domaine": "lyoncapitale.fr",
+      "url": "https://www.lyoncapitale.fr/economie/un-deuxieme-tube-au-tunnel-du-mont-blanc-la-france-dit-non",
+      "langue": "FR"
+    },
+    "sole2026": {
+      "nom": "Il Sole 24 Ore, 4 juin 2026",
+      "domaine": "en.ilsole24ore.com",
+      "url": "https://en.ilsole24ore.com/art/doubling-of-the-mont-blanc-tunnel-opening-in-france-AI7TyETD"
+    },
+    "wikiFr": {
+      "nom": "Wikipédia, « Incendie du tunnel du Mont-Blanc »",
+      "domaine": "fr.wikipedia.org",
+      "url": "https://fr.wikipedia.org/wiki/Incendie_du_tunnel_du_Mont-Blanc",
+      "langue": "FR"
+    },
+    "wikiTunnel": {
+      "nom": "Wikipédia, « Tunnel du Mont-Blanc »",
+      "domaine": "fr.wikipedia.org",
+      "url": "https://fr.wikipedia.org/wiki/Tunnel_du_Mont-Blanc",
+      "langue": "FR"
+    },
+    "wikiEn": {
+      "nom": "Wikipédia, « Mont Blanc Tunnel fire »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Mont_Blanc_Tunnel_fire"
+    }
+  }
+}
