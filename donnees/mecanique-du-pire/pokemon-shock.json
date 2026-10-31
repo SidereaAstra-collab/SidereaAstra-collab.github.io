@@ -1,0 +1,747 @@
+{
+  "slug": "pokemon-shock",
+  "numero": "06",
+  "titre": "Le Pokémon Shock",
+  "sous_titre": "L’épisode du 16 décembre 1997 : quatre secondes de flashs, 685 personnes à l’hôpital",
+  "description": "Les sources de la vidéo de La mécanique du pire sur le Pokémon Shock (16 décembre 1997), passage par passage.",
+  "verifie": "31 oct. 2026",
+  "mise_a_jour": "31 oct. 2026",
+  "avertissement": "Ni la vidéo ni cette page ne montrent la scène : aucune image n’y clignote.",
+  "image_partage": "pokemon-shock.jpg",
+  "image_entete": "pokemon-shock.jpg",
+  "image_alt": "Miniature de la vidéo : « Pokémon, 4 secondes, 685 à l’hôpital », un enfant assis devant un téléviseur à l’écran rouge et bleu.",
+  "titre_rapports": "Les documents de référence",
+  "parties": [
+    {
+      "id": "video",
+      "numero": 1,
+      "nom": "Le Pokémon Shock",
+      "mise_en_ligne": "31 oct. 2026",
+      "youtube": "FTtf2OtlHuU",
+      "miniature": "pokemon-shock.jpg",
+      "note": "",
+      "passages": [
+        {
+          "t": "00:00",
+          "titre": "16 décembre 1997, 18 h 51",
+          "items": [
+            {
+              "texte": "Mardi 16 décembre 1997, 18 h 30 : un nouvel épisode de Pokémon, l’émission la plus regardée de sa case horaire.",
+              "sources": [
+                [
+                  "mpt1"
+                ],
+                [
+                  "presse1997",
+                  "Reuters"
+                ]
+              ]
+            },
+            {
+              "texte": "Vers 18 h 51, une explosion à l’écran ; environ 4 secondes d’alternance rouge et bleu, chaque couleur 12 fois par seconde.",
+              "sources": [
+                [
+                  "pompiers"
+                ],
+                [
+                  "seshia",
+                  "p. 299"
+                ],
+                [
+                  "wikiEp"
+                ]
+              ]
+            },
+            {
+              "texte": "Entre 18 h 50 et 19 h 30, plus de 600 personnes emmenées à l’hôpital (618 selon les pompiers, cités par l’Asahi).",
+              "sources": [
+                [
+                  "presse1997",
+                  "Asahi"
+                ]
+              ]
+            },
+            {
+              "texte": "Bilan officiel du lendemain : 685 personnes transportées dans 30 préfectures, dont 208 hospitalisées.",
+              "sources": [
+                [
+                  "pompiers"
+                ],
+                [
+                  "mpt1"
+                ],
+                [
+                  "presse1997",
+                  "Reuters"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "00:52",
+          "titre": "Un accident prévisible",
+          "items": [
+            {
+              "texte": "Des crises devant la télévision décrites depuis les années 1950 ; une technique d’animation employée de longue date.",
+              "sources": [
+                [
+                  "aWikiPhoto"
+                ],
+                [
+                  "harding",
+                  "p. 43"
+                ],
+                [
+                  "mpt1"
+                ]
+              ]
+            },
+            {
+              "texte": "Un premier avertissement le 29 mars 1997, près de neuf mois plus tôt, avec un dessin animé de la NHK.",
+              "sources": [
+                [
+                  "mpt1"
+                ],
+                [
+                  "aWikiPhoto"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:34",
+          "titre": "Pokémon en 1997",
+          "items": [
+            {
+              "texte": "Le jeu sort en février 1996 ; le dessin animé passe sur TV Tokyo depuis avril 1997, le mardi à 18 h 30.",
+              "sources": [
+                [
+                  "presse1997",
+                  "Reuters, Yomiuri"
+                ],
+                [
+                  "pokemonStory"
+                ],
+                [
+                  "mpt1"
+                ]
+              ]
+            },
+            {
+              "texte": "Épisode 38 : les héros entrent dans un réseau informatique piraté ; un antivirus tire des missiles, que Pikachu fait exploser d’une attaque électrique.",
+              "sources": [
+                [
+                  "wikiEp"
+                ],
+                [
+                  "pokemonStory"
+                ]
+              ]
+            },
+            {
+              "texte": "Une audience de 16,5 % dans la région de Tokyo ; environ 4,6 millions de foyers selon le ministère des Postes et Télécommunications.",
+              "sources": [
+                [
+                  "mpt1"
+                ],
+                [
+                  "pokemonStory"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:08",
+          "titre": "L'épilepsie photosensible",
+          "items": [
+            {
+              "texte": "Environ une personne sur 4 000 ; surtout entre 5 et 19 ans ; deux fois plus fréquente chez les filles.",
+              "sources": [
+                [
+                  "harding",
+                  "p. 44"
+                ],
+                [
+                  "seshia",
+                  "p. 301"
+                ],
+                [
+                  "fisher"
+                ]
+              ]
+            },
+            {
+              "texte": "Souvent ignorée avant une première crise : 76 % de ceux qui ont fait une crise devant l’épisode n’en avaient jamais eu.",
+              "sources": [
+                [
+                  "harding",
+                  "p. 43-44"
+                ],
+                [
+                  "fisher"
+                ]
+              ]
+            },
+            {
+              "texte": "Les clignotements les plus dangereux autour de 10 à 20 par seconde ; le rouge, la couleur la plus provocante.",
+              "sources": [
+                [
+                  "aWikiPhoto"
+                ],
+                [
+                  "harding",
+                  "p. 45"
+                ],
+                [
+                  "seshia",
+                  "p. 299"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:42",
+          "titre": "Faille 1 · Un danger connu",
+          "items": [
+            {
+              "texte": "Des crises décrites aux États-Unis dès 1952 ; « épilepsie télévisuelle » dans un dictionnaire japonais en 1966 ; le danger du rouge montré au Japon en 1980.",
+              "sources": [
+                [
+                  "aWikiPhoto"
+                ],
+                [
+                  "harding",
+                  "p. 45"
+                ]
+              ]
+            },
+            {
+              "texte": "1993 : une publicité Pot Noodle déclenche des crises chez trois personnes ; le régulateur britannique l’interdit jusqu’au retrait des flashs.",
+              "sources": [
+                [
+                  "harding",
+                  "p. 43"
+                ],
+                [
+                  "aWikiPot"
+                ],
+                [
+                  "aWikiPhoto"
+                ]
+              ]
+            },
+            {
+              "texte": "Novembre 1994 : règles de l’ITC, avec Graham Harding ; trois flashs par seconde au plus, méfiance pour le rouge saturé ; rien de tel au Japon en 1997.",
+              "sources": [
+                [
+                  "itc"
+                ],
+                [
+                  "aWikiPot"
+                ],
+                [
+                  "mpt1"
+                ]
+              ]
+            },
+            {
+              "texte": "29 mars 1997 : YAT, dessin animé de la NHK, rend malades au moins quatre enfants, dont un hospitalisé ; pas d’enquête, et rien de public avant décembre.",
+              "sources": [
+                [
+                  "pokemonStory"
+                ],
+                [
+                  "mpt1"
+                ],
+                [
+                  "wikiJa"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:54",
+          "titre": "Faille 2 · Le « paka-paka »",
+          "items": [
+            {
+              "texte": "Le « paka-paka » : des lumières de couleurs différentes qui clignotent en alternance ; une technique employée depuis longtemps, selon le ministère.",
+              "sources": [
+                [
+                  "mpt1"
+                ],
+                [
+                  "pokemonStory"
+                ],
+                [
+                  "wikiEp"
+                ]
+              ]
+            },
+            {
+              "texte": "Plusieurs séquences de ce type dans l’épisode, de 18 h 46 à 18 h 52 environ.",
+              "sources": [
+                [
+                  "pokemonStory"
+                ],
+                [
+                  "wikiEp"
+                ]
+              ]
+            },
+            {
+              "texte": "Vers 18 h 51, la plus intense : rouge et bleu alternés à 24 images par seconde, soit 12 Hz par couleur, pendant environ 4 secondes.",
+              "sources": [
+                [
+                  "wikiEp"
+                ],
+                [
+                  "seshia",
+                  "p. 299"
+                ],
+                [
+                  "pompiers"
+                ]
+              ]
+            },
+            {
+              "texte": "Plusieurs critères britanniques enfreints à la fois : bien plus de trois flashs par seconde, du rouge saturé, une grande partie de l’écran.",
+              "sources": [
+                [
+                  "itc"
+                ],
+                [
+                  "wikiEp"
+                ],
+                [
+                  "harding",
+                  "p. 43"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:43",
+          "titre": "Faille 3 · Aucun contrôle",
+          "items": [
+            {
+              "texte": "Une technique d’animation employée depuis longtemps ; avant la diffusion, ni seuil chiffré ni appareil de mesure ; ceux de la NHK et de TV Tokyo arrivent après.",
+              "sources": [
+                [
+                  "mpt1"
+                ],
+                [
+                  "harding"
+                ]
+              ]
+            },
+            {
+              "texte": "Diffusion simultanée sur les 6 stations du réseau TV Tokyo ; les 31 chaînes qui achetaient la série pour la diffuser plus tard n’ont jamais passé l’épisode.",
+              "sources": [
+                [
+                  "mpt1"
+                ],
+                [
+                  "pompiers"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:15",
+          "titre": "Faille 4 · Une pièce sombre",
+          "items": [
+            {
+              "texte": "Enquête du ministère de la Santé (9 209 réponses d’élèves) : malaise chez 31 % des spectateurs en pièce sombre, contre 9 % en pièce éclairée.",
+              "sources": [
+                [
+                  "mhlw"
+                ]
+              ]
+            },
+            {
+              "texte": "Des malaises plus fréquents à moins d’un mètre de l’écran ; une autre étude relève aussi la courte distance et la pièce peu éclairée.",
+              "sources": [
+                [
+                  "mhlw"
+                ],
+                [
+                  "furusho"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:49",
+          "titre": "Le bilan",
+          "items": [
+            {
+              "texte": "Dans la soirée, un médecin signale à TV Tokyo cinq enfants arrivés en convulsions, tous devant Pokémon ; la NHK en parle la première ; TV Tokyo refuse de fournir les images.",
+              "sources": [
+                [
+                  "pokemonStory"
+                ],
+                [
+                  "pompiers"
+                ]
+              ]
+            },
+            {
+              "texte": "Le lendemain, 685 personnes transportées en ambulance, 208 hospitalisées, dont 3 dans un état grave ; 418 ont entre 11 et 15 ans.",
+              "sources": [
+                [
+                  "pompiers"
+                ],
+                [
+                  "mpt1"
+                ]
+              ]
+            },
+            {
+              "texte": "L’action Nintendo perd 400 yens dans la matinée, environ 3 % ; la plus grande chaîne de location retire les cassettes de ses 940 magasins.",
+              "sources": [
+                [
+                  "presse1997"
+                ],
+                [
+                  "wikiJa"
+                ],
+                [
+                  "pompiers"
+                ]
+              ]
+            },
+            {
+              "texte": "Le 20 décembre, TV Tokyo annonce la suspension de la série.",
+              "sources": [
+                [
+                  "pokemonStory"
+                ],
+                [
+                  "dogasuGrille"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:30",
+          "titre": "12 000 enfants ?",
+          "items": [
+            {
+              "texte": "Près de 12 000 malaises déclarés (11 870 selon le Yomiuri du 19 décembre), recensés après deux ou trois jours de couverture ; pas des passages à l’hôpital.",
+              "sources": [
+                [
+                  "radfordSI"
+                ],
+                [
+                  "wikiEp"
+                ]
+              ]
+            },
+            {
+              "texte": "En 2001, Benjamin Radford et Robert Bartholomew y voient en grande partie une hystérie collective, déclenchée par la couverture médiatique de quelques vraies crises.",
+              "sources": [
+                [
+                  "radfordSMJ"
+                ],
+                [
+                  "radfordSI"
+                ]
+              ]
+            },
+            {
+              "texte": "Chez les patients examinés sans antécédent de crise, 64,3 % réagissent à la lumière à l’électroencéphalogramme ; deux vagues, de vraies crises puis des malaises plus flous et plus tardifs.",
+              "sources": [
+                [
+                  "mhlw"
+                ],
+                [
+                  "furusho"
+                ]
+              ]
+            },
+            {
+              "texte": "Des dépêches étrangères parlent d’enfants malades devant les JT ; aucune source japonaise ne le confirme, et les JT japonais retrouvés montrent la scène en images fixes.",
+              "sources": [
+                [
+                  "presse1997"
+                ],
+                [
+                  "dogasuVague"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:34",
+          "titre": "Ce qui a changé",
+          "items": [
+            {
+              "texte": "8 avril 1998, règles NHK et chaînes privées : 3 clignotements par seconde au plus, prudence avec le rouge vif, pas de rayures ni spirales sur l’essentiel de l’écran.",
+              "sources": [
+                [
+                  "wikiJa"
+                ],
+                [
+                  "bYamato"
+                ],
+                [
+                  "mpt1"
+                ]
+              ]
+            },
+            {
+              "texte": "Retour à l’antenne le 16 avril 1998 ; appareil d’analyse de TV Tokyo installé en août 1998 ; message en début de dessin animé : pièce éclairée, loin de l’écran.",
+              "sources": [
+                [
+                  "pokemonStory"
+                ],
+                [
+                  "wikiJa"
+                ],
+                [
+                  "wikiEp"
+                ]
+              ]
+            },
+            {
+              "texte": "2005 : recommandation BT.1702 de l’UIT ; 2008 : les WCAG 2.0 limitent les flashs à 3 par seconde, et le document explicatif du W3C cite le dessin animé de 1997.",
+              "sources": [
+                [
+                  "uit"
+                ],
+                [
+                  "wcag20"
+                ],
+                [
+                  "wcagSeizure"
+                ]
+              ]
+            },
+            {
+              "texte": "Aujourd’hui, à la télévision japonaise, les passages d’animation qui clignotent trop sont souvent assombris à la diffusion.",
+              "sources": [
+                [
+                  "bAnimeCorner"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:58",
+          "titre": "Un détail encore",
+          "items": [
+            {
+              "texte": "L’éclair vient d’une attaque de Pikachu sur les missiles ; Porygon n’a plus jamais eu de rôle dans le dessin animé.",
+              "sources": [
+                [
+                  "wikiEp"
+                ],
+                [
+                  "wikiJa"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rapports": [
+    {
+      "pays": "Japon, ministère des Postes",
+      "date": "26 juin 1998",
+      "nom": "Rapport sur la radiodiffusion et les fonctions visuelles",
+      "resume": "La diffusion, l’audience, le bilan et la technique en cause.",
+      "liens": [
+        [
+          "Chap. 1, en japonais",
+          "mpt1"
+        ]
+      ]
+    },
+    {
+      "pays": "Japon, ministère de la Santé",
+      "date": "avr. 1998",
+      "nom": "Étude clinique sur les crises photosensibles",
+      "resume": "L’enquête auprès des élèves et des patients : pièce sombre, distance à l’écran, examens.",
+      "liens": [
+        [
+          "Rapport, en japonais",
+          "mhlw"
+        ]
+      ]
+    },
+    {
+      "pays": "Royaume-Uni, ITC",
+      "date": "nov. 1994",
+      "nom": "Les règles sur les images clignotantes",
+      "resume": "Les premières limites de la télévision britannique : trois flashs par seconde, prudence avec le rouge.",
+      "liens": [
+        [
+          "Note, PDF",
+          "itc"
+        ]
+      ]
+    },
+    {
+      "pays": "Union internationale des télécommunications",
+      "date": "2005",
+      "nom": "Recommandation UIT-R BT.1702",
+      "resume": "La recommandation mondiale pour réduire le risque de crises provoquées par la télévision.",
+      "liens": [
+        [
+          "Page, en anglais",
+          "uit"
+        ]
+      ]
+    }
+  ],
+  "plus_loin": [],
+  "visuels": "Reconstitutions schématiques : téléviseur, pièce, cartes et documents. Aucun personnage de Pokémon n’est représenté et la scène de l’épisode n’est jamais montrée ; le montage a été analysé image par image avant la mise en ligne (au plus un flash par seconde, aucun flash rouge).",
+  "corrections": [],
+  "sources": {
+    "mpt1": {
+      "nom": "Ministère japonais des Postes et Télécommunications, rapport du 26 juin 1998, chap. 1",
+      "domaine": "soumu.go.jp",
+      "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h11/press/japanese/housou/0626j13.htm",
+      "langue": "JA",
+      "officielle": true
+    },
+    "pompiers": {
+      "nom": "TVアニメ資料館 (site de documentation), bilan de l’Agence des pompiers au 17 décembre 1997",
+      "domaine": "home-aki.la.coocan.jp",
+      "url": "http://home-aki.la.coocan.jp/soudou01.htm",
+      "langue": "JA"
+    },
+    "presse1997": {
+      "nom": "Articles du 17 décembre 1997 (Asahi, Yomiuri, CNN, Reuters), compilation",
+      "domaine": "virtualpet.com",
+      "url": "http://www.virtualpet.com/vp/farm/pmonster/seizures/pmnews1.htm"
+    },
+    "seshia": {
+      "nom": "S. Seshia et L. Carmant, « Visual-Sensitive Epilepsies: Classification and Review », Can J Neurol Sci, 2005",
+      "domaine": "cambridge.org",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5BEFFDE2D2D64366ABB169C15F9D6C89/S0317167100004169a.pdf/visual-sensitive-epilepsies-classification-and-review.pdf",
+      "pdf": true
+    },
+    "harding": {
+      "nom": "G. et P. Harding, « Photosensitive Epilepsy and Image Safety » (2007)",
+      "domaine": "ieda.ust.hk",
+      "url": "https://www.ieda.ust.hk/dfaculty/so/pdf/Pages43-48-VIMS2007.pdf",
+      "pdf": true
+    },
+    "fisher": {
+      "nom": "R. Fisher, G. Harding et al., Epilepsia, 2005 (résumé)",
+      "domaine": "research.aston.ac.uk",
+      "url": "https://research.aston.ac.uk/en/publications/photic-and-pattern-induced-seizures-a-review-for-the-epilepsy-fou/"
+    },
+    "itc": {
+      "nom": "ITC, Guidance Note on flashing images (nov. 1994), archivée par l’Ofcom",
+      "domaine": "ofcom.org.uk",
+      "url": "https://www.ofcom.org.uk/__data/assets/pdf_file/0021/16248/gn_flash.pdf",
+      "officielle": true,
+      "pdf": true
+    },
+    "pokemonStory": {
+      "nom": "K. Hatakeyama et M. Kubo, Pokémon Story (2000), chapitres sur l’incident, trad. Dogasu",
+      "domaine": "dogasu.bulbagarden.net",
+      "url": "https://dogasu.bulbagarden.net/learn/research/pokemon_shock/pokemon_story/Pokemon_Story_v1.pdf",
+      "pdf": true
+    },
+    "wikiJa": {
+      "nom": "Wikipédia, « ポケモンショック »",
+      "domaine": "ja.wikipedia.org",
+      "url": "https://ja.wikipedia.org/wiki/ポケモンショック",
+      "langue": "JA"
+    },
+    "wikiEp": {
+      "nom": "Wikipédia, « Dennō Senshi Porygon »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Denn%C5%8D_Senshi_Porygon"
+    },
+    "aWikiPhoto": {
+      "nom": "Wikipédia, « 光過敏性発作 »",
+      "domaine": "ja.wikipedia.org",
+      "url": "https://ja.wikipedia.org/wiki/光過敏性発作",
+      "langue": "JA"
+    },
+    "aWikiPot": {
+      "nom": "Wikipédia, « Computer Graphic (advertisement) »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Computer_Graphic_(advertisement)"
+    },
+    "mhlw": {
+      "nom": "Ministère japonais de la Santé, étude clinique sur les crises photosensibles, rapport préliminaire (avril 1998)",
+      "domaine": "mhlw.go.jp",
+      "url": "https://www.mhlw.go.jp/www1/houdou/1004/h0414-2.html",
+      "langue": "JA",
+      "officielle": true
+    },
+    "dogasuGrille": {
+      "nom": "Dogasu’s Backpack, effets de l’incident sur la grille",
+      "domaine": "dogasu.bulbagarden.net",
+      "url": "https://dogasu.bulbagarden.net/learn/research/pokemon_shock/pokemon_shock_effects_on_scheduling.html"
+    },
+    "dogasuVague": {
+      "nom": "Dogasu’s Backpack, la rumeur de la « seconde vague »",
+      "domaine": "dogasu.bulbagarden.net",
+      "url": "https://dogasu.bulbagarden.net/learn/rumor_guide/pokemon_shock_reruns_caused_second_wave.html"
+    },
+    "radfordSI": {
+      "nom": "B. Radford, « The Pokémon Panic of 1997 », Skeptical Inquirer (2001)",
+      "domaine": "skepticalinquirer.org",
+      "url": "https://skepticalinquirer.org/2001/05/the-pokemon-panic-of-1997/"
+    },
+    "radfordSMJ": {
+      "nom": "B. Radford et R. Bartholomew, « Pokémon contagion », Southern Medical Journal (2001), résumé",
+      "domaine": "sma.org",
+      "url": "https://sma.org/southern-medical-journal/article/pokmon-contagion-photosensitive-epilepsy-or-mass-psychogenic-illness/"
+    },
+    "furusho": {
+      "nom": "Furusho et al., Pediatric Neurology (2002), résumé dans Pediatric Neurology Briefs",
+      "domaine": "prism.northwestern.edu",
+      "url": "https://prism.northwestern.edu/records/kkknv-ngx57/files/PNB-17-19-b.pdf",
+      "pdf": true
+    },
+    "uit": {
+      "nom": "UIT, Recommandation UIT-R BT.1702",
+      "domaine": "itu.int",
+      "url": "https://www.itu.int/rec/R-REC-BT.1702/en",
+      "officielle": true
+    },
+    "wcag20": {
+      "nom": "W3C, WCAG 2.0 (2008)",
+      "domaine": "w3.org",
+      "url": "https://www.w3.org/TR/WCAG20/"
+    },
+    "wcagSeizure": {
+      "nom": "W3C, « Understanding WCAG 2.0 », Seizures",
+      "domaine": "w3.org",
+      "url": "https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure.html"
+    },
+    "bYamato": {
+      "nom": "Ville de Yamato, règles de 2025 reprenant celles de la NHK et des chaînes privées",
+      "domaine": "city.yamato.lg.jp",
+      "url": "https://www.city.yamato.lg.jp/material/files/group/54/gaido1.pdf",
+      "langue": "JA",
+      "officielle": true,
+      "pdf": true
+    },
+    "bAnimeCorner": {
+      "nom": "Anime Corner, « What is anime dimming and why is it Porygon’s fault? » (2023)",
+      "domaine": "animecorner.me",
+      "url": "https://animecorner.me/what-is-anime-dimming-and-why-is-it-porygons-fault/amp/"
+    }
+  }
+}

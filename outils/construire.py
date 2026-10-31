@@ -43,7 +43,7 @@ def secondes(t):
     return s
 
 
-LANGUES = {"EN": "en anglais", "FR": "", "DE": "en allemand", "ES": "en espagnol", "IT": "en italien", "NL": "en néerlandais", "PT": "en portugais"}
+LANGUES = {"EN": "en anglais", "FR": "", "DE": "en allemand", "ES": "en espagnol", "IT": "en italien", "JA": "en japonais", "NL": "en néerlandais", "PT": "en portugais"}
 
 
 def minutage(t):
