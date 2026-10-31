@@ -6,7 +6,7 @@ Site : https://sidereaastra-collab.github.io
 
 ## Comment c'est fait
 
-- `donnees/site.json` : les chaînes, leur identité (`theme` : `mdp` ou `cc`), le mot qui désigne une vidéo (`unite` : « Dossier n° » ou « Épisode ») et la liste de leurs dossiers, du plus récent au plus ancien.
+- `donnees/site.json` : l’adresse de contact (`contact`, reprise sur les pages des dossiers, des corrections et des mentions), les chaînes, leur identité (`theme` : `mdp` ou `cc`), le mot qui désigne une vidéo (`unite` : « Dossier n° » ou « Épisode ») et la liste de leurs dossiers, du plus récent au plus ancien.
 - `donnees/<chaîne>/<dossier>.json` : un dossier (pour Carte & Cachet, un épisode). Il contient les parties (identifiant YouTube, passages avec minutage, phrase de la vidéo, sources citées, nuances éventuelles), les rapports officiels, les corrections et la liste des sources.
 - `outils/modeles/` : les gabarits des pages (Jinja2). Les pages d'une chaîne prennent son identité : La mécanique du pire (nuit, Newsreader) ou Carte & Cachet (classe `t-cc` : cuir vert, papier, laiton, EB Garamond).
 - `outils/construire.py` : fabrique les pages HTML à la racine du dépôt, que GitHub Pages publie telles quelles.

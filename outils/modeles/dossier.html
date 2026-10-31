@@ -90,7 +90,7 @@
 <h2 id="corrections-titre" class="sec-title">Corrections</h2>
 {% if d.corrections %}{% for c in d.corrections %}{{ correction(c) }}
 {% endfor %}{% else %}<p class="vide">Aucune correction pour l’instant.</p>{% endif %}
-<p class="signaler">Une erreur dans la vidéo ou sur cette page&nbsp;? Dites-le en commentaire sous la vidéo, ou <a href="{{ d.lien_signaler }}" rel="noopener">par un signalement sur GitHub</a>. Les corrections de toutes les vidéos sont aussi réunies sur <a href="/corrections/">une seule page</a>.</p>
+<p class="signaler">Une erreur dans la vidéo ou sur cette page&nbsp;? Dites-le en commentaire sous la vidéo, par mail à <a href="mailto:{{ site.contact }}?subject={{ (d.titre ~ ' : une erreur')|urlencode }}">{{ site.contact }}</a>, ou <a href="{{ d.lien_signaler }}" rel="noopener">par un signalement sur GitHub</a>. Les corrections de toutes les vidéos sont aussi réunies sur <a href="/corrections/">une seule page</a>.</p>
 <p class="credits">Images de la vidéo. {{ d.visuels }}</p>
 </section>
 </main>
