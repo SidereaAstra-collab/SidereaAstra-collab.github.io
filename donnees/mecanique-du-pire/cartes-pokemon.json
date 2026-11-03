@@ -1,0 +1,179 @@
+{
+  "slug": "cartes-pokemon",
+  "numero": "01",
+  "unite": "Hors-série n°",
+  "titre": "La fièvre des cartes Pokémon",
+  "sous_titre": "Du booster au cambriolage : comment un jouet fabriqué par milliards est devenu un butin",
+  "description": "Les sources du hors-série de La mécanique du pire sur la fièvre des cartes Pokémon, du booster au cambriolage, passage par passage.",
+  "verifie": "3 nov. 2026",
+  "mise_a_jour": "3 nov. 2026",
+  "avertissement": "Les affaires qui n’ont pas été jugées sont présentées au conditionnel : les personnes mises en cause sont présumées innocentes.",
+  "image_partage": "cartes-pokemon.jpg",
+  "image_entete": "cartes-pokemon.jpg",
+  "image_alt": "Miniature de la vidéo : « Pokémon, des cartes en or ? », une carte dans sa coque notée face à des pièces d’or sur une balance.",
+  "titre_rapports": "",
+  "parties": [
+    {
+      "id": "video",
+      "numero": 1,
+      "nom": "La fièvre des cartes Pokémon",
+      "mise_en_ligne": "4 nov. 2026",
+      "youtube": "JxH1slXufrs",
+      "miniature": "cartes-pokemon.jpg",
+      "note": "",
+      "passages": [
+        {
+          "t": "00:00",
+          "titre": "Bourgoin-Jallieu, 13 août 2026",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "00:28",
+          "titre": "85 milliards de cartes",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:10",
+          "titre": "Maillon 1 · Le hasard",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:00",
+          "titre": "Maillon 2 · Le placement",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:49",
+          "titre": "Le Pikachu du menu enfant",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:35",
+          "titre": "Maillon 3 · La ruée",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:34",
+          "titre": "Maillon 4 · Le butin",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:35",
+          "titre": "Les affaires",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:52",
+          "titre": "Bout à bout",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:44",
+          "titre": "Une bulle ?",
+          "items": [
+            {
+              "texte": "Phrase d’essai.",
+              "sources": [
+                [
+                  "essai"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rapports": [],
+  "plus_loin": [],
+  "visuels": "Reconstitutions schématiques. Aucun personnage de Pokémon, aucune illustration de carte et aucune marque ne sont représentés ; les personnes sont dessinées au trait.",
+  "corrections": [],
+  "sources": {
+    "essai": {
+      "nom": "Source d’essai",
+      "domaine": "exemple.org",
+      "url": "https://example.org/"
+    }
+  }
+}
