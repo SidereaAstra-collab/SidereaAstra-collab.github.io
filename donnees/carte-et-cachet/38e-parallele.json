@@ -1,0 +1,830 @@
+{
+  "slug": "38e-parallele",
+  "numero": "08",
+  "titre": "La nuit du 38e parallèle",
+  "sous_titre": "Août 1945 : deux colonels, une carte de magazine et la Corée coupée en deux",
+  "description": "Les sources de la vidéo de Carte & Cachet sur la nuit du 38e parallèle (Corée, août 1945), passage par passage.",
+  "verifie": "3 nov. 2026",
+  "mise_a_jour": "3 nov. 2026",
+  "avertissement": "Les citations de la vidéo sont traduites de l’anglais.",
+  "image_partage": "38e-parallele.jpg",
+  "image_entete": "38e-parallele.jpg",
+  "image_alt": "Miniature de la vidéo : « Corée · 1945, coupée d’un trait. », un crayon rouge trace le 38e parallèle au nord de Séoul sur une carte ancienne.",
+  "titre_rapports": "Les documents d’époque",
+  "parties": [
+    {
+      "id": "video",
+      "numero": 1,
+      "nom": "La nuit du 38e parallèle",
+      "mise_en_ligne": "3 nov. 2026",
+      "youtube": "xCA4ccmYZXw",
+      "miniature": "38e-parallele.jpg",
+      "note": "",
+      "passages": [
+        {
+          "t": "00:00",
+          "titre": "La nuit du Pentagone",
+          "items": [
+            {
+              "texte": "Nuit du 10 au 11 août 1945, au Pentagone : deux colonels américains passent dans une pièce voisine pour proposer la limite des zones américaine et soviétique en Corée.",
+              "sources": [
+                [
+                  "frusRusk",
+                  "p. 1039"
+                ]
+              ]
+            },
+            {
+              "texte": "Faute de limite naturelle sur la carte, ils retiennent le 38e parallèle.",
+              "sources": [
+                [
+                  "natgeo"
+                ],
+                [
+                  "tni"
+                ]
+              ]
+            },
+            {
+              "texte": "Une ligne faite pour recevoir la reddition japonaise : au nord, devant les Soviétiques ; au sud, devant les Américains.",
+              "sources": [
+                [
+                  "frusJcs",
+                  "ordre général n° 1, p. 659"
+                ]
+              ]
+            },
+            {
+              "texte": "Aujourd’hui encore, le 38e parallèle sépare à peu près la Corée du Nord et la Corée du Sud.",
+              "sources": [
+                [
+                  "brit38"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "00:38",
+          "titre": "La carte des archives",
+          "items": [
+            {
+              "texte": "La pièce : « Asia and Adjacent Areas », carte d’Asie de la National Geographic Society, décembre 1942.",
+              "sources": [
+                [
+                  "truman"
+                ]
+              ]
+            },
+            {
+              "texte": "Selon Rusk, c’est sur une carte du National Geographic que les deux colonels ont cherché leur ligne.",
+              "sources": [
+                [
+                  "natgeo"
+                ],
+                [
+                  "tni"
+                ]
+              ]
+            },
+            {
+              "texte": "Un exemplaire est conservé aux Archives nationales américaines, dans les dossiers du sous-comité Extrême-Orient du SWNCC, à Washington.",
+              "sources": [
+                [
+                  "lee",
+                  "p. 74"
+                ]
+              ]
+            },
+            {
+              "texte": "Seuls les 35e et 40e parallèles y sont imprimés ; le 38e est tracé à la main ; photo publiée par Lee Wan-beom en 2013.",
+              "sources": [
+                [
+                  "lee",
+                  "p. 74 et 81"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:30",
+          "titre": "Août 1945",
+          "items": [
+            {
+              "texte": "Annexée par le Japon en 1910, la Corée est colonie japonaise depuis trente-cinq ans.",
+              "sources": [
+                [
+                  "wikiDiv"
+                ],
+                [
+                  "newsis"
+                ]
+              ]
+            },
+            {
+              "texte": "Communiqué du Caire, 1943 : les Alliés veulent qu’« en temps voulu » la Corée devienne libre et indépendante.",
+              "sources": [
+                [
+                  "frusCaire"
+                ]
+              ]
+            },
+            {
+              "texte": "6 août, bombe sur Hiroshima ; 9 août, l’URSS entre en guerre et attaque en Mandchourie, bombe sur Nagasaki ; 10 août, le Japon offre de se rendre.",
+              "sources": [
+                [
+                  "wikiSurr"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:05",
+          "titre": "Se rendre, mais à qui ?",
+          "items": [
+            {
+              "texte": "Pour chaque territoire, il faut dire devant quelle armée se rendent les troupes japonaises.",
+              "sources": [
+                [
+                  "frusJcs",
+                  "ordre général n° 1"
+                ]
+              ]
+            },
+            {
+              "texte": "Le 12 août, les Soviétiques débarquent à Sonbong et Najin, ports du nord-est de la Corée.",
+              "sources": [
+                [
+                  "usni"
+                ]
+              ]
+            },
+            {
+              "texte": "Les troupes américaines les plus proches sont à Okinawa, à plus de mille kilomètres de Séoul ; elles n’embarquent que le 3 septembre.",
+              "sources": [
+                [
+                  "appleman",
+                  "chap. 1"
+                ]
+              ]
+            },
+            {
+              "texte": "Washington veut recevoir la reddition aussi loin au nord que possible, dans la limite de ce que l’armée peut tenir.",
+              "sources": [
+                [
+                  "frusRusk"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:41",
+          "titre": "Deux colonels dans la pièce voisine",
+          "items": [
+            {
+              "texte": "Réunion de l’État, de l’Armée et de la Marine dans le bureau de John McCloy, au Pentagone ; elle dure presque toute la nuit.",
+              "sources": [
+                [
+                  "frusRusk"
+                ]
+              ]
+            },
+            {
+              "texte": "McCloy envoie dans une pièce voisine les colonels Dean Rusk, 36 ans, et Charles Bonesteel, 35 ans, tous deux anciens boursiers Rhodes à Oxford.",
+              "sources": [
+                [
+                  "frusRusk"
+                ],
+                [
+                  "wikiRusk"
+                ],
+                [
+                  "wikiBon"
+                ]
+              ]
+            },
+            {
+              "texte": "Ni l’un ni l’autre n’est spécialiste de la Corée ; on leur demande une ligne aussi au nord que possible, sans dépasser les moyens de l’armée.",
+              "sources": [
+                [
+                  "tni"
+                ],
+                [
+                  "frusRusk"
+                ]
+              ]
+            },
+            {
+              "texte": "Le récit de Rusk de 1950 ne donne aucune durée ; pour les militaires, écrit-il, « speed was the essence of the problem ».",
+              "sources": [
+                [
+                  "frusRusk"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:26",
+          "titre": "Le 38e parallèle",
+          "items": [
+            {
+              "texte": "La carte de 1942 est au 1/17 500 000 : un millimètre pour 17,5 km.",
+              "sources": [
+                [
+                  "truman"
+                ]
+              ]
+            },
+            {
+              "texte": "Juste au nord de Séoul, ils cherchent une limite commode et ne trouvent aucune ligne naturelle, racontera Rusk.",
+              "sources": [
+                [
+                  "natgeo"
+                ],
+                [
+                  "tni"
+                ]
+              ]
+            },
+            {
+              "texte": "Le 38e parallèle laisse la capitale côté américain ; il est plus au nord que ce que l’armée pourrait atteindre si les Soviétiques refusaient.",
+              "sources": [
+                [
+                  "frusRusk"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:05",
+          "titre": "Pourquoi le 38e",
+          "items": [
+            {
+              "texte": "L’amiral Matthias Gardner propose de monter au 39e parallèle, une ligne qui inclurait Dairen ; on garde le 38e.",
+              "sources": [
+                [
+                  "vallowe"
+                ],
+                [
+                  "lee",
+                  "p. 69"
+                ]
+              ]
+            },
+            {
+              "texte": "14 août, mémo des chefs d’état-major : le 38e donne aux forces américaines le port et les communications de Keijo, nom japonais de Séoul.",
+              "sources": [
+                [
+                  "frusJcs",
+                  "p. 658"
+                ]
+              ]
+            },
+            {
+              "texte": "Et assez de Corée pour en confier des parts aux Chinois et aux Britanniques en cas d’administration à quatre.",
+              "sources": [
+                [
+                  "frusJcs",
+                  "p. 658"
+                ]
+              ]
+            },
+            {
+              "texte": "Ordre général n° 1 : au nord du 38e, les Japonais se rendent aux Soviétiques ; au sud, aux Américains.",
+              "sources": [
+                [
+                  "frusJcs",
+                  "p. 659"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:42",
+          "titre": "La réponse de Staline",
+          "items": [
+            {
+              "texte": "15 août : à la radio, l’empereur annonce que le Japon accepte les conditions des Alliés.",
+              "sources": [
+                [
+                  "wikiSurr"
+                ]
+              ]
+            },
+            {
+              "texte": "16 août, Staline : « Principally I have no objection » ; il demande toutes les Kouriles et le nord d’Hokkaido ; pas un mot sur la Corée.",
+              "sources": [
+                [
+                  "frusStaline"
+                ]
+              ]
+            },
+            {
+              "texte": "17 août, Truman accorde les Kouriles ; à Hokkaido, la reddition reviendra à MacArthur.",
+              "sources": [
+                [
+                  "frusTruman"
+                ]
+              ]
+            },
+            {
+              "texte": "Rusk se dit « somewhat surprised » que les Soviétiques acceptent la ligne.",
+              "sources": [
+                [
+                  "frusRusk"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:11",
+          "titre": "Kaesong, Incheon, Séoul",
+          "items": [
+            {
+              "texte": "Le 24 août, les Soviétiques entrent à Pyongyang.",
+              "sources": [
+                [
+                  "wikiDiv"
+                ]
+              ]
+            },
+            {
+              "texte": "Au sud du 38e, ils ne tiennent que la région de Kaesong, qu’ils évacuent le 8 septembre.",
+              "sources": [
+                [
+                  "appleman",
+                  "chap. 1"
+                ]
+              ]
+            },
+            {
+              "texte": "Le 8 septembre, les troupes venues d’Okinawa débarquent à Incheon ; le 9, à Séoul, le général Hodge reçoit la reddition japonaise.",
+              "sources": [
+                [
+                  "appleman",
+                  "chap. 1"
+                ]
+              ]
+            },
+            {
+              "texte": "Au bâtiment du Gouvernement général, on descend le drapeau japonais et on hisse le drapeau américain.",
+              "sources": [
+                [
+                  "newsis"
+                ],
+                [
+                  "nhhc"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:48",
+          "titre": "Une ligne qui ne suit rien",
+          "items": [
+            {
+              "texte": "Pour l’histoire officielle de l’armée américaine, la ligne traverse le pays sans tenir compte du relief et coupe la presqu’île d’Ongjin du reste du Sud.",
+              "sources": [
+                [
+                  "appleman",
+                  "chap. 1"
+                ]
+              ]
+            },
+            {
+              "texte": "Environ deux Coréens sur trois vivent au sud : 16 millions contre 9 en 1945 ; 21 contre 9 en 1949.",
+              "sources": [
+                [
+                  "wikiDiv"
+                ],
+                [
+                  "appleman",
+                  "chap. 1"
+                ]
+              ]
+            },
+            {
+              "texte": "L’industrie lourde est au nord ; le 26 septembre, le charbon du nord ne descend plus normalement.",
+              "sources": [
+                [
+                  "wikiDiv"
+                ],
+                [
+                  "frusCharbon"
+                ]
+              ]
+            },
+            {
+              "texte": "En attendant, le Japon doit envoyer 70 000 tonnes de charbon de Kyushu par mois à Busan.",
+              "sources": [
+                [
+                  "frusCharbon"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:24",
+          "titre": "Deux États",
+          "items": [
+            {
+              "texte": "Décembre 1945, Moscou : tutelle de cinq ans au plus et commission mixte américano-soviétique ; réunie en 1946 et 1947, elle n’aboutit pas.",
+              "sources": [
+                [
+                  "frusMoscou"
+                ],
+                [
+                  "wikiDiv"
+                ]
+              ]
+            },
+            {
+              "texte": "Mai 1948 : le Nord coupe le courant ; le Sud perd aussitôt 60 % de l’électricité dont il dispose.",
+              "sources": [
+                [
+                  "frusCourant"
+                ]
+              ]
+            },
+            {
+              "texte": "15 août 1948 : République de Corée, à Séoul, présidée par Syngman Rhee, rentré des États-Unis en 1945.",
+              "sources": [
+                [
+                  "wikiDiv"
+                ],
+                [
+                  "wikiRhee"
+                ]
+              ]
+            },
+            {
+              "texte": "9 septembre : République populaire démocratique de Corée, avec Kim Il-sung, revenu d’Union soviétique en septembre 1945.",
+              "sources": [
+                [
+                  "wikiDiv"
+                ],
+                [
+                  "wikiKim"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:08",
+          "titre": "La guerre et la zone démilitarisée",
+          "items": [
+            {
+              "texte": "25 juin 1950, à l’aube : l’armée nord-coréenne franchit le 38e parallèle.",
+              "sources": [
+                [
+                  "wikiWar"
+                ]
+              ]
+            },
+            {
+              "texte": "Trois ans de guerre, au moins 2,5 millions de morts ; les armées passent la ligne vers le nord, puis vers le sud.",
+              "sources": [
+                [
+                  "britWar"
+                ],
+                [
+                  "wikiWar"
+                ]
+              ]
+            },
+            {
+              "texte": "Armistice du 27 juillet 1953 : la nouvelle ligne donne Kaesong au Nord et, à l’est, des montagnes au nord du parallèle au Sud.",
+              "sources": [
+                [
+                  "nara"
+                ],
+                [
+                  "brit38"
+                ]
+              ]
+            },
+            {
+              "texte": "Zone démilitarisée : 2 km de chaque côté de la ligne, soit 4 km de large, sur environ 240 km.",
+              "sources": [
+                [
+                  "nara"
+                ],
+                [
+                  "brit38"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:45",
+          "titre": "Les deux colonels",
+          "items": [
+            {
+              "texte": "En 1950, Rusk est secrétaire d’État adjoint pour l’Extrême-Orient ; secrétaire d’État de 1961 à 1969, sous Kennedy puis Johnson.",
+              "sources": [
+                [
+                  "rusk"
+                ],
+                [
+                  "wikiRusk"
+                ]
+              ]
+            },
+            {
+              "texte": "De 1966 à 1969, Bonesteel commande en Corée les forces américaines et celles des Nations unies, face aux infiltrations le long de la zone démilitarisée.",
+              "sources": [
+                [
+                  "wikiBon"
+                ]
+              ]
+            },
+            {
+              "texte": "21 janvier 1968 : un commando nord-coréen de 31 hommes passe la zone et arrive à moins de 100 m de la Maison bleue, résidence du président.",
+              "sources": [
+                [
+                  "wikiBlue"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:27",
+          "titre": "Ce que valent les souvenirs",
+          "items": [
+            {
+              "texte": "En 1950, Rusk précise qu’il raconte de mémoire, sans documents.",
+              "sources": [
+                [
+                  "frusRusk"
+                ]
+              ]
+            },
+            {
+              "texte": "Ses mémoires de 1990 placent la réunion au 14 août, tard dans la nuit : ils ont « vu » le 38e parallèle.",
+              "sources": [
+                [
+                  "natgeo"
+                ],
+                [
+                  "tni"
+                ]
+              ]
+            },
+            {
+              "texte": "Le général John Hull, à Potsdam fin juillet 1945, dit en 1952 qu’on y a tracé une ligne au nord de Séoul, près du 38e parallèle.",
+              "sources": [
+                [
+                  "appleman",
+                  "chap. 1"
+                ],
+                [
+                  "lee",
+                  "p. 59"
+                ]
+              ]
+            },
+            {
+              "texte": "Pour Lee Wan-beom, la ligne est prête dès la fin juillet (vers le 25) ; le récit de la nuit aurait servi à cacher cette décision plus ancienne.",
+              "sources": [
+                [
+                  "lee",
+                  "p. 48 et 81-82"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rapports": [
+    {
+      "pays": "Dean Rusk",
+      "date": "12 juil. 1950",
+      "nom": "Le récit de la nuit",
+      "resume": "Le mémorandum où Rusk raconte, de mémoire, la réunion chez McCloy et le choix du 38e parallèle.",
+      "liens": [
+        [
+          "Texte",
+          "frusRusk"
+        ]
+      ]
+    },
+    {
+      "pays": "Chefs d’état-major américains",
+      "date": "14 août 1945",
+      "nom": "Mémo SM-2866 et ordre général n° 1",
+      "resume": "Pourquoi le 38e parallèle : le port et les communications de Keijo ; avec le texte de l’ordre général n° 1.",
+      "liens": [
+        [
+          "Texte",
+          "frusJcs"
+        ]
+      ]
+    },
+    {
+      "pays": "Staline et Truman",
+      "date": "16-17 août 1945",
+      "nom": "Le message de Staline et la réponse",
+      "resume": "Staline accepte l’ordre, réclame les Kouriles et le nord d’Hokkaido, sans un mot sur la Corée ; Truman refuse Hokkaido.",
+      "liens": [
+        [
+          "Staline",
+          "frusStaline"
+        ],
+        [
+          "Truman",
+          "frusTruman"
+        ]
+      ]
+    },
+    {
+      "pays": "Commandements de la guerre de Corée",
+      "date": "27 juil. 1953",
+      "nom": "Accord d’armistice",
+      "resume": "La ligne de démarcation militaire et la zone démilitarisée, 2 km de chaque côté.",
+      "liens": [
+        [
+          "Texte",
+          "nara"
+        ]
+      ]
+    }
+  ],
+  "plus_loin": [],
+  "visuels": "Cartes, pions et documents dessinés pour la vidéo ; la carte de 1942 est une évocation de « Asia and Adjacent Areas » du National Geographic, à son échelle, et les documents sont reconstitués. Fonds de carte : Natural Earth.",
+  "corrections": [],
+  "sources": {
+    "frusRusk": {
+      "nom": "Foreign Relations of the United States 1945, vol. VI, doc. 771 (avec le récit de Rusk du 12 juillet 1950)",
+      "domaine": "history.state.gov",
+      "url": "https://history.state.gov/historicaldocuments/frus1945v06/d771",
+      "officielle": true
+    },
+    "frusJcs": {
+      "nom": "Foreign Relations of the United States 1945, vol. VI, doc. 437 (mémo SM-2866 des chefs d’état-major, 14 août 1945, et ordre général n° 1)",
+      "domaine": "history.state.gov",
+      "url": "https://history.state.gov/historicaldocuments/frus1945v06/d437",
+      "officielle": true
+    },
+    "frusStaline": {
+      "nom": "Foreign Relations of the United States 1945, vol. VI, doc. 450 (Staline à Truman, 16 août 1945)",
+      "domaine": "history.state.gov",
+      "url": "https://history.state.gov/historicaldocuments/frus1945v06/d450",
+      "officielle": true
+    },
+    "frusTruman": {
+      "nom": "Foreign Relations of the United States 1945, vol. VI, doc. 452 (Truman à Staline, 17 août 1945)",
+      "domaine": "history.state.gov",
+      "url": "https://history.state.gov/historicaldocuments/frus1945v06/d452",
+      "officielle": true
+    },
+    "frusCharbon": {
+      "nom": "Foreign Relations of the United States 1945, vol. VI, doc. 786 (dépêche de Benninghoff, Séoul, 26 septembre 1945)",
+      "domaine": "history.state.gov",
+      "url": "https://history.state.gov/historicaldocuments/frus1945v06/d786",
+      "officielle": true
+    },
+    "frusMoscou": {
+      "nom": "Foreign Relations of the United States 1945, vol. VI, doc. 845 (communiqué de Moscou sur la Corée, 27 décembre 1945)",
+      "domaine": "history.state.gov",
+      "url": "https://history.state.gov/historicaldocuments/frus1945v06/d845",
+      "officielle": true
+    },
+    "frusCaire": {
+      "nom": "Foreign Relations of the United States, conférences du Caire et de Téhéran (1943), doc. 343 (communiqué du Caire)",
+      "domaine": "history.state.gov",
+      "url": "https://history.state.gov/historicaldocuments/frus1943CairoTehran/d343",
+      "officielle": true
+    },
+    "frusCourant": {
+      "nom": "Foreign Relations of the United States 1948, vol. VI, doc. 801 (télégramme de Bunce, Séoul, 15 mai 1948)",
+      "domaine": "history.state.gov",
+      "url": "https://history.state.gov/historicaldocuments/frus1948v06/d801",
+      "officielle": true
+    },
+    "rusk": {
+      "nom": "Office of the Historian, Département d’État, « David Dean Rusk »",
+      "domaine": "history.state.gov",
+      "url": "https://history.state.gov/departmenthistory/people/rusk-david-dean",
+      "officielle": true
+    },
+    "appleman": {
+      "nom": "Roy E. Appleman, South to the Naktong, North to the Yalu (US Army, 1961), chap. 1",
+      "domaine": "koreanwaronline.com",
+      "url": "https://www.koreanwaronline.com/history/Appleman/Chapter1.htm"
+    },
+    "lee": {
+      "nom": "Lee Wan-beom, « The Potsdam Conference and the Role of the U.S. in the Division of Korea along the 38th Parallel North », The Review of Korean Studies, 2013",
+      "domaine": "accesson.kr",
+      "url": "https://accesson.kr/rks/assets/pdf/7749/journal-16-1-47.pdf",
+      "pdf": true
+    },
+    "truman": {
+      "nom": "Bibliothèque présidentielle Truman, carte M1203, « Asia and Adjacent Areas » (National Geographic, 1942)",
+      "domaine": "trumanlibrary.gov",
+      "url": "https://www.trumanlibrary.gov/maps/m1203-map-asia-and-adjacent-areas",
+      "officielle": true
+    },
+    "natgeo": {
+      "nom": "Michael Fry, « National Geographic, Korea, and the 38th Parallel », National Geographic (5 août 2013)",
+      "domaine": "nationalgeographic.com",
+      "url": "https://www.nationalgeographic.com/science/article/130805-korean-war-dmz-armistice-38-parallel-geography"
+    },
+    "tni": {
+      "nom": "Sebastien Roblin, « How 2 colonels and a National Geographic map divided Korea » (The National Interest, repris par Warrior Maven, 2018)",
+      "domaine": "warriormaven.com",
+      "url": "https://warriormaven.com/news/history/how-2-colonels-and-a-national-geographic-map-divided-korea"
+    },
+    "vallowe": {
+      "nom": "The Korean War Educator, recherches de Vallowe, « Prelude to a New War »",
+      "domaine": "thekwe.org",
+      "url": "https://thekwe.org/topics/docs/chosin/vallowe_research/vallowe_chapter_01.htm"
+    },
+    "usni": {
+      "nom": "Charles Stephenson, « Chongjin: Soviet Amphibious Operations Against Japan, 1945 », Naval History (US Naval Institute), février 2023",
+      "domaine": "usni.org",
+      "url": "https://www.usni.org/magazines/naval-history-magazine/2023/february/chongjin-soviet-amphibious-operations-against-japan"
+    },
+    "nhhc": {
+      "nom": "Naval History and Heritage Command, photo 80-G-490501 (Séoul, 9 septembre 1945)",
+      "domaine": "history.navy.mil",
+      "url": "https://www.history.navy.mil/content/history/museums/nmusn/explore/photography/korean-war/surrender-japan-korea/80-g-490501.html",
+      "officielle": true
+    },
+    "newsis": {
+      "nom": "Newsis, « [해방정국 3년] ④ 중앙청 일장기 내려지고 성조기 오르다 » (2020)",
+      "domaine": "newsis.com",
+      "url": "https://www.newsis.com/view/NISX20200121_0000895164",
+      "langue": "KO"
+    },
+    "nara": {
+      "nom": "Archives nationales américaines, « Armistice Agreement for the Restoration of the South Korean State (1953) »",
+      "domaine": "archives.gov",
+      "url": "https://www.archives.gov/milestone-documents/armistice-agreement-restoration-south-korean-state",
+      "officielle": true
+    },
+    "brit38": {
+      "nom": "Encyclopædia Britannica, « 38th parallel »",
+      "domaine": "britannica.com",
+      "url": "https://www.britannica.com/place/38th-parallel"
+    },
+    "britWar": {
+      "nom": "Encyclopædia Britannica, « Korean War »",
+      "domaine": "britannica.com",
+      "url": "https://www.britannica.com/event/Korean-War"
+    },
+    "wikiDiv": {
+      "nom": "Wikipédia, « Division of Korea »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Division_of_Korea"
+    },
+    "wikiSurr": {
+      "nom": "Wikipédia, « Surrender of Japan »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan"
+    },
+    "wikiRusk": {
+      "nom": "Wikipédia, « Dean Rusk »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Dean_Rusk"
+    },
+    "wikiBon": {
+      "nom": "Wikipédia, « Charles H. Bonesteel III »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Charles_H._Bonesteel_III"
+    },
+    "wikiBlue": {
+      "nom": "Wikipédia, « Blue House raid »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Blue_House_raid"
+    },
+    "wikiWar": {
+      "nom": "Wikipédia, « Korean War »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Korean_War"
+    },
+    "wikiKim": {
+      "nom": "Wikipédia, « Kim Il Sung »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Kim_Il_Sung"
+    },
+    "wikiRhee": {
+      "nom": "Wikipédia, « Syngman Rhee »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Syngman_Rhee"
+    }
+  }
+}

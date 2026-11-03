@@ -7,7 +7,7 @@
 <div class="hero-text">
 <h1{% if d.titre|length > 20 %} class="long tres-long"{% elif d.titre|length > 12 %} class="long"{% endif %}>{% for mot in d.titre.split(' ') %}<span class="mot">{{ mot }}</span>{{ ' ' if not loop.last }}{% endfor %}</h1>
 <p class="sub">{{ d.sous_titre }}</p>
-<p class="meta">{{ chaine.unite }}&nbsp;{{ d.numero }}{% if d.parties|length > 1 %}, en {{ d.parties|length|en_lettres }} vidéos{% endif %}. {{ d.nb_sources }} sources, vérifiées le {{ d.verifie|nbsp }}.</p>
+<p class="meta">{{ d.unite }}&nbsp;{{ d.numero }}{% if d.parties|length > 1 %}, en {{ d.parties|length|en_lettres }} vidéos{% endif %}. {{ d.nb_sources }} sources, vérifiées le {{ d.verifie|nbsp }}.</p>
 {% if d.avertissement %}<p class="note">{{ d.avertissement }}</p>{% endif %}
 {% if d.suivi %}<p class="signal-maj"><a href="#mise-a-jour">{{ d.suivi.titre }}</a></p>{% endif %}
 {% if d.nb_corrections %}<p class="signal-corr"><a href="#corrections">{{ 'Une correction' if d.nb_corrections == 1 else d.nb_corrections ~ ' corrections' }} depuis la mise en ligne</a></p>{% endif %}

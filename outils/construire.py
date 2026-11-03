@@ -43,7 +43,7 @@ def secondes(t):
     return s
 
 
-LANGUES = {"EN": "en anglais", "FR": "", "DE": "en allemand", "ES": "en espagnol", "IT": "en italien", "JA": "en japonais", "NL": "en néerlandais", "PT": "en portugais"}
+LANGUES = {"EN": "en anglais", "FR": "", "DE": "en allemand", "ES": "en espagnol", "IT": "en italien", "JA": "en japonais", "KO": "en coréen", "NL": "en néerlandais", "PT": "en portugais"}
 
 
 def minutage(t):
@@ -124,7 +124,9 @@ def preparer_dossier(d, chaine, site):
         r["liens"] = [{"label": label, "url": source(cle)["url"]} for label, cle in r["liens"]]
     d["plus_loin"] = [dict(source(cle), label=label) for cle, label in d.get("plus_loin", [])]
     d["nb_sources"] = len(urls)
-    titre = "%s, %s %s de %s : les sources" % (d["titre"], chaine["unite"].lower(), d["numero"], chaine["nom"])
+    # Unité du dossier : celle de la chaîne (« Dossier n° », « Épisode »), sauf pour un hors-série (« unite » dans le fichier du dossier).
+    d["unite"] = d.get("unite") or chaine["unite"]
+    titre = "%s, %s %s de %s : les sources" % (d["titre"], d["unite"].lower(), d["numero"], chaine["nom"])
     d["lien_signaler"] = "%s/issues/new?title=%s" % (site["depot"], (d["titre"] + " : ").replace(" ", "%20").replace(":", "%3A"))
     d["titre_page"] = titre
     # Les sources déclarées mais jamais citées sont signalées (pas bloquantes).
