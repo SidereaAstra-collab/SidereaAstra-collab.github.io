@@ -1,0 +1,800 @@
+{
+  "slug": "cartes-pokemon",
+  "numero": "01",
+  "unite": "Hors-série n°",
+  "titre": "La fièvre des cartes Pokémon",
+  "sous_titre": "Du booster au cambriolage : comment un jouet fabriqué par milliards est devenu un butin",
+  "description": "Les sources du hors-série de La mécanique du pire sur la fièvre des cartes Pokémon, du booster au cambriolage, passage par passage.",
+  "verifie": "3 nov. 2026",
+  "mise_a_jour": "3 nov. 2026",
+  "avertissement": "Les affaires qui n’ont pas été jugées sont présentées au conditionnel : les personnes mises en cause sont présumées innocentes.",
+  "image_partage": "cartes-pokemon.jpg",
+  "image_entete": "cartes-pokemon.jpg",
+  "image_alt": "Miniature de la vidéo : « Pokémon, des cartes en or ? », une carte dans sa coque notée face à des pièces d’or sur une balance.",
+  "titre_rapports": "Les documents de référence",
+  "parties": [
+    {
+      "id": "video",
+      "numero": 1,
+      "nom": "La fièvre des cartes Pokémon",
+      "mise_en_ligne": "4 nov. 2026",
+      "youtube": "JxH1slXufrs",
+      "miniature": "cartes-pokemon.jpg",
+      "note": "",
+      "passages": [
+        {
+          "t": "00:00",
+          "titre": "Bourgoin-Jallieu, 13 août 2026",
+          "items": [
+            {
+              "texte": "Nuit du 12 au 13 août 2026, vers 4 h, à Bourgoin-Jallieu (Isère) : quatre hommes cagoulés forcent la porte d’une boutique de cartes à collectionner.",
+              "sources": [
+                [
+                  "noovoAfp"
+                ],
+                [
+                  "brut"
+                ]
+              ]
+            },
+            {
+              "texte": "Ils fuient en voiture à cause de l’alarme, avec plusieurs centaines de cartes, presque toutes des cartes Pokémon.",
+              "sources": [
+                [
+                  "noovoAfp"
+                ],
+                [
+                  "brut"
+                ]
+              ]
+            },
+            {
+              "texte": "Un préjudice de près de 80 000 euros selon la gérante ; pour elle, les propriétaires de boutiques Pokémon « sont des cibles ».",
+              "sources": [
+                [
+                  "brut"
+                ],
+                [
+                  "noovoAfp"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "00:28",
+          "titre": "85 milliards de cartes",
+          "items": [
+            {
+              "texte": "Plus de 85 milliards de cartes Pokémon produites depuis la création du jeu, selon l’éditeur, au 31 mars 2026.",
+              "sources": [
+                [
+                  "tpcFigures"
+                ],
+                [
+                  "pokeguardian"
+                ]
+              ]
+            },
+            {
+              "texte": "Environ 10 milliards sur l’exercice d’avril 2025 à mars 2026 : le cumul passe de 75 à 85 milliards.",
+              "sources": [
+                [
+                  "pokeguardian"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:10",
+          "titre": "Maillon 1 · Le hasard",
+          "items": [
+            {
+              "texte": "Pour les 30 ans, chaque booster de l’extension anniversaire contient l’un des 30 Pikachu rares ; une rareté nouvelle, la « futuriste rare ».",
+              "sources": [
+                [
+                  "gamespress"
+                ],
+                [
+                  "pokebip"
+                ]
+              ]
+            },
+            {
+              "texte": "Le nombre d’exemplaires imprimés de chaque carte n’est pas connu.",
+              "sources": [
+                [
+                  "wsj"
+                ]
+              ]
+            },
+            {
+              "texte": "Selon NPR, ouvrir des boosters rapporte en général moins qu’acheter des tickets de grattage.",
+              "sources": [
+                [
+                  "npr"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:00",
+          "titre": "Maillon 2 · Le placement",
+          "items": [
+            {
+              "texte": "Aux États-Unis, selon Circana, 19 % des adultes ont acheté des cartes Pokémon pour eux-mêmes en six mois ; un quart seulement de ces acheteurs joue.",
+              "sources": [
+                [
+                  "circana"
+                ]
+              ]
+            },
+            {
+              "texte": "Selon NPR, un Pikachu vaut environ 800 dollars noté 9, près de 2 500 noté 10 ; selon Card Ladder, cité par CNN, plus de 145 % de hausse en un an.",
+              "sources": [
+                [
+                  "npr"
+                ],
+                [
+                  "cnn"
+                ]
+              ]
+            },
+            {
+              "texte": "16 février 2026 : le Pikachu Illustrator noté 10 de Logan Paul, acheté 5,275 millions de dollars en 2021, vendu 16,5 millions, record du Guinness pour une carte aux enchères.",
+              "sources": [
+                [
+                  "apLogan"
+                ],
+                [
+                  "gwr2022"
+                ]
+              ]
+            },
+            {
+              "texte": "2025 : plus de 16 millions de cartes Pokémon notées ; Collectors (PSA, Card Ladder), avec SGC rachetée en 2024 et Beckett fin 2025, note environ 80 % des cartes.",
+              "sources": [
+                [
+                  "cllct"
+                ],
+                [
+                  "icv2Sgc"
+                ],
+                [
+                  "collBeckett"
+                ]
+              ]
+            },
+            {
+              "texte": "Depuis juillet 2026, des plaintes accusent PSA de limiter les 10 sur les cartes recherchées ; le groupe dément, et rien n’est jugé sur le fond.",
+              "sources": [
+                [
+                  "funk",
+                  "§ 19"
+                ],
+                [
+                  "var1"
+                ],
+                [
+                  "var2"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:49",
+          "titre": "Le Pikachu du menu enfant",
+          "items": [
+            {
+              "texte": "Août 2025 : McDonald’s Japon offre des cartes Pokémon avec son menu enfant ; dans beaucoup de restaurants, l’opération ne dure pas plus d’un jour.",
+              "sources": [
+                [
+                  "cp24Mcd"
+                ],
+                [
+                  "afpKt"
+                ]
+              ]
+            },
+            {
+              "texte": "Des achats en masse pour revendre les cartes ; sur les réseaux sociaux, des photos de repas abandonnés, parfois jetés.",
+              "sources": [
+                [
+                  "afpKt"
+                ],
+                [
+                  "cp24Mcd"
+                ],
+                [
+                  "afpbb"
+                ]
+              ]
+            },
+            {
+              "texte": "L’enseigne s’excuse deux fois ; elle refusera de servir ceux qui dépassent la limite ou se montrent menaçants avec le personnel.",
+              "sources": [
+                [
+                  "cp24Mcd"
+                ],
+                [
+                  "afpbb"
+                ]
+              ]
+            },
+            {
+              "texte": "Décembre 2025 : ce Pikachu du menu enfant est la carte la plus notée par PSA, 58 000 fois dans le mois.",
+              "sources": [
+                [
+                  "si"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:35",
+          "titre": "Maillon 3 · La ruée",
+          "items": [
+            {
+              "texte": "16 septembre 2026 : files dès l’aube devant des magasins de jouets, en Belgique et en France ; un coffret à 56 euros proposé à plusieurs centaines sur Vinted.",
+              "sources": [
+                [
+                  "bx1"
+                ]
+              ]
+            },
+            {
+              "texte": "La Fnac réserve sa vente en ligne aux adhérents de sa carte payante ; Amazon procède par tirage au sort.",
+              "sources": [
+                [
+                  "jdgFnac"
+                ]
+              ]
+            },
+            {
+              "texte": "Au Japon : carte d’identité exigée pour certains produits de la boutique en ligne officielle ; reconnaissance faciale dans des boutiques éphémères ; annonces des 30 ans suspendues sur Mercari.",
+              "sources": [
+                [
+                  "sora"
+                ],
+                [
+                  "pcard"
+                ],
+                [
+                  "itmedia"
+                ]
+              ]
+            },
+            {
+              "texte": "En 2021 comme en 2025, l’éditeur dit réimprimer « à capacité maximale », presque dans les mêmes mots.",
+              "sources": [
+                [
+                  "kotaku2021"
+                ],
+                [
+                  "vgc2025"
+                ],
+                [
+                  "nl2025"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:34",
+          "titre": "Maillon 4 · Le butin",
+          "items": [
+            {
+              "texte": "Pour le dirigeant d’une association professionnelle interrogé par CNN, une poignée de cartes vaut parfois des dizaines de milliers de dollars ; sans numéro de série, presque intraçable.",
+              "sources": [
+                [
+                  "cnn"
+                ]
+              ]
+            },
+            {
+              "texte": "Selon la presse belge, des voleurs sortent les cartes notées de leur coque et les revendent sans certificat.",
+              "sources": [
+                [
+                  "pmBe"
+                ]
+              ]
+            },
+            {
+              "texte": "Selon des petits commerçants interrogés par CNN, les assureurs sont moins prêts à couvrir les boutiques de cartes.",
+              "sources": [
+                [
+                  "cnn"
+                ]
+              ]
+            },
+            {
+              "texte": "Seine-et-Marne, 2022 : un trafiquant condamné à deux ans ferme ; chez lui, cannabis, arme et environ 20 000 euros de cartes Pokémon, pour blanchir de l’argent selon la justice.",
+              "sources": [
+                [
+                  "toms"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:35",
+          "titre": "Les affaires",
+          "items": [
+            {
+              "texte": "Mars 2023, en Bretagne : un collectionneur frappé chez lui, forcé de remplir lui-même les sacs-poubelle ; 400 kg de cartes ; condamnations à Rennes en 2024.",
+              "sources": [
+                [
+                  "gendinfo"
+                ],
+                [
+                  "rtbf"
+                ]
+              ]
+            },
+            {
+              "texte": "Près de Versailles, un ex-salarié d’Asmodee cambriole deux fois l’entrepôt et sort des palettes par le quai ; un briquet avec son ADN le trahit ; condamné en 2024.",
+              "sources": [
+                [
+                  "actuj"
+                ],
+                [
+                  "infonorm"
+                ]
+              ]
+            },
+            {
+              "texte": "New York, janvier 2026 : trois hommes armés, plus de 40 personnes retenues, plus de 100 000 dollars de marchandise selon un employé ; des vols armés au Québec aussi.",
+              "sources": [
+                [
+                  "abcny"
+                ],
+                [
+                  "noovoQc"
+                ]
+              ]
+            },
+            {
+              "texte": "Des affaires semblables au Japon, au Royaume-Uni et en Australie.",
+              "sources": [
+                [
+                  "automaton"
+                ],
+                [
+                  "itv"
+                ],
+                [
+                  "onenews"
+                ]
+              ]
+            },
+            {
+              "texte": "13 octobre 2026, Californie : 6 451 cartes notées par PSA (2 978 Pokémon) volées dans un camion, 963 000 dollars selon la police ; Chronopost exclut ces cartes depuis septembre.",
+              "sources": [
+                [
+                  "laist"
+                ],
+                [
+                  "certs"
+                ],
+                [
+                  "upela",
+                  "art. 3"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:52",
+          "titre": "Bout à bout",
+          "items": [
+            {
+              "texte": "Le groupe qui note la plupart des cartes les garde aussi (PSA Vault), les revend pour leurs propriétaires et prête de l’argent dessus.",
+              "sources": [
+                [
+                  "funkAm",
+                  "§ 11"
+                ],
+                [
+                  "lend"
+                ]
+              ]
+            },
+            {
+              "texte": "Des plaignants y voient un conflit d’intérêts ; le groupe dit ne « jamais » compromettre l’indépendance de ses notes.",
+              "sources": [
+                [
+                  "funkAm",
+                  "§ 13 et 15"
+                ],
+                [
+                  "var1"
+                ]
+              ]
+            },
+            {
+              "texte": "Au Québec, un commerçant juge qu’il faudra renforcer la sécurité « comme les bijouteries ».",
+              "sources": [
+                [
+                  "noovoQc"
+                ]
+              ]
+            },
+            {
+              "texte": "Au Japon, une vingtaine de parlementaires du parti au pouvoir forment un groupe sur les cartes à collectionner : contrefaçons, achats en gros, risque de blanchiment.",
+              "sources": [
+                [
+                  "scmp"
+                ],
+                [
+                  "kuma"
+                ],
+                [
+                  "dex"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:44",
+          "titre": "Une bulle ?",
+          "items": [
+            {
+              "texte": "Des milliards de cartes de plus chaque année ; le cofondateur de Card Ladder craint une bulle sur une partie des cartes récentes, à la moindre perte de confiance.",
+              "sources": [
+                [
+                  "pokeguardian"
+                ],
+                [
+                  "npr"
+                ]
+              ]
+            },
+            {
+              "texte": "Le Wall Street Journal rappelle les cartes de baseball, effondrées après la hausse de la production à la fin des années 1980.",
+              "sources": [
+                [
+                  "wsj"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rapports": [
+    {
+      "pays": "The Pokémon Company",
+      "date": "31 mars 2026",
+      "nom": "Pokémon in Figures",
+      "resume": "Le chiffre officiel : plus de 85 milliards de cartes produites depuis la création du jeu.",
+      "liens": [
+        [
+          "Page, en anglais",
+          "tpcFigures"
+        ]
+      ]
+    },
+    {
+      "pays": "Gendarmerie nationale",
+      "date": "2 févr. 2024",
+      "nom": "Le vol de 400 kg de cartes en Bretagne",
+      "resume": "Le collectionneur frappé puis forcé à remplir lui-même les sacs, l’enquête et les peines prononcées à Rennes.",
+      "liens": [
+        [
+          "Article",
+          "gendinfo"
+        ]
+      ]
+    },
+    {
+      "pays": "Plainte, tribunal fédéral du Maryland",
+      "date": "juil.-sept. 2026",
+      "nom": "Funk contre PSA et Collectors",
+      "resume": "Les accusations des plaignants : notes de 10 limitées, conflits d’intérêts du groupe.",
+      "liens": [
+        [
+          "Plainte, PDF",
+          "funk"
+        ],
+        [
+          "Plainte modifiée, PDF",
+          "funkAm"
+        ]
+      ]
+    },
+    {
+      "pays": "Chronopost",
+      "date": "1er sept. 2026",
+      "nom": "Les conditions générales de vente",
+      "resume": "L’article 3 exclut les cartes de jeu à collectionner, qui voyagent aux seuls risques de l’expéditeur.",
+      "liens": [
+        [
+          "CGV, PDF",
+          "upela"
+        ]
+      ]
+    }
+  ],
+  "plus_loin": [],
+  "visuels": "Reconstitutions schématiques. Aucun personnage de Pokémon, aucune illustration de carte et aucune marque ne sont représentés ; les personnes sont dessinées au trait.",
+  "corrections": [],
+  "sources": {
+    "brut": {
+      "nom": "Brut, avec l’AFP, « Vol de 80 000 euros de cartes de collection Pokémon dans un magasin en Isère » (24 août 2026)",
+      "domaine": "brut.media",
+      "url": "https://www.brut.media/fr/articles/france/justice-faits-divers/vol-de-80-000-euros-de-cartes-de-collection-pokemon-dans-un-magasin-en-isere",
+      "langue": "FR"
+    },
+    "noovoAfp": {
+      "nom": "Noovo Info, avec l’AFP, « Des cartes de collection Pokémon volées dans un commerce en France » (13 août 2026)",
+      "domaine": "noovo.info",
+      "url": "https://www.noovo.info/nouvelles/international/article/des-cartes-de-collection-pokemon-volees-dans-un-commerce-en-france/",
+      "langue": "FR"
+    },
+    "tpcFigures": {
+      "nom": "The Pokémon Company, « Pokémon in Figures » (au 31 mars 2026)",
+      "domaine": "corporate.pokemon.co.jp",
+      "url": "https://corporate.pokemon.co.jp/en/aboutus/figures/"
+    },
+    "pokeguardian": {
+      "nom": "PokéGuardian, « Pokémon Cards Continue Strong Sales as Total Production Hits 85 Billion » (27 mai 2026)",
+      "domaine": "pokeguardian.com",
+      "url": "https://www.pokeguardian.com/3191786_pokemon-cards-continue-strong-sales-as-total-production-hits-85-billion"
+    },
+    "gamespress": {
+      "nom": "The Pokémon Company International, annonce aux médias de la gamme des 30 ans (30 juin 2026)",
+      "domaine": "pokemon.gamespress.com",
+      "url": "https://pokemon.gamespress.com/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f"
+    },
+    "pokebip": {
+      "nom": "Pokébip, « JCC Pokémon : la nouvelle extension 30e Anniversaire révélée » (1er juin 2026)",
+      "domaine": "pokebip.com",
+      "url": "https://www.pokebip.com/news/7376/jcc-pokemon-nouvelle-extension-30e-anniversaire-revelee",
+      "langue": "FR"
+    },
+    "npr": {
+      "nom": "NPR, The Indicator from Planet Money, « Why Pokemon cards are one of the hottest speculative booms right now » (9 avril 2026)",
+      "domaine": "wamc.org",
+      "url": "https://www.wamc.org/2026-04-09/why-pokemon-cards-are-one-of-the-hottest-speculative-booms-right-now"
+    },
+    "wsj": {
+      "nom": "The Wall Street Journal, traduit par InvestNews, les cartes Pokémon comme placement (12 sept. 2025)",
+      "domaine": "investnews.com.br",
+      "url": "https://investnews.com.br/the-wall-street-journal/pokemon-cartas-lucro/amp/",
+      "langue": "PT"
+    },
+    "circana": {
+      "nom": "Circana, communiqué sur les ventes de jouets aux États-Unis (3 juin 2025)",
+      "domaine": "circana.com",
+      "url": "https://www.circana.com/post/toy-industry-us-sales-grow-in-early-2025-circana-reports"
+    },
+    "cnn": {
+      "nom": "CNN, repris par CP24, « Pokémon cards are igniting an international crime spree » (4 avril 2026)",
+      "domaine": "cp24.com",
+      "url": "https://www.cp24.com/news/world/2026/04/04/pokemon-cards-are-igniting-an-international-crime-spree/"
+    },
+    "apLogan": {
+      "nom": "AP, repris par ABC7 New York, vente du Pikachu Illustrator de Logan Paul (17 févr. 2026)",
+      "domaine": "abc7ny.com",
+      "url": "https://abc7ny.com/post/logan-pauls-pikachu-illustrator-pokmon-card-sells-record-165m-auction/18609638/"
+    },
+    "gwr2022": {
+      "nom": "Guinness World Records, « Logan Paul owns $5.275 million Pokémon card after record-breaking trade » (avril 2022)",
+      "domaine": "guinnessworldrecords.com",
+      "url": "https://www.guinnessworldrecords.com/news/2022/4/logan-paul-owns-5-275-million-pokemon-card-after-record-breaking-trade-697189.html"
+    },
+    "cllct": {
+      "nom": "Cllct, d’après GemRate, « Major authenticators graded more than 26 million cards in 2025 » (janv. 2026)",
+      "domaine": "cllct.com",
+      "url": "https://www.cllct.com/sports-collectibles/sports-cards/major-authenticators-graded-more-than-26-million-cards-in-2025"
+    },
+    "icv2Sgc": {
+      "nom": "ICv2, « PSA Owners Acquire SGC » (1er mars 2024)",
+      "domaine": "icv2.com",
+      "url": "https://icv2.com/articles/news/view/56365/collectors-acquires-sgc"
+    },
+    "collBeckett": {
+      "nom": "Collectors, « Collectors to Acquire Beckett » (15 déc. 2025)",
+      "domaine": "collectors.com",
+      "url": "https://collectors.com/company-announcement"
+    },
+    "funk": {
+      "nom": "Plainte Funk v. Collectors Universe, tribunal fédéral du Maryland, 1:26-cv-02933 (28 juillet 2026)",
+      "domaine": "courtlistener.com",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.mdd.609662/gov.uscourts.mdd.609662.1.0.pdf",
+      "pdf": true
+    },
+    "funkAm": {
+      "nom": "Plainte modifiée Funk v. Collectors Universe, tribunal fédéral du Maryland (29 sept. 2026)",
+      "domaine": "courtlistener.com",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.mdd.609662/gov.uscourts.mdd.609662.19.0.pdf",
+      "pdf": true
+    },
+    "var1": {
+      "nom": "Value Added Resource, les procédures contre PSA et Collectors, avec la réponse du groupe à The Athletic (août 2026)",
+      "domaine": "valueaddedresource.net",
+      "url": "https://www.valueaddedresource.net/psa-collectors-growing-legal-challenges/"
+    },
+    "var2": {
+      "nom": "Value Added Resource, Collectors demande l’arbitrage ou le rejet de la plainte antitrust (sept. 2026)",
+      "domaine": "valueaddedresource.net",
+      "url": "https://www.valueaddedresource.net/collectors-arbitration-dismissal-antitrust-suit/"
+    },
+    "cp24Mcd": {
+      "nom": "CNN, repris par CP24, « McDonald’s Japan apologizes over Pokémon Happy Meals frenzy » (12 août 2025)",
+      "domaine": "cp24.com",
+      "url": "https://www.cp24.com/news/world/2025/08/12/mcdonalds-japan-apologizes-over-pokemon-happy-meals-frenzy/"
+    },
+    "afpKt": {
+      "nom": "AFP, repris par Khaleej Times, « McDonald’s Japan sorry for Pokemon debacle » (13 août 2025)",
+      "domaine": "khaleejtimes.com",
+      "url": "https://www.khaleejtimes.com/world/americas/happy-meals-mcdonalds-japan-sorry-for-pokemon-debacle"
+    },
+    "afpbb": {
+      "nom": "AFPBB News (AFP en japonais), « アンハッピーセット » (14 août 2025)",
+      "domaine": "afpbb.com",
+      "url": "https://www.afpbb.com/articles/-/3593367",
+      "langue": "JA"
+    },
+    "si": {
+      "nom": "Sports Illustrated, d’après GemRate, l’année record de PSA portée par Pokémon (4 janv. 2026)",
+      "domaine": "si.com",
+      "url": "https://www.si.com/collectibles/pokemon-powers-2025-psa-s-biggest-grading-year-in-company-history"
+    },
+    "bx1": {
+      "nom": "BX1, « Ruée dans les magasins pour la nouvelle collection de cartes Pokémon » (16 sept. 2026)",
+      "domaine": "bx1.be",
+      "url": "https://bx1.be/categories/news/ruee-dans-les-magasins-pour-la-nouvelle-collection-de-cartes-pokemon-qui-celebre-les-30-ans-de-la-franchise/",
+      "langue": "FR"
+    },
+    "jdgFnac": {
+      "nom": "Journal du Geek, « Cartes Pokémon 30 ans : la Fnac a réservé la vente en ligne à ses adhérents » (17 sept. 2026)",
+      "domaine": "journaldugeek.com",
+      "url": "https://www.journaldugeek.com/2026/09/17/cartes-pokemon-30-ans-la-fnac-a-reserve-la-vente-en-ligne-a-ses-adherents-comment-obtenir-vos-boosters/",
+      "langue": "FR"
+    },
+    "sora": {
+      "nom": "SoraNews24, la carte My Number exigée pour des produits des 30 ans (5 août 2026)",
+      "domaine": "soranews24.com",
+      "url": "https://soranews24.com/2026/08/05/pokemon-center-online-designates-first-pokemon-items-that-will-require-japanese-id-card-to-buy/"
+    },
+    "pcard": {
+      "nom": "Site officiel du jeu de cartes Pokémon, boutiques « Pokémon Card Store » et reconnaissance faciale",
+      "domaine": "pokemon-card.com",
+      "url": "https://www.pokemon-card.com/info/004753.html",
+      "langue": "JA"
+    },
+    "itmedia": {
+      "nom": "ITmedia Mobile, Mercari interdit temporairement les annonces des produits des 30 ans (15 sept. 2026)",
+      "domaine": "itmedia.co.jp",
+      "url": "https://www.itmedia.co.jp/mobile/spv/2609/15/news093.html",
+      "langue": "JA"
+    },
+    "kotaku2021": {
+      "nom": "Kotaku, « The Pokémon Company swears it’s printing Pokémon cards » (10 févr. 2021)",
+      "domaine": "kotaku.com",
+      "url": "https://kotaku.com/the-pokemon-company-swears-its-printing-pokemon-cards-a-1846240596"
+    },
+    "vgc2025": {
+      "nom": "VGC, déclaration de The Pokémon Company sur les ruptures de stock (27 mars 2025)",
+      "domaine": "videogameschronicle.com",
+      "url": "https://videogameschronicle.com/news/pokemon-addresses-pokemon-trading-card-shortage-vows-increased-production"
+    },
+    "nl2025": {
+      "nom": "Nintendo Life, la déclaration de 2025 comparée à celle de 2021 (28 mars 2025)",
+      "domaine": "nintendolife.com",
+      "url": "https://www.nintendolife.com/news/2025/03/huh-the-pokemon-companys-statement-on-tcg-shortages-sure-looks-familiar"
+    },
+    "pmBe": {
+      "nom": "Paris Match Belgique, les cartes Pokémon cibles des cambrioleurs en Belgique et en Europe (20 avril 2026)",
+      "domaine": "parismatch.be",
+      "url": "https://www.parismatch.be/actualites/societe/2026/04/20/leur-valeur-peut-monter-jusqua-plusieurs-millions-ce-jeu-mythique-de-votre-enfance-devient-la-cible-des-cambrioleurs-en-belgique-et-en-europe-6WWFCCZITFE2PDHSXI64XE6I2A/",
+      "langue": "FR"
+    },
+    "toms": {
+      "nom": "Tom’s Guide, d’après Le Parisien, « Ce trafiquant de drogue blanchit l’argent sale avec des cartes Pokémon » (19 avril 2022)",
+      "domaine": "tomsguide.fr",
+      "url": "https://www.tomsguide.fr/ce-trafiquant-de-drogue-blanchit-largent-sale-avec-des-cartes-pokemon",
+      "langue": "FR"
+    },
+    "rtbf": {
+      "nom": "RTBF, « Deux ans de prison pour avoir volé des cartes Pokémon » (6 févr. 2024)",
+      "domaine": "rtbf.be",
+      "url": "https://www.rtbf.be/article/deux-ans-de-prison-pour-avoir-vole-des-cartes-pokemon-le-recit-dun-cambriolage-rocambolesque-en-bretagne-11325484",
+      "langue": "FR"
+    },
+    "actuj": {
+      "nom": "Actu-Juridique, « TJ de Versailles : “Vous vouliez payer l’État avec des cartes Pokémon ?” » (2 déc. 2024)",
+      "domaine": "actu-juridique.fr",
+      "url": "https://www.actu-juridique.fr/penal/tj-de-versailles-vous-vouliez-payer-letat-avec-des-cartes-pokemon/",
+      "langue": "FR"
+    },
+    "infonorm": {
+      "nom": "Info Normandie, cartes Pokémon dérobées dans un entrepôt des Yvelines (5 juillet 2024)",
+      "domaine": "infonormandie.com",
+      "url": "https://www.infonormandie.com/300-000-de-cartes-Pokemon-derobees-dans-un-entrepot-des-Yvelines-un-ex-employe-derriere-les-barreaux_a39070.html",
+      "langue": "FR"
+    },
+    "abcny": {
+      "nom": "ABC7 New York, braquage d’une boutique Pokémon à Manhattan (15 janv. 2026)",
+      "domaine": "abc7ny.com",
+      "url": "https://abc7ny.com/post/pokmon-shop-robbed-100000-merchandise-armed-burglars-manhattan/18404893/"
+    },
+    "noovoQc": {
+      "nom": "Noovo Info, « Cartes Pokémon : la nouvelle cible des voleurs armés au Québec ? » (20 juillet 2026)",
+      "domaine": "noovo.info",
+      "url": "https://www.noovo.info/nouvelles/patrouille/article/des-cartes-pokemon-plus-dispendieuses-que-des-bijoux-la-nouvelle-cible-des-voleurs-armes-au-quebec/",
+      "langue": "FR"
+    },
+    "automaton": {
+      "nom": "Automaton, d’après TBS, vol de cartes Pokémon dans un véhicule de livraison à Tokyo (27 mai 2026)",
+      "domaine": "automaton-media.com",
+      "url": "https://automaton-media.com/en/news/two-japanese-men-arrested-over-alleged-213k-usd-pokemon-card-heist-targeting-delivery-vehicle/"
+    },
+    "itv": {
+      "nom": "ITV News Granada, « Second man jailed for stealing £62,000 worth of Pokemon cards » (15 août 2026)",
+      "domaine": "itv.com",
+      "url": "https://www.itv.com/news/granada/2026-08-15/second-man-jailed-for-stealing-62000-worth-of-pokemon-cards"
+    },
+    "onenews": {
+      "nom": "1News, d’après la police de Victoria, « Four arrested after $55k in trading cards stolen in Melbourne » (17 févr. 2025)",
+      "domaine": "1news.co.nz",
+      "url": "https://www.1news.co.nz/2025/02/17/4-arrested-after-55k-in-trading-cards-stolen-in-melbourne/"
+    },
+    "laist": {
+      "nom": "LAist, « At least $963K in trading cards were stolen from a FedEx truck in Santa Ana » (20 oct. 2026)",
+      "domaine": "laist.com",
+      "url": "https://laist.com/news/criminal-justice/trading-cards-stolen-fedex-truck-santa-ana"
+    },
+    "certs": {
+      "nom": "Liste des numéros de certificat PSA des cartes volées à Santa Ana (oct. 2026), copie publiée par Sports Card Info",
+      "domaine": "sportscardinfo.wordpress.com",
+      "url": "https://sportscardinfo.wordpress.com/wp-content/uploads/2026/10/certificate_list.pdf",
+      "pdf": true
+    },
+    "upela": {
+      "nom": "Chronopost, conditions générales de vente au 1er sept. 2026 (copie publiée par Upela)",
+      "domaine": "upela.com",
+      "url": "https://www.upela.com/assets/PDF/FR-CGV/CGV-CHRONOPOST-fr.pdf",
+      "langue": "FR",
+      "pdf": true
+    },
+    "lend": {
+      "nom": "Collectors Financial Services, les prêts adossés aux objets déposés au PSA Vault",
+      "domaine": "collectors.com",
+      "url": "https://www.collectors.com/lending"
+    },
+    "kuma": {
+      "nom": "Kumamoto Nichinichi Shimbun, d’après Kyodo, « 自民、トレカ議連設立へ » (21 juillet 2026)",
+      "domaine": "kumanichi.com",
+      "url": "https://kumanichi.com/articles/2016013",
+      "langue": "JA"
+    },
+    "dex": {
+      "nom": "Dexerto, d’après Kyodo, le groupe de parlementaires japonais sur les cartes (22 juillet 2026)",
+      "domaine": "dexerto.com",
+      "url": "https://www.dexerto.com/gaming/japan-launches-taskforce-to-crack-down-on-trading-card-scalpers-and-fakes-3390001/"
+    },
+    "gendinfo": {
+      "nom": "Gendarmerie nationale, Gendinfo, « Vol avec violences de cartes Pokémon : les gendarmes bretons arrêtent les malfaiteurs » (2 févr. 2024)",
+      "domaine": "gendarmerie.interieur.gouv.fr",
+      "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/criminalite-organisee-et-enquetes/2024/vol-avec-violences-de-cartes-pokemon-les-gendarmes-bretons-arretent-les-malfaiteurs",
+      "langue": "FR",
+      "officielle": true
+    },
+    "scmp": {
+      "nom": "Kyodo, repris par le South China Morning Post, « Japan’s ruling party MPs form group to protect US$2.1 billion trading card market » (1er août 2026)",
+      "domaine": "scmp.com",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3362620/japans-ruling-party-mps-form-group-protect-us21-billion-trading-card-market"
+    }
+  }
+}
