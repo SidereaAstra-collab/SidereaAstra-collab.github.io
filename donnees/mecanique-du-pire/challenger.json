@@ -1,0 +1,880 @@
+{
+  "slug": "challenger",
+  "numero": "07",
+  "titre": "Challenger",
+  "sous_titre": "28 janvier 1986 : la veille, les ingénieurs avaient dit non",
+  "description": "Les sources de la vidéo de La mécanique du pire sur l’accident de la navette Challenger (28 janvier 1986), passage par passage.",
+  "verifie": "5 nov. 2026",
+  "mise_a_jour": "5 nov. 2026",
+  "avertissement": "Les citations de la vidéo sont traduites de l’anglais, et les températures converties des degrés Fahrenheit.",
+  "image_partage": "challenger.jpg",
+  "image_entete": "challenger.jpg",
+  "image_alt": "Miniature de la vidéo : « Tout est parti d’ici », la navette sur son pas de tir couvert de givre, la jonction de la fusée d’appoint cerclée de rouge.",
+  "titre_rapports": "Les documents d’époque",
+  "parties": [
+    {
+      "id": "video",
+      "numero": 1,
+      "nom": "Challenger",
+      "mise_en_ligne": "5 nov. 2026",
+      "youtube": "XRk9KTaSdRc",
+      "miniature": "challenger.jpg",
+      "note": "",
+      "passages": [
+        {
+          "t": "00:00",
+          "titre": "La veille au soir, puis 73 secondes",
+          "items": [
+            {
+              "texte": "27 janvier 1986, vers 23 h, heure de Floride : conférence téléphonique entre Thiokol (Utah), le centre Marshall de la NASA (Alabama) et le centre Kennedy.",
+              "sources": [
+                [
+                  "R5"
+                ],
+                [
+                  "W1"
+                ]
+              ]
+            },
+            {
+              "texte": "Les ingénieurs de Thiokol, fabricant des fusées d’appoint, déconseillent de lancer par grand froid ; leur direction les suit, puis se ravise après une demi-heure de pause.",
+              "sources": [
+                [
+                  "R5"
+                ]
+              ]
+            },
+            {
+              "texte": "28 janvier 1986, 11 h 38 : Challenger décolle par un froid inédit ; 73 secondes plus tard, elle se brise et ses sept membres d’équipage meurent.",
+              "sources": [
+                [
+                  "R3"
+                ]
+              ]
+            },
+            {
+              "texte": "En cause, une jonction mal conçue, au joint durci par le froid ; un défaut décrit par écrit dès 1977 et signalé jusqu’à la veille du lancement.",
+              "sources": [
+                [
+                  "R4"
+                ],
+                [
+                  "R6"
+                ],
+                [
+                  "R5"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:18",
+          "titre": "Une enseignante à bord",
+          "items": [
+            {
+              "texte": "La navette vole depuis avril 1981 ; après 9 vols en 1985, la NASA en prévoit 15 pour 1986.",
+              "sources": [
+                [
+                  "R8"
+                ],
+                [
+                  "W1"
+                ]
+              ]
+            },
+            {
+              "texte": "À bord, Christa McAuliffe, professeure dans le New Hampshire, choisie pour être la première enseignante dans l’espace (programme Teacher in Space).",
+              "sources": [
+                [
+                  "R2"
+                ],
+                [
+                  "W1"
+                ]
+              ]
+            },
+            {
+              "texte": "Deux cours prévus en direct depuis l’orbite ; de nombreux élèves doivent suivre le décollage en direct depuis leur école.",
+              "sources": [
+                [
+                  "R2"
+                ],
+                [
+                  "W1"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:43",
+          "titre": "La jonction et ses deux joints",
+          "items": [
+            {
+              "texte": "Deux fusées d’appoint de 45 m, fabriquées en tronçons par Thiokol dans l’Utah, acheminées en train et assemblées en Floride.",
+              "sources": [
+                [
+                  "W2"
+                ],
+                [
+                  "W1"
+                ],
+                [
+                  "R4"
+                ]
+              ]
+            },
+            {
+              "texte": "Entre deux tronçons, deux joints toriques en caoutchouc de 0,28 pouce, environ 7 mm ; le second doit servir de secours au premier.",
+              "sources": [
+                [
+                  "R4",
+                  "p. 57"
+                ],
+                [
+                  "W1"
+                ]
+              ]
+            },
+            {
+              "texte": "À l’allumage, la pression des gaz entrouvre la jonction ; le joint doit suivre en une fraction de seconde, et le froid lui fait perdre sa souplesse.",
+              "sources": [
+                [
+                  "R4",
+                  "p. 57-64"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:16",
+          "titre": "Un défaut connu depuis 1977",
+          "items": [
+            {
+              "texte": "Septembre 1977 : lors d’un essai, la jonction s’ouvre au lieu de se refermer, à l’inverse de ce que prévoyaient les calculs.",
+              "sources": [
+                [
+                  "R6"
+                ]
+              ]
+            },
+            {
+              "texte": "Octobre 1977, puis janvier 1979 : Leon Ray, ingénieur du centre Marshall, juge inacceptable de garder la conception telle quelle ; elle ne change pas.",
+              "sources": [
+                [
+                  "R6"
+                ]
+              ]
+            },
+            {
+              "texte": "Novembre 1981, après le deuxième vol (STS-2) : première érosion d’un joint principal constatée après un vol.",
+              "sources": [
+                [
+                  "R6"
+                ]
+              ]
+            },
+            {
+              "texte": "17 décembre 1982 : le second joint n’est plus jugé un secours fiable ; une défaillance coûterait la mission, la navette et l’équipage.",
+              "sources": [
+                [
+                  "R6"
+                ],
+                [
+                  "W1"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:58",
+          "titre": "Janvier 1985 : la graisse noircie",
+          "items": [
+            {
+              "texte": "24 janvier 1985 : Discovery (vol 51-C) décolle avec des joints à 12 °C (53 °F), le lancement le plus froid jusque-là.",
+              "sources": [
+                [
+                  "R6"
+                ],
+                [
+                  "aWiki51C"
+                ]
+              ]
+            },
+            {
+              "texte": "Sur les fusées repêchées, Roger Boisjoly trouve la graisse « noircie comme du charbon » ; pour Thiokol, le froid a aggravé la fuite, « pas souhaitable, mais acceptable ».",
+              "sources": [
+                [
+                  "R6"
+                ]
+              ]
+            },
+            {
+              "texte": "31 juillet 1985 : Boisjoly écrit à Bob Lund qu’une jonction défaillante serait « une catastrophe de la plus haute gravité, la perte de vies humaines ».",
+              "sources": [
+                [
+                  "E1"
+                ],
+                [
+                  "R6"
+                ]
+              ]
+            },
+            {
+              "texte": "1er octobre 1985 : le rapport de Bob Ebeling commence par « Au secours » ; l’équipe des joints est « retardée par tous les moyens possibles ».",
+              "sources": [
+                [
+                  "R6"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:54",
+          "titre": "« Vous voulez que je lance quand ? »",
+          "items": [
+            {
+              "texte": "27 janvier 1986, début d’après-midi : prévenu d’une nuit à −8 °C (18 °F), Bob Ebeling réunit les ingénieurs de Thiokol.",
+              "sources": [
+                [
+                  "R5"
+                ],
+                [
+                  "W1"
+                ]
+              ]
+            },
+            {
+              "texte": "Le soir, Bob Lund, vice-président chargé de l’ingénierie, conclut : pas de lancement sous 12 °C (53 °F), le minimum connu en vol.",
+              "sources": [
+                [
+                  "R5"
+                ],
+                [
+                  "R6"
+                ]
+              ]
+            },
+            {
+              "texte": "Larry Mulloy (Marshall) : « Vous voulez que je lance quand ? En avril prochain ? » ; George Hardy, consterné, ne veut pas lancer contre l’avis de Thiokol.",
+              "sources": [
+                [
+                  "R5"
+                ],
+                [
+                  "P5"
+                ]
+              ]
+            },
+            {
+              "texte": "Un vol par 24 °C (75 °F) avait aussi fui ; d’après Boisjoly, c’était cette fois aux ingénieurs de prouver que le vol n’était pas sûr.",
+              "sources": [
+                [
+                  "R5"
+                ],
+                [
+                  "P5"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:59",
+          "titre": "La demi-heure de Thiokol",
+          "items": [
+            {
+              "texte": "Vers 22 h 30, Thiokol demande cinq minutes hors ligne pour se concerter ; la pause dure une trentaine de minutes.",
+              "sources": [
+                [
+                  "R5"
+                ]
+              ]
+            },
+            {
+              "texte": "Arnie Thompson dessine encore la jonction devant les dirigeants ; Boisjoly ressort les photos des joints noircis.",
+              "sources": [
+                [
+                  "R5"
+                ]
+              ]
+            },
+            {
+              "texte": "Jerry Mason : il faut une décision de direction ; d’après Boisjoly, il demande à Bob Lund d’ôter sa casquette d’ingénieur pour celle de manager.",
+              "sources": [
+                [
+                  "R5"
+                ],
+                [
+                  "P5"
+                ]
+              ]
+            },
+            {
+              "texte": "Mason, Lund, Kilminster et Wiggins tranchent ; Boisjoly dit n’avoir « jamais été interrogé ni sondé ».",
+              "sources": [
+                [
+                  "R5"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:28",
+          "titre": "Le feu vert",
+          "items": [
+            {
+              "texte": "Vers 23 h, Thiokol reprend la ligne ; Joe Kilminster lit une conclusion écrite à la main : données sur le froid non concluantes, recommandation de lancer.",
+              "sources": [
+                [
+                  "R5"
+                ]
+              ]
+            },
+            {
+              "texte": "Télécopie vers 23 h 45 ; en Floride, Allan McDonald refuse de la signer, plaide encore pour un report et s’entend répondre que ce n’est pas son affaire.",
+              "sources": [
+                [
+                  "R5",
+                  "chronologie"
+                ],
+                [
+                  "P3"
+                ],
+                [
+                  "P4"
+                ]
+              ]
+            },
+            {
+              "texte": "Le soir, Bob Ebeling dit à sa femme que la navette va exploser ; dans la nuit, la glace se forme sur le pas de tir.",
+              "sources": [
+                [
+                  "P1"
+                ],
+                [
+                  "R2"
+                ]
+              ]
+            },
+            {
+              "texte": "Deux heures de retard, dont une pour la glace ; Rockwell, constructeur de la navette, « ne peut pas garantir » que le vol est sûr ; la NASA maintient.",
+              "sources": [
+                [
+                  "R2"
+                ],
+                [
+                  "H27"
+                ],
+                [
+                  "R5"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:20",
+          "titre": "Soixante-treize secondes",
+          "items": [
+            {
+              "texte": "11 h 38 : 2 °C (36 °F), plus de 8 °C de moins qu’à tout lancement précédent ; jonction en cause estimée vers −2 °C (28 °F ± 5).",
+              "sources": [
+                [
+                  "R3"
+                ],
+                [
+                  "R4",
+                  "conclusion 6a"
+                ]
+              ]
+            },
+            {
+              "texte": "À 0,678 seconde, une bouffée de fumée grise à la jonction ; colmatage, sans doute par de l’oxyde d’aluminium, que les vents violents dès 37 s ont pu défaire.",
+              "sources": [
+                [
+                  "R3"
+                ],
+                [
+                  "R4",
+                  "conclusion 16b"
+                ],
+                [
+                  "W1"
+                ]
+              ]
+            },
+            {
+              "texte": "Boisjoly regarde le lancement avec Ebeling, qui lui murmure qu’ils l’ont échappé belle, puis, vers 60 secondes, qu’il vient de finir une prière de remerciement.",
+              "sources": [
+                [
+                  "E2"
+                ]
+              ]
+            },
+            {
+              "texte": "Flamme à 58 s ; rupture du réservoir à 73 s, à Mach 1,92 et 14 km d’altitude ; la navette, brisée par la force de l’air.",
+              "sources": [
+                [
+                  "R3"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:31",
+          "titre": "L'équipage",
+          "items": [
+            {
+              "texte": "L’équipage : Dick Scobee, commandant ; Michael Smith, pilote ; Judith Resnik, Ellison Onizuka, Ronald McNair, Gregory Jarvis, Christa McAuliffe.",
+              "sources": [
+                [
+                  "R2"
+                ]
+              ]
+            },
+            {
+              "texte": "La cabine touche l’océan 2 min 45 s après la rupture ; trois des quatre réserves d’air retrouvées avaient été ouvertes ; cause de la mort non établie.",
+              "sources": [
+                [
+                  "N1"
+                ],
+                [
+                  "W1"
+                ]
+              ]
+            },
+            {
+              "texte": "Beaucoup d’élèves suivent le lancement en direct depuis leur école.",
+              "sources": [
+                [
+                  "W1"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:02",
+          "titre": "L'enquête",
+          "items": [
+            {
+              "texte": "3 février : Ronald Reagan crée la commission ; le 10, à huis clos, Larry Mulloy raconte la décision, et Allan McDonald révèle l’avis contraire des ingénieurs.",
+              "sources": [
+                [
+                  "RA"
+                ],
+                [
+                  "H10"
+                ],
+                [
+                  "P4"
+                ]
+              ]
+            },
+            {
+              "texte": "11 février, en public : Richard Feynman plonge dans l’eau glacée un bout de joint serré dans une pince ; il ne reprend pas tout de suite sa forme.",
+              "sources": [
+                [
+                  "H11",
+                  "p. 680"
+                ],
+                [
+                  "W3"
+                ],
+                [
+                  "P6"
+                ]
+              ]
+            },
+            {
+              "texte": "Juin 1986, rapport : la jonction de la fusée de droite a cédé ; « grave défaut » de décision, les décideurs ignorant l’histoire des joints et l’avis des ingénieurs.",
+              "sources": [
+                [
+                  "R4",
+                  "conclusion"
+                ],
+                [
+                  "R5",
+                  "conclusion 1"
+                ],
+                [
+                  "W3"
+                ]
+              ]
+            },
+            {
+              "texte": "Thiokol a changé d’avis sur l’insistance de Marshall, « pour satisfaire un client important » ; Feynman conclut son annexe : « on ne trompe pas la nature ».",
+              "sources": [
+                [
+                  "R5",
+                  "conclusion 4"
+                ],
+                [
+                  "RF"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "09:16",
+          "titre": "Ceux qui avaient prévenu",
+          "items": [
+            {
+              "texte": "Allan McDonald, rétrogradé par Thiokol ; après une résolution du représentant Edward Markey menaçant ses contrats avec la NASA, il est nommé vice-président chargé de refaire les joints.",
+              "sources": [
+                [
+                  "P3"
+                ],
+                [
+                  "P4"
+                ]
+              ]
+            },
+            {
+              "texte": "Roger Boisjoly, retiré des programmes spatiaux et mis à l’écart par ses collègues.",
+              "sources": [
+                [
+                  "W5"
+                ]
+              ]
+            },
+            {
+              "texte": "Bob Ebeling s’en veut trente ans ; en 2016, après un reportage de NPR, Bob Lund, qui avait approuvé le lancement, l’appelle : il a fait tout son possible.",
+              "sources": [
+                [
+                  "P1"
+                ],
+                [
+                  "P2"
+                ]
+              ]
+            },
+            {
+              "texte": "Ebeling meurt le 21 mars 2016, à 89 ans.",
+              "sources": [
+                [
+                  "P7"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "09:47",
+          "titre": "Après Challenger",
+          "items": [
+            {
+              "texte": "Retour en vol en septembre 1988, après 32 mois : jonctions redessinées, troisième joint ; la commission exige que l’information de sécurité remonte jusqu’aux décideurs.",
+              "sources": [
+                [
+                  "N2"
+                ],
+                [
+                  "W2"
+                ],
+                [
+                  "RV"
+                ]
+              ]
+            },
+            {
+              "texte": "1996 : pour la sociologue Diane Vaughan, pas de dirigeants cyniques, mais une décision conforme aux règles de la NASA.",
+              "sources": [
+                [
+                  "V1"
+                ],
+                [
+                  "V4"
+                ],
+                [
+                  "V3"
+                ]
+              ]
+            },
+            {
+              "texte": "Un danger devenu normal, chaque érosion des joints étant revenue sans accident : la « normalisation de la déviance ».",
+              "sources": [
+                [
+                  "V2"
+                ],
+                [
+                  "V1"
+                ]
+              ]
+            },
+            {
+              "texte": "1er février 2003 : Columbia se désintègre au retour, avec sept astronautes, dix-sept ans après Challenger ; les enquêteurs y trouvent des « échos de Challenger ».",
+              "sources": [
+                [
+                  "C2",
+                  "p. 6 et 21"
+                ],
+                [
+                  "C1"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rapports": [
+    {
+      "pays": "Commission Rogers",
+      "date": "6 juin 1986",
+      "nom": "Le rapport de la commission présidentielle",
+      "resume": "La cause technique (la jonction de la fusée de droite) et la cause liée aux décisions : la conférence de la veille, l’histoire des joints.",
+      "liens": [
+        [
+          "La cause",
+          "R4"
+        ],
+        [
+          "La décision",
+          "R5"
+        ],
+        [
+          "L’histoire des joints",
+          "R6"
+        ]
+      ]
+    },
+    {
+      "pays": "Roger Boisjoly, Thiokol",
+      "date": "31 juil. 1985",
+      "nom": "La note sur l’érosion des joints",
+      "resume": "Six mois avant l’accident, l’ingénieur prévient sa direction qu’une jonction qui cède serait une catastrophe.",
+      "liens": [
+        [
+          "Note",
+          "E1"
+        ]
+      ]
+    },
+    {
+      "pays": "Richard Feynman",
+      "date": "juin 1986",
+      "nom": "Observations personnelles sur la fiabilité de la navette",
+      "resume": "Son annexe au rapport, qui finit sur « on ne trompe pas la nature ».",
+      "liens": [
+        [
+          "Annexe F",
+          "RF"
+        ]
+      ]
+    },
+    {
+      "pays": "NASA, Joseph Kerwin",
+      "date": "28 juil. 1986",
+      "nom": "Le rapport sur l’équipage",
+      "resume": "La cabine, les réserves d’air ouvertes, et une cause de la mort qui n’a pas pu être établie.",
+      "liens": [
+        [
+          "Rapport",
+          "N1"
+        ]
+      ]
+    }
+  ],
+  "plus_loin": [],
+  "visuels": "Reconstitutions schématiques, faites pour la vidéo : la navette, la jonction en coupe et les documents sont redessinés, sans image d’archive ; les personnes sont dessinées au trait.",
+  "corrections": [],
+  "sources": {
+    "R2": {
+      "nom": "Commission Rogers, rapport, vol. 1, chap. II, « Events Leading Up to the Challenger Mission » (1986)",
+      "domaine": "nasa.gov",
+      "url": "https://www.nasa.gov/history/rogersrep/v1ch2.htm",
+      "officielle": true
+    },
+    "R3": {
+      "nom": "Commission Rogers, rapport, vol. 1, chap. III, « The Accident » (1986)",
+      "domaine": "nasa.gov",
+      "url": "https://www.nasa.gov/history/rogersrep/v1ch3.htm",
+      "officielle": true
+    },
+    "R4": {
+      "nom": "Commission Rogers, rapport, vol. 1, chap. IV, « The Cause of the Accident » (1986)",
+      "domaine": "nasa.gov",
+      "url": "https://www.nasa.gov/history/rogersrep/v1ch4.htm",
+      "officielle": true
+    },
+    "R5": {
+      "nom": "Commission Rogers, rapport, vol. 1, chap. V, « The Contributing Cause of the Accident » (1986)",
+      "domaine": "nasa.gov",
+      "url": "https://www.nasa.gov/history/rogersrep/v1ch5.htm",
+      "officielle": true
+    },
+    "R6": {
+      "nom": "Commission Rogers, rapport, vol. 1, chap. VI, « An Accident Rooted in History » (1986)",
+      "domaine": "nasa.gov",
+      "url": "https://www.nasa.gov/history/rogersrep/v1ch6.htm",
+      "officielle": true
+    },
+    "R8": {
+      "nom": "Commission Rogers, rapport, vol. 1, chap. VIII, « Pressures on the System » (1986)",
+      "domaine": "nasa.gov",
+      "url": "https://www.nasa.gov/history/rogersrep/v1ch8.htm",
+      "officielle": true
+    },
+    "E1": {
+      "nom": "R. Boisjoly, note du 31 juillet 1985, « SRM O-Ring Erosion/Potential Failure Criticality », Online Ethics Center",
+      "domaine": "onlineethics.org",
+      "url": "https://onlineethics.org/node/42891",
+      "officielle": true
+    },
+    "P5": {
+      "nom": "H. Berkes, « 40 years after Challenger, lingering guilt and lessons learned », GPB / NPR (25 janvier 2026)",
+      "domaine": "gpb.org",
+      "url": "https://www.gpb.org/news/2026/01/25/40-years-after-challenger-lingering-guilt-and-lessons-learned"
+    },
+    "W1": {
+      "nom": "Wikipédia, « Space Shuttle Challenger disaster »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster"
+    },
+    "W2": {
+      "nom": "Wikipédia, « Space Shuttle Solid Rocket Booster »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Solid_Rocket_Booster"
+    },
+    "aWiki51C": {
+      "nom": "Wikipédia, « STS-51-C »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/STS-51-C"
+    },
+    "RA": {
+      "nom": "Commission Rogers, rapport, vol. 1, annexe A, « Commission Activities » (1986)",
+      "domaine": "nasa.gov",
+      "url": "https://www.nasa.gov/history/rogersrep/v1appa.htm",
+      "officielle": true
+    },
+    "RF": {
+      "nom": "R. P. Feynman, « Personal Observations on Reliability of Shuttle », annexe F du rapport Rogers (1986)",
+      "domaine": "nasa.gov",
+      "url": "https://www.nasa.gov/history/rogersrep/v2appf.htm",
+      "officielle": true
+    },
+    "RV": {
+      "nom": "Commission Rogers, rapport, vol. 1, « Recommendations » (1986)",
+      "domaine": "nasa.gov",
+      "url": "https://www.nasa.gov/history/rogersrep/v1recomm.htm",
+      "officielle": true
+    },
+    "H10": {
+      "nom": "Commission Rogers, séance à huis clos du 10 février 1986, transcription",
+      "domaine": "nasa.gov",
+      "url": "https://www.nasa.gov/history/rogersrep/v4part3.htm",
+      "officielle": true
+    },
+    "H11": {
+      "nom": "Commission Rogers, audition publique du 11 février 1986, transcription",
+      "domaine": "nasa.gov",
+      "url": "https://www.nasa.gov/history/rogersrep/v4part4.htm",
+      "officielle": true
+    },
+    "H27": {
+      "nom": "Commission Rogers, audition du 27 février 1986 (la glace, Rockwell), transcription",
+      "domaine": "nasa.gov",
+      "url": "https://www.nasa.gov/history/rogersrep/v5part2.htm",
+      "officielle": true
+    },
+    "N1": {
+      "nom": "NASA, rapport de Joseph Kerwin sur l’équipage (28 juillet 1986)",
+      "domaine": "nasa.gov",
+      "url": "https://www.nasa.gov/missions/space-shuttle/sts-51l/challenger-crew-report",
+      "officielle": true
+    },
+    "N2": {
+      "nom": "NASA, « 35 Years Ago: STS-26 Returns the Space Shuttle to Flight »",
+      "domaine": "nasa.gov",
+      "url": "https://www.nasa.gov/history/35-years-ago-sts-26-returns-the-space-shuttle-to-flight",
+      "officielle": true
+    },
+    "C2": {
+      "nom": "Columbia Accident Investigation Board, rapport, vol. I (2003)",
+      "domaine": "nasa.gov",
+      "url": "https://www.nasa.gov/wp-content/uploads/static/history/columbia/reports/CAIBreportv1.pdf",
+      "officielle": true,
+      "pdf": true
+    },
+    "E2": {
+      "nom": "R. Boisjoly, « The Explosion of the Challenger », Online Ethics Center",
+      "domaine": "onlineethics.org",
+      "url": "https://onlineethics.org/node/42846"
+    },
+    "P1": {
+      "nom": "H. Berkes, « 30 Years After Explosion, Challenger Engineer Still Blames Himself », NPR (28 janvier 2016)",
+      "domaine": "npr.org",
+      "url": "https://www.npr.org/2016/01/28/464744781/30-years-after-explosion-challenger-engineer-still-blames-himself"
+    },
+    "P2": {
+      "nom": "« Your Letters Helped Challenger Shuttle Engineer Shed 30 Years Of Guilt », WGBH / NPR (25 février 2016)",
+      "domaine": "wgbh.org",
+      "url": "https://wgbh.org/news/2016-02-25/your-letters-helped-challenger-shuttle-engineer-shed-30-years-of-guilt"
+    },
+    "P7": {
+      "nom": "H. Berkes, « Challenger Engineer Who Warned Of Shuttle Disaster Dies », NPR (21 mars 2016), repris par Texas Public Radio",
+      "domaine": "tpr.org",
+      "url": "https://www.tpr.org/2016-03-21/challenger-engineer-who-warned-of-shuttle-disaster-dies"
+    },
+    "P3": {
+      "nom": "« Remembering Allan McDonald: He Refused To Approve Challenger Launch, Exposed Cover-Up », NPR (7 mars 2021)",
+      "domaine": "npr.org",
+      "url": "https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover"
+    },
+    "P4": {
+      "nom": "The Boston Globe, « Allan McDonald dies at 83; tried to stop the Challenger launch » (10 mars 2021)",
+      "domaine": "bostonglobe.com",
+      "url": "https://www.bostonglobe.com/2021/03/10/metro/allan-mcdonald-dies-83-tried-stop-challenger-launch"
+    },
+    "P6": {
+      "nom": "Nautilus, « How Richard Feynman Found the Root of the Challenger Disaster »",
+      "domaine": "nautil.us",
+      "url": "https://nautil.us/how-richard-feynman-found-the-root-of-the-challenger-disaster-1264270/"
+    },
+    "W3": {
+      "nom": "Wikipédia, « Rogers Commission Report »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Rogers_Commission_Report"
+    },
+    "W5": {
+      "nom": "Wikipédia, « Roger Boisjoly »",
+      "domaine": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Roger_Boisjoly"
+    },
+    "V1": {
+      "nom": "D. Vaughan, The Challenger Launch Decision (University of Chicago Press, 1996 ; éd. augmentée 2016)",
+      "domaine": "press.uchicago.edu",
+      "url": "https://www.press.uchicago.edu/ucp/books/book/chicago/C/bo22781921.html"
+    },
+    "V2": {
+      "nom": "The Field Guide, fiche de lecture de D. Vaughan, The Challenger Launch Decision (1996)",
+      "domaine": "explore.psychsafety.com",
+      "url": "https://explore.psychsafety.com/n/vaughan-1996/"
+    },
+    "V3": {
+      "nom": "Columbia Magazine, « How the Challenger Disaster Became a Case Study of the ‘Normalization of Deviance’ »",
+      "domaine": "magazine.columbia.edu",
+      "url": "https://magazine.columbia.edu/article/challenger-disaster-normalization-deviance"
+    },
+    "V4": {
+      "nom": "W. Hale, blog sur SpaceNews (31 janvier 2013), citations du livre de D. Vaughan",
+      "domaine": "spacenews.com",
+      "url": "https://spacenews.com/?p=12281"
+    },
+    "C1": {
+      "nom": "AP, « Investigators find ‘echoes’ of previous shuttle disaster », Lawrence Journal-World (27 août 2003)",
+      "domaine": "ljworld.com",
+      "url": "https://www2.ljworld.com/news/2003/aug/27/investigators_find_echoes/"
+    }
+  }
+}
