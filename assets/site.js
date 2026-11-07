@@ -84,3 +84,104 @@
   });
   fromHash(true);
 })();
+
+/* Lecteur sur la page : rien n'est chargé depuis YouTube avant le clic sur « Regarder ici ».
+   Le lecteur est celui de youtube-nocookie.com (confidentialité renforcée), sans lecture automatique :
+   c'est le bouton de lecture du lecteur qui lance la vidéo, ce qui la compte comme une vue sur YouTube.
+   Quand il est ouvert, « Revoir ce passage » avance le lecteur au bon moment au lieu d'ouvrir YouTube :
+   par le lecteur lui-même (seekTo) si la lecture a déjà été lancée, sinon en le rechargeant calé sur le passage,
+   pour que la lecture parte toujours du bouton de YouTube (une lecture lancée par le script ne compte pas). */
+(function () {
+  "use strict";
+  var boutons = Array.prototype.slice.call(document.querySelectorAll(".btn-voir"));
+  if (!boutons.length || !window.postMessage) { return; }
+  var ORIGINE = "https://www.youtube-nocookie.com";
+  var lecteur = null, cadre = null, titre = null, actuel = null;
+
+  function creer() {
+    lecteur = document.createElement("div");
+    lecteur.className = "lecteur";
+    lecteur.setAttribute("role", "region");
+    lecteur.setAttribute("aria-label", "Lecteur de la vidéo");
+    var barre = document.createElement("div");
+    barre.className = "lecteur-barre";
+    titre = document.createElement("span");
+    titre.className = "lecteur-titre";
+    var fermer = document.createElement("button");
+    fermer.type = "button";
+    fermer.className = "lecteur-fermer";
+    fermer.textContent = "Fermer";
+    fermer.addEventListener("click", fermerLecteur);
+    barre.appendChild(titre);
+    barre.appendChild(fermer);
+    cadre = document.createElement("div");
+    cadre.className = "lecteur-cadre";
+    lecteur.appendChild(barre);
+    lecteur.appendChild(cadre);
+    document.body.appendChild(lecteur);
+  }
+
+  function charger(id, t, nom) {
+    if (!lecteur) { creer(); }
+    var f = document.createElement("iframe");
+    f.src = ORIGINE + "/embed/" + encodeURIComponent(id) + "?enablejsapi=1&rel=0&playsinline=1&origin=" +
+      encodeURIComponent(window.location.origin) + (t > 0 ? "&start=" + t : "");
+    f.title = nom + " (lecteur YouTube)";
+    f.setAttribute("allow", "encrypted-media; picture-in-picture; fullscreen");
+    f.setAttribute("allowfullscreen", "");
+    f.setAttribute("referrerpolicy", "strict-origin-when-cross-origin");
+    cadre.innerHTML = "";
+    cadre.appendChild(f);
+    titre.textContent = nom;
+    actuel = { id: id, cadre: f, lance: false };
+    f.addEventListener("load", function () {
+      // Demande au lecteur d'envoyer son état (lecture, pause…) à la page.
+      if (f.contentWindow) { f.contentWindow.postMessage(JSON.stringify({ event: "listening", id: 1, channel: "widget" }), ORIGINE); }
+    });
+    lecteur.hidden = false;
+    document.body.classList.add("avec-lecteur");
+    boutons.forEach(function (b) { b.setAttribute("aria-pressed", b.getAttribute("data-video") === id ? "true" : "false"); });
+  }
+
+  function commande(func, args) {
+    if (actuel && actuel.cadre.contentWindow) {
+      actuel.cadre.contentWindow.postMessage(JSON.stringify({ event: "command", func: func, args: args || [] }), ORIGINE);
+    }
+  }
+
+  function fermerLecteur() {
+    cadre.innerHTML = "";
+    actuel = null;
+    lecteur.hidden = true;
+    document.body.classList.remove("avec-lecteur");
+    boutons.forEach(function (b) { b.setAttribute("aria-pressed", "false"); });
+  }
+
+  window.addEventListener("message", function (ev) {
+    if (ev.origin !== ORIGINE || !actuel || ev.source !== actuel.cadre.contentWindow) { return; }
+    var d = null;
+    try { d = typeof ev.data === "string" ? JSON.parse(ev.data) : ev.data; } catch (e) { return; }
+    if (!d) { return; }
+    var etat = d.event === "onStateChange" ? d.info : (d.info && typeof d.info.playerState === "number" ? d.info.playerState : null);
+    if (etat === 1 || etat === 2 || etat === 3) { actuel.lance = true; } // lecture, pause, chargement : la lecture a commencé
+  });
+
+  boutons.forEach(function (b) {
+    b.hidden = false;
+    b.setAttribute("aria-pressed", "false");
+    b.addEventListener("click", function () {
+      var id = b.getAttribute("data-video");
+      if (actuel && actuel.id === id) { fermerLecteur(); return; }
+      charger(id, 0, b.getAttribute("data-titre"));
+    });
+  });
+
+  document.addEventListener("click", function (ev) {
+    var a = ev.target.closest ? ev.target.closest("a.again[data-video]") : null;
+    if (!a || !actuel) { return; }
+    ev.preventDefault();
+    var t = parseInt(a.getAttribute("data-t"), 10) || 0;
+    if (actuel.id === a.getAttribute("data-video") && actuel.lance) { commande("seekTo", [t, true]); }
+    else { charger(a.getAttribute("data-video"), t, a.getAttribute("data-titre")); }
+  });
+})();

@@ -43,7 +43,8 @@
 <div class="bar">
 <p>{% if p.note %}{{ p.note[:1]|upper }}{{ p.note[1:] }}.{% endif %}</p>
 <div class="bar-act">
-<a href="https://www.youtube.com/watch?v={{ p.youtube }}" rel="noopener">Regarder la vidéo</a>
+<button type="button" class="btn-voir" data-video="{{ p.youtube }}" data-titre="{{ p.nom }}" hidden>Regarder ici</button>
+<a href="https://www.youtube.com/watch?v={{ p.youtube }}" rel="noopener">Regarder sur YouTube</a>
 <button type="button" class="btn-all" hidden>Tout ouvrir</button>
 </div>
 </div>
@@ -64,7 +65,7 @@
 {% endfor %}</ul>
 </div>
 {% endfor %}{% if s.nuances %}<div class="nuance">{% for x in s.nuances %}<p>{% if loop.first %}<strong>Nuance.</strong> {% endif %}{{ x }}</p>{% endfor %}</div>
-{% endif %}<a class="again" href="https://youtu.be/{{ p.youtube }}?t={{ s.secondes }}" rel="noopener"><svg class="ico" width="8" height="10" viewBox="0 0 8 10" aria-hidden="true"><path d="M0.5 0.8L7.5 5L0.5 9.2Z" fill="currentColor"/></svg>Revoir ce passage à {{ s.t }}</a>
+{% endif %}<a class="again" href="https://youtu.be/{{ p.youtube }}?t={{ s.secondes }}" data-video="{{ p.youtube }}" data-titre="{{ p.nom }}" data-t="{{ s.secondes }}" rel="noopener"><svg class="ico" width="8" height="10" viewBox="0 0 8 10" aria-hidden="true"><path d="M0.5 0.8L7.5 5L0.5 9.2Z" fill="currentColor"/></svg>Revoir ce passage à {{ s.t }}</a>
 </div>
 </details>
 {% endfor %}
