@@ -12,7 +12,10 @@
 {% if d.suivi %}<p class="signal-maj"><a href="#mise-a-jour">{{ d.suivi.titre }}</a></p>{% endif %}
 {% if d.nb_corrections %}<p class="signal-corr"><a href="#corrections">{{ 'Une correction' if d.nb_corrections == 1 else d.nb_corrections ~ ' corrections' }} depuis la mise en ligne</a></p>{% endif %}
 </div>
-{% if d.illustration %}<img class="hero-art" src="/assets/img/{{ d.illustration }}" alt="{{ d.image_alt }}" width="1072" height="480">{% elif d.image_entete %}<img class="hero-img" src="/assets/img/{{ d.image_entete }}" alt="{{ d.image_alt }}" width="960" height="540">{% endif %}
+{% if d.illustration %}<img class="hero-art" src="/assets/img/{{ d.illustration }}" alt="{{ d.image_alt }}" width="1072" height="480">{% elif d.image_entete and d.parties|length == 1 %}{% set p0 = d.parties[0] %}<div class="hero-video" data-video="{{ p0.youtube }}" data-titre="{{ p0.nom }}">
+<div class="hero-cadre"><a class="hero-lien" href="https://www.youtube.com/watch?v={{ p0.youtube }}" rel="noopener"><img class="hero-img" src="/assets/img/{{ d.image_entete }}" alt="{{ d.image_alt }}" width="960" height="540"></a></div>
+<p class="hero-legende"><a class="hero-lire" href="https://www.youtube.com/watch?v={{ p0.youtube }}" rel="noopener"><svg width="8" height="10" viewBox="0 0 8 10" aria-hidden="true"><path d="M0.5 0.8L7.5 5L0.5 9.2Z" fill="currentColor"/></svg>Regarder la vidéo</a></p>
+</div>{% elif d.image_entete %}<img class="hero-img" src="/assets/img/{{ d.image_entete }}" alt="{{ d.image_alt }}" width="960" height="540">{% endif %}
 </section>
 
 {% if d.suivi %}<section id="mise-a-jour" class="wrap suivi" aria-labelledby="suivi-titre">

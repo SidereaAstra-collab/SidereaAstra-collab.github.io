@@ -153,18 +153,30 @@ img { max-width: 100%; }
 .btn-voir[hidden] { display: none; }
 .btn-voir[aria-pressed="true"] { color: var(--papier); }
 
-/* Lecteur sur la page, ouvert par « Regarder ici » : il reste en bas à droite pendant la lecture des sources. */
-.lecteur { position: fixed; right: 24px; bottom: 24px; z-index: 50; width: 400px; background: var(--nuit-3); border: 1px solid var(--trait); }
+/* La miniature en tête de page : un clic charge le lecteur à sa place (sans JavaScript, le lien mène à YouTube). */
+.hero-video { flex: 1 1 360px; min-width: 0; width: 100%; max-width: 448px; }
+.hero-cadre { position: relative; aspect-ratio: 16 / 9; }
+.hero-video .hero-img { max-width: none; height: 100%; }
+.hero-lien { display: block; height: 100%; }
+.hero-legende { margin: 10px 0 0; font-size: 15px; }
+.hero-lire { display: inline-flex; align-items: center; gap: 9px; min-height: 36px; }
+.hero-video.actif .hero-lien, .hero-video.actif .hero-legende { visibility: hidden; }
+
+/* Le lecteur : à la place de la miniature, ou détaché en bas à droite pendant qu'on lit les sources. */
+.lecteur { position: absolute; inset: 0; z-index: 50; background: #000; }
 .lecteur[hidden] { display: none; }
-.lecteur-barre { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 0 4px 0 14px; font-size: 14px; color: var(--gris); }
+.lecteur-barre { display: none; }
+.lecteur-cadre { width: 100%; height: 100%; background: #000; }
+.lecteur-cadre iframe { display: block; width: 100%; height: 100%; border: 0; }
+.lecteur.flottant { position: fixed; inset: auto 24px 24px auto; width: 400px; background: var(--nuit-3); border: 1px solid var(--trait); }
+.lecteur.flottant .lecteur-barre { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 0 4px 0 14px; font-size: 14px; color: var(--gris); }
+.lecteur.flottant .lecteur-cadre { height: auto; aspect-ratio: 16 / 9; }
 .lecteur-titre { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .lecteur-fermer { flex: none; min-height: 40px; padding: 0 10px; border: 0; background: none; color: var(--papier-2); font: inherit; cursor: pointer; }
 .lecteur-fermer:hover { color: var(--papier); text-decoration: underline; text-underline-offset: 3px; }
-.lecteur-cadre { aspect-ratio: 16 / 9; background: #000; }
-.lecteur-cadre iframe { display: block; width: 100%; height: 100%; border: 0; }
-body.avec-lecteur { padding-bottom: 300px; }
-/* Sur un grand écran, la page se décale à gauche pour que le lecteur ne cache pas les sources. */
-@media (min-width: 1400px) { body.avec-lecteur .wrap { margin-left: calc((100vw - 960px - 424px) / 2); margin-right: 0; } }
+body.lecteur-flottant { padding-bottom: 300px; }
+/* Sur un grand écran, la page se décale à gauche pour que le lecteur détaché ne cache pas les sources. */
+@media (min-width: 1400px) { body.lecteur-flottant .wrap { margin-left: calc((100vw - 960px - 424px) / 2); margin-right: 0; } }
 
 /* Un passage (menu déroulant) */
 .pas { border-bottom: 1px solid var(--trait); }
@@ -314,9 +326,10 @@ span.src .src-n { color: var(--papier); }
 
 /* Téléphone */
 @media (max-width: 640px) {
-  .lecteur { left: 0; right: 0; bottom: 0; width: auto; border-width: 1px 0 0; }
-  .lecteur-cadre { aspect-ratio: auto; height: max(200px, 56.25vw); }
-  body.avec-lecteur { padding-bottom: calc(max(200px, 56.25vw) + 48px); }
+  .hero-video { flex-basis: 100%; max-width: none; }
+  .lecteur.flottant { inset: auto 0 0 0; width: auto; border-width: 1px 0 0; }
+  .lecteur.flottant .lecteur-cadre { aspect-ratio: auto; height: max(200px, 56.25vw); }
+  body.lecteur-flottant { padding-bottom: calc(max(200px, 56.25vw) + 48px); }
   .wrap { padding-left: 16px; padding-right: 16px; }
   .brand-name, .brand-plain { font-size: 18px; }
   .t-cc .brand-name { font-size: 20px; }
@@ -362,7 +375,7 @@ span.src .src-n { color: var(--papier); }
 }
 
 @media print {
-  .lecteur, .btn-voir { display: none !important; }
+  .lecteur, .btn-voir, .hero-legende { display: none !important; }
   .top, .picker, .bar-act, .foot, .hero-art, .chev { display: none !important; }
   body { background: #fff; color: #000; }
   .part[hidden] { display: block; }

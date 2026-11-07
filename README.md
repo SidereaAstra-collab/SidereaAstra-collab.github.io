@@ -42,4 +42,4 @@ Dans le fichier du dossier, liste `corrections` :
 - Une partie : `/mecanique-du-pire/titan/#partie-2`
 - Un passage : `/mecanique-du-pire/titan/#p2-04-12` (partie 2, 04:12), qui s'ouvre tout seul.
 
-Polices (Newsreader, Inter, EB Garamond) auto-hébergées sous licence SIL Open Font License (voir `assets/fonts`). Aucun cookie, aucune mesure d'audience. Le lecteur YouTube (youtube-nocookie.com) ne se charge que sur un clic sur « Regarder ici » (`assets/site.js`), sans lecture automatique pour que la vue compte.
+Polices (Newsreader, Inter, EB Garamond) auto-hébergées sous licence SIL Open Font License (voir `assets/fonts`). Aucun cookie, aucune mesure d'audience. Le lecteur YouTube (youtube-nocookie.com) ne se charge que sur un clic sur la miniature en tête de page ou sur « Regarder ici » (`assets/site.js`), sans lecture automatique pour que la vue compte.
