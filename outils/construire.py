@@ -43,7 +43,7 @@ def secondes(t):
     return s
 
 
-LANGUES = {"EN": "en anglais", "FR": "", "DE": "en allemand", "ES": "en espagnol", "IT": "en italien", "JA": "en japonais", "KO": "en coréen", "NL": "en néerlandais", "PT": "en portugais"}
+LANGUES = {"EN": "en anglais", "FR": "", "DE": "en allemand", "ES": "en espagnol", "IT": "en italien", "JA": "en japonais", "KO": "en coréen", "NL": "en néerlandais", "PT": "en portugais", "RO": "en roumain"}
 
 
 MILLIERS = re.compile(r"(?<=\d) (?=\d{3}(?!\d))")
