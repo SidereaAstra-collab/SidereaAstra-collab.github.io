@@ -46,6 +46,20 @@ def secondes(t):
 LANGUES = {"EN": "en anglais", "FR": "", "DE": "en allemand", "ES": "en espagnol", "IT": "en italien", "JA": "en japonais", "KO": "en coréen", "NL": "en néerlandais", "PT": "en portugais"}
 
 
+MILLIERS = re.compile(r"(?<=\d) (?=\d{3}(?!\d))")
+
+
+def insecables(x, cle=None):
+    """« 1 099 » ne se coupe pas en fin de ligne : l'espace des milliers devient insécable (pas dans les adresses)."""
+    if isinstance(x, dict):
+        return {k: insecables(v, k) for k, v in x.items()}
+    if isinstance(x, list):
+        return [insecables(v, cle) for v in x]
+    if isinstance(x, str) and cle not in ("url", "domaine", "youtube", "slug", "miniature", "illustration"):
+        return MILLIERS.sub("\u00a0", x)
+    return x
+
+
 def minutage(t):
     """« 05:54 » devient « 5:54 », comme sur YouTube."""
     return t[1:] if len(t) == 5 and t[0] == "0" else t
@@ -156,7 +170,7 @@ def main():
         c["liste"] = []
         for slug in c["dossiers"]:
             fichier = os.path.join(DONNEES, c["slug"], slug + ".json")
-            d = lire(fichier)
+            d = insecables(lire(fichier))
             d["_fichier"] = fichier
             erreurs += preparer_dossier(d, c, site)
             c["liste"].append(d)

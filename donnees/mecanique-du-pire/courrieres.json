@@ -1,0 +1,832 @@
+{
+  "slug": "courrieres",
+  "numero": "08",
+  "titre": "Courrières",
+  "sous_titre": "10 mars 1906 : un coup de poussières, 1 099 morts, et treize rescapés vingt jours plus tard",
+  "description": "Les sources de la vidéo de La mécanique du pire sur la catastrophe de Courrières (10 mars 1906), passage par passage.",
+  "verifie": "11 nov. 2026",
+  "mise_a_jour": "11 nov. 2026",
+  "avertissement": "La source principale est le rapport officiel de l’ingénieur des mines Heurteau (Annales des mines, 1907), cité par ses pages imprimées.",
+  "image_partage": "courrieres.jpg",
+  "image_entete": "courrieres.jpg",
+  "image_alt": "Miniature de la vidéo : « Une mine réputée sûre », le chevalement et le bâtiment d’une fosse en briques d’où sort une fumée noire.",
+  "titre_rapports": "Le rapport officiel",
+  "parties": [
+    {
+      "id": "video",
+      "numero": 1,
+      "nom": "Courrières",
+      "mise_en_ligne": "11 nov. 2026",
+      "youtube": "snS68J0TZMg",
+      "miniature": "courrieres.jpg",
+      "note": "",
+      "passages": [
+        {
+          "t": "00:00",
+          "titre": "Samedi 10 mars 1906",
+          "items": [
+            {
+              "texte": "10 mars 1906, au petit matin, près de Lens : une explosion ravage trois fosses de la Compagnie de Courrières ; de la fumée noire sort des puits.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 317"
+                ],
+                [
+                  "heurteau",
+                  "p. 339-342"
+                ]
+              ]
+            },
+            {
+              "texte": "1 099 morts ; la pire catastrophe minière qu’ait connue l’Europe, dépassée seulement en 1942, en Mandchourie.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 317"
+                ],
+                [
+                  "universalis"
+                ],
+                [
+                  "aWikiFr"
+                ]
+              ]
+            },
+            {
+              "texte": "Un feu muré depuis plus de trois jours ; accusé dès le premier jour, il est mis hors de cause par l’enquête, qui ne trouve pas la cause de départ.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 336-338"
+                ],
+                [
+                  "heurteau",
+                  "p. 400 et 425-426"
+                ],
+                [
+                  "heurteau",
+                  "annexe B, p. 485"
+                ]
+              ]
+            },
+            {
+              "texte": "30 mars, vingt jours après : treize mineurs qu’on croyait morts arrivent au fond du puits n° 2.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 353"
+                ],
+                [
+                  "heurteau",
+                  "annexe A, p. 447"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "00:48",
+          "titre": "Le feu de la veine Cécile",
+          "items": [
+            {
+              "texte": "Mardi 6 mars, 22 h : un feu dans des bois en « pourriture sèche » de la veine Cécile, fosse 3, vers 300 m de fond.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 335-336"
+                ]
+              ]
+            },
+            {
+              "texte": "Estoupées de terre et de pierres, barrages de pierre et de brique pour étouffer le feu ; le dernier, en maçonnerie, est fermé le vendredi 9.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 336-338"
+                ],
+                [
+                  "heurteau",
+                  "annexe A, p. 449"
+                ]
+              ]
+            },
+            {
+              "texte": "Samedi matin, environ 1 700 hommes au fond des trois fosses : 1 664 descentes aux registres, environ 1 780 selon la commission d’enquête.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 358"
+                ],
+                [
+                  "heurteau",
+                  "annexe A, p. 447"
+                ]
+              ]
+            },
+            {
+              "texte": "L’ingénieur principal de la compagnie, Petitjean, remonte d’une inspection des barrages ; au pied de l’escalier du moulinage, un ouvrier le rappelle en criant.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 339"
+                ],
+                [
+                  "heurteau",
+                  "annexe A, p. 449"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:36",
+          "titre": "Une mine réputée sûre",
+          "items": [
+            {
+              "texte": "La compagnie tient son nom de la commune de son premier puits ; ses fosses 2, 3 et 4 sont à Billy-Montigny, Méricourt et Sallaumines.",
+              "sources": [
+                [
+                  "aChm"
+                ],
+                [
+                  "aWikiFr"
+                ]
+              ]
+            },
+            {
+              "texte": "Des fosses « réputées parmi les plus sûres » d’un bassin qu’on estimait « l’un des moins dangereux ».",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 317"
+                ]
+              ]
+            },
+            {
+              "texte": "Depuis 1897, sous le directeur Auguste Lavaurs : des puits moins nombreux et plus profonds, une ventilation améliorée.",
+              "sources": [
+                [
+                  "universalis"
+                ]
+              ]
+            },
+            {
+              "texte": "Le danger surveillé, le grisou, impose lampes de sûreté et explosifs spéciaux ; ici, aucun quartier classé grisouteux : lampes à feu nu presque partout.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 334-335"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:34",
+          "titre": "La poussière de charbon",
+          "items": [
+            {
+              "texte": "Le vrai danger : la poussière de charbon des galeries, un danger « jusque-là discuté ou méconnu ».",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 317"
+                ],
+                [
+                  "heurteau",
+                  "p. 426"
+                ]
+              ]
+            },
+            {
+              "texte": "En France, les explosions de poussières sans grisou ne dépassaient pas 50 à 80 m ; 180 m au plus, à Decize, le 18 février 1890.",
+              "sources": [
+                [
+                  "heurteau",
+                  "annexe B, p. 486"
+                ]
+              ]
+            },
+            {
+              "texte": "Pour l’historien Denis Varaschin, la ventilation améliorée de la compagnie favorisait les dépôts de poussières.",
+              "sources": [
+                [
+                  "universalis"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:08",
+          "titre": "Trois fosses reliées",
+          "items": [
+            {
+              "texte": "Trois fosses alignées, à 1 300 m et 1 200 m l’une de l’autre ; des travaux sur 3 km, dans les mêmes veines.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 318-319"
+                ]
+              ]
+            },
+            {
+              "texte": "Un grand étage d’abatage et de roulage, presque de niveau, d’un bout à l’autre ; des champs d’exploitation qui « communiquaient largement ».",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 321"
+                ],
+                [
+                  "heurteau",
+                  "annexe B, p. 485"
+                ]
+              ]
+            },
+            {
+              "texte": "Ces communications servent à l’aérage et doivent assurer la sortie du personnel en cas d’accident à l’une des fosses.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 321"
+                ],
+                [
+                  "heurteau",
+                  "annexe B, p. 486"
+                ]
+              ]
+            },
+            {
+              "texte": "Le puits 3 fait entrer l’air vers les fosses 2 et 4 ; une partie ressort par le goyot, compartiment du même puits fermé de cloisons « en fortes planches ».",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 321-323"
+                ],
+                [
+                  "heurteau",
+                  "annexe A, p. 449"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:45",
+          "titre": "Un coup de canon",
+          "items": [
+            {
+              "texte": "Entre 6 h 30 et 6 h 45 : au puits 3, l’ingénieur se retourne et voit une fumée noire sortir du bâtiment du puits.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 339"
+                ]
+              ]
+            },
+            {
+              "texte": "Le ventilateur aspire de l’air frais : le goyot est détruit, et l’aérage « complètement désorganisé ».",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 340"
+                ],
+                [
+                  "heurteau",
+                  "annexe B, p. 486"
+                ]
+              ]
+            },
+            {
+              "texte": "Au puits 4, à 1,2 km, quatre ouvriers qui réparent le cuvelage entendent « comme un coup de canon », puis une violente chasse d’air.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 342"
+                ],
+                [
+                  "heurteau",
+                  "p. 319"
+                ]
+              ]
+            },
+            {
+              "texte": "Au puits 2, rien de visible en surface sur le moment.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 346"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:10",
+          "titre": "Le coup de poussières",
+          "items": [
+            {
+              "texte": "Le souffle soulève la poussière déposée ; la flamme qui suit l’enflamme, et le phénomène se reproduit de proche en proche.",
+              "sources": [
+                [
+                  "inrs",
+                  "p. 5"
+                ]
+              ]
+            },
+            {
+              "texte": "Au départ, une explosion « peu importante », prolongée et renforcée par l’inflammation des poussières de toutes les voies sinistrées.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 426"
+                ]
+              ]
+            },
+            {
+              "texte": "La flamme suit les voies de roulage, s’arrête souvent sur des parties humides ou sans poussière, et passe du n° 3 au n° 4 par la veine Joséphine.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 380"
+                ],
+                [
+                  "heurteau",
+                  "p. 431-434"
+                ]
+              ]
+            },
+            {
+              "texte": "110 km de galeries balayés par l’explosion ou par ses gaz.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 317"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:52",
+          "titre": "Les gaz",
+          "items": [
+            {
+              "texte": "Les galeries envahies par l’oxyde de carbone ; sans goyot, aérage trop faible : beaucoup meurent asphyxiés en cherchant à fuir.",
+              "sources": [
+                [
+                  "heurteau",
+                  "annexe A, p. 480"
+                ],
+                [
+                  "heurteau",
+                  "annexe B, p. 485"
+                ]
+              ]
+            },
+            {
+              "texte": "La fosse 3 perd les neuf dixièmes de son effectif : 429 disparus sur 482 descendus.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 358-360"
+                ]
+              ]
+            },
+            {
+              "texte": "Le 10 mars, 565 ouvriers sauvés selon le rapport, 670 remontés par les fosses 10 et 11 selon la commission d’enquête.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 358"
+                ],
+                [
+                  "heurteau",
+                  "annexe A, p. 447"
+                ]
+              ]
+            },
+            {
+              "texte": "Le puits 3, obstrué de débris à partir de 50 m ; déblayé seulement du 7 janvier au 18 février 1907.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 340 et 355-357"
+                ],
+                [
+                  "heurteau",
+                  "annexe B, p. 491"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:25",
+          "titre": "Le sauvetage",
+          "items": [
+            {
+              "texte": "Le 10 au matin, l’ingénieur en chef des mines Léon prend la direction du sauvetage ; les ouvriers de la mine n’ont pas d’appareils respiratoires.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 341"
+                ],
+                [
+                  "heurteau",
+                  "annexe A, p. 456-457"
+                ],
+                [
+                  "fontaine"
+                ]
+              ]
+            },
+            {
+              "texte": "12 mars : arrivée des sauveteurs westphaliens, avec leurs appareils Shamrock ; l’arrêté du 15 avril 1907 impose ces appareils dans toutes les mines de combustible.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 352 et 443"
+                ],
+                [
+                  "universalis"
+                ]
+              ]
+            },
+            {
+              "texte": "Le feu de Cécile pèse « sur toutes les décisions » ; nuit du 11 au 12 : l’inspecteur général Delafond fait renverser l’aérage, l’air frais dans le dos.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 351-352"
+                ],
+                [
+                  "heurteau",
+                  "annexe A, p. 455"
+                ],
+                [
+                  "heurteau",
+                  "annexe B, p. 490"
+                ]
+              ]
+            },
+            {
+              "texte": "Tout le monde admet alors l’absence de survivants à la fosse 3 ; une minorité de la commission juge que le renversement a pu vicier l’air ; nouveaux feux, barrages.",
+              "sources": [
+                [
+                  "heurteau",
+                  "annexe A, p. 470"
+                ],
+                [
+                  "heurteau",
+                  "annexe A, p. 466-467"
+                ],
+                [
+                  "heurteau",
+                  "annexe A, p. 457-459"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:23",
+          "titre": "Les treize rescapés",
+          "items": [
+            {
+              "texte": "Le 30 mars, à 8 h, les treize « rescapés » de la fosse 3 ; leurs quartiers, épargnés un temps par les gaz grâce à l’arrêt de l’aérage.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 353 et 374"
+                ],
+                [
+                  "bPdc"
+                ]
+              ]
+            },
+            {
+              "texte": "Une source, de l’avoine trouvée à l’écurie, un cheval abattu ; des appels sur les tuyaux, puis l’arrivée de Henri Nény, blessé à la jambe, et du galibot Victor Martin.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 368-370"
+                ]
+              ]
+            },
+            {
+              "texte": "Les trois derniers les rejoignent au seizième ou dix-septième jour ; ils évitent les barrages du feu et sortent par la galerie Julie, rouverte à l’air la veille.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 369-370"
+                ],
+                [
+                  "heurteau",
+                  "annexe A, p. 459"
+                ]
+              ]
+            },
+            {
+              "texte": "Dans le bassin, leur retour sonne comme la « preuve » qu’on pouvait sauver d’autres vies ; l’avis officiel de 1907 attribue leur salut au renversement de l’aérage.",
+              "sources": [
+                [
+                  "bRetronews"
+                ],
+                [
+                  "heurteau",
+                  "annexe B, p. 491"
+                ]
+              ]
+            },
+            {
+              "texte": "Le 4 avril, un quatorzième « rescapé », Auguste Berthon, est retrouvé à la fosse 4 ; Charles Pruvost et Henri Nény reçoivent la Légion d’honneur.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 353"
+                ],
+                [
+                  "aWikiFr"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:35",
+          "titre": "La grève",
+          "items": [
+            {
+              "texte": "La grève gagne le bassin du Nord et du Pas-de-Calais : près de 60 000 grévistes au plus fort du mouvement.",
+              "sources": [
+                [
+                  "bPdc"
+                ],
+                [
+                  "bRetronews"
+                ],
+                [
+                  "fontaine"
+                ]
+              ]
+            },
+            {
+              "texte": "Georges Clemenceau, nouveau ministre de l’Intérieur, vient à Lens parler aux grévistes, puis envoie la troupe ; le travail ne reprend qu’au début de mai.",
+              "sources": [
+                [
+                  "bHerodote"
+                ],
+                [
+                  "aWikiFr"
+                ],
+                [
+                  "bRetronews"
+                ],
+                [
+                  "fontaine"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:56",
+          "titre": "La première flamme",
+          "items": [
+            {
+              "texte": "Le feu de Cécile accusé dès le premier jour, « une coïncidence si frappante » ; mais l’explosion est arrivée vers lui, venant du nord.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 400 et 404-405"
+                ]
+              ]
+            },
+            {
+              "texte": "21 juillet, entre les barrages : un feu de boisage « de peu d’étendue », aucune explosion ; un feu qui ne justifiait pas d’interdire la mine aux ouvriers.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 404-405"
+                ],
+                [
+                  "heurteau",
+                  "annexe B, p. 484"
+                ]
+              ]
+            },
+            {
+              "texte": "Départ probable : un cul-de-sac miné à l’explosif, au nord de la fosse 3 ; coup de mine, cartouche ou grisou, sans choisir ; une explosion « peu importante ».",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 392-397"
+                ],
+                [
+                  "heurteau",
+                  "p. 425-426"
+                ]
+              ]
+            },
+            {
+              "texte": "Lampes à feu nu au lieu des lampes de sûreté du règlement, sans lien certain avec l’accident ; les poursuites finissent en non-lieux.",
+              "sources": [
+                [
+                  "heurteau",
+                  "annexe B, p. 484-485"
+                ],
+                [
+                  "universalis"
+                ],
+                [
+                  "fontaine"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:50",
+          "titre": "Ce qui a changé",
+          "items": [
+            {
+              "texte": "Les mines sans grisou peuvent, du fait des poussières, courir « les mêmes dangers que les mines à grisou ».",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 443"
+                ],
+                [
+                  "heurteau",
+                  "annexe B, p. 487"
+                ]
+              ]
+            },
+            {
+              "texte": "Arrêtés de septembre 1906 : lampes à feu nu interdites, goyots supprimés, dans les houillères du Nord et du Pas-de-Calais.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 443"
+                ],
+                [
+                  "heurteau",
+                  "annexe B, p. 488"
+                ]
+              ]
+            },
+            {
+              "texte": "Station d’essais de Liévin, créée par le Comité central des houillères, puis poste central de secours ; essais sur les poussières sous la conduite de Jacques Taffanel.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 444"
+                ],
+                [
+                  "bSaintRaymond"
+                ]
+              ]
+            },
+            {
+              "texte": "Les parades : la schistification, une poussière incombustible mêlée au dépôt ; les arrêts-barrages, libérés par le souffle de l’explosion.",
+              "sources": [
+                [
+                  "bIneris"
+                ],
+                [
+                  "bSaintRaymond"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "09:34",
+          "titre": "« Rescapé »",
+          "items": [
+            {
+              "texte": "« Rescapé », forme wallonne de « réchapper » (picard « récapé ») ; répandu par les journaux lors de Courrières ; issu du « patois picard » selon Marion Fontaine.",
+              "sources": [
+                [
+                  "cnrtl"
+                ],
+                [
+                  "fontaine"
+                ]
+              ]
+            },
+            {
+              "texte": "Dans le rapport officiel de 1907, le mot reste entre guillemets, jusque dans le sommaire.",
+              "sources": [
+                [
+                  "heurteau",
+                  "p. 318 et 353"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rapports": [
+    {
+      "pays": "Ingénieur des mines Heurteau",
+      "date": "1907",
+      "nom": "La catastrophe de Courrières (10 mars 1906)",
+      "resume": "Le rapport officiel : les fosses, le feu de Cécile, la propagation de la flamme, le sauvetage ; avec, en annexe, la commission d’enquête et l’avis du Conseil général des mines.",
+      "liens": [
+        [
+          "Texte intégral",
+          "heurteau"
+        ]
+      ]
+    }
+  ],
+  "plus_loin": [],
+  "visuels": "Reconstitutions schématiques, faites pour la vidéo : les fosses, les galeries et la propagation de la flamme sont redessinées ; les personnes sont dessinées au trait.",
+  "corrections": [],
+  "sources": {
+    "heurteau": {
+      "nom": "Heurteau, « La catastrophe de Courrières (10 mars 1906) », Annales des mines, 1907 (texte intégral, Mines Paris – Mineralis)",
+      "domaine": "mineralis.minesparis.psl.eu",
+      "url": "https://mineralis.minesparis.psl.eu/s/mineralis/item/661974",
+      "langue": "FR",
+      "officielle": true
+    },
+    "universalis": {
+      "nom": "Denis Varaschin, « Courrières (catastrophe de) », Encyclopædia Universalis",
+      "domaine": "universalis.fr",
+      "url": "https://www.universalis.fr/encyclopedie/catastrophe-de-courrieres/",
+      "langue": "FR"
+    },
+    "inrs": {
+      "nom": "INRS, ND 2070, « Caractéristiques d’explosivité de poussières industrielles » (1998)",
+      "domaine": "inrs.fr",
+      "url": "https://inrs.fr/dam/jcr:c0fb9e9a-4d59-4f59-b9c5-7a5a05a7b322/nd2070.pdf",
+      "langue": "FR",
+      "pdf": true
+    },
+    "aWikiFr": {
+      "nom": "Wikipédia, « Catastrophe de Courrières »",
+      "domaine": "fr.wikipedia.org",
+      "url": "https://fr.wikipedia.org/wiki/Catastrophe_de_Courri%C3%A8res",
+      "langue": "FR"
+    },
+    "aChm": {
+      "nom": "Centre historique minier, « La concession de Courrières » (plan de la compagnie, 1900)",
+      "domaine": "chm-lewarde.com",
+      "url": "https://www.chm-lewarde.com/wp-content/uploads/2019/08/1900-La-concession-de-Courrieres.pdf",
+      "langue": "FR",
+      "pdf": true
+    },
+    "fontaine": {
+      "nom": "Marion Fontaine, « 10 mars 1906 : Courrières-les-Morts », Fondation Jean-Jaurès (2016)",
+      "domaine": "jean-jaures.org",
+      "url": "https://www.jean-jaures.org/publication/10-mars-1906-courrieres-les-morts/",
+      "langue": "FR"
+    },
+    "cnrtl": {
+      "nom": "CNRTL, étymologie de « rescapé »",
+      "domaine": "cnrtl.fr",
+      "url": "https://www.cnrtl.fr/etymologie/rescap%C3%A9",
+      "langue": "FR"
+    },
+    "bRetronews": {
+      "nom": "RetroNews, « La catastrophe de Courrières » (2016)",
+      "domaine": "retronews.fr",
+      "url": "https://www.retronews.fr/catastrophes/echo-de-presse/2016/03/10/la-catastrophe-de-courrieres",
+      "langue": "FR"
+    },
+    "bPdc": {
+      "nom": "Département du Pas-de-Calais, « 120 ans de la catastrophe de Courrières : le Pas-de-Calais se souvient » (2026)",
+      "domaine": "pasdecalais.fr",
+      "url": "https://www.pasdecalais.fr/120-ans-de-la-catastrophe-de-courrieres-le-pas-de-calais-se-souvient",
+      "langue": "FR",
+      "officielle": true
+    },
+    "bSaintRaymond": {
+      "nom": "Saint-Raymond, « La catastrophe de Courrières vue du Conseil général des mines », Annales des mines (2006)",
+      "domaine": "annales.org",
+      "url": "https://www.annales.org/re/2006/re42/saintraymond.pdf",
+      "langue": "FR",
+      "pdf": true
+    },
+    "bIneris": {
+      "nom": "INERIS, réglementation des industries extractives, « Poussières inflammables »",
+      "domaine": "sstie.ineris.fr",
+      "url": "https://sstie.ineris.fr/node/101/multisectionpdf",
+      "langue": "FR",
+      "officielle": true,
+      "pdf": true
+    },
+    "bHerodote": {
+      "nom": "Herodote.net, « 10 mars 1906 : la catastrophe de Courrières »",
+      "domaine": "herodote.net",
+      "url": "https://www.herodote.net/10_mars_1906-evenement-19060310.php",
+      "langue": "FR"
+    }
+  }
+}
