@@ -1,0 +1,838 @@
+{
+  "slug": "columbia",
+  "numero": "09",
+  "titre": "Columbia",
+  "sous_titre": "1er février 2003 : seize jours en orbite avec un trou dans l’aile",
+  "description": "Les sources de la vidéo de La mécanique du pire sur l’accident de la navette Columbia (1er février 2003), passage par passage.",
+  "verifie": "16 nov. 2026",
+  "mise_a_jour": "16 nov. 2026",
+  "avertissement": "La source principale est le rapport de la commission d’enquête (août 2003), cité par ses pages imprimées. Ses unités américaines sont converties et arrondies ; ses citations restent en anglais.",
+  "image_partage": "columbia.jpg",
+  "image_entete": "columbia.jpg",
+  "image_alt": "Miniature de la vidéo : « Un bloc de mousse a suffi », la traînée blanche de la rentrée qui se divise en plusieurs traînées dans le ciel bleu du matin.",
+  "titre_rapports": "Les documents de référence",
+  "parties": [
+    {
+      "id": "video",
+      "numero": 1,
+      "nom": "Columbia",
+      "mise_en_ligne": "16 nov. 2026",
+      "youtube": "rN-58ILk3Tg",
+      "miniature": "columbia.jpg",
+      "note": "",
+      "passages": [
+        {
+          "t": "00:00",
+          "titre": "Le 1er février 2003",
+          "items": [
+            {
+              "texte": "1er février 2003 : Columbia se désintègre au-dessus du Texas, seize minutes avant l’atterrissage prévu en Floride ; les sept astronautes meurent.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 39 et 43"
+                ],
+                [
+                  "ramon"
+                ],
+                [
+                  "crs"
+                ]
+              ]
+            },
+            {
+              "texte": "Seize jours plus tôt, au décollage, un bloc de mousse isolante de moins d’un kilo avait frappé l’aile gauche.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 11"
+                ],
+                [
+                  "caib",
+                  "p. 62"
+                ]
+              ]
+            },
+            {
+              "texte": "Pendant la mission, trois demandes d’images de l’aile en orbite, toutes écartées par l’équipe de direction de la mission.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 140"
+                ],
+                [
+                  "caib",
+                  "p. 152"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "00:33",
+          "titre": "Le 17 janvier : l’impact repéré",
+          "items": [
+            {
+              "texte": "17 janvier, au lendemain du décollage : le groupe qui analyse les films du lancement repère l’impact sous l’aile gauche.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 140"
+                ]
+              ]
+            },
+            {
+              "texte": "Ses membres n’avaient jamais vu un débris aussi gros frapper la navette aussi tard dans la montée.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 140"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:10",
+          "titre": "Dix-sept ans après Challenger",
+          "items": [
+            {
+              "texte": "28 janvier 1986 : Challenger se brise 73 secondes après son décollage.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 99"
+                ]
+              ]
+            },
+            {
+              "texte": "La commission sur Challenger avait relevé que la NASA demandait à son industriel de prouver que le lancement n’était pas sûr, plutôt que l’inverse.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 100"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:26",
+          "titre": "Columbia et son équipage",
+          "items": [
+            {
+              "texte": "Columbia, première navette à voler dans l’espace, en 1981 ; STS-107 est son 28e vol, une mission scientifique de seize jours, avec deux équipes qui se relaient jour et nuit.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 11"
+                ],
+                [
+                  "caib",
+                  "p. 27-28"
+                ],
+                [
+                  "crs"
+                ]
+              ]
+            },
+            {
+              "texte": "L’équipage : Rick Husband (commandant), William McCool (pilote), Michael Anderson, Kalpana Chawla, David Brown, Laurel Clark et Ilan Ramon.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 3"
+                ]
+              ]
+            },
+            {
+              "texte": "Ilan Ramon, premier astronaute israélien.",
+              "sources": [
+                [
+                  "spacecom"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:52",
+          "titre": "Le réservoir et sa mousse",
+          "items": [
+            {
+              "texte": "Le réservoir externe, plein d’oxygène et d’hydrogène liquides (−183 et −253 °C), est couvert de mousse isolante contre l’ébullition et la glace.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 14"
+                ]
+              ]
+            },
+            {
+              "texte": "Exigences de conception : aucun débris venu du réservoir pendant la montée ; une protection thermique prévue pour des chocs infimes.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 122"
+                ],
+                [
+                  "caib",
+                  "p. 55"
+                ]
+              ]
+            },
+            {
+              "texte": "De la mousse se détache sur 65 des 79 vols dont on a des images ; dès 1981, plus de 300 tuiles de Columbia à remplacer.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 122"
+                ]
+              ]
+            },
+            {
+              "texte": "Les chocs de mousse finissent par être vus comme un simple problème d’entretien entre deux vols.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 122"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:30",
+          "titre": "La rampe de mousse et le vol d’Atlantis",
+          "items": [
+            {
+              "texte": "Les rampes de mousse de l’attache avant, entre la navette et le réservoir, sont posées à la main, par couches ; elles fournissent certains des plus gros débris.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 11 et 80"
+                ],
+                [
+                  "caib",
+                  "p. 123"
+                ]
+              ]
+            },
+            {
+              "texte": "Jusque-là, chaque perte connue de mousse de cette rampe était classée « anomalie en vol », à résoudre avant le vol suivant.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 123"
+                ],
+                [
+                  "caib",
+                  "p. 125"
+                ]
+              ]
+            },
+            {
+              "texte": "7 octobre 2002, Atlantis (STS-112) : un morceau de la rampe gauche entaille l’isolant de l’anneau d’attache d’une fusée d’appoint.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 124"
+                ]
+              ]
+            },
+            {
+              "texte": "La direction du programme n’en fait qu’une « action » à suivre ; deux vols partent avant que la cause soit connue, le second est Columbia.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 125"
+                ],
+                [
+                  "caib",
+                  "p. 196"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:06",
+          "titre": "82 secondes après le décollage",
+          "items": [
+            {
+              "texte": "16 janvier 2003, 10 h 39 ; à 81,7 secondes, vers 20 km d’altitude, un bloc de mousse se détache de la rampe gauche ; à 81,9 s, il frappe l’aile gauche.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 11"
+                ],
+                [
+                  "caib",
+                  "p. 59"
+                ]
+              ]
+            },
+            {
+              "texte": "Le bloc : 53 à 69 cm de long sur 30 à 46 cm de large ; le bloc retenu par l’enquête pèse 0,76 kg.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 34"
+                ],
+                [
+                  "caib",
+                  "p. 62"
+                ]
+              ]
+            },
+            {
+              "texte": "La mousse ralentit aussitôt et c’est l’aile qui la percute, à environ 850 km/h selon la meilleure estimation finale.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 60"
+                ],
+                [
+                  "caib",
+                  "p. 61-62"
+                ]
+              ]
+            },
+            {
+              "texte": "Le bord d’attaque : des panneaux en carbone-carbone renforcé, exposés à la rentrée à environ 1 550 à 1 650 °C.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 14"
+                ],
+                [
+                  "caib",
+                  "p. 55"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:32",
+          "titre": "L’équipe d’évaluation et le calcul Crater",
+          "items": [
+            {
+              "texte": "Aucune caméra n’a de vue nette de l’impact ; l’une était floue, faute d’entretien de son objectif.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 140"
+                ]
+              ]
+            },
+            {
+              "texte": "Le rapport du lendemain est diffusé avec des extraits vidéo ; Bob Page demande à Wayne Hale de chercher à obtenir des images de l’aile en orbite.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 140-141"
+                ]
+              ]
+            },
+            {
+              "texte": "Ingénieurs de la NASA et de United Space Alliance forment l’équipe d’évaluation ; leur logiciel Crater est calibré pour des débris d’environ 50 cm³, 400 fois plus petits que le bloc.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 143"
+                ]
+              ]
+            },
+            {
+              "texte": "Crater prédit des dégâts plus profonds que la tuile ; l’équipe suppose, sans validation, que sa couche densifiée arrêtera le choc, et juge le bord d’attaque surtout à l’expérience.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 168"
+                ],
+                [
+                  "caib",
+                  "p. 171"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:17",
+          "titre": "Le 21 janvier : des images, en suppliant s’il le faut",
+          "items": [
+            {
+              "texte": "Les moyens d’imagerie de l’armée sont secrets ; personne dans la chaîne de commandement de la mission n’a l’habilitation pour les connaître.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 154"
+                ]
+              ]
+            },
+            {
+              "texte": "21 janvier, courriel de Rodney Rocha, coresponsable de l’équipe : sans meilleures images, le problème sera très difficile à cerner ; « Can we petition (beg) for outside agency assistance? »",
+              "sources": [
+                [
+                  "caib",
+                  "p. 143"
+                ],
+                [
+                  "caib",
+                  "p. 151-152"
+                ]
+              ]
+            },
+            {
+              "texte": "Le même jour, Lambert Austin appelle le représentant du ministère de la Défense, pour se renseigner seulement.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 150"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:46",
+          "titre": "Le 22 janvier : la demande annulée",
+          "items": [
+            {
+              "texte": "22 janvier au matin : Wayne Hale appelle un représentant de l’armée ; le commandement stratégique commence à chercher comment photographier Columbia.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 152"
+                ]
+              ]
+            },
+            {
+              "texte": "Appel passé sans l’accord de Linda Ham, qui préside l’équipe de direction de la mission ; Hale tente ensuite le circuit officiel.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 152"
+                ]
+              ]
+            },
+            {
+              "texte": "Personne ne peut lui citer de besoin d’images ; elle n’interroge pas l’équipe d’évaluation ; demande faite et annulée en moins de 90 minutes.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 153"
+                ]
+              ]
+            },
+            {
+              "texte": "Notes personnelles obtenues par la commission : selon elles, même en voyant quelque chose, on ne pourrait rien faire ; elle dira avoir ignoré la demande des ingénieurs.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 154"
+                ],
+                [
+                  "caib",
+                  "p. 153"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:27",
+          "titre": "Le courriel jamais envoyé",
+          "items": [
+            {
+              "texte": "Le 22, Rocha écrit que c’est la mauvaise réponse, « à la limite de l’irresponsable », et rappelle les affiches de la NASA : « If it’s not safe, say so ».",
+              "sources": [
+                [
+                  "caib",
+                  "p. 156-157"
+                ]
+              ]
+            },
+            {
+              "texte": "Il imprime ce courriel et le montre à un collègue, sans l’envoyer : il ne veut pas court-circuiter sa hiérarchie.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 157"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:43",
+          "titre": "Le 23 janvier : « aucune inquiétude »",
+          "items": [
+            {
+              "texte": "23 janvier : le directeur de vol Steve Stich écrit au commandant et au pilote, avant une conférence de presse : l’impact « ne vaut même pas la peine d’être mentionné ».",
+              "sources": [
+                [
+                  "caib",
+                  "p. 158-159"
+                ]
+              ]
+            },
+            {
+              "texte": "« We have seen this same phenomenon on several other flights and there is absolutely no concern for entry » ; la vidéo de l’impact suit, Husband accuse réception.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 159"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:05",
+          "titre": "Le 24 janvier : la charge de la preuve",
+          "items": [
+            {
+              "texte": "24 janvier, devant l’équipe de direction : résumé oral de l’analyse qui, limitée, ne montre pas de danger pour le vol ; aucune question technique.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 160-161"
+                ]
+              ]
+            },
+            {
+              "texte": "Linda Ham y voit une question d’entretien, « comme sur d’autres vols ».",
+              "sources": [
+                [
+                  "caib",
+                  "p. 162"
+                ]
+              ]
+            },
+            {
+              "texte": "Pour la commission, les ingénieurs devaient prouver le danger : « NASA inverted this burden of proof ».",
+              "sources": [
+                [
+                  "caib",
+                  "p. 172"
+                ],
+                [
+                  "caib",
+                  "p. 190"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:36",
+          "titre": "La rentrée",
+          "items": [
+            {
+              "texte": "1er février, 8 h 44 (heure de Floride) : Columbia entre dans l’atmosphère au-dessus du Pacifique.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 38"
+                ]
+              ]
+            },
+            {
+              "texte": "Une brèche près du panneau 8 du bord d’attaque gauche ; l’air surchauffé, probablement plus de 2 760 °C, fait fondre la structure en aluminium de l’aile.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 12"
+                ]
+              ]
+            },
+            {
+              "texte": "8 h 54 : quatre capteurs de l’aile gauche muets ; des morceaux se détachent au-dessus de la Californie ; 8 h 59 : les pneus du train gauche.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 38-39"
+                ],
+                [
+                  "caib",
+                  "p. 12"
+                ]
+              ]
+            },
+            {
+              "texte": "Dernier signal près de Dallas, à 61 km et Mach 18 ; désintégration 46 secondes plus tard ; débris jusqu’en Louisiane, sans blessé au sol.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 43"
+                ],
+                [
+                  "caib",
+                  "p. 45"
+                ],
+                [
+                  "caib",
+                  "p. 213"
+                ]
+              ]
+            },
+            {
+              "texte": "Pendant les recherches, deux membres des équipes meurent dans un accident d’hélicoptère.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 9"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:35",
+          "titre": "L’enquête et le tir du 7 juillet",
+          "items": [
+            {
+              "texte": "La commission, présidée par l’amiral Harold Gehman, doit d’abord montrer que de la mousse peut causer de tels dégâts, une hypothèse jugée invraisemblable.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 39"
+                ],
+                [
+                  "caib",
+                  "p. 59"
+                ]
+              ]
+            },
+            {
+              "texte": "Après l’accident, le responsable du programme des navettes écarte encore la mousse comme cause probable.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 196"
+                ],
+                [
+                  "sfn0205"
+                ]
+              ]
+            },
+            {
+              "texte": "7 juillet 2003, à San Antonio : un bloc de 0,76 kg tiré au canon à gaz, à environ 850 km/h, sur le panneau 8 du bord d’attaque d’Atlantis.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 80-83"
+                ],
+                [
+                  "sfn0707"
+                ]
+              ]
+            },
+            {
+              "texte": "Un trou d’environ 41 × 43 cm ; « We believe we have found the smoking gun », dit Scott Hubbard, membre de la commission.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 83"
+                ],
+                [
+                  "sfn0707"
+                ],
+                [
+                  "ljworld"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:07",
+          "titre": "Le rapport et le sauvetage étudié après coup",
+          "items": [
+            {
+              "texte": "Rapport publié le 26 août 2003 : la culture de la NASA a autant compté dans l’accident que la mousse.",
+              "sources": [
+                [
+                  "crs"
+                ],
+                [
+                  "caib",
+                  "p. 12"
+                ]
+              ]
+            },
+            {
+              "texte": "Réparer l’aile en orbite : jugé « à haut risque » ; Atlantis, préparée jour et nuit, pouvait partir dès le 10 février, son équipage exposé au même risque de mousse.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 173"
+                ]
+              ]
+            },
+            {
+              "texte": "Les cartouches d’hydroxyde de lithium de Columbia tenaient jusqu’au matin du 15 février ; sauvetage « difficile mais faisable », à condition que rien n’accroche.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 173-174"
+                ]
+              ]
+            },
+            {
+              "texte": "Il fallait établir les dégâts avant le septième jour de vol, le 22 janvier ; dans le scénario étudié, les images restent peu concluantes, une sortie dans l’espace les révèle.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 173-174"
+                ]
+              ]
+            },
+            {
+              "texte": "La première demande d’images date du 17 janvier, deuxième jour de vol.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 140-141"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:55",
+          "titre": "Les échos de Challenger",
+          "items": [
+            {
+              "texte": "Sally Ride, première Américaine dans l’espace (18 juin 1983), seule à siéger dans les deux commissions d’enquête.",
+              "sources": [
+                [
+                  "smithsonian"
+                ],
+                [
+                  "caib",
+                  "p. 195"
+                ]
+              ]
+            },
+            {
+              "texte": "Elle relève des « échos » de Challenger : les joints, puis la mousse, deux violations de la conception devenues normales au fil des vols.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 195"
+                ],
+                [
+                  "caib",
+                  "p. 196"
+                ]
+              ]
+            },
+            {
+              "texte": "Dans les deux cas, la charge de la preuve inversée.",
+              "sources": [
+                [
+                  "caib",
+                  "p. 100"
+                ],
+                [
+                  "caib",
+                  "p. 190"
+                ]
+              ]
+            },
+            {
+              "texte": "La commission : « the causes of the institutional failure responsible for Challenger have not been fixed ».",
+              "sources": [
+                [
+                  "caib",
+                  "p. 195"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rapports": [
+    {
+      "pays": "Commission d’enquête (CAIB)",
+      "date": "août 2003",
+      "nom": "Report Volume I",
+      "resume": "L’impact, les demandes d’images, la rentrée, le tir de juillet et le sauvetage étudié après coup ; la page cite ses numéros de page imprimés.",
+      "liens": [
+        [
+          "PDF",
+          "caib"
+        ]
+      ]
+    },
+    {
+      "pays": "Congressional Research Service",
+      "date": "sept. 2003",
+      "nom": "Synopsis du rapport",
+      "resume": "Le résumé du rapport et de ses recommandations, écrit pour le Congrès américain.",
+      "liens": [
+        [
+          "Texte",
+          "crs"
+        ]
+      ]
+    }
+  ],
+  "plus_loin": [],
+  "visuels": "Reconstitutions schématiques, faites pour la vidéo : la navette, l’aile et les documents sont redessinés, sans image d’archive ; les personnes sont dessinées au trait ; le télescope de l’armée est illustratif.",
+  "corrections": [],
+  "sources": {
+    "caib": {
+      "nom": "Columbia Accident Investigation Board, Report Volume I (août 2003)",
+      "domaine": "nasa.gov",
+      "url": "https://www.nasa.gov/wp-content/uploads/2025/04/caib-report.pdf",
+      "officielle": true,
+      "pdf": true
+    },
+    "crs": {
+      "nom": "Congressional Research Service, « NASA’s Space Shuttle Columbia: Synopsis of the Report of the Columbia Accident Investigation Board » (2 sept. 2003)",
+      "domaine": "everycrsreport.com",
+      "url": "https://www.everycrsreport.com/reports/RS21606.html",
+      "officielle": true
+    },
+    "ramon": {
+      "nom": "NASA, biographie d’Ilan Ramon",
+      "domaine": "nasa.gov",
+      "url": "https://www.nasa.gov/wp-content/uploads/2016/01/ramon.pdf",
+      "officielle": true,
+      "pdf": true
+    },
+    "spacecom": {
+      "nom": "Space.com, « Mission Columbia: Meet Israel’s First Astronaut, Ilan Ramon »",
+      "domaine": "space.com",
+      "url": "https://www.space.com/19433-shuttle-columbia-israel-astronaut-ilan-ramon.html"
+    },
+    "sfn0205": {
+      "nom": "Spaceflight Now, « Tank foam may not be single ‘root cause’ of shuttle failure » (5 févr. 2003)",
+      "domaine": "spaceflightnow.com",
+      "url": "https://spaceflightnow.com/shuttle/sts107/030205foam"
+    },
+    "sfn0707": {
+      "nom": "Spaceflight Now, « Foam impact test blows hole in shuttle wing panel » (7 juil. 2003)",
+      "domaine": "spaceflightnow.com",
+      "url": "https://spaceflightnow.com/shuttle/sts107/030707impacttest"
+    },
+    "ljworld": {
+      "nom": "AP, « Foam called ‘smoking gun’ in space shuttle disaster », Lawrence Journal-World (8 juil. 2003)",
+      "domaine": "ljworld.com",
+      "url": "https://www2.ljworld.com/news/2003/jul/08/foam_called_smoking/"
+    },
+    "smithsonian": {
+      "nom": "Smithsonian, National Air and Space Museum, « Now Transcribed: Sally K. Ride Papers » (2020)",
+      "domaine": "airandspace.si.edu",
+      "url": "https://airandspace.si.edu/stories/editorial/now-transcribed-sally-k-ride-papers",
+      "officielle": true
+    }
+  }
+}
