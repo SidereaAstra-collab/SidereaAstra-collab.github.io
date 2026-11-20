@@ -1,0 +1,764 @@
+{
+  "slug": "azf",
+  "numero": "10",
+  "titre": "AZF",
+  "sous_titre": "21 septembre 2001 : un hangar d’engrais explose au sud de Toulouse",
+  "description": "Les sources de la vidéo de La mécanique du pire sur l’explosion de l’usine AZF à Toulouse (21 septembre 2001), passage par passage.",
+  "verifie": "20 nov. 2026",
+  "mise_a_jour": "20 nov. 2026",
+  "avertissement": "La cause est celle que retiennent les décisions de justice, définitives depuis 2019 ; elle reste contestée par la défense. Comme la vidéo, la page ne nomme ni victime, ni salarié, ni sous-traitant.",
+  "image_partage": "azf.jpg",
+  "image_entete": "azf.jpg",
+  "image_alt": "Miniature de la vidéo : « AZF, “Risque d’explosion : négligeable” », une usine au crépuscule et un panache de fumée au-dessus d’un départ de feu.",
+  "titre_rapports": "Les documents de référence",
+  "parties": [
+    {
+      "id": "video",
+      "numero": 1,
+      "nom": "AZF",
+      "mise_en_ligne": "20 nov. 2026",
+      "youtube": "9sYxUWIiXh0",
+      "miniature": "azf.jpg",
+      "note": "",
+      "passages": [
+        {
+          "t": "00:00",
+          "titre": "Le 21 septembre 2001",
+          "items": [
+            {
+              "texte": "Vendredi 21 septembre 2001, 10 h 17 : un hangar de l’usine AZF explose, à 3 km du centre de Toulouse.",
+              "sources": [
+                [
+                  "aria",
+                  "p. 1 et 3"
+                ],
+                [
+                  "ige",
+                  "p. 6-7"
+                ],
+                [
+                  "mappemonde"
+                ]
+              ]
+            },
+            {
+              "texte": "Il laisse un cratère ovale de 65 m sur 45 m, profond de 7 m ; d’autres sources donnent 70 m sur 40 m.",
+              "sources": [
+                [
+                  "aria",
+                  "p. 6"
+                ]
+              ]
+            },
+            {
+              "texte": "31 morts, 21 dans l’usine et 10 au-dehors ; des milliers de blessés ; plus de 25 000 logements endommagés.",
+              "sources": [
+                [
+                  "aria",
+                  "p. 4 et 8"
+                ],
+                [
+                  "cass2019"
+                ],
+                [
+                  "ineris2007"
+                ]
+              ]
+            },
+            {
+              "texte": "Pour ce type de stockage, l’exploitant jugeait le risque d’explosion « négligeable ».",
+              "sources": [
+                [
+                  "ige",
+                  "p. 6"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "00:50",
+          "titre": "La benne",
+          "items": [
+            {
+              "texte": "Le dernier apport de matière, par une benne venue d’un autre bâtiment, a lieu une vingtaine de minutes avant l’explosion.",
+              "sources": [
+                [
+                  "aria",
+                  "p. 9"
+                ],
+                [
+                  "cass2019"
+                ]
+              ]
+            },
+            {
+              "texte": "Selon l’arrêt de 2017, son contenu, ramassé deux jours plus tôt, mêlait nitrate industriel et fonds de sacs secoués.",
+              "sources": [
+                [
+                  "cass2019"
+                ]
+              ]
+            },
+            {
+              "texte": "Un salarié de l’usine autorise le versement ; aucune consigne n’est donnée au salarié sous-traitant sur les produits ni sur leurs dangers.",
+              "sources": [
+                [
+                  "cass2019"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:25",
+          "titre": "Une usine loin de la ville",
+          "items": [
+            {
+              "texte": "1924 : l’Office national industriel de l’azote, créé pour exploiter des brevets confisqués à l’Allemagne, s’installe sur des terrains de la Poudrerie.",
+              "sources": [
+                [
+                  "mappemonde"
+                ]
+              ]
+            },
+            {
+              "texte": "Il n’y avait guère alentour que l’asile, placé là pour que les malades « profitent du bon air de la campagne ».",
+              "sources": [
+                [
+                  "mappemonde"
+                ],
+                [
+                  "ige",
+                  "p. 22"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:47",
+          "titre": "La ville descend vers l’usine",
+          "items": [
+            {
+              "texte": "1948 : l’usine construit sa propre cité ; à partir de 1957, les grands ensembles ; puis le Mirail, 9 000 logements.",
+              "sources": [
+                [
+                  "mappemonde"
+                ]
+              ]
+            },
+            {
+              "texte": "Lycées, université, dépôt de bus, grandes surfaces, et la rocade, construite au ras des usines.",
+              "sources": [
+                [
+                  "mappemonde"
+                ]
+              ]
+            },
+            {
+              "texte": "En 2001 : Grande Paroisse, filiale du groupe TotalFinaElf, environ 470 salariés sur 70 ha.",
+              "sources": [
+                [
+                  "ige",
+                  "p. 3"
+                ],
+                [
+                  "aria",
+                  "p. 1-2"
+                ]
+              ]
+            },
+            {
+              "texte": "Un lycée à 500 m du hangar, un magasin d’électroménager à 320 m, le dépôt de bus face à l’usine.",
+              "sources": [
+                [
+                  "aria",
+                  "p. 4 et 8"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:24",
+          "titre": "Une usine Seveso",
+          "items": [
+            {
+              "texte": "Établissement soumis aux directives Seveso.",
+              "sources": [
+                [
+                  "aria",
+                  "p. 2"
+                ]
+              ]
+            },
+            {
+              "texte": "Quantités autorisées : plus de 6 000 t d’ammoniac, deux wagons de chlore de 56 t, 15 000 t de nitrate en vrac et 15 000 t en sacs.",
+              "sources": [
+                [
+                  "ige",
+                  "p. 3"
+                ]
+              ]
+            },
+            {
+              "texte": "Sur l’autre rive de la Garonne, une usine voisine travaille le phosgène.",
+              "sources": [
+                [
+                  "mappemonde"
+                ],
+                [
+                  "aria",
+                  "p. 7"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "02:44",
+          "titre": "Les deux périmètres de 1989",
+          "items": [
+            {
+              "texte": "Depuis 1989, un plan de secours et un périmètre où les constructions nouvelles sont limitées.",
+              "sources": [
+                [
+                  "aria",
+                  "p. 2"
+                ]
+              ]
+            },
+            {
+              "texte": "Le périmètre de construction déborde « de très peu » le pôle chimique ; celui du plan de secours compte 16 000 habitants.",
+              "sources": [
+                [
+                  "mappemonde"
+                ],
+                [
+                  "ige",
+                  "p. 29"
+                ]
+              ]
+            },
+            {
+              "texte": "Risques pris en compte : des émissions toxiques d’ammoniac, de chlore ou de phosgène ; l’explosion du nitrate n’a pas été envisagée.",
+              "sources": [
+                [
+                  "ige",
+                  "p. 23"
+                ],
+                [
+                  "mappemonde"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:11",
+          "titre": "Le nitrate d’ammonium",
+          "items": [
+            {
+              "texte": "Le détoner demande une source d’énergie assez forte : le plus souvent, il se consume.",
+              "sources": [
+                [
+                  "ige",
+                  "p. 11"
+                ]
+              ]
+            },
+            {
+              "texte": "L’étude de dangers du grand stockage estimait que seul un détonateur assez puissant pouvait le faire détoner, et laissait ce cas de côté.",
+              "sources": [
+                [
+                  "ige",
+                  "p. 18"
+                ]
+              ]
+            },
+            {
+              "texte": "L’usine produit du nitrate pour les engrais et du nitrate industriel, surtout pour les explosifs des carrières et des travaux publics.",
+              "sources": [
+                [
+                  "ige",
+                  "p. 3"
+                ]
+              ]
+            },
+            {
+              "texte": "Mélangé à des combustibles ou confiné, il peut détoner : un risque faible mais « sournois », qui varie avec la pollution du produit.",
+              "sources": [
+                [
+                  "ige",
+                  "p. 11"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:58",
+          "titre": "Oppau, Texas City, Brest",
+          "items": [
+            {
+              "texte": "Oppau : un engrais au nitrate pris en masse, fragmenté à l’explosif en 20 000 tirs ; le 21 septembre 1921, l’usine explose.",
+              "sources": [
+                [
+                  "ige",
+                  "p. 11"
+                ]
+              ]
+            },
+            {
+              "texte": "Plus de 500 morts : 561 selon l’IGE, 507 selon une revue de 2018.",
+              "sources": [
+                [
+                  "ige",
+                  "p. 11"
+                ],
+                [
+                  "hazards28"
+                ]
+              ]
+            },
+            {
+              "texte": "1947 : un cargo de nitrate explose à Texas City, puis un autre en rade de Brest.",
+              "sources": [
+                [
+                  "hazards28",
+                  "p. 4"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:22",
+          "titre": "Le hangar 221",
+          "items": [
+            {
+              "texte": "Un hangar construit entre 1920 et 1938 ; depuis 1981, il reçoit en vrac des nitrates agricoles et industriels « déclassés », avant leur départ vers d’autres usines.",
+              "sources": [
+                [
+                  "aria",
+                  "p. 3"
+                ]
+              ]
+            },
+            {
+              "texte": "Stockage autorisé pour 500 t ; ni détection d’incendie, ni détecteurs d’oxydes d’azote ; exploitation sous-traitée.",
+              "sources": [
+                [
+                  "ige",
+                  "p. 6"
+                ]
+              ]
+            },
+            {
+              "texte": "Trois sous-traitants : deux apportent les produits dans le sas, le troisième les pousse vers le tas et charge les camions.",
+              "sources": [
+                [
+                  "ineris2007"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:02",
+          "titre": "L’état du hangar, selon les juges",
+          "items": [
+            {
+              "texte": "Jamais fermé, le bâtiment est exposé au vent d’autan, qui humidifie le nitrate du sol et lui donne un aspect boueux.",
+              "sources": [
+                [
+                  "cass2019"
+                ]
+              ]
+            },
+            {
+              "texte": "L’arrêté préfectoral exige un sol étanche et cimenté : prescription non respectée ; les engins perdent de l’huile.",
+              "sources": [
+                [
+                  "cass2019"
+                ]
+              ]
+            },
+            {
+              "texte": "Dans la couche du sol, des hydrocarbures et du soufre, « sensibilisant connu du nitrate d’ammonium ».",
+              "sources": [
+                [
+                  "cass2019"
+                ]
+              ]
+            },
+            {
+              "texte": "Stock évalué à l’œil ; selon les juges, un dépassement de plusieurs dizaines de tonnes (l’IGE parlait de 300 à 400 t le jour de l’explosion).",
+              "sources": [
+                [
+                  "cass2019"
+                ],
+                [
+                  "ige",
+                  "p. 6"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "05:34",
+          "titre": "Les produits chlorés et les sacs",
+          "items": [
+            {
+              "texte": "L’usine fabrique aussi des produits chlorés pour le traitement de l’eau.",
+              "sources": [
+                [
+                  "aria",
+                  "p. 1 et 10"
+                ]
+              ]
+            },
+            {
+              "texte": "Leurs fiches de sécurité signalent qu’avec les produits azotés ils peuvent former du trichlorure d’azote explosible ; selon d’anciens directeurs, on le savait « depuis toujours ».",
+              "sources": [
+                [
+                  "cass2019"
+                ]
+              ]
+            },
+            {
+              "texte": "La collecte des sacs est regroupée dans un même bâtiment, sans mise à jour des consignes ni contrôle régulier de leur lavage.",
+              "sources": [
+                [
+                  "cass2019"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:10",
+          "titre": "L’explosion, selon la justice",
+          "items": [
+            {
+              "texte": "La benne est vidée dans le sas vingt à trente minutes avant l’explosion.",
+              "sources": [
+                [
+                  "cass2019"
+                ]
+              ]
+            },
+            {
+              "texte": "Du produit chloré se retrouve « pris en sandwich » entre le nitrate mouillé du sol et du nitrate industriel sec.",
+              "sources": [
+                [
+                  "aria",
+                  "p. 10"
+                ],
+                [
+                  "cass2019"
+                ]
+              ]
+            },
+            {
+              "texte": "Selon les essais de l’expert, un kilo de produit chloré sur une couche de nitrate humide peut entraîner une détonation.",
+              "sources": [
+                [
+                  "cass2019"
+                ]
+              ]
+            },
+            {
+              "texte": "Le trichlorure d’azote détone ; la détonation gagne les tas du sas, puis le tas principal, évalué à 350 t.",
+              "sources": [
+                [
+                  "cass2019"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:37",
+          "titre": "10 h 17",
+          "items": [
+            {
+              "texte": "L’équivalent de 20 à 40 t de TNT, selon l’Ineris ; une magnitude de 3,4 ; l’explosion est entendue à Castres.",
+              "sources": [
+                [
+                  "aria",
+                  "p. 1 et 3"
+                ]
+              ]
+            },
+            {
+              "texte": "Des vitres brisées jusqu’à plusieurs kilomètres : 7 km selon plusieurs sources citées par le BARPI.",
+              "sources": [
+                [
+                  "aria",
+                  "p. 8"
+                ],
+                [
+                  "mappemonde"
+                ]
+              ]
+            },
+            {
+              "texte": "21 morts dans l’usine et 10 au-dehors, dont un élève du lycée voisin.",
+              "sources": [
+                [
+                  "cass2019"
+                ],
+                [
+                  "aria",
+                  "p. 4"
+                ]
+              ]
+            },
+            {
+              "texte": "Dépôt de bus et magasins détruits, hôpital psychiatrique évacué, 116 établissements scolaires endommagés ; 1,5 à 2,3 milliards d’euros de dégâts selon les assureurs.",
+              "sources": [
+                [
+                  "aria",
+                  "p. 8"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:14",
+          "titre": "Ce qui a tenu, ce qui a manqué",
+          "items": [
+            {
+              "texte": "Pas d’effet domino : le stockage d’ammoniac sous pression, à 300 m, protégé par un bâtiment qui a fait écran ; les wagons de chlore indemnes.",
+              "sources": [
+                [
+                  "aria",
+                  "p. 7"
+                ]
+              ]
+            },
+            {
+              "texte": "Aucune sirène ; le réseau téléphonique, saturé, cesse de fonctionner au bout de vingt minutes.",
+              "sources": [
+                [
+                  "mappemonde"
+                ]
+              ]
+            },
+            {
+              "texte": "Consigne de confinement, d’une efficacité limitée dans des logements aux vitres soufflées.",
+              "sources": [
+                [
+                  "aria",
+                  "p. 3"
+                ],
+                [
+                  "mappemonde"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:40",
+          "titre": "La piste de l’attentat",
+          "items": [
+            {
+              "texte": "Parmi les hypothèses examinées, un acte intentionnel ; les experts judiciaires concluent à une réaction chimique accidentelle.",
+              "sources": [
+                [
+                  "aria",
+                  "p. 9-10"
+                ]
+              ]
+            },
+            {
+              "texte": "2009 : pour le tribunal, aucun élément n’étaye la piste d’un acte intentionnel ; 2017 : la cour d’appel de Paris retient l’accident chimique.",
+              "sources": [
+                [
+                  "cass2019"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:54",
+          "titre": "Trois procès",
+          "items": [
+            {
+              "texte": "2009, Toulouse : des fautes d’organisation « patentes », mais relaxe, faute de preuve que la benne contenait des produits chlorés.",
+              "sources": [
+                [
+                  "cass2019"
+                ]
+              ]
+            },
+            {
+              "texte": "2012 : la cour d’appel de Toulouse condamne ; 2015 : arrêt cassé, notamment pour un doute sur l’impartialité d’une magistrate.",
+              "sources": [
+                [
+                  "hazards28"
+                ],
+                [
+                  "cass2019"
+                ]
+              ]
+            },
+            {
+              "texte": "31 octobre 2017, cour d’appel de Paris : Grande Paroisse, 225 000 € d’amende ; le directeur de l’usine, quinze mois avec sursis et 10 000 €.",
+              "sources": [
+                [
+                  "cass2019"
+                ],
+                [
+                  "hazards28"
+                ]
+              ]
+            },
+            {
+              "texte": "Fautes retenues : consignes absentes, sous-traitance sans encadrement, déchets mal gérés, négligences dans l’exploitation du hangar ; le groupe Total n’est pas condamné.",
+              "sources": [
+                [
+                  "cass2019"
+                ],
+                [
+                  "hazards28"
+                ]
+              ]
+            },
+            {
+              "texte": "17 décembre 2019 : la Cour de cassation rejette les pourvois ; les condamnations sont définitives.",
+              "sources": [
+                [
+                  "cass2019"
+                ],
+                [
+                  "aria",
+                  "p. 11"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "09:00",
+          "titre": "Les suites",
+          "items": [
+            {
+              "texte": "Avril 2002 : TotalFinaElf arrête l’usine ; un cancéropôle est construit sur le site dépollué.",
+              "sources": [
+                [
+                  "ineris2007"
+                ],
+                [
+                  "aria",
+                  "p. 12"
+                ]
+              ]
+            },
+            {
+              "texte": "Loi du 30 juillet 2003 : les études de dangers prennent en compte les accidents même très improbables ; plans de prévention des risques technologiques, jusqu’à l’expropriation.",
+              "sources": [
+                [
+                  "aria",
+                  "p. 12-14"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rapports": [
+    {
+      "pays": "BARPI",
+      "date": "sept. 2021",
+      "nom": "Fiche détaillée ARIA n° 21329",
+      "resume": "La fiche du ministère : l’usine, le hangar 221, l’explosion, les dégâts, les procès et la loi de 2003.",
+      "liens": [
+        [
+          "PDF",
+          "aria"
+        ]
+      ]
+    },
+    {
+      "pays": "Inspection générale de l’environnement",
+      "date": "oct. 2001",
+      "nom": "Rapport sur l’accident",
+      "resume": "Le rapport remis un mois après l’explosion : les stockages, le nitrate, l’étude de dangers, les périmètres.",
+      "liens": [
+        [
+          "PDF",
+          "ige"
+        ]
+      ]
+    },
+    {
+      "pays": "Cour de cassation",
+      "date": "déc. 2019",
+      "nom": "Arrêt n° 17-87.465",
+      "resume": "La décision qui rend définitives les condamnations ; elle rappelle ce que la cour d’appel de Paris a retenu en 2017.",
+      "liens": [
+        [
+          "Texte",
+          "cass2019"
+        ]
+      ]
+    }
+  ],
+  "plus_loin": [],
+  "visuels": "Reconstitutions schématiques, faites pour la vidéo : l’usine, le hangar et la ville sont redessinés, sans image d’archive ; les personnes sont dessinées au trait.",
+  "corrections": [],
+  "sources": {
+    "aria": {
+      "nom": "BARPI, fiche détaillée ARIA n° 21329, « Explosion dans une usine de fabrication d’engrais, le 21 septembre 2001, Toulouse » (actualisée en sept. 2021)",
+      "domaine": "aria.developpement-durable.gouv.fr",
+      "url": "https://www.aria.developpement-durable.gouv.fr/wp-content/files_mf/A21329_a21329_fiche_detaillee_001.pdf",
+      "langue": "FR",
+      "officielle": true,
+      "pdf": true
+    },
+    "ige": {
+      "nom": "Inspection générale de l’environnement, « Usine de la société Grande Paroisse à Toulouse, accident du 21 septembre 2001 » (24 oct. 2001)",
+      "domaine": "vie-publique.fr",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/014000809.pdf",
+      "langue": "FR",
+      "officielle": true,
+      "pdf": true
+    },
+    "cass2019": {
+      "nom": "Cour de cassation, chambre criminelle, 17 décembre 2019, n° 17-87.465 (rappelle les jugements de 2009 et de 2017)",
+      "domaine": "juricaf.org",
+      "url": "https://juricaf.org/arret/FRANCE-COURDECASSATION-20191217-1787465",
+      "langue": "FR",
+      "officielle": true
+    },
+    "mappemonde": {
+      "nom": "Centre interdisciplinaire d’études urbaines, « L’explosion de l’usine AZF à Toulouse : une catastrophe inscrite dans la ville », Mappemonde n° 65 (2002)",
+      "domaine": "mgm.fr",
+      "url": "http://www.mgm.fr/PUB/Mappemonde/M102/AZF.pdf",
+      "langue": "FR",
+      "pdf": true
+    },
+    "ineris2007": {
+      "nom": "N. Dechy, D. Gaston, O. Salvi (Ineris), « AZF : les leçons d’une catastrophe industrielle », Responsabilité & Environnement n° 45 (janv. 2007)",
+      "domaine": "annales.org",
+      "url": "https://www.annales.org/re/2007/re45/dechy.pdf",
+      "langue": "FR",
+      "pdf": true
+    },
+    "hazards28": {
+      "nom": "N. Dechy et al., « A review on Toulouse accident trials », IChemE, Hazards 28 (2018)",
+      "domaine": "icheme.org",
+      "url": "https://www.icheme.org/media/16944/hazards-28-paper-38.pdf",
+      "pdf": true
+    }
+  }
+}
