@@ -1,0 +1,902 @@
+{
+  "slug": "panne-72h",
+  "numero": "01",
+  "unite": "Et si… n°",
+  "titre": "72 heures sans électricité",
+  "sous_titre": "Et si toute la France perdait le courant pendant trois jours : ce qui tient, et combien de temps",
+  "description": "Les sources du premier épisode « Et si… » de La mécanique du pire : une panne d’électricité de 72 heures dans toute la France, passage par passage.",
+  "verifie": "22 nov. 2026",
+  "mise_a_jour": "22 nov. 2026",
+  "avertissement": "Exercice de pensée : le scénario est inventé, et rien de tel n’est arrivé en France. La page donne les sources des faits réels sur lesquels il s’appuie (autonomies, règles, chiffres) ; les événements du scénario n’en ont pas.",
+  "image_partage": "panne-72h.jpg",
+  "image_entete": "panne-72h.jpg",
+  "image_alt": "Miniature de la vidéo : « Et si la France s’éteignait ? », la France plongée dans le noir sur une vue de nuit de l’Europe éclairée.",
+  "titre_rapports": "Les documents de référence",
+  "parties": [
+    {
+      "id": "video",
+      "numero": 1,
+      "nom": "72 heures sans électricité",
+      "mise_en_ligne": "22 nov. 2026",
+      "youtube": "FCtxP2ZuDbo",
+      "miniature": "panne-72h.jpg",
+      "note": "",
+      "passages": [
+        {
+          "t": "00:00",
+          "titre": "Le kit de 72 heures",
+          "items": [
+            {
+              "texte": "Guide « Tous responsables », publié par le SGDSN le 20 novembre 2025 : chaque foyer doit pouvoir tenir 72 heures.",
+              "sources": [
+                [
+                  "guidePage"
+                ],
+                [
+                  "guide"
+                ]
+              ]
+            },
+            {
+              "texte": "Le kit pour 72 heures : 6 litres d’eau par personne, une radio à piles, des bougies et de l’argent liquide, « les distributeurs pouvant ne pas fonctionner ».",
+              "sources": [
+                [
+                  "guide"
+                ],
+                [
+                  "infogouv"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "00:47",
+          "titre": "Un exercice de pensée",
+          "items": [
+            {
+              "texte": "19 décembre 1978 : la plus grande panne française coupe environ les trois quarts du pays, un peu plus de quatre heures.",
+              "sources": [
+                [
+                  "ina"
+                ]
+              ]
+            },
+            {
+              "texte": "75 % de la consommation coupée ; le réseau est rétabli à 13 h 45, après environ 5 h 20.",
+              "sources": [
+                [
+                  "transfo"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:20",
+          "titre": "18 h 33 : le réseau s’effondre",
+          "items": [
+            {
+              "texte": "Le scénario reprend le mécanisme de la panne ibérique du 28 avril 2025 : surtension, centrales qui se déconnectent en cascade, délestage automatique qui n’arrête pas l’effondrement.",
+              "sources": [
+                [
+                  "rte"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "01:58",
+          "titre": "Ce qui s’arrête dans la seconde",
+          "items": [
+            {
+              "texte": "Tunnels : sans ventilation ni éclairage alimentés, « la réglementation impose une fermeture immédiate » (Marseille, juillet 2026).",
+              "sources": [
+                [
+                  "infofr"
+                ]
+              ]
+            },
+            {
+              "texte": "L’éclairage de secours d’un tunnel donne la visibilité minimale pour en sortir en voiture.",
+              "sources": [
+                [
+                  "aipcr"
+                ]
+              ]
+            },
+            {
+              "texte": "À Roissy, lors d’une coupure partielle, les secours internes ont alimenté la navigation aérienne, la tour de contrôle, le balisage des pistes et les systèmes de sécurité des aérogares.",
+              "sources": [
+                [
+                  "tourmag"
+                ]
+              ]
+            },
+            {
+              "texte": "Environ 650 000 ascenseurs en France, selon la Fédération des ascenseurs.",
+              "sources": [
+                [
+                  "monimmeuble"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:00",
+          "titre": "À la maison",
+          "items": [
+            {
+              "texte": "Une box n’a pas de batterie : sans courant, plus d’internet ni de téléphone fixe.",
+              "sources": [
+                [
+                  "selectraMobile"
+                ]
+              ]
+            },
+            {
+              "texte": "Une chaudière gaz murale s’arrête sans courant : électronique, allumage, ventilateur, circulateur.",
+              "sources": [
+                [
+                  "selectraChaudiere"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "03:27",
+          "titre": "Le portable et les antennes",
+          "items": [
+            {
+              "texte": "D’après une question écrite de 2022, Orange a affirmé pouvoir faire fonctionner ses antennes-relais jusqu’à 20 minutes après une coupure ; il n’existe pas de chiffre national.",
+              "sources": [
+                [
+                  "qe4356",
+                  "JO du 20 déc. 2022, p. 6401"
+                ],
+                [
+                  "selectraMobile"
+                ]
+              ]
+            },
+            {
+              "texte": "Tempête Ciaran (novembre 2023) : 90 % des sites en panne d’un opérateur l’étaient faute d’électricité ; les 10 % restants, des antennes désorientées et des sites inaccessibles.",
+              "sources": [
+                [
+                  "arcep",
+                  "p. 20"
+                ]
+              ]
+            },
+            {
+              "texte": "Les opérateurs ont ajouté des batteries sur plus de 1 000 nœuds et cœurs de réseau à l’automne 2022.",
+              "sources": [
+                [
+                  "qe4356",
+                  "réponse, JO du 21 févr. 2023, p. 1812"
+                ]
+              ]
+            },
+            {
+              "texte": "Sans courant, pompiers, Samu et police deviennent difficiles à joindre ; selon des employés des télécoms, les batteries des antennes qui en ont « ne dépassent pas une demi-heure ».",
+              "sources": [
+                [
+                  "europe1"
+                ]
+              ]
+            }
+          ],
+          "nuances": [
+            "Les sources de l’épisode donnent 20 minutes (Orange) à une demi-heure (Europe 1) d’autonomie à une antenne ; aucune ne parle de « quelques heures »."
+          ]
+        },
+        {
+          "t": "04:23",
+          "titre": "Alerter la population",
+          "items": [
+            {
+              "texte": "FR-Alert envoie ses messages par les antennes de télécommunication (diffusion cellulaire) ; plus de 2 000 sirènes peuvent être déclenchées à distance par l’État.",
+              "sources": [
+                [
+                  "frAlert"
+                ]
+              ]
+            },
+            {
+              "texte": "Des conventions avec France Bleu et France Télévisions permettent de relayer les messages des autorités en situation de crise.",
+              "sources": [
+                [
+                  "actionEtat"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "04:55",
+          "titre": "Les malades à domicile",
+          "items": [
+            {
+              "texte": "Plus de 139 000 patients sous oxygénothérapie en 2019 ; le concentrateur tire l’oxygène de l’air ambiant.",
+              "sources": [
+                [
+                  "revuePraticien"
+                ]
+              ]
+            },
+            {
+              "texte": "Concentrateurs portables : 40 minutes à 4 h 30 sur batterie en débit continu ; les bouteilles de secours sont peu utilisées (manipulation, risques).",
+              "sources": [
+                [
+                  "revuePraticien"
+                ]
+              ]
+            },
+            {
+              "texte": "Patients à haut risque vital (respirateur, nutrition parentérale) : signalement annuel à l’ARS, information prioritaire, numéro dédié pour une coupure imprévue ; « une obligation d’information mais pas d’alimentation ».",
+              "sources": [
+                [
+                  "arsAra"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:02",
+          "titre": "Maisons de retraite",
+          "items": [
+            {
+              "texte": "Décret du 12 septembre 2007 : établissements de santé et médico-sociaux, Ehpad compris, avec des groupes électrogènes achetés, loués ou prêtés par convention avec un établissement voisin.",
+              "sources": [
+                [
+                  "fhf"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "06:36",
+          "titre": "Le froid",
+          "items": [
+            {
+              "texte": "Un logement français chauffé à 20 °C perd en moyenne 2,5 °C en cinq heures par 0 °C dehors (tado°, 80 000 logements, hiver 2019-2020).",
+              "sources": [
+                [
+                  "quelleEnergie"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:06",
+          "titre": "Frigos et congélateurs",
+          "items": [
+            {
+              "texte": "Réfrigérateur resté fermé : 4 heures ; congélateur plein : environ 48 heures ; à moitié plein : 24 heures.",
+              "sources": [
+                [
+                  "fda"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:21",
+          "titre": "L’eau",
+          "items": [
+            {
+              "texte": "Un château d’eau contient environ une journée de consommation ; il est rempli par pompage.",
+              "sources": [
+                [
+                  "sydec"
+                ]
+              ]
+            },
+            {
+              "texte": "Selon la FNCCR (2022) : réseaux sur surpresseur vides en 15 minutes, eaux usées rejetées vers le milieu naturel, bornes des pompiers branchées sur l’eau potable.",
+              "sources": [
+                [
+                  "maireinfo"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "07:57",
+          "titre": "La nuit",
+          "items": [
+            {
+              "texte": "Prisons : un groupe électrogène prend le relais pour la sécurité (Isère, 2019).",
+              "sources": [
+                [
+                  "prisonIsere"
+                ]
+              ]
+            },
+            {
+              "texte": "Monoxyde de carbone : environ 3 000 intoxiqués et une centaine de morts par an.",
+              "sources": [
+                [
+                  "spf"
+                ]
+              ]
+            },
+            {
+              "texte": "Santé publique France cite les groupes électrogènes mal utilisés pendant les coupures, les braseros et les barbecues ; un chauffage d’appoint, deux heures de suite au plus.",
+              "sources": [
+                [
+                  "spf"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "08:43",
+          "titre": "Les élevages",
+          "items": [
+            {
+              "texte": "Élevages hors-sol de porcs et de volailles : « une coupure pendant moins d’une heure pouvant être fatale ».",
+              "sources": [
+                [
+                  "reussir"
+                ]
+              ]
+            },
+            {
+              "texte": "Environ 14 000 poules pondeuses mortes étouffées, la ventilation arrêtée par un câble rongé.",
+              "sources": [
+                [
+                  "groupama"
+                ]
+              ]
+            },
+            {
+              "texte": "Éleveurs laitiers : une génératrice souvent en copropriété ou en Cuma, pas forcément disponible si la coupure dure deux jours.",
+              "sources": [
+                [
+                  "reussirLait"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "09:18",
+          "titre": "Les sites Seveso",
+          "items": [
+            {
+              "texte": "1 299 établissements Seveso, dont 702 en seuil haut (bilan 2025).",
+              "sources": [
+                [
+                  "icpe"
+                ]
+              ]
+            },
+            {
+              "texte": "DREAL Occitanie : 90 % des industriels arrêtent et mettent le site en sécurité ; des groupes relaient les onduleurs, avec une autonomie qui « dépend fortement des volumes de carburant ».",
+              "sources": [
+                [
+                  "dreal"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "09:52",
+          "titre": "Tout tourne au gazole",
+          "items": [
+            {
+              "texte": "En 1978 déjà, les garages étaient privés de leurs pompes.",
+              "sources": [
+                [
+                  "ina"
+                ]
+              ]
+            },
+            {
+              "texte": "40 millions de voitures au 1er janvier 2026, dont 3,5 % électriques.",
+              "sources": [
+                [
+                  "sdes"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "10:43",
+          "titre": "Le plan Orsec",
+          "items": [
+            {
+              "texte": "Pendant les grèves des raffineries d’octobre 2022, des préfets ont réservé par arrêté des stations-service aux véhicules prioritaires (secours, santé, sécurité).",
+              "sources": [
+                [
+                  "nord"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "11:12",
+          "titre": "Les hôpitaux",
+          "items": [
+            {
+              "texte": "Circulaire du 13 décembre 2005 (grands froids) : du combustible pour au moins 48 heures de groupes électrogènes, et un réapprovisionnement contractualisé avec des distributeurs.",
+              "sources": [
+                [
+                  "aphp"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "11:51",
+          "titre": "Manger",
+          "items": [
+            {
+              "texte": "Hypermarchés et beaucoup de supermarchés ont un générateur, les commerces de proximité sont « très marginalement équipés » ; tout produit remonté au-dessus de sa température réglementaire est jeté.",
+              "sources": [
+                [
+                  "infodurable"
+                ]
+              ]
+            },
+            {
+              "texte": "Une chambre froide gardée fermée tient le temps d’une coupure courte.",
+              "sources": [
+                [
+                  "infodurable"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "12:31",
+          "titre": "Cuisiner",
+          "items": [
+            {
+              "texte": "Pendant une coupure de courant, le gaz continue d’arriver au compteur.",
+              "sources": [
+                [
+                  "selectraChaudiere"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "13:09",
+          "titre": "La dialyse",
+          "items": [
+            {
+              "texte": "51 662 personnes dialysées en France au 31 décembre 2022.",
+              "sources": [
+                [
+                  "abm"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "13:53",
+          "titre": "Les réacteurs nucléaires",
+          "items": [
+            {
+              "texte": "Un réacteur qui perd le réseau s’arrête automatiquement ; deux diesels de secours dont un seul suffit, une turbine de secours entraînée par la vapeur, une source ultime par site.",
+              "sources": [
+                [
+                  "asnr"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "14:58",
+          "titre": "Le kit, jusqu’au bout",
+          "items": [
+            {
+              "texte": "Le gouvernement justifie les 72 heures : « les premières 72h sont souvent les plus éprouvantes ».",
+              "sources": [
+                [
+                  "guide"
+                ],
+                [
+                  "infogouv"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "t": "15:50",
+          "titre": "Le retour du courant",
+          "items": [
+            {
+              "texte": "Pour redémarrer une antenne, une intervention humaine « dans minimum un cas sur deux », selon un responsable cité par Europe 1.",
+              "sources": [
+                [
+                  "europe1"
+                ]
+              ]
+            },
+            {
+              "texte": "Selon le modèle, la chaudière repart seule ou affiche un défaut qu’il faut réarmer.",
+              "sources": [
+                [
+                  "selectraChaudiere"
+                ]
+              ]
+            },
+            {
+              "texte": "Remise en eau : dépôts remis en suspension, eaux sales infiltrées ; après une coupure de 24 heures, attendre 12 heures ou faire bouillir l’eau 5 minutes.",
+              "sources": [
+                [
+                  "arsMayotte"
+                ]
+              ]
+            }
+          ],
+          "nuances": [
+            "D’après Orange, cité dans la question écrite n° 4356, 80 à 85 % de ses antennes repartent seules au retour du courant ; les autres attendent un technicien."
+          ]
+        },
+        {
+          "t": "16:41",
+          "titre": "La facture",
+          "items": [
+            {
+              "texte": "Selon une enquête de RTE (2010-2011), une coupure de plus de 3 minutes coûte 26 € par kWh non distribué, environ 200 fois le prix de l’énergie.",
+              "sources": [
+                [
+                  "enerzine"
+                ]
+              ]
+            },
+            {
+              "texte": "Consommation française en 2025 : environ 449 TWh.",
+              "sources": [
+                [
+                  "rteConso"
+                ]
+              ]
+            },
+            {
+              "texte": "Calcul de la vidéo : trois jours de cette consommation (environ 3,7 TWh) à 26 € le kWh, près de 100 milliards d’euros ; un barème fait pour des coupures courtes, donc une extrapolation.",
+              "sources": [
+                [
+                  "enerzine"
+                ],
+                [
+                  "rteConso"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rapports": [
+    {
+      "pays": "SGDSN",
+      "date": "nov. 2025",
+      "nom": "Guide « Tous responsables »",
+      "resume": "Le guide qui demande à chaque foyer de tenir 72 heures, avec la liste du kit.",
+      "liens": [
+        [
+          "PDF",
+          "guide"
+        ]
+      ]
+    },
+    {
+      "pays": "Assemblée nationale",
+      "date": "2022-2023",
+      "nom": "Question écrite n° 4356",
+      "resume": "Les antennes-relais pendant une coupure : l’affirmation d’Orange, puis la réponse du gouvernement.",
+      "liens": [
+        [
+          "Texte",
+          "qe4356"
+        ]
+      ]
+    },
+    {
+      "pays": "Arcep",
+      "date": "mai 2025",
+      "nom": "La résilience des réseaux",
+      "resume": "Ce que les coupures d’électricité font aux réseaux mobiles, avec le cas de la tempête Ciaran.",
+      "liens": [
+        [
+          "PDF",
+          "arcep"
+        ]
+      ]
+    }
+  ],
+  "plus_loin": [],
+  "visuels": "Reconstitutions schématiques, faites pour la vidéo : les réseaux, les bâtiments et les objets sont redessinés ; les personnes sont dessinées au trait ; le temps est accéléré.",
+  "corrections": [],
+  "sources": {
+    "guidePage": {
+      "nom": "Ministère de la Transition écologique, « Guide “Tous responsables” : comment se préparer aux risques majeurs ? »",
+      "domaine": "ecologie.gouv.fr",
+      "url": "https://www.ecologie.gouv.fr/actualites/guide-tous-responsables-comment-se-preparer-aux-risques-majeurs",
+      "langue": "FR",
+      "officielle": true
+    },
+    "guide": {
+      "nom": "SGDSN, guide « Tous responsables » (novembre 2025)",
+      "domaine": "ecologie.gouv.fr",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/SGDSN_Guide_Tous%20responsables.pdf",
+      "langue": "FR",
+      "officielle": true,
+      "pdf": true
+    },
+    "infogouv": {
+      "nom": "info.gouv.fr, « Se préparer à une situation d’urgence »",
+      "domaine": "info.gouv.fr",
+      "url": "https://www.info.gouv.fr/risques/se-preparer-a-une-situation-durgence",
+      "langue": "FR",
+      "officielle": true
+    },
+    "ina": {
+      "nom": "INA, « Le black-out de 4 heures qui a paralysé la France en 1978 »",
+      "domaine": "institut.ina.fr",
+      "url": "https://www.institut.ina.fr/ina-eclaire-actu/black-out-1978-electricite-surconsommation",
+      "langue": "FR",
+      "officielle": true
+    },
+    "transfo": {
+      "nom": "Campus Transfo, « Le black-out du 19 décembre 1978 »",
+      "domaine": "transfo.estelenerg.org",
+      "url": "https://transfo.estelenerg.org/definition/le-black-out-du-19-decembre-1978/",
+      "langue": "FR"
+    },
+    "rte": {
+      "nom": "RTE, foire aux questions sur le black-out du 28 avril 2025 dans la péninsule Ibérique (mise à jour du 25 mars 2026)",
+      "domaine": "rte-france.com",
+      "url": "https://www.rte-france.com/actualites/mise-jour-25-mars-2026-foire-questions-black-out-28-avril-2025-sur-peninsule-iberique",
+      "langue": "FR"
+    },
+    "infofr": {
+      "nom": "info.fr, « Marseille : les tunnels de la Major et du Prado-Carénage rouverts après une panne électrique » (juillet 2026)",
+      "domaine": "info.fr",
+      "url": "https://info.fr/marseille-tunnels-major-prado-carenage-rouverts-panne-electrique/",
+      "langue": "FR"
+    },
+    "aipcr": {
+      "nom": "AIPCR, Manuel des tunnels routiers, éclairage de sécurité",
+      "domaine": "tunnelsmanual.piarc.org",
+      "url": "https://tunnelsmanual.piarc.org/print/book/export/html/2285",
+      "langue": "FR"
+    },
+    "tourmag": {
+      "nom": "TourMaG, « Paris-Charles de Gaulle privé d’électricité vendredi »",
+      "domaine": "tourmag.com",
+      "url": "https://www.tourmag.com/Paris-Charles-de-Gaulle-prive-d-electricite-vendredi_a32983.html",
+      "langue": "FR"
+    },
+    "monimmeuble": {
+      "nom": "Mon Immeuble, chiffres de la Fédération des ascenseurs",
+      "domaine": "monimmeuble.com",
+      "url": "https://monimmeuble.com/actualite/ascensoristes-decouvrez-les-chiffres-2022-du-marche-de-lascenseur",
+      "langue": "FR"
+    },
+    "selectraMobile": {
+      "nom": "Selectra, « Panne d’électricité : le réseau mobile tombe avec, quelle autonomie pour les antennes ? »",
+      "domaine": "selectra.info",
+      "url": "https://selectra.info/telecom/actualites/marche/reseau-mobile-tombe-avec-electricite-autonomie-antennes",
+      "langue": "FR"
+    },
+    "selectraChaudiere": {
+      "nom": "Selectra, « Coupure de courant : la chaudière gaz s’arrête » (21 oct. 2026)",
+      "domaine": "selectra.info",
+      "url": "https://selectra.info/energie/actualites/marche/coupure-courant-vent-chaudiere-gaz-ballon-tient",
+      "langue": "FR"
+    },
+    "qe4356": {
+      "nom": "Assemblée nationale, question écrite n° 4356 (2022) et réponse du gouvernement (2023)",
+      "domaine": "assemblee-nationale.fr",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE4356",
+      "langue": "FR",
+      "officielle": true
+    },
+    "arcep": {
+      "nom": "Arcep, note de synthèse « La résilience des réseaux de communications électroniques » (mai 2025)",
+      "domaine": "arcep.fr",
+      "url": "https://www.arcep.fr/uploads/tx_gspublication/reseaux-du-futur_note-synthese_resilience-des-reseaux_mai2025.pdf",
+      "langue": "FR",
+      "officielle": true,
+      "pdf": true
+    },
+    "europe1": {
+      "nom": "Europe 1, « Pourquoi les services de secours seront injoignables cet hiver en cas de coupure de courant »",
+      "domaine": "europe1.fr",
+      "url": "https://www.europe1.fr/societe/pourquoi-les-services-de-secours-seront-injoignables-cet-hiver-en-cas-de-coupure-de-courant-4149535",
+      "langue": "FR"
+    },
+    "frAlert": {
+      "nom": "service-public.fr, FR-Alert",
+      "domaine": "service-public.gouv.fr",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A15732",
+      "langue": "FR",
+      "officielle": true
+    },
+    "actionEtat": {
+      "nom": "info.gouv.fr, « L’action de l’État »",
+      "domaine": "info.gouv.fr",
+      "url": "https://www.info.gouv.fr/risques/laction-de-letat",
+      "langue": "FR",
+      "officielle": true
+    },
+    "revuePraticien": {
+      "nom": "La Revue du Praticien, « Oxygénothérapie à long terme dans les pathologies respiratoires chroniques »",
+      "domaine": "larevuedupraticien.fr",
+      "url": "https://www.larevuedupraticien.fr/article/oxygenotherapie-long-terme-dans-les-pathologies-respiratoires-chroniques",
+      "langue": "FR"
+    },
+    "arsAra": {
+      "nom": "ARS Auvergne-Rhône-Alpes, « Patient à haut risque vital : démarches à suivre pour être informé en cas de coupure d’électricité »",
+      "domaine": "auvergne-rhone-alpes.ars.sante.fr",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/patient-haut-risque-vital-demarches-suivre-pour-etre-informe-en-cas-de-coupure-delectricite",
+      "langue": "FR",
+      "officielle": true
+    },
+    "fhf": {
+      "nom": "FHF, décret n° 2007-1344 du 12 septembre 2007 sur la défaillance du réseau d’énergie",
+      "domaine": "fhf.fr",
+      "url": "https://www.fhf.fr/autonomie-archive/decret-ndeg2007-1344-du-12-septembre-2007-sur-la-defaillance-du-reseau-denergie",
+      "langue": "FR"
+    },
+    "quelleEnergie": {
+      "nom": "Quelle Énergie, « La maison française moins bien isolée que ses voisines européennes »",
+      "domaine": "quelleenergie.fr",
+      "url": "https://www.quelleenergie.fr/magazine/la-maison-francaise-moins-bien-isolee-que-ses-voisines-europeennes",
+      "langue": "FR"
+    },
+    "fda": {
+      "nom": "FDA, « Sécurité sanitaire des aliments et de l’eau lors de pannes d’électricité et d’inondations »",
+      "domaine": "fda.gov",
+      "url": "https://www.fda.gov/food/buy-store-serve-safe-food/securite-sanitaire-des-aliments-et-de-leau-lors-de-pannes-delectricite-et-dinondations",
+      "langue": "FR",
+      "officielle": true
+    },
+    "sydec": {
+      "nom": "SYDEC 40, « Un château d’eau, comment ça marche ? »",
+      "domaine": "sydec40.fr",
+      "url": "https://www.sydec40.fr/un-chateau-deau-comment-ca-marche/",
+      "langue": "FR"
+    },
+    "maireinfo": {
+      "nom": "Maire-info, « Coupures d’électricité cet hiver : un risque majeur pour les installations d’eau et d’assainissement » (2022)",
+      "domaine": "maire-info.com",
+      "url": "https://www.maire-info.com/coupures-d'electricite-cet-hiver-un-risque-majeur-pour-les-installations-d'eau-et-d'assainissement%C2%A0-article2-26726",
+      "langue": "FR"
+    },
+    "prisonIsere": {
+      "nom": "AFP, « En Isère, une prison privée d’électricité une bonne partie de la journée de mardi » (2019), sur Connaissance des énergies",
+      "domaine": "connaissancedesenergies.org",
+      "url": "https://www.connaissancedesenergies.org/afp/en-isere-une-prison-privee-delectricite-une-bonne-partie-de-la-journee-de-mardi-190709",
+      "langue": "FR"
+    },
+    "spf": {
+      "nom": "Santé publique France, « Intoxications au monoxyde de carbone : adopter les bons gestes peut sauver des vies » (2025)",
+      "domaine": "santepubliquefrance.fr",
+      "url": "https://www.santepubliquefrance.fr/presse/2025/intoxications-au-monoxyde-de-carbone.-adopter-les-bons-gestes-peut-sauver-des-vies",
+      "langue": "FR",
+      "officielle": true
+    },
+    "reussir": {
+      "nom": "Réussir, « Risques de coupures d’électricité : comment les agriculteurs doivent s’y préparer » (déc. 2022)",
+      "domaine": "reussir.fr",
+      "url": "https://www.reussir.fr/risques-de-coupures-delectricite-comment-les-agriculteurs-doivent-sy-preparer",
+      "langue": "FR"
+    },
+    "groupama": {
+      "nom": "Groupama, « Protection des bâtiments d’élevage »",
+      "domaine": "groupama.fr",
+      "url": "https://www.groupama.fr/assurance-agricole/conseils/protection-batiments-elevage/",
+      "langue": "FR"
+    },
+    "reussirLait": {
+      "nom": "Réussir Lait, « Cinq points à vérifier au niveau électrique et géobiologique avant d’installer un robot de traite »",
+      "domaine": "reussir.fr",
+      "url": "https://www.reussir.fr/lait/cinq-points-verifier-au-niveau-electrique-et-geobiologique-avant-dinstaller-un-robot-de-traite",
+      "langue": "FR"
+    },
+    "icpe": {
+      "nom": "Ministère de la Transition écologique, bilan de l’inspection des installations classées pour 2025",
+      "domaine": "ecologie.gouv.fr",
+      "url": "https://www.ecologie.gouv.fr/presse/bilan-laction-linspection-installations-classees-protection-lenvironnement-icpe-lannee-2025",
+      "langue": "FR",
+      "officielle": true
+    },
+    "dreal": {
+      "nom": "DREAL Occitanie, action d’inspection « Perte d’utilités »",
+      "domaine": "occitanie.developpement-durable.gouv.fr",
+      "url": "https://www.occitanie.developpement-durable.gouv.fr/IMG/pdf/perte_d_utilites.pdf",
+      "langue": "FR",
+      "officielle": true,
+      "pdf": true
+    },
+    "sdes": {
+      "nom": "SDES, « 40 millions de voitures en circulation en France au 1er janvier 2026 »",
+      "domaine": "statistiques.developpement-durable.gouv.fr",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/40-millions-de-voitures-en-circulation-en-france-au-1er-janvier-2026",
+      "langue": "FR",
+      "officielle": true
+    },
+    "nord": {
+      "nom": "Préfecture du Nord, communiqué sur l’approvisionnement en carburant (5 oct. 2022)",
+      "domaine": "nord.gouv.fr",
+      "url": "https://www.nord.gouv.fr/contenu/telechargement/85859/520267/file/221005_CP_d_Approvisionnement%20en%20carburant%20-%20Les%20mesures%20dans%20le%20Nord-1-1.pdf",
+      "langue": "FR",
+      "officielle": true,
+      "pdf": true
+    },
+    "aphp": {
+      "nom": "AP-HP, affaires juridiques, circulaire DHOS/E4 n° 2005-547 du 13 décembre 2005",
+      "domaine": "affairesjuridiques.aphp.fr",
+      "url": "https://affairesjuridiques.aphp.fr/textes/circulaire-dhose4-n-2005-547-du-13-decembre-2005-relative-a-la-prevention-des-risques-electriques-dans-des-conditions-climatiques-de-grands-froids/",
+      "langue": "FR"
+    },
+    "infodurable": {
+      "nom": "L’Info Durable (AFP), « Électricité : coupures ou pas coupures, les supermarchés se préparent » (déc. 2022)",
+      "domaine": "linfodurable.fr",
+      "url": "https://www.linfodurable.fr/electricite-coupures-ou-pas-coupures-les-supermarches-se-preparent-35729",
+      "langue": "FR"
+    },
+    "abm": {
+      "nom": "Agence de la biomédecine, synthèse du rapport REIN 2022",
+      "domaine": "agence-biomedecine.fr",
+      "url": "https://agence-biomedecine.fr/IMG/pdf/abm-rapport-rein-2022-v7.pdf",
+      "langue": "FR",
+      "officielle": true,
+      "pdf": true
+    },
+    "asnr": {
+      "nom": "ASNR, « Les alimentations électriques sur une centrale nucléaire française »",
+      "domaine": "recherche-expertise.asnr.fr",
+      "url": "https://recherche-expertise.asnr.fr/savoir-comprendre/surete/alimentations-electriques-sur-centrale-nucleaire-francaise",
+      "langue": "FR",
+      "officielle": true
+    },
+    "arsMayotte": {
+      "nom": "ARS Mayotte, consignes à la remise en eau",
+      "domaine": "mayotte.ars.sante.fr",
+      "url": "https://www.mayotte.ars.sante.fr/media/112117/download",
+      "langue": "FR",
+      "officielle": true,
+      "pdf": true
+    },
+    "enerzine": {
+      "nom": "Enerzine, « Combien nous coûtent les coupures de courant en France ? » (2012)",
+      "domaine": "enerzine.com",
+      "url": "https://www.enerzine.com/combien-nous-coutent-les-coupures-de-courant-en-france/12104-2012-04",
+      "langue": "FR"
+    },
+    "rteConso": {
+      "nom": "RTE, bilan électrique 2025, premières tendances (janv. 2026)",
+      "domaine": "rte-france.com",
+      "url": "https://assets.rte-france.com/analyse-et-donnees/2026-01/2026-01-02-bilan-electrique-2025-premieres-tendances.pdf",
+      "langue": "FR",
+      "pdf": true
+    }
+  }
+}
