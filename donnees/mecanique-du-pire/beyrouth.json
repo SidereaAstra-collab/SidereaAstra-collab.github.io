@@ -1,0 +1,1013 @@
+{
+ "slug": "beyrouth",
+ "numero": "12",
+ "titre": "Le port de Beyrouth",
+ "sous_titre": "4 août 2020 : 2 750 tonnes de nitrate d’ammonium, six ans dans un hangar du port",
+ "description": "Les sources de la vidéo de La mécanique du pire sur l’explosion du port de Beyrouth (4 août 2020), passage par passage.",
+ "verifie": "26 nov. 2026",
+ "mise_a_jour": "26 nov. 2026",
+ "avertissement": "Aucune responsabilité n’est établie : l’acte d’accusation n’était pas publié le 26 novembre 2026, aucun procès n’a commencé, et toutes les personnes poursuivies sont présumées innocentes. Comme la vidéo, la page ne nomme personne.",
+ "image_partage": "beyrouth.jpg",
+ "image_entete": "beyrouth.jpg",
+ "image_alt": "Miniature de la vidéo : « Stocké là depuis six ans », les silos à grain du port de Beyrouth la nuit, à côté d’un nuage de fumée qui monte d’un départ de feu.",
+ "titre_rapports": "Les documents de référence",
+ "parties": [
+  {
+   "id": "video",
+   "numero": 1,
+   "nom": "Le port de Beyrouth",
+   "mise_en_ligne": "26 nov. 2026",
+   "youtube": "RC8pym_Cbd8",
+   "miniature": "beyrouth.jpg",
+   "note": "",
+   "passages": [
+    {
+     "t": "00:00",
+     "titre": "Le 4 août 2020",
+     "items": [
+      {
+       "texte": "Un grand nuage rouge orangé, entouré un instant d’un nuage blanc de condensation ; la couleur viendrait du dioxyde d’azote.",
+       "sources": [
+        [
+         "wiki"
+        ],
+        [
+         "ap0805"
+        ]
+       ]
+      },
+      {
+       "texte": "La détonation a lieu à 18 h 08.",
+       "sources": [
+        [
+         "hrw"
+        ]
+       ]
+      },
+      {
+       "texte": "218 morts selon Human Rights Watch ; plus de 300 000 habitants ont dû quitter leur logement.",
+       "sources": [
+        [
+         "hrw"
+        ],
+        [
+         "wiki"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    },
+    {
+     "t": "00:25",
+     "titre": "Le stock, les lettres, le rapport",
+     "items": [
+      {
+       "texte": "2 750 tonnes de nitrate d’ammonium, déchargées dans le hangar 12 les 23 et 24 octobre 2014 ; d’autres sources écrivent 2 754 ou 2 755,5 tonnes.",
+       "sources": [
+        [
+         "hrw"
+        ],
+        [
+         "reuters2021"
+        ],
+        [
+         "ap"
+        ]
+       ]
+      },
+      {
+       "texte": "Le cargo avait fait une escale imprévue à Beyrouth.",
+       "sources": [
+        [
+         "ap"
+        ]
+       ]
+      },
+      {
+       "texte": "Au moins six lettres des douanes à la justice, entre 2014 et 2017.",
+       "sources": [
+        [
+         "ap"
+        ]
+       ]
+      },
+      {
+       "texte": "Un rapport sur ce stock est envoyé au président et au Premier ministre le 20 juillet 2020.",
+       "sources": [
+        [
+         "hrw"
+        ],
+        [
+         "reuters2020"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    },
+    {
+     "t": "00:50",
+     "titre": "Le jour même, avant le feu",
+     "items": [
+      {
+       "texte": "Le 4 août, une équipe est envoyée pour boucher le trou du mur sud ; des ouvriers soudent des portes vers 16 heures.",
+       "sources": [
+        [
+         "hrw"
+        ]
+       ]
+      },
+      {
+       "texte": "Ces travaux suivent l’ordre du procureur général du 1er juin 2020.",
+       "sources": [
+        [
+         "hrw"
+        ],
+        [
+         "reuters2020"
+        ]
+       ]
+      },
+      {
+       "texte": "Incendie vers 17 h 45 ; pompiers alertés entre 17 h 54 et 17 h 55.",
+       "sources": [
+        [
+         "wiki"
+        ],
+        [
+         "hrw"
+        ]
+       ]
+      },
+      {
+       "texte": "Dix pompiers et secouristes sont envoyés ; personne ne leur parle du nitrate.",
+       "sources": [
+        [
+         "wiki"
+        ],
+        [
+         "afp0814"
+        ],
+        [
+         "hrw"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    },
+    {
+     "t": "01:22",
+     "titre": "Le Rhosus",
+     "items": [
+      {
+       "texte": "Cargo construit en 1986, pavillon moldave ; parti de Batoumi fin septembre 2013 pour Beira, au Mozambique, avec 2 750 tonnes de nitrate en sacs.",
+       "sources": [
+        [
+         "wikiRhosus"
+        ],
+        [
+         "hrw"
+        ]
+       ]
+      },
+      {
+       "texte": "Destinataire indiqué : un fabricant d’explosifs du Mozambique ; Human Rights Watch note qu’on ne sait pas si la cargaison y allait vraiment.",
+       "sources": [
+        [
+         "wikiRhosus"
+        ],
+        [
+         "ap"
+        ],
+        [
+         "hrw"
+        ]
+       ]
+      },
+      {
+       "texte": "Selon le capitaine, l’armateur ordonne une escale pour charger du matériel de prospection sismique, à livrer en Jordanie, et payer le passage de Suez.",
+       "sources": [
+        [
+         "hrw"
+        ],
+        [
+         "reuters2021"
+        ]
+       ]
+      },
+      {
+       "texte": "Le navire est déjà plein ; le matériel est trop lourd et le chargement échoue.",
+       "sources": [
+        [
+         "hrw"
+        ],
+        [
+         "wikiRhosus"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    },
+    {
+     "t": "02:11",
+     "titre": "Le cargo bloqué",
+     "items": [
+      {
+       "texte": "Jugé inapte à naviguer, le navire est interdit de départ, puis saisi pour dettes impayées (décembre 2013).",
+       "sources": [
+        [
+         "wikiRhosus"
+        ],
+        [
+         "hrw"
+        ],
+        [
+         "reuters2020"
+        ]
+       ]
+      },
+      {
+       "texte": "Le capitaine et trois marins restent bloqués à bord environ un an, jusqu’en septembre 2014.",
+       "sources": [
+        [
+         "wikiRhosus"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    },
+    {
+     "t": "02:31",
+     "titre": "Le déchargement dans le hangar 12",
+     "items": [
+      {
+       "texte": "27 juin 2014 : un juge des référés, inquiet que le navire coule, autorise le déchargement et le stockage « in an appropriate place ».",
+       "sources": [
+        [
+         "ap"
+        ],
+        [
+         "hrw"
+        ]
+       ]
+      },
+      {
+       "texte": "23 et 24 octobre 2014 : les sacs entrent dans le hangar 12, « designated for hazardous and flammable materials ».",
+       "sources": [
+        [
+         "hrw"
+        ],
+        [
+         "ap"
+        ]
+       ]
+      },
+      {
+       "texte": "Le Rhosus coule dans le port en février 2018.",
+       "sources": [
+        [
+         "wikiRhosus"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    },
+    {
+     "t": "02:56",
+     "titre": "Le nitrate, et AZF",
+     "items": [
+      {
+       "texte": "34,7 % d’azote : la loi libanaise le classe parmi les matières explosives (seuil de 33,5 %) ; c’est un classement juridique.",
+       "sources": [
+        [
+         "hrw"
+        ],
+        [
+         "ap"
+        ]
+       ]
+      },
+      {
+       "texte": "Le nitrate d’ammonium n’est pas combustible mais comburant : il « peut aggraver un incendie ».",
+       "sources": [
+        [
+         "fds"
+        ]
+       ]
+      },
+      {
+       "texte": "Fondu dans un incendie, contaminé ou confiné, sa détonation ne peut être exclue.",
+       "sources": [
+        [
+         "ineris2002"
+        ],
+        [
+         "ineris2020"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    },
+    {
+     "t": "03:26",
+     "titre": "Le hangar 12",
+     "items": [
+      {
+       "texte": "Selon Human Rights Watch, qui cite le New York Times : kérosène, acide chlorhydrique, mèches, feux d’artifice, et des sacs de nitrate empilés près du carburant.",
+       "sources": [
+        [
+         "hrw"
+        ]
+       ]
+      },
+      {
+       "texte": "D’anciens employés disent les feux d’artifice entreposés là depuis 2009-2010.",
+       "sources": [
+        [
+         "national"
+        ]
+       ]
+      },
+      {
+       "texte": "Le hangar n’est pas gardé correctement ; le premier immeuble habité est à 480 m.",
+       "sources": [
+        [
+         "hrw"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    },
+    {
+     "t": "03:49",
+     "titre": "Les alertes, de 2014 à 2017",
+     "items": [
+      {
+       "texte": "24 octobre 2014 : un responsable des douanes du port recommande de remettre le nitrate à l’armée ou de le réexporter, pour éviter une catastrophe.",
+       "sources": [
+        [
+         "hrw"
+        ]
+       ]
+      },
+      {
+       "texte": "Six lettres des douanes au juge des référés ; trois solutions : réexporter, céder à l’armée, vendre à une entreprise libanaise d’explosifs.",
+       "sources": [
+        [
+         "ap"
+        ],
+        [
+         "aljazeera"
+        ]
+       ]
+      },
+      {
+       "texte": "Lettre de 2016 : « the serious danger of keeping these goods in the hangar in unsuitable climatic conditions ».",
+       "sources": [
+        [
+         "aljazeera"
+        ]
+       ]
+      },
+      {
+       "texte": "L’armée n’en a pas besoin et suggère l’entreprise d’explosifs, qui dira ne pas acheter de produits saisis d’origine et de qualité inconnues.",
+       "sources": [
+        [
+         "reuters2020"
+        ],
+        [
+         "ap"
+        ]
+       ]
+      },
+      {
+       "texte": "Aucune réponse ne tranche le sort du nitrate.",
+       "sources": [
+        [
+         "aljazeera"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    },
+    {
+     "t": "04:47",
+     "titre": "La Sûreté de l’État",
+     "items": [
+      {
+       "texte": "Enquête ordonnée le 27 janvier 2020 : une porte arrachée, un trou de 50 cm sur 50 dans le mur sud, aucun garde.",
+       "sources": [
+        [
+         "hrw"
+        ]
+       ]
+      },
+      {
+       "texte": "La Sûreté de l’État fait partie des services chargés de la sécurité du port.",
+       "sources": [
+        [
+         "reuters2020"
+        ]
+       ]
+      },
+      {
+       "texte": "1er juin 2020 : le procureur général ordonne de faire garder le hangar, d’y nommer un magasinier et de réparer portes et murs.",
+       "sources": [
+        [
+         "hrw"
+        ],
+        [
+         "reuters2020"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    },
+    {
+     "t": "05:12",
+     "titre": "Le rapport du 20 juillet",
+     "items": [
+      {
+       "texte": "Rapport envoyé le 20 juillet au président et au Premier ministre ; un haut responsable de la sécurité dit les avoir prévenus que le stock pouvait détruire Beyrouth.",
+       "sources": [
+        [
+         "hrw"
+        ],
+        [
+         "reuters2020"
+        ]
+       ]
+      },
+      {
+       "texte": "Selon Human Rights Watch, le rapport insistait sur le risque de vol et ne recommandait aucun plan d’urgence.",
+       "sources": [
+        [
+         "hrw"
+        ]
+       ]
+      },
+      {
+       "texte": "Le président dit avoir demandé qu’on fasse le nécessaire ; le rapport part le 24 juillet aux ministères de la Justice et des Travaux publics.",
+       "sources": [
+        [
+         "reuters2020"
+        ],
+        [
+         "hrw"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    },
+    {
+     "t": "05:47",
+     "titre": "Le 4 août, l’incendie",
+     "items": [
+      {
+       "texte": "Trois ouvriers soudent des portes vers 16 heures ; l’incendie démarre à une cinquantaine de mètres de là.",
+       "sources": [
+        [
+         "hrw"
+        ]
+       ]
+      },
+      {
+       "texte": "Des feux d’artifice crépitent sur les vidéos ; arrivés quatre minutes après l’alerte, les pompiers tentent d’ouvrir le hangar et demandent des renforts.",
+       "sources": [
+        [
+         "hrw"
+        ],
+        [
+         "ap"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    },
+    {
+     "t": "06:12",
+     "titre": "La cause du feu",
+     "items": [
+      {
+       "texte": "La cause de l’incendie n’est pas établie publiquement ; le FBI, venu à la demande du Liban, n’a pas tranché.",
+       "sources": [
+        [
+         "hrw"
+        ],
+        [
+         "reuters2021"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    },
+    {
+     "t": "06:26",
+     "titre": "L’explosion",
+     "items": [
+      {
+       "texte": "Première explosion vers 18 h 07, détonation du nitrate 33 à 35 secondes plus tard.",
+       "sources": [
+        [
+         "wiki"
+        ],
+        [
+         "hrw"
+        ]
+       ]
+      },
+      {
+       "texte": "La mince sphère blanche : de la vapeur d’eau qui se condense derrière l’onde de choc.",
+       "sources": [
+        [
+         "sciam"
+        ]
+       ]
+      },
+      {
+       "texte": "Ressentie jusqu’à Chypre, à environ 240 km.",
+       "sources": [
+        [
+         "wiki"
+        ],
+        [
+         "dawn"
+        ]
+       ]
+      },
+      {
+       "texte": "Un cratère de 43 m de profondeur, selon un responsable de la sécurité libanais.",
+       "sources": [
+        [
+         "aawsat0809"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    },
+    {
+     "t": "07:01",
+     "titre": "La puissance, les silos",
+     "items": [
+      {
+       "texte": "Quelques centaines de tonnes à environ un millier de tonnes de TNT selon la plupart des études ; « one of the largest non-nuclear explosions ever recorded ».",
+       "sources": [
+        [
+         "wiki"
+        ],
+        [
+         "reuters2021"
+        ]
+       ]
+      },
+      {
+       "texte": "Silos à grain de 48 m.",
+       "sources": [
+        [
+         "arabnewsSilos"
+        ]
+       ]
+      },
+      {
+       "texte": "Essais à l’échelle 1:250 : forte protection juste derrière les silos, effet qui disparaît plus loin.",
+       "sources": [
+        [
+         "denny"
+        ],
+        [
+         "wiki"
+        ]
+       ]
+      },
+      {
+       "texte": "Des vitres brisées à des kilomètres.",
+       "sources": [
+        [
+         "ap0805"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    },
+    {
+     "t": "07:34",
+     "titre": "Le bilan",
+     "items": [
+      {
+       "texte": "Les dix pompiers et secouristes envoyés sur place sont tués.",
+       "sources": [
+        [
+         "wiki"
+        ],
+        [
+         "afp0814"
+        ]
+       ]
+      },
+      {
+       "texte": "Au moins 235 morts selon Anadolu (septembre 2026), 218 selon Human Rights Watch (2021).",
+       "sources": [
+        [
+         "anadolu"
+        ],
+        [
+         "hrw"
+        ]
+       ]
+      },
+      {
+       "texte": "Environ 7 000 blessés, 77 000 appartements endommagés, plus de 300 000 personnes déplacées.",
+       "sources": [
+        [
+         "hrw"
+        ],
+        [
+         "anadolu"
+        ]
+       ]
+      },
+      {
+       "texte": "Dégâts matériels de 3,8 à 4,6 milliards de dollars, selon la Banque mondiale.",
+       "sources": [
+        [
+         "worldbank"
+        ],
+        [
+         "hrw"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    },
+    {
+     "t": "08:06",
+     "titre": "La quantité qui a explosé",
+     "items": [
+      {
+       "texte": "Selon un rapport du FBI révélé par Reuters en 2021, environ 552 tonnes ont explosé, sans explication de l’écart.",
+       "sources": [
+        [
+         "reuters2021"
+        ]
+       ]
+      },
+      {
+       "texte": "D’autres experts estiment que la plus grande partie, voire tout le stock, a détoné.",
+       "sources": [
+        [
+         "hrw"
+        ],
+        [
+         "wiki"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    },
+    {
+     "t": "08:30",
+     "titre": "L’enquête judiciaire",
+     "items": [
+      {
+       "texte": "L’affaire est renvoyée devant la Cour de justice, juridiction d’exception ; l’enquête est confiée à un juge d’instruction.",
+       "sources": [
+        [
+         "olj"
+        ]
+       ]
+      },
+      {
+       "texte": "Décembre 2020 : le premier juge inculpe pour négligence le Premier ministre sortant et trois anciens ministres ; le 18 février 2021, la Cour de cassation le dessaisit.",
+       "sources": [
+        [
+         "universalis"
+        ],
+        [
+         "aljazeera2021"
+        ]
+       ]
+      },
+      {
+       "texte": "Son successeur fait face à des dizaines de recours ; enquête suspendue de fin 2021 à janvier 2023, puis de nouveau jusqu’en janvier 2025.",
+       "sources": [
+        [
+         "arabnewsRecours"
+        ],
+        [
+         "libnanews"
+        ],
+        [
+         "arabnews2025"
+        ]
+       ]
+      },
+      {
+       "texte": "30 mars 2026 : l’enquête est close ; mi-septembre, le parquet remet un avis de 270 pages.",
+       "sources": [
+        [
+         "timep"
+        ],
+        [
+         "anadolu"
+        ],
+        [
+         "oljAvis"
+        ]
+       ]
+      },
+      {
+       "texte": "4 novembre 2026 : quatre anciens officiers de l’armée sont interrogés et inculpés.",
+       "sources": [
+        [
+         "aawsatNov"
+        ],
+        [
+         "mtv"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    },
+    {
+     "t": "09:20",
+     "titre": "Où en est l’affaire",
+     "items": [
+      {
+       "texte": "Plus de 70 personnes poursuivies : responsables politiques, de la sécurité et de l’armée, employés publics ; parmi eux, des douaniers et des employés du port.",
+       "sources": [
+        [
+         "anadolu"
+        ],
+        [
+         "lbci"
+        ]
+       ]
+      },
+      {
+       "texte": "L’acte d’accusation est attendu « avant la fin de l’année », selon des sources judiciaires citées par la presse.",
+       "sources": [
+        [
+         "aawsatNov"
+        ],
+        [
+         "mtv"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    },
+    {
+     "t": "10:07",
+     "titre": "Les silos aujourd’hui",
+     "items": [
+      {
+       "texte": "Une partie des silos s’effondre en juillet et août 2022 ; ils sont toujours debout en 2026, à moitié effondrés.",
+       "sources": [
+        [
+         "wiki"
+        ],
+        [
+         "oljAout2026"
+        ]
+       ]
+      },
+      {
+       "texte": "Inscrits à l’inventaire général des monuments historiques le 3 août 2025.",
+       "sources": [
+        [
+         "oljSilos"
+        ]
+       ]
+      }
+     ],
+     "nuances": []
+    }
+   ]
+  }
+ ],
+ "rapports": [
+  {
+   "pays": "Human Rights Watch",
+   "date": "août 2021",
+   "nom": "« They Killed Us From the Inside »",
+   "resume": "La reconstitution la plus complète : documents officiels, chronologie des alertes, journée du 4 août.",
+   "liens": [
+    [
+     "Rapport",
+     "hrw"
+    ]
+   ]
+  },
+  {
+   "pays": "Banque mondiale",
+   "date": "août 2020",
+   "nom": "Évaluation rapide des dégâts",
+   "resume": "Le coût des dégâts matériels et des pertes économiques à Beyrouth.",
+   "liens": [
+    [
+     "Texte",
+     "worldbank"
+    ]
+   ]
+  }
+ ],
+ "plus_loin": [],
+ "visuels": "Reconstitutions schématiques, faites pour la vidéo : le port, le hangar, le cargo et la ville sont redessinés ; les personnes sont dessinées au trait.",
+ "corrections": [],
+ "sources": {
+  "hrw": {
+   "nom": "Human Rights Watch, « “They Killed Us From the Inside” : An Investigation into the August 4 Beirut Blast » (3 août 2021)",
+   "domaine": "hrw.org",
+   "url": "https://www.hrw.org/report/2021/08/03/they-killed-us-inside/investigation-august-4-beirut-blast"
+  },
+  "reuters2020": {
+   "nom": "Reuters, « Lebanon’s leaders were warned in July about explosives at port » (11 août 2020), repris par Al Jazeera",
+   "domaine": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2020/8/11/reports-lebanons-leaders-warned-in-july-about-port-explosives"
+  },
+  "reuters2021": {
+   "nom": "Reuters, « FBI probe shows amount of chemicals in Beirut blast was a fraction of original shipment » (30 juil. 2021), repris par L’Orient Today",
+   "domaine": "today.lorientlejour.com",
+   "url": "https://today.lorientlejour.com/article/1270074/fbi-probe-shows-amount-of-chemicals-in-beirut-blast-was-a-fraction-of-original-shipment.html"
+  },
+  "ap": {
+   "nom": "AP, « Officials long warned of explosive chemicals at Beirut port » (7 août 2020)",
+   "domaine": "lasvegassun.com",
+   "url": "https://lasvegassun.com/news/2020/aug/07/officials-long-warned-of-explosive-chemicals-at-be/"
+  },
+  "ap0805": {
+   "nom": "AP, « Fireworks, ammonium nitrate likely fueled Beirut explosion » (5 août 2020)",
+   "domaine": "click2houston.com",
+   "url": "https://www.click2houston.com/news/world/2020/08/05/fireworks-ammonium-nitrate-likely-fueled-beirut-explosion/"
+  },
+  "aljazeera": {
+   "nom": "Al Jazeera, « Beirut blast: Tracing the explosives that tore the capital apart » (5 août 2020)",
+   "domaine": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2020/08/05/beirut-blast-tracing-the-explosives-that-tore-the-capital-apart/"
+  },
+  "wiki": {
+   "nom": "Wikipédia en anglais, « 2020 Beirut explosion »",
+   "domaine": "en.wikipedia.org",
+   "url": "https://en.wikipedia.org/wiki/2020_Beirut_explosion"
+  },
+  "wikiRhosus": {
+   "nom": "Wikipédia en anglais, « MV Rhosus »",
+   "domaine": "en.wikipedia.org",
+   "url": "https://en.wikipedia.org/wiki/MV_Rhosus"
+  },
+  "worldbank": {
+   "nom": "Banque mondiale, Beirut Rapid Damage and Needs Assessment (août 2020)",
+   "domaine": "worldbank.org",
+   "url": "https://www.worldbank.org/en/country/lebanon/publication/beirut-rapid-damage-and-needs-assessment-rdna---august-2020",
+   "officielle": true
+  },
+  "sciam": {
+   "nom": "Scientific American, « How Could the Beirut Explosion Happen? Experts Explain »",
+   "domaine": "scientificamerican.com",
+   "url": "https://www.scientificamerican.com/article/how-could-the-beirut-explosion-happen-experts-explain/"
+  },
+  "afp0814": {
+   "nom": "AFP, « Beyrouth : de nouvelles victimes retrouvées » (14 août 2020), sur Tendance Ouest",
+   "domaine": "tendanceouest.com",
+   "url": "https://www.tendanceouest.com/actualite-368772-beyrouth-explosion-de-nouvelles-victimes-retrouvees-un-juge-local-pour-l-enquete",
+   "langue": "FR"
+  },
+  "fds": {
+   "nom": "Fiche de données de sécurité d’un ammonitrate 34,4 (mention H272)",
+   "domaine": "agriconomie.com",
+   "url": "https://public.agriconomie.com/fiche-produit/engrais/FDS/FDS_Ammonitrate_34-4_ID149892.pdf",
+   "langue": "FR",
+   "pdf": true
+  },
+  "ineris2002": {
+   "nom": "Circulaire du 21 janvier 2002 relative aux installations classées (après AZF), sur AIDA (Ineris)",
+   "domaine": "aida.ineris.fr",
+   "url": "https://aida.ineris.fr/reglementation/circulaire-210102-relative-installations-classees-prevention-accidents-majeurs",
+   "langue": "FR",
+   "officielle": true
+  },
+  "ineris2020": {
+   "nom": "Ineris, note sur le risque de détonation des ammonitrates (décembre 2020)",
+   "domaine": "ineris.fr",
+   "url": "https://www.ineris.fr/sites/default/files/contribution/Documents/CR_BEA_AUBE_8122020.pdf",
+   "langue": "FR",
+   "officielle": true,
+   "pdf": true
+  },
+  "national": {
+   "nom": "The National, « Hangar 12 fireworks were stored next to ammonium nitrate in Beirut warehouse, former workers say »",
+   "domaine": "thenationalnews.com",
+   "url": "https://thenationalnews.com/world/mena/hangar-12-fireworks-were-stored-next-to-ammonium-nitrate-in-beirut-warehouse-former-workers-say-1.1061940"
+  },
+  "dawn": {
+   "nom": "AFP, « Beirut port blast crater 43 metres deep: official », sur Dawn",
+   "domaine": "dawn.com",
+   "url": "https://dawn.com/news/1573600/beirut-port-blast-crater-43-metres-deep-official"
+  },
+  "aawsat0809": {
+   "nom": "Asharq Al-Awsat (AFP), cratère de 43 m (9 août 2020)",
+   "domaine": "english.aawsat.com",
+   "url": "https://english.aawsat.com/node/2438251"
+  },
+  "arabnewsSilos": {
+   "nom": "Arab News, les silos à grain du port (14 avril 2022)",
+   "domaine": "arabnews.pk",
+   "url": "https://www.arabnews.pk/node/2063231"
+  },
+  "denny": {
+   "nom": "Denny et al., « The influence of obstacle geometric fidelity on blast wave propagation… the grain siloes in the 2020 Beirut explosion », Shock Waves (2025)",
+   "domaine": "link.springer.com",
+   "url": "https://link.springer.com/article/10.1007/s00193-025-01241-5"
+  },
+  "anadolu": {
+   "nom": "Anadolu, « Beirut port blast case nears indictment, trial after 6 years » (septembre 2026)",
+   "domaine": "aa.com.tr",
+   "url": "https://aa.com.tr/en/middle-east/beirut-port-blast-case-nears-indictment-trial-after-6-years/4062929"
+  },
+  "olj": {
+   "nom": "L’Orient-Le Jour, portrait du juge d’instruction (2021)",
+   "domaine": "lorientlejour.com",
+   "url": "https://www.lorientlejour.com/article/1278855/tarek-bitar-au-nom-de-la-loi.html",
+   "langue": "FR"
+  },
+  "universalis": {
+   "nom": "Encyclopædia Universalis, « 18 février 2021 : récusation du juge chargé du dossier de l’explosion du port de Beyrouth »",
+   "domaine": "universalis.fr",
+   "url": "https://www.universalis.fr/evenement/18-fevrier-2021-recusation-du-juge-charge-du-dossier-de-l-explosion-du-port-de-beyrouth/",
+   "langue": "FR"
+  },
+  "aljazeera2021": {
+   "nom": "Al Jazeera, « Lebanese court removes lead Beirut blast investigator » (18 févr. 2021)",
+   "domaine": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2021/2/18/lebanese-court-removes-lead-beirut-blast-investigator"
+  },
+  "arabnewsRecours": {
+   "nom": "Arab News (AFP), les recours contre le juge d’instruction",
+   "domaine": "arabnews.pk",
+   "url": "https://www.arabnews.pk/node/2638180"
+  },
+  "libnanews": {
+   "nom": "Libnanews, reprise de l’enquête en janvier 2023",
+   "domaine": "libnanews.com",
+   "url": "https://libnanews.com/en/affaire-du-port-de-beyrouth-lenquete-du-juge-bitar-reprend-abbas-ibrahim-et-tony-saliba-mis-en-examen/"
+  },
+  "arabnews2025": {
+   "nom": "Arab News (AFP), reprise de l’enquête le 16 janvier 2025",
+   "domaine": "arabnews.pk",
+   "url": "https://www.arabnews.pk/node/2586693"
+  },
+  "timep": {
+   "nom": "TIMEP, « The prolonged chapters of the investigations into the Beirut port blast » (22 avril 2026)",
+   "domaine": "timep.org",
+   "url": "https://timep.org/2026/04/22/the-prolonged-chapters-of-the-investigations-into-the-beirut-port-blast/"
+  },
+  "oljAvis": {
+   "nom": "L’Orient Today, l’avis du parquet remis au juge d’instruction (septembre 2026)",
+   "domaine": "today.lorientlejour.com",
+   "url": "https://today.lorientlejour.com/article/1547628/beirut-port-explosion-indictment-now-in-judge-bitars-hands.html"
+  },
+  "aawsatNov": {
+   "nom": "Asharq Al-Awsat, quatre anciens officiers de l’armée interrogés (5 nov. 2026)",
+   "domaine": "english.aawsat.com",
+   "url": "https://english.aawsat.com/arab-world/5337858-lebanon-four-former-army-generals-questioned-defendants-beirut-port-blast-probe"
+  },
+  "mtv": {
+   "nom": "MTV Liban, « Beirut Port Explosion: Indictment is Expected Before the End of 2026 » (4 nov. 2026)",
+   "domaine": "mtv.com.lb",
+   "url": "https://www.mtv.com.lb/en/news/1755138"
+  },
+  "lbci": {
+   "nom": "LBCI, dix nouvelles inculpations, dont des douaniers et des employés du port (16 janv. 2025)",
+   "domaine": "lbcgroup.tv",
+   "url": "https://www.lbcgroup.tv/news/lebanon-news/831353/judge-tarek-bitar-charges-ten-new-individuals-including-security-offic/en"
+  },
+  "oljSilos": {
+   "nom": "L’Orient Today, les silos inscrits à l’inventaire des monuments historiques (août 2025)",
+   "domaine": "today.lorientlejour.com",
+   "url": "https://today.lorientlejour.com/article/1472128/culture-minister-adds-beirut-silos-to-general-inventory-of-historic-monuments.html"
+  },
+  "oljAout2026": {
+   "nom": "L’Orient Today, 4 août 2026 (photo du port et de ses silos)",
+   "domaine": "today.lorientlejour.com",
+   "url": "https://today.lorientlejour.com/article/1549148/hezbollah-weapons-handover-settled-port-blast-indictment-expected-by-year-end-nassar-says.html"
+  }
+ }
+}
