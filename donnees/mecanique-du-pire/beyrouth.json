@@ -6,7 +6,7 @@
  "description": "Les sources de la vidéo de La mécanique du pire sur l’explosion du port de Beyrouth (4 août 2020), passage par passage.",
  "verifie": "26 nov. 2026",
  "mise_a_jour": "26 nov. 2026",
- "avertissement": "Aucune responsabilité n’est établie : l’acte d’accusation n’était pas publié le 26 novembre 2026, aucun procès n’a commencé, et toutes les personnes poursuivies sont présumées innocentes. Comme la vidéo, la page ne nomme personne.",
+ "avertissement": "Aucune responsabilité n’est établie : l’acte d’accusation n’était pas publié le 26 novembre 2026, aucun procès n’a commencé, et toutes les personnes poursuivies sont présumées innocentes. Comme la vidéo, la page ne nomme aucune des personnes de l’affaire.",
  "image_partage": "beyrouth.jpg",
  "image_entete": "beyrouth.jpg",
  "image_alt": "Miniature de la vidéo : « Stocké là depuis six ans », les silos à grain du port de Beyrouth la nuit, à côté d’un nuage de fumée qui monte d’un départ de feu.",
@@ -207,6 +207,14 @@
          "wikiRhosus"
         ]
        ]
+      },
+      {
+       "texte": "Image d’archive (1:27) : le Rhosus le 30 juillet 2011, dans le Bosphore ; photo Frank Behrends, CC BY-SA 4.0.",
+       "sources": [
+        [
+         "cRhosus"
+        ]
+       ]
       }
      ],
      "nuances": []
@@ -271,6 +279,14 @@
        "sources": [
         [
          "wikiRhosus"
+        ]
+       ]
+      },
+      {
+       "texte": "Image d’archive (2:49) : le port de Beyrouth le 8 octobre 2017, le Rhosus à quai ; photo HJP11, CC BY-SA 4.0.",
+       "sources": [
+        [
+         "cPort2017"
         ]
        ]
       }
@@ -599,6 +615,25 @@
          "ap0805"
         ]
        ]
+      },
+      {
+       "texte": "Image d’archive (7:07) : Beyrouth vue de la Station spatiale internationale, 11 août 2020 ; NASA, Chris Cassidy, domaine public.",
+       "sources": [
+        [
+         "cISS"
+        ]
+       ]
+      },
+      {
+       "texte": "Images d’archives (7:14 et 7:26) : le port dévasté et les silos, puis un immeuble aux façades soufflées, 5 août 2020 ; photos Freimut Bahlo, CC BY-SA 4.0.",
+       "sources": [
+        [
+         "cSilos"
+        ],
+        [
+         "cImmeuble"
+        ]
+       ]
       }
      ],
      "nuances": []
@@ -830,7 +865,7 @@
   }
  ],
  "plus_loin": [],
- "visuels": "Reconstitutions schématiques, faites pour la vidéo : le port, le hangar, le cargo et la ville sont redessinés ; les personnes sont dessinées au trait.",
+ "visuels": "Hors images d’archives, reconstitutions schématiques faites pour la vidéo : le port, le hangar, le cargo et la ville sont redessinés, les plans en 3D sont illustratifs. Cinq images d’archives de Wikimedia Commons, créditées passage par passage : quatre sous licence CC BY-SA 4.0 (creativecommons.org/licenses/by-sa/4.0), une de la NASA dans le domaine public.",
  "corrections": [],
  "sources": {
   "hrw": {
@@ -1003,6 +1038,31 @@
    "nom": "L’Orient Today, les silos inscrits à l’inventaire des monuments historiques (août 2025)",
    "domaine": "today.lorientlejour.com",
    "url": "https://today.lorientlejour.com/article/1472128/culture-minister-adds-beirut-silos-to-general-inventory-of-historic-monuments.html"
+  },
+  "cRhosus": {
+   "nom": "Wikimedia Commons, « MV Rhosus 20110730.jpg » (Frank Behrends, CC BY-SA 4.0)",
+   "domaine": "commons.wikimedia.org",
+   "url": "https://commons.wikimedia.org/wiki/File:MV_Rhosus_20110730.jpg"
+  },
+  "cPort2017": {
+   "nom": "Wikimedia Commons, « MV Rhosus Beirut.jpg » (HJP11, CC BY-SA 4.0)",
+   "domaine": "commons.wikimedia.org",
+   "url": "https://commons.wikimedia.org/wiki/File:MV_Rhosus_Beirut.jpg"
+  },
+  "cISS": {
+   "nom": "Wikimedia Commons, « Port of Beirut from the ISS.jpg » (NASA, Chris Cassidy, domaine public)",
+   "domaine": "commons.wikimedia.org",
+   "url": "https://commons.wikimedia.org/wiki/File:Port_of_Beirut_from_the_ISS.jpg"
+  },
+  "cSilos": {
+   "nom": "Wikimedia Commons, le port et les silos le 5 août 2020 (Freimut Bahlo, CC BY-SA 4.0)",
+   "domaine": "commons.wikimedia.org",
+   "url": "https://commons.wikimedia.org/wiki/File:Aftermath_of_the_2020_Beirut_explosions_august_6_2020_02.jpg"
+  },
+  "cImmeuble": {
+   "nom": "Wikimedia Commons, un immeuble le 5 août 2020 (Freimut Bahlo, CC BY-SA 4.0)",
+   "domaine": "commons.wikimedia.org",
+   "url": "https://commons.wikimedia.org/wiki/File:Aftermath_of_the_2020_Beirut_explosions_august_6_2020_05.jpg"
   },
   "oljAout2026": {
    "nom": "L’Orient Today, 4 août 2026 (photo du port et de ses silos)",
